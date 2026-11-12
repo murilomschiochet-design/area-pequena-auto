@@ -1,0 +1,41 @@
+FORMULÁRIO DE AUDITORIA DO YOUTUBE (grátis) — libera vídeos PÚBLICOS pela API e aumenta a cota
+Link: https://support.google.com/youtube/contact/yt_api_form
+Escolha: "I would like to request an API audit / quota extension" (ou "Audit and Quota Extension").
+O formulário é em inglês: copie as respostas abaixo. Onde está <...> você completa.
+
+ANTES: pegue o "Número do projeto" (Project number) em https://console.cloud.google.com/home/dashboard
+(selecione o projeto area-pequena-shorts; aparece no quadro "Informações do projeto").
+
+---------------------------------------------------------------------------------------------
+Organization / Company name:            Área Pequeña FC (individual creator)
+Organization website:                   https://area-pequena-fc.pages.dev/
+Contact name:                           <seu nome>
+Contact email:                          <o e-mail da conta dona do canal>
+Google Cloud project number:            <número do projeto>
+API client name:                        Area Pequena Shorts
+Is the API client used by others?       No — internal tool, only for my own channel.
+YouTube channel(s) using the client:    https://www.youtube.com/@%C3%A1rea_peque%C3%B1a
+Privacy policy URL:                     https://area-pequena-fc.pages.dev/privacidad.html
+APIs/services used:                     YouTube Data API v3 — videos.insert (with status.publishAt), channels.list (mine=true)
+Scopes:                                 youtube.upload, youtube.readonly
+
+Describe your use case (copie):
+Area Pequena Shorts is a private, internal tool for my own YouTube channel "Área Pequeña FC"
+(Spanish-language football news, ~2,000 subscribers). Every day it prepares the channel's own
+original videos (8 short news videos with our own written scripts, graphics and licensed photos,
+plus one daily summary video) and uploads them ONLY to my own channel, scheduled with publishAt
+so they publish at fixed times during the day. It uses videos.insert and channels.list (mine=true)
+only. It does not access, store or display any other user's data, it has no other users, and it is
+not offered as a service to anyone. The OAuth token is stored privately and used only for these uploads.
+
+Why do you need the audit / more quota (copie):
+Uploads from my unverified project are locked as private, so I need the audit to publish my own
+videos. I upload 9 videos per day (8 shorts + 1 long video). At about 1,600 units per videos.insert
+that is ~14,400 units/day, above the default 10,000. I request 20,000 units per day.
+
+Requested daily quota:                  20000
+
+Se pedirem vídeo de demonstração (screencast): grave a tela mostrando o painel.html de um dia
+(saida\dia-XX\painel.html), o vídeo de teste privado no YouTube Studio e a tela de consentimento.
+---------------------------------------------------------------------------------------------
+Costuma levar algumas semanas. Até lá os vídeos sobem PRIVADOS (bloqueados) e a cota dá ~6 por dia.
