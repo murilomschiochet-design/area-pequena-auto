@@ -20,7 +20,7 @@ import navegador  # noqa: E402
 AQUI = os.path.dirname(os.path.abspath(__file__))
 BASE = os.path.dirname(AQUI)
 CENA = os.path.join(AQUI, "modelo", "cena.html")
-ESTADIO = os.path.join(BASE, "canal", "_estadio.jpg")
+ESTADIO = os.path.join(BASE, "assets", "estadio-fundo.jpg")
 MUSICA = os.path.join(BASE, "assets", "Monthaholic - Schwartzy.mp3")
 FONTES = os.path.join(BASE, "modelo", "fonts")
 EDGE = next((p for p in [r"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe",
