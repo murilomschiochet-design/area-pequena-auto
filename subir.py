@@ -3,7 +3,7 @@
   python subir.py login                 -> uma vez, no PC: abre o navegador, você escolhe a conta e o canal e clica em Permitir.
                                            Salva credenciais/token.json (fica só no PC; não mande pra ninguém).
   python subir.py segredos              -> mostra os NOMES das 3 variáveis que a rotina na nuvem precisa
-                                           e grava os valores em credenciais/segredos-nuvem.txt (pra você colar no claude.ai).
+                                           e grava os valores em credenciais/segredos-nuvem.txt (pra você colar nos Secrets do GitHub).
   python subir.py dia-XX [AAAA-MM-DD]   -> sobe os 8 shorts de saida/dia-XX (+ o longo, se existir) agendados nos horários
                                            do roteiro, no fuso FUSO. Sem data = amanhã se o primeiro horário já passou, senão hoje.
   --teste                                -> sobe só o primeiro short como PRIVADO e sem agendar (pra testar).
@@ -16,6 +16,13 @@ import json
 import os
 import sys
 from zoneinfo import ZoneInfo
+
+if os.name == "nt":                     # no PC: usa os certificados do Windows (o antivírus intercepta o SSL)
+    try:
+        import truststore
+        truststore.inject_into_ssl()
+    except ImportError:
+        pass
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 CRED = os.path.join(BASE, "credenciais")
@@ -58,7 +65,7 @@ def segredos():
     with open(arq, "w", encoding="utf-8") as f:
         f.write("\n".join(linhas) + "\n")
     print("Variáveis: YT_CLIENT_ID, YT_CLIENT_SECRET, YT_REFRESH_TOKEN")
-    print("Valores gravados em", arq, "(não cole no chat; cole só nas variáveis da rotina no claude.ai)")
+    print("Valores gravados em", arq, "(não cole no chat; cole cada valor em GitHub > Settings > Secrets and variables > Actions)")
 
 
 def youtube(cred=None):
