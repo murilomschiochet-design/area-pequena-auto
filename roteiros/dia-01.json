@@ -1,0 +1,150 @@
+{
+  "data": "2026-11-12",
+  "fonte": "https://www.youtube.com/watch?v=Sbn9AtgHBgk",
+  "shorts": [
+    {
+      "id": "01",
+      "hora": "08:00",
+      "tag": "Selección · España",
+      "titulo": "De la Fuente *defiende* a Lamine: \"Me duele la mentira\"",
+      "texto": "En España dijeron que **Lamine Yamal** se borró ante **República Checa**. **Luis de la Fuente** respondió: \"Me duele la mentira, la falta de rigor y el invento\". Aclaró que el jugador tiene una inflamación en la rodilla y que fue él quien decidió dejarlo en **Barcelona**. No tiene ningún privilegio y todavía podría volver el domingo contra **Inglaterra**.",
+      "foto_busca": "Lamine Yamal",
+      "titulo_yt": "DE LA FUENTE estalla por Lamine: \"Me duele la mentira, la falta de rigor y el invento\" 😳",
+      "descricao": "Luis de la Fuente respondió a quienes dijeron que Lamine Yamal se borró ante República Checa: tiene inflamación en la rodilla y fue decisión del seleccionador dejarlo en Barcelona. ¿Qué les parece?",
+      "hashtags": [
+        "#LamineYamal",
+        "#DeLaFuente",
+        "#SelecciónEspañola",
+        "#futbol",
+        "#noticiasdefutbol"
+      ],
+      "contexto": "selecao"
+    },
+    {
+      "id": "02",
+      "hora": "10:00",
+      "tag": "Selección · Brasil",
+      "titulo": "Polémica con *Raphinha* en Brasil",
+      "texto": "**Raphinha** comentó que **Ancelotti** sabe que tiene que repartir minutos para evitar riesgos, y algunos entendieron que pedía jugar menos con la selección. **Gabriel Magalhães** lo defendió: sus palabras fueron malinterpretadas y nadie duda de su compromiso. Y **Ancelotti** le dio todavía más peso: será capitán ante **Japón**.",
+      "foto_busca": "Raphinha",
+      "titulo_yt": "RAPHINHA en el centro de la polémica: Ancelotti responde y lo nombra capitán ante Japón 🔥",
+      "descricao": "Las palabras de Raphinha sobre repartir minutos generaron polémica en Brasil. Gabriel Magalhães salió a defenderlo y Ancelotti lo hará capitán contra Japón.",
+      "hashtags": [
+        "#Raphinha",
+        "#Ancelotti",
+        "#Brasil",
+        "#futbol",
+        "#noticiasdefutbol"
+      ]
+    },
+    {
+      "id": "03",
+      "hora": "12:00",
+      "tag": "Mercado · Barça",
+      "titulo": "Balde ya *contempla salir* del Barça en enero",
+      "texto": "**Alejandro Balde** ahora sí está más abierto a salir del **Barça**. En verano quiso quedarse, aun sabiendo que jugaría poco, pero apenas suma **124 minutos en cinco partidos**. Por eso ya contempla una salida en el mercado de **enero**.",
+      "foto_busca": [
+        "Alejandro Balde",
+        "#FC Barcelona"
+      ],
+      "titulo_yt": "BALDE explota en el Barça: solo 124 minutos en 5 partidos y ya piensa en salir en enero 😳",
+      "descricao": "Alejandro Balde quiso quedarse en verano, pero con apenas 124 minutos en cinco partidos ya contempla dejar el Barça en enero.",
+      "hashtags": [
+        "#Balde",
+        "#Barça",
+        "#FCBarcelona",
+        "#fichajes",
+        "#futbol"
+      ]
+    },
+    {
+      "id": "04",
+      "hora": "14:00",
+      "tag": "Selección · España",
+      "titulo": "España *cuidará* a Pedri y Fermín",
+      "texto": "Ante **República Checa**, España cuidará a dos de sus jugadores. **Pedri** llega cargadísimo de minutos y podría descansar pensando en **Inglaterra**. Lo de **Fermín** es distinto: está apercibido y, si ve amarilla, se pierde ese partido. Los dos podrían jugar menos, pero por motivos diferentes.",
+      "foto_busca": "Pedri",
+      "titulo_yt": "PEDRI y FERMÍN en peligro: España los protege pensando en Inglaterra 🔥",
+      "descricao": "Pedri llega con muchos minutos y Fermín está apercibido: España podría darles menos minutos ante República Checa para tenerlos contra Inglaterra.",
+      "hashtags": [
+        "#Pedri",
+        "#Fermin",
+        "#SelecciónEspañola",
+        "#futbol",
+        "#noticiasdefutbol"
+      ]
+    },
+    {
+      "id": "05",
+      "hora": "16:00",
+      "tag": "Selección · Inglaterra",
+      "titulo": "Jude y Jobe Bellingham, *juntos* por primera vez",
+      "texto": "**Tuchel** convocó a los dos hermanos con **Inglaterra** y podrían jugar juntos por primera vez. **Pep Clotet**, que hizo debutar a **Jude** en el **Birmingham** y también entrenó a **Jobe**, contó que Jude siempre decía que su hermano sería mejor que él. Y hasta cree que algún día podrían coincidir en el **Real Madrid**.",
+      "foto_busca": "Jude Bellingham",
+      "titulo_yt": "JUDE BELLINGHAM lo dijo: \"Mi hermano será mejor que yo\" y Jobe ya está con Inglaterra 😳",
+      "descricao": "Jude y Jobe Bellingham, convocados por Tuchel, podrían jugar juntos por primera vez. Pep Clotet, que entrenó a los dos, contó lo que Jude decía de su hermano.",
+      "hashtags": [
+        "#Bellingham",
+        "#JobeBellingham",
+        "#Inglaterra",
+        "#RealMadrid",
+        "#futbol"
+      ]
+    },
+    {
+      "id": "06",
+      "hora": "18:00",
+      "tag": "Mercado · Benfica",
+      "titulo": "Ya hablan de *100 millones* por Prestianni",
+      "texto": "**Gianluca Prestianni** está disparando su valor. Tiene **20 años** y lleva **12 goles y seis asistencias en 20 partidos** con el **Benfica**. Ya se habla de **100 millones**, y el **PSG** y el **Bayern** lo siguen. Es el mismo jugador del incidente con **Vinícius** que terminó impulsando la llamada \"ley Vinícius\".",
+      "foto_busca": [
+        "Gianluca Prestianni",
+        "#SL Benfica",
+        "~Estadio da Luz Benfica"
+      ],
+      "titulo_yt": "PRESTIANNI explota en el Benfica: ya hablan de 100 millones y PSG y Bayern lo siguen 🔥",
+      "descricao": "Gianluca Prestianni, 20 años, suma 12 goles y 6 asistencias en 20 partidos con el Benfica. PSG y Bayern lo siguen y ya se habla de 100 millones.",
+      "hashtags": [
+        "#Prestianni",
+        "#Benfica",
+        "#PSG",
+        "#Bayern",
+        "#fichajes"
+      ]
+    },
+    {
+      "id": "07",
+      "hora": "20:00",
+      "tag": "Premier League",
+      "titulo": "Harry Kane *respalda* a Pochettino",
+      "texto": "**Harry Kane** salió a respaldar a **Mauricio Pochettino**. Recordó que fue clave en su crecimiento y que llevó a aquel **Tottenham** joven a pelear títulos y a jugar una final de **Champions**. Y sobre su posible llegada al **United**: \"Si sucede, tendrán un gran entrenador\".",
+      "foto_busca": "Harry Kane",
+      "titulo_yt": "HARRY KANE habla claro de Pochettino: \"Si llega al United, tendrán un gran entrenador\" 😳",
+      "descricao": "Harry Kane recordó lo que Pochettino hizo en el Tottenham y opinó sobre su posible llegada al Manchester United.",
+      "hashtags": [
+        "#HarryKane",
+        "#Pochettino",
+        "#ManchesterUnited",
+        "#PremierLeague",
+        "#futbol"
+      ]
+    },
+    {
+      "id": "08",
+      "hora": "22:00",
+      "tag": "Selección · Inglaterra",
+      "titulo": "Tuchel: \"Tenemos *asuntos pendientes*\"",
+      "texto": "**Thomas Tuchel** no piensa volver a los clubes todavía. Confirmó que su contrato con **Inglaterra** no tiene cláusula de salida y que seguirá hasta la **Euro 2028**. Aunque extraña el día a día, lo resumió así: \"Tenemos asuntos pendientes\".",
+      "foto_busca": "Thomas Tuchel",
+      "titulo_yt": "TUCHEL lo confirma: sin cláusula de salida y con Inglaterra hasta la Euro 2028 🔥",
+      "descricao": "Thomas Tuchel confirmó que su contrato con Inglaterra no tiene cláusula de salida y que seguirá hasta la Euro 2028: \"Tenemos asuntos pendientes\".",
+      "hashtags": [
+        "#Tuchel",
+        "#Inglaterra",
+        "#Euro2028",
+        "#futbol",
+        "#noticiasdefutbol"
+      ]
+    }
+  ]
+}

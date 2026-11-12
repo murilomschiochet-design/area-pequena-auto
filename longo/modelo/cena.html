@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Anton;src:url(../../modelo/fonts/Anton-Regular.ttf)}
+@font-face{font-family:Inter;src:url(../../modelo/fonts/Inter.ttf);font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1920px;height:1080px;background:transparent;overflow:hidden;font-family:Inter;color:#fff}
+.marca{position:absolute;right:48px;top:40px;display:flex;align-items:center;gap:14px;font:800 24px Inter;letter-spacing:.1em;text-transform:uppercase;background:rgba(10,14,20,.55);border:2px solid rgba(255,255,255,.14);padding:10px 20px 10px 10px;border-radius:999px}
+.marca img{width:44px;height:44px;border-radius:50%}
+.tag{display:inline-flex;align-items:center;gap:16px;font:800 30px Inter;letter-spacing:.12em;text-transform:uppercase}
+.dot{width:16px;height:16px;border-radius:50%;background:#ff2d3d;box-shadow:0 0 0 6px rgba(255,45,61,.25)}
+em{font-style:normal;color:#d7ff3a}
+.vidro{background:rgba(10,14,20,.6);border:2px solid rgba(255,255,255,.14);border-radius:36px;box-shadow:0 30px 80px rgba(0,0,0,.5)}
+h1{font-family:Anton;font-weight:400;text-transform:uppercase;line-height:1.02}
+/* foto: título no canto superior esquerdo (a legenda fica embaixo) */
+.lt{position:absolute;left:48px;top:40px;max-width:1150px;padding:26px 34px}
+.lt h1{font-size:62px;margin-top:12px}
+/* citação */
+.cita{position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);width:1500px;padding:70px 80px 60px}
+.cita .aspas{font-family:Anton;font-size:200px;line-height:.6;color:#d7ff3a;height:90px}
+.cita h1{font-size:92px;margin:10px 0 34px}
+.cita .autor{font:700 34px Inter;color:rgba(255,255,255,.85)}
+.cita .autor b{color:#fff}
+/* número */
+.num{position:absolute;left:50%;top:45%;transform:translate(-50%,-50%);text-align:center}
+.num .n{font-family:Anton;font-size:330px;line-height:1;color:#d7ff3a;text-shadow:0 20px 60px rgba(0,0,0,.6)}
+.num .l{font-family:Anton;font-size:76px;text-transform:uppercase;margin-top:6px}
+.num .s{font:600 34px Inter;color:rgba(255,255,255,.8);margin-top:14px}
+/* abertura / fechamento */
+.centro{position:absolute;left:50%;top:45%;transform:translate(-50%,-50%);display:flex;align-items:center;gap:60px}
+.centro img{width:300px;height:300px;border-radius:50%;box-shadow:0 20px 60px rgba(0,0,0,.6)}
+.centro h1{font-size:150px;margin:16px 0}
+.pill{display:inline-block;font:800 34px Inter;background:#d7ff3a;color:#0a0f0c;padding:12px 30px;border-radius:999px;text-transform:uppercase;letter-spacing:.06em}
+.pill.r{background:#ff2d3d;color:#fff}
+</style></head>
+<body>
+<div id="c"></div>
+<script>
+const d = JSON.parse(decodeURIComponent(location.hash.slice(1) || '{}'));
+const esc = s => String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;');
+const hl = s => esc(s).replace(/\*([^*]+)\*/g, '<em>$1</em>');
+const marca = `<div class="marca"><img src="../../canal/perfil.png">Área Pequeña FC</div>`;
+let h = '';
+if (d.tipo === 'abertura') h = `<div class="centro"><img src="../../canal/perfil.png"><div>
+  <div class="tag"><span class="dot"></span>${esc(d.tag)}</div><h1>${hl(d.titulo)}</h1><span class="pill">${esc(d.sub)}</span></div></div>`;
+else if (d.tipo === 'cierre') h = `<div class="centro"><img src="../../canal/perfil.png"><div>
+  <div class="tag"><span class="dot"></span>${esc(d.tag)}</div><h1>${hl(d.titulo)}</h1><span class="pill r">Suscríbete 🔔</span></div></div>`;
+else if (d.tipo === 'foto' || d.tipo === 'fotoless') h = marca + `<div class="lt vidro"><div class="tag"><span class="dot"></span>${esc(d.tag)}</div><h1>${hl(d.titulo)}</h1></div>`;
+else if (d.tipo === 'cita') h = marca + `<div class="cita vidro"><div class="aspas">“</div><h1>${hl(d.titulo)}</h1><div class="autor">— <b>${esc(d.autor)}</b>${d.sub ? ', ' + esc(d.sub) : ''}</div></div>`;
+else if (d.tipo === 'numero') h = marca + `<div class="num"><div class="n">${esc(d.numero)}</div><div class="l">${hl(d.titulo)}</div>${d.sub ? `<div class="s">${esc(d.sub)}</div>` : ''}</div>`;
+else h = marca;
+document.getElementById('c').innerHTML = h;
+document.fonts.ready.then(() => document.title = 'ok');
+</script>
+</body></html>

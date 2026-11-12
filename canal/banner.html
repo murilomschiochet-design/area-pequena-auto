@@ -1,0 +1,38 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Anton;src:url(../modelo/fonts/Anton-Regular.ttf)}
+@font-face{font-family:Inter;src:url(../modelo/fonts/Inter.ttf);font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:2560px;height:1440px;overflow:hidden;background:#070b09;font-family:Inter}
+.foto{position:absolute;inset:0;background:url(_estadio.jpg) center 40%/cover}
+.sombra{position:absolute;inset:0;background:
+  linear-gradient(90deg,rgba(7,11,9,.92) 0%,rgba(7,11,9,.55) 28%,rgba(7,11,9,.25) 50%,rgba(7,11,9,.55) 72%,rgba(7,11,9,.92) 100%),
+  linear-gradient(180deg,rgba(7,11,9,.6),rgba(7,11,9,.1) 40%,rgba(7,11,9,.1) 60%,rgba(7,11,9,.8))}
+/* linhas do campo: a área pequeña desenhada atrás do nome */
+.campo{position:absolute;left:50%;top:508px;transform:translateX(-50%);width:1300px;height:423px;border:6px solid rgba(255,255,255,.14);border-top:0;border-radius:0 0 18px 18px}
+.campo:before{content:"";position:absolute;left:-400px;right:-400px;top:0;height:6px;background:rgba(255,255,255,.14)}
+/* área segura 1546x423 (centro) */
+.safe{position:absolute;left:507px;top:508px;width:1546px;height:423px;display:flex;align-items:center;justify-content:center;gap:56px}
+.logo{width:300px;height:300px;border-radius:50%;overflow:hidden;flex:none;box-shadow:0 20px 60px rgba(0,0,0,.6),0 0 0 6px rgba(255,255,255,.1)}
+.logo img{width:100%;height:100%}
+.tx{display:flex;flex-direction:column;gap:14px}
+.tag{display:flex;align-items:center;gap:30px;padding-left:8px;margin-bottom:18px;font:800 34px Inter;letter-spacing:.14em;text-transform:uppercase;color:#fff}
+.dot{width:20px;height:20px;border-radius:50%;background:#ff2d3d;box-shadow:0 0 0 8px rgba(255,45,61,.25)}
+h1{font-family:Anton;font-weight:400;font-size:150px;line-height:1.08;color:#fff;text-transform:uppercase;letter-spacing:2px;text-shadow:0 10px 40px rgba(0,0,0,.6)}
+h1 em{font-style:normal;color:#d7ff3a}
+.pills{display:flex;gap:14px;margin-top:8px}
+.pills span{font:700 30px Inter;color:#fff;background:rgba(10,14,20,.6);border:2px solid rgba(255,255,255,.18);padding:10px 24px;border-radius:999px;backdrop-filter:blur(8px)}
+.pills span.on{background:#d7ff3a;color:#0a0f0c;border-color:#d7ff3a}
+</style></head><body>
+<div class="foto"></div><div class="sombra"></div>
+<div class="campo"></div>
+<div class="safe">
+  <div class="logo"><img src="perfil.png"></div>
+  <div class="tx">
+    <div class="tag"><span class="dot"></span>Noticias de fútbol cada día</div>
+    <h1>Área Pequeña <em>FC</em></h1>
+    <div class="pills"><span class="on">Fichajes</span><span>Lesiones</span><span>LaLiga</span><span>Champions</span><span>Selección</span></div>
+  </div>
+</div>
+</body></html>

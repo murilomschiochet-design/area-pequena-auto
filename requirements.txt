@@ -1,0 +1,9 @@
+yt-dlp
+certifi
+pillow
+numpy
+opencv-python-headless
+edge-tts
+playwright
+google-api-python-client
+google-auth-oauthlib

@@ -1,0 +1,48 @@
+LIGAR O UPLOAD AUTOMÁTICO NO YOUTUBE (grátis) — faça uma vez por canal
+
+Tempo: uns 15 minutos. Você faz tudo logado na conta Google dona do canal Área Pequeña FC.
+Eu (Claude) nunca vejo nem digito sua senha: o login é sempre na tela do Google.
+
+1) CRIAR O PROJETO
+   - Abra https://console.cloud.google.com
+   - No topo, clique no seletor de projeto > "Novo projeto"
+   - Nome: area-pequena-shorts > Criar (e deixe ele selecionado)
+
+2) LIGAR A API DO YOUTUBE
+   - Menu ☰ > "APIs e serviços" > "Biblioteca"
+   - Busque "YouTube Data API v3" > Ativar
+
+3) TELA DE CONSENTIMENTO (o "app" que vai pedir permissão pra postar)
+   - Menu ☰ > "APIs e serviços" > "Tela de consentimento OAuth" (ou "Google Auth Platform")
+   - Tipo de usuário: Externo
+   - Nome do app: Area Pequena Shorts | E-mail de suporte: o seu | E-mail do desenvolvedor: o seu
+   - Escopos/Acesso a dados: adicione ".../auth/youtube.upload" e ".../auth/youtube.readonly"
+   - Usuários de teste: adicione o seu e-mail
+   - Depois, em "Público" (Audience), clique em "Publicar app" / "Em produção".
+     Motivo: em modo "Teste" a permissão expira a cada 7 dias. Em produção ela não expira.
+     O Google vai mostrar um aviso de "app não verificado" na hora de autorizar. É normal, porque o app é seu.
+
+4) CRIAR A CHAVE DO APP
+   - Menu ☰ > "APIs e serviços" > "Credenciais" > "Criar credenciais" > "ID do cliente OAuth"
+   - Tipo de aplicativo: "App para computador" (Desktop) | Nome: area-pequena-pc > Criar
+   - Clique em "Baixar JSON"
+   - Salve o arquivo como:  area-pequena\credenciais\client_secret.json
+   (não mande esse arquivo pra ninguém nem cole o conteúdo no chat)
+
+5) ME AVISE AQUI NO CHAT
+   - Eu crio o script de upload e rodo o login uma vez: abre o navegador, você escolhe a conta,
+     escolhe o canal Área Pequeña FC e clica em "Permitir".
+   - Daí em diante, cada dia: você manda o link do Cracks (ou "pega o último"), eu escrevo, gero,
+     confiro as fotos e subo os 8 vídeos AGENDADOS (08h, 10h ... 22h). O YouTube publica sozinho
+     na hora certa, mesmo com o seu PC desligado.
+
+6) DOIS LIMITES DO YOUTUBE (importante)
+   a) Projeto novo = vídeo enviado pela API fica PRIVADO até o Google fazer uma auditoria grátis.
+      Peça logo no formulário "YouTube API Services - Audit and Quota Extension Form"
+      (https://support.google.com/youtube/contact/yt_api_form). Eu te ajudo a preencher.
+      Costuma levar algumas semanas. Enquanto isso, eu subo e agendo pelo YouTube Studio no navegador
+      do app (você entra na sua conta lá uma vez, digitando você mesmo).
+   b) Cota diária: cada projeto tem 10.000 unidades por dia e cada upload gasta bastante (cerca de 6 vídeos por dia).
+      Pra 8 por dia: no mesmo formulário peça aumento de cota, ou crie um 2º projeto só pra completar.
+
+CANAIS DO GTA: repita os passos com um projeto pra cada canal (cota e permissão separadas).

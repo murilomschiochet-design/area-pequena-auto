@@ -1,0 +1,35 @@
+ÁREA PEQUEÑA FC — como usar (sem API paga)
+
+TODO DIA
+1) Aqui no chat do Claude: mande o link do vídeo novo do Cracks (ou diga "pega o último do Cracks").
+   O Claude baixa a legenda, separa os assuntos e escreve roteiros\dia-XX.json (8 shorts, 08h às 22h).
+   Ele reescreve com as próprias palavras, mas mantém o mesmo assunto, os mesmos fatos e as mesmas falas.
+2) Os vídeos ficam em saida\dia-XX. Abra o painel.html: lá aparecem os vídeos, o horário,
+   o título e a descrição com botão de copiar.
+
+FOTOS (banco de fotos em banco\)
+- Cada pessoa (jogador, técnico, presidente) ganha uma pasta em banco\fotos com até 3 fotos por clube
+  e 3 por seleção, já recortadas, nomeadas "Nome - Clube/Selección - N.jpg". O índice fica em banco\indice.json.
+- Cada short pega a foto daquela pessoa usada há mais tempo, pra não repetir. Notícia de seleção usa foto da
+  seleção; de clube, foto do clube (quando tiver).
+- As fotos vêm do Wikimedia Commons (licença livre), conferidas por reconhecimento facial com a foto oficial.
+- Sem foto da pessoa: escudo do clube (quando o escudo é livre no Commons) e, por último, foto do estádio.
+- No roteiro, foto_busca é uma lista tentada em ordem: "Pedri" = pessoa | "#FC Barcelona" = escudo | "~Camp Nou" = cenário.
+- Para trocar uma foto: salve em fotos\dia-XX com o número do short (ex.: 06.jpg) e rode "GERAR SHORTS.bat".
+- Evite fotos com marca d'água de agência (Getty, AP, Reuters, EFE).
+
+REFAZER
+- Apague o .mp4 em saida\dia-XX e rode "GERAR SHORTS.bat" de novo (só gera o que falta).
+
+PADRÃO DO VÍDEO
+- Fundo: assets\fundo futebol it.mp4, quadros 0 a 132 (5,54 s, loop sem emenda), zoom de 8% sem a marca Veo.
+- Card estilo A (vidro): modelo\card.html. *palavra* no título = destaque verde; **nome** no texto = destaque.
+- Música: assets\Monthaholic - Schwartzy.mp3 (um trecho diferente em cada short).
+
+DECIDIDO (12/11/2026) — PRÓXIMOS PASSOS
+1) Automático na nuvem às 06:00, com o PC desligado: pega o último vídeo do Cracks, escreve, gera e sobe
+   agendado. Antes de confiar, fazer um TESTE e conferir se pegou o vídeo certo do Cracks.
+   Precisa: passo a passo do YouTube (PASSO-A-PASSO-YOUTUBE.txt) + projeto num GitHub privado.
+2) Vídeo longo por dia: narração com voz de IA (testar ElevenLabs ou outra, ex.: edge-tts), não a voz do Murilo.
+3) GTA 6: mesmo formato de card de 5–6 s, com fundo calmo dos trailers (mar, palmeiras). Fazer já.
+   Depois do lançamento: por dia, 5 shorts de gameplay + 3 de card (descoberta/curiosidade forte) + 1 longo de gameplay.

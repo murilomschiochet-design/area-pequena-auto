@@ -1,0 +1,13 @@
+# nunca vai pro GitHub
+credenciais/
+.venv/
+__pycache__/
+# saídas pesadas (são geradas de novo todo dia)
+saida/**/*.mp4
+saida/**/_cards/
+longo/trabalho/
+longo/*.mp4
+previas/
+canal/_*.jpg
+# fundo antigo, não usado
+assets/fundo futebol es.mp4

@@ -1,0 +1,37 @@
+{
+  "dia": "dia-01",
+  "data": "12 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {"tipo": "abertura", "fundo": "estadio", "tag": "Resumen del día", "titulo": "Las noticias *de hoy*", "sub": "12 de noviembre",
+     "voz": "Bienvenidos a Área Pequeña FC. Estas son las noticias de fútbol de hoy."},
+
+    {"tipo": "card", "card": "01", "fundo": "estadio",
+     "voz": "Empezamos con España. Luis de la Fuente explotó por el caso Lamine Yamal."},
+    {"tipo": "foto", "foto": "banco/fotos/Lamine Yamal/Lamine Yamal - Selección de España - 1.jpg", "tag": "Selección · España", "titulo": "¿Lamine *se borró*?",
+     "voz": "En España se dijo que Lamine se había borrado del partido ante República Checa. Y el seleccionador no se quedó callado."},
+    {"tipo": "cita", "fundo": "estadio", "titulo": "Me duele *la mentira*, la falta de rigor y el invento.", "autor": "Luis de la Fuente", "sub": "seleccionador de España",
+     "voz": "Me duele la mentira, la falta de rigor y el invento. Así lo dijo De la Fuente."},
+    {"tipo": "foto", "foto": "banco/fotos/Lamine Yamal/Lamine Yamal - Selección de España - 2.jpg", "tag": "Selección · España", "titulo": "Inflamación *en la rodilla*",
+     "voz": "Aclaró que el jugador tiene una inflamación en la rodilla, y que fue él quien decidió dejarlo en Barcelona. Lamine no tiene ningún privilegio, y todavía podría volver el domingo contra Inglaterra."},
+
+    {"tipo": "card", "card": "02", "fundo": "estadio",
+     "voz": "Pasamos a Brasil, donde hay polémica con Raphinha."},
+    {"tipo": "foto", "foto": "banco/fotos/Raphinha/Raphinha - Selección de Brasil - 1.jpg", "tag": "Selección · Brasil", "titulo": "¿Pidió *jugar menos*?",
+     "voz": "Raphinha comentó que Ancelotti sabe que tiene que repartir minutos para evitar riesgos. Y algunos entendieron que estaba pidiendo jugar menos con la selección."},
+    {"tipo": "foto", "foto": "banco/fotos/Raphinha/Raphinha - Selección de Brasil - 2.jpg", "tag": "Selección · Brasil", "titulo": "Magalhães *lo defiende*",
+     "voz": "Pero Gabriel Magalhães salió a defenderlo. Dijo que sus palabras fueron malinterpretadas, y que nadie duda de su compromiso."},
+    {"tipo": "foto", "foto": "banco/fotos/Raphinha/Raphinha - Selección de Brasil - 3.jpg", "tag": "Selección · Brasil", "titulo": "Capitán *ante Japón*",
+     "voz": "Y Ancelotti le dio todavía más peso: Raphinha será el capitán ante Japón."},
+
+    {"tipo": "card", "card": "03", "fundo": "estadio",
+     "voz": "Y en el Barça, Alejandro Balde ahora sí se abre a salir."},
+    {"tipo": "numero", "fundo": "foto", "foto": "fotos/dia-01/03-auto.jpg", "numero": "124", "titulo": "minutos en *5 partidos*", "sub": "Alejandro Balde esta temporada",
+     "voz": "En verano quiso quedarse, aunque sabía que jugaría poco. Pero apenas suma ciento veinticuatro minutos en cinco partidos."},
+    {"tipo": "foto", "foto": "fotos/dia-01/03-auto.jpg", "tag": "Mercado · Barça", "titulo": "¿Salida *en enero*?",
+     "voz": "Por eso ya contempla una salida en el mercado de enero."},
+
+    {"tipo": "cierre", "fundo": "estadio", "tag": "Área Pequeña FC", "titulo": "Noticias *cada día*",
+     "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC y activa la campanita."}
+  ]
+}

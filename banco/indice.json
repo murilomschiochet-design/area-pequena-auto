@@ -1,0 +1,878 @@
+{
+ "pessoas": {
+  "Pedri": {
+   "fotos": [
+    {
+     "arquivo": "Pedri/Pedri - Selección de España - 1.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Pedri_Argentina_v_Spain_19_July_2026-221.jpg",
+     "nota": 5.75,
+     "ultimo_uso": "2026-11-12 12:00",
+     "usos": 2,
+     "adicionada": "2026-11-12 11:53"
+    },
+    {
+     "arquivo": "Pedri/Pedri - Selección de España - 2.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Pedri_Jules_Kounde_Aurelien_Tchouameni_France_v_Spain_7.24.26-234.jpg",
+     "nota": 4.97,
+     "ultimo_uso": "2026-11-12 12:00",
+     "usos": 2,
+     "adicionada": "2026-11-12 11:53"
+    },
+    {
+     "arquivo": "Pedri/Pedri - Selección de España - 3.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Pedri_Argentina_v_Spain_19_July_2026-197.jpg",
+     "nota": 5.78,
+     "ultimo_uso": "2026-11-12 12:05",
+     "usos": 2,
+     "adicionada": "2026-11-12 11:53"
+    }
+   ],
+   "abastecido": "2026-11-12 12:00",
+   "wikidata": "Q66606355",
+   "times": [
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q42267",
+     "nome": "Selección de España",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q11979",
+     "nome": "Unión Deportiva Las Palmas",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7864301",
+     "nome": "Unión Deportiva Tegueste",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q5010092",
+     "nome": "Club Deportivo Laguna S.A.D.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2310295",
+     "nome": "Selección sub-17 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3589784",
+     "nome": "Selección sub-18 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2713491",
+     "nome": "Selección sub-19 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1129595",
+     "nome": "Selección sub-21 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Escudo de España (variant).svg"
+    },
+    {
+     "id": "Q2637337",
+     "nome": "Selección sub-23 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Spanish Olympic Committee logo.svg"
+    }
+   ]
+  },
+  "Gianluca Prestianni": {
+   "fotos": [],
+   "abastecido": "2026-11-12 11:55",
+   "wikidata": "Q112128716",
+   "times": []
+  },
+  "Lamine Yamal": {
+   "fotos": [
+    {
+     "arquivo": "Lamine Yamal/Lamine Yamal - Selección de España - 1.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-143.jpg",
+     "nota": 5.15,
+     "ultimo_uso": "2026-11-12 12:01",
+     "usos": 1,
+     "adicionada": "2026-11-12 12:01"
+    },
+    {
+     "arquivo": "Lamine Yamal/Lamine Yamal - Selección de España - 2.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-187.jpg",
+     "nota": 5.31,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:01"
+    },
+    {
+     "arquivo": "Lamine Yamal/Lamine Yamal - Selección de España - 3.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-059.jpg",
+     "nota": 5.26,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:01"
+    }
+   ],
+   "abastecido": "2026-11-12 12:01",
+   "wikidata": "Q113704154",
+   "times": [
+    {
+     "id": "Q42267",
+     "nome": "Selección de España",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q10467",
+     "nome": "Fútbol Club Barcelona Atlètic",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q6124177",
+     "nome": "Selección sub-15 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3873503",
+     "nome": "Selección sub-16 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2310295",
+     "nome": "Selección sub-17 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2713491",
+     "nome": "Selección sub-19 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q13562063",
+     "nome": "Fútbol Club Barcelona Juvenil \"A\"",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Raphinha": {
+   "fotos": [
+    {
+     "arquivo": "Raphinha/Raphinha - Selección de Brasil - 1.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Raphinha_Brazil_V_Morocco_13_June_2026-133_(cropped).jpg",
+     "nota": 6.79,
+     "ultimo_uso": "2026-11-12 12:04",
+     "usos": 1,
+     "adicionada": "2026-11-12 12:03"
+    },
+    {
+     "arquivo": "Raphinha/Raphinha - Selección de Brasil - 2.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages.jpg",
+     "nota": 4.2,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:03"
+    },
+    {
+     "arquivo": "Raphinha/Raphinha - Selección de Brasil - 3.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Team_Brazil_at_2026_FIFA_World_Cup_by_YantsImages_01.jpg",
+     "nota": 4.2,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:03"
+    },
+    {
+     "arquivo": "Raphinha/Raphinha - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Government of Catalonia / Wikimedia Commons, Attribution",
+     "origem": "https://commons.wikimedia.org/wiki/File:Entrenament_del_FCB_amb_la_marca_Catalunya_al_fons_(28-07-2023).jpg",
+     "nota": 3.9,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:03"
+    }
+   ],
+   "abastecido": "2026-11-12 12:04",
+   "wikidata": "Q28861547",
+   "times": [
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q83459",
+     "nome": "Selección de Brasil",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Brazilian Football Confederation logo.svg"
+    },
+    {
+     "id": "Q223450",
+     "nome": "Vitória Sport Clube",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q75729",
+     "nome": "Sporting Clube de Portugal",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Sporting Clube de Portugal.svg"
+    },
+    {
+     "id": "Q19509",
+     "nome": "Stade Rennais Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Stade Rennais (logo 1960).svg"
+    },
+    {
+     "id": "Q1128631",
+     "nome": "Leeds United Association Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q374069",
+     "nome": "Avaí Futebol Clube",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Avaí Futebol Clube logo.svg"
+    },
+    {
+     "id": "Q17518847",
+     "nome": "Vitória de Guimarães B",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Alejandro Balde": {
+   "fotos": [],
+   "abastecido": "2026-11-12 12:05",
+   "wikidata": "Q105681392",
+   "times": [
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q8780",
+     "nome": "Real Club Deportivo Espanyol de Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8347106",
+     "nome": "Club Esportiu Sant Gabriel",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10467",
+     "nome": "Fútbol Club Barcelona Atlètic",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q42267",
+     "nome": "Selección de España",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    }
+   ]
+  },
+  "Jude Bellingham": {
+   "fotos": [
+    {
+     "arquivo": "Jude Bellingham/Jude Bellingham - Selección de Inglaterra - 1.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_England_v_Panama_27_June_26-117.jpg",
+     "nota": 5.42,
+     "ultimo_uso": "2026-11-12 12:07",
+     "usos": 1,
+     "adicionada": "2026-11-12 12:05"
+    },
+    {
+     "arquivo": "Jude Bellingham/Jude Bellingham - Selección de Inglaterra - 2.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_England_v_Ghana_23_June_2026-182.jpg",
+     "nota": 4.63,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:05"
+    },
+    {
+     "arquivo": "Jude Bellingham/Jude Bellingham - Selección de Inglaterra - 3.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_Yoel_Barcenas_England_v_Panama_27_June_26-111.jpg",
+     "nota": 5.45,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:05"
+    },
+    {
+     "arquivo": "Jude Bellingham/Jude Bellingham - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Barcex / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190626-2.jpg",
+     "nota": 5.81,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:07"
+    },
+    {
+     "arquivo": "Jude Bellingham/Jude Bellingham - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Barcex / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham,_Usain_Bolt_-_240422_190740.jpg",
+     "nota": 5.76,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:07"
+    },
+    {
+     "arquivo": "Jude Bellingham/Jude Bellingham - Geral - 3.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Barcex / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Jude_Bellingham_-_240422_190626.jpg",
+     "nota": 5.8,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:07"
+    }
+   ],
+   "abastecido": "2026-11-12 12:07",
+   "wikidata": "Q66241169",
+   "times": [
+    {
+     "id": "Q47762",
+     "nome": "Selección de Inglaterra",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Arms of The Football Association (include star).svg"
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19444",
+     "nome": "Birmingham City FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q41420",
+     "nome": "Borussia Dortmund",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Borussia Dortmund logo.svg"
+    },
+    {
+     "id": "Q4201740",
+     "nome": "Selección sub-16 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2752922",
+     "nome": "Selección sub-17 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q204238",
+     "nome": "Selección sub-21 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Harry Kane": {
+   "fotos": [
+    {
+     "arquivo": "Harry Kane/Harry Kane - Selección de Inglaterra - 1.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Panama_27_June_26-045.jpg",
+     "nota": 5.95,
+     "ultimo_uso": "2026-11-12 12:08",
+     "usos": 1,
+     "adicionada": "2026-11-12 12:07"
+    },
+    {
+     "arquivo": "Harry Kane/Harry Kane - Selección de Inglaterra - 2.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Panama_27_June_26-142.jpg",
+     "nota": 5.09,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:07"
+    },
+    {
+     "arquivo": "Harry Kane/Harry Kane - Selección de Inglaterra - 3.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-220.jpg",
+     "nota": 6.35,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:07"
+    }
+   ],
+   "abastecido": "2026-11-12 12:08",
+   "wikidata": "Q969725",
+   "times": [
+    {
+     "id": "Q15789",
+     "nome": "F. C. Bayern Múnich",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Bayern München logo (2024).svg"
+    },
+    {
+     "id": "Q47762",
+     "nome": "Selección de Inglaterra",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Arms of The Football Association (include star).svg"
+    },
+    {
+     "id": "Q18741",
+     "nome": "Tottenham Hotspur Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19595",
+     "nome": "Leyton Orient Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19487",
+     "nome": "Millwall Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18721",
+     "nome": "Norwich City Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19481",
+     "nome": "Leicester City Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2752922",
+     "nome": "Selección sub-17 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2358861",
+     "nome": "Selección sub-19 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1049176",
+     "nome": "Selección sub-20 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q204238",
+     "nome": "Selección sub-21 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q7828451",
+     "nome": "Tottenham Hotspur F.C. Reserves and Academy",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q23210523",
+     "nome": "Watford F.C. Under-23s",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q4384231",
+     "nome": "Arsenal F.C. Reserves",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Thomas Tuchel": {
+   "fotos": [
+    {
+     "arquivo": "Thomas Tuchel/Thomas Tuchel - Selección de Inglaterra - 1.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Thomas_Tuchel_England_v_Ghana_23_June_2026-226.jpg",
+     "nota": 6.65,
+     "ultimo_uso": "2026-11-12 12:10",
+     "usos": 1,
+     "adicionada": "2026-11-12 12:08"
+    },
+    {
+     "arquivo": "Thomas Tuchel/Thomas Tuchel - Chelsea Football Club - 1.jpg",
+     "contexto": "Chelsea Football Club",
+     "tipo": "clube",
+     "credito": "Voltmetro / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2021-12-08_-_FC_Zenit_Saint_Petersburg_v_Chelsea_F.C._-_Photo_256.jpg",
+     "nota": 4.91,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:10"
+    },
+    {
+     "arquivo": "Thomas Tuchel/Thomas Tuchel - Chelsea Football Club - 2.jpg",
+     "contexto": "Chelsea Football Club",
+     "tipo": "clube",
+     "credito": "Voltmetro / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2021-12-08_-_FC_Zenit_Saint_Petersburg_v_Chelsea_F.C._-_Photo_255.jpg",
+     "nota": 5.14,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:10"
+    },
+    {
+     "arquivo": "Thomas Tuchel/Thomas Tuchel - Chelsea Football Club - 3.jpg",
+     "contexto": "Chelsea Football Club",
+     "tipo": "clube",
+     "credito": "Voltmetro / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2021-12-08_-_FC_Zenit_Saint_Petersburg_v_Chelsea_F.C._-_Photo_249.jpg",
+     "nota": 4.1,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:10"
+    },
+    {
+     "arquivo": "Thomas Tuchel/Thomas Tuchel - Paris Saint-Germain FC - 1.jpg",
+     "contexto": "Paris Saint-Germain FC",
+     "tipo": "clube",
+     "credito": "Sandro Halank / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93452.jpg",
+     "nota": 3.72,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:10"
+    },
+    {
+     "arquivo": "Thomas Tuchel/Thomas Tuchel - Paris Saint-Germain FC - 2.jpg",
+     "contexto": "Paris Saint-Germain FC",
+     "tipo": "clube",
+     "credito": "Sandro Halank / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93785.jpg",
+     "nota": 3.7,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:10"
+    },
+    {
+     "arquivo": "Thomas Tuchel/Thomas Tuchel - Paris Saint-Germain FC - 3.jpg",
+     "contexto": "Paris Saint-Germain FC",
+     "tipo": "clube",
+     "credito": "Sandro Halank / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2019-07-17_SG_Dynamo_Dresden_vs._Paris_Saint-Germain_by_Sandro_Halank%E2%80%93787.jpg",
+     "nota": 3.23,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 12:10"
+    }
+   ],
+   "abastecido": "2026-11-12 12:10",
+   "wikidata": "Q702233",
+   "times": [
+    {
+     "id": "Q47762",
+     "nome": "Selección de Inglaterra",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Arms of The Football Association (include star).svg"
+    },
+    {
+     "id": "Q2016992",
+     "nome": "Selección sub-18 de Alemania",
+     "atual": true,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q701290",
+     "nome": "SSV Ulm 1846",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "SSV Ulm 1846.svg"
+    },
+    {
+     "id": "Q170105",
+     "nome": "Stuttgarter Kickers",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Stuttgarter Kickers Logo.svg"
+    },
+    {
+     "id": "Q15755",
+     "nome": "F. C. Augsburgo",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q483020",
+     "nome": "Paris Saint-Germain FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q41420",
+     "nome": "Borussia Dortmund",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Borussia Dortmund logo.svg"
+    },
+    {
+     "id": "Q105254",
+     "nome": "1. FSV Mainz 05",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo Mainz 05.svg"
+    },
+    {
+     "id": "Q5424829",
+     "nome": "FC Augsburg II",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q9616",
+     "nome": "Chelsea Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q15789",
+     "nome": "F. C. Bayern Múnich",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Bayern München logo (2024).svg"
+    },
+    {
+     "id": "Q62018651",
+     "nome": "1.FSV Mainz 05 under 19",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q62018657",
+     "nome": "FC Augsburg under-19",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    }
+   ]
+  }
+ },
+ "escudos": {
+  "Fútbol Club Barcelona": {
+   "arquivo": "escudos/Fútbol Club Barcelona.jpg",
+   "logo": "Football Club Barcelona Color Update.png",
+   "credito": "Escudo: Wikimedia Commons"
+  }
+ }
+}

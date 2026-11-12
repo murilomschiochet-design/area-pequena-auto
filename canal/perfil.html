@@ -1,0 +1,25 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<style>
+@font-face{font-family:Anton;src:url(../modelo/fonts/Anton-Regular.ttf)}
+@font-face{font-family:Inter;src:url(../modelo/fonts/Inter.ttf);font-weight:100 900}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:800px;height:800px;overflow:hidden;background:#0a0f0c}
+.bg{position:absolute;inset:0;background:
+  radial-gradient(circle at 50% 30%,rgba(215,255,58,.16),transparent 55%),
+  repeating-linear-gradient(90deg,#0e1a12 0 80px,#0b150e 80px 160px)}
+/* a "área pequeña": a caixinha de 5,5 m na frente do gol */
+.mark{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:560px;height:430px}
+.goal{position:absolute;left:150px;width:260px;top:0;height:46px;border:14px solid #fff;border-bottom:0;border-radius:6px 6px 0 0}
+.line{position:absolute;left:0;right:0;top:46px;height:14px;background:#fff}
+.box{position:absolute;left:40px;right:40px;top:46px;height:384px;border:22px solid #d7ff3a;border-top:0;border-radius:0 0 22px 22px}
+.txt{position:absolute;left:0;right:0;top:118px;text-align:center;font-family:Anton;color:#fff;font-size:250px;line-height:1;letter-spacing:4px}
+.dot{position:absolute;left:50%;bottom:-38px;transform:translateX(-50%);width:56px;height:56px;border-radius:50%;background:#ff2d3d;box-shadow:0 0 0 12px rgba(255,45,61,.25)}
+</style></head><body>
+<div class="bg"></div>
+<div class="mark">
+  <div class="goal"></div><div class="line"></div><div class="box"></div>
+  <div class="txt">AP</div>
+  <div class="dot"></div>
+</div>
+</body></html>
