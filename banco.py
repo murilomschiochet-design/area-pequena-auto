@@ -177,7 +177,7 @@ def abastecer(nome, log=print, forcar=False):
                 "ultimo_uso": None, "usos": 0, "adicionada": _hoje(),
             })
             log(f"    banco + {arq}")
-    ent["abastecido"] = _hoje()
+    ent["abastecido"] = _hoje() if ent["fotos"] else None   # sem foto: tenta de novo na próxima
     _gravar(idx)
     return ent
 
