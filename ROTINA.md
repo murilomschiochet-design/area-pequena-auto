@@ -18,10 +18,11 @@ Senão, leia o id ali e a transcrição em `fontes/<id>.txt`. Se esse id já est
 
 ## Passo 2 — shorts: `roteiros/dia-XX.json`
 `XX` = número do último `roteiros/dia-*.json` + 1 (dois dígitos). Siga exatamente a estrutura de `roteiros/dia-01.json`:
-- `data` (AAAA-MM-DD de hoje), `fonte` (link do vídeo), `shorts`: até **8 itens**, ids "01".."08", horas "08:00","10:00",…,"22:00".
-- As 8 notícias mais fortes do vídeo, na ordem de força. O vídeo costuma ter 10 ou mais: faça 8 sempre que houver 8 seguras (menos só se o vídeo tiver menos; nunca complete inventando).
+- **Quantidade e horários vêm de `config.json`** (`shorts_por_dia`, `horas_shorts`, `hora_longo`). Hoje são **5 shorts** + 1 longo.
+- `data` (AAAA-MM-DD de hoje), `fonte` (link do vídeo), `shorts`: `shorts_por_dia` itens, ids "01","02",…, com as horas de `horas_shorts` na ordem.
+- As notícias mais fortes do vídeo, na ordem de força. O vídeo costuma ter 10 ou mais: faça a quantidade do config sempre que houver notícias seguras suficientes (menos só se o vídeo tiver menos; nunca complete inventando).
 - Cada short: `tag` ("Selección · España", "Mercado · Barça", "Premier League"…), `titulo` (até ~60 caracteres, com UMA `*palavra*` de destaque), `texto` (45–70 palavras, nomes em `**negrito**`), `foto_busca` (lista em ordem: nome completo da pessoa principal como está na Wikipedia; depois `"#Nome oficial do clube"` para o escudo; e SEMPRE termine com um `"~cenário"`, ex. `"~Estadio Santiago Bernabéu"`, como última opção), `contexto` ("selecao" se é notícia de seleção, senão "clube"), `titulo_yt` (chamativo, até 90 caracteres, 1 emoji), `descricao` (1–2 frases + pergunta pro público), `hashtags` (5).
-- Acrescente no fim: `"longo": {"hora": "19:00", "titulo_yt": "RESUMEN DEL DÍA: <3 assuntos curtos> | DD/MM", "descricao": "<3-4 frases com os assuntos + convite pra se inscrever>", "tags": ["futbol", "noticias de futbol", ...até 12]}`.
+- Acrescente no fim: `"longo": {"hora": <hora_longo do config>, "titulo_yt": "RESUMEN DEL DÍA: <3 assuntos curtos> | DD/MM", "descricao": "<3-4 frases com os assuntos + convite pra se inscrever>", "tags": ["futbol", "noticias de futbol", ...até 12]}`.
 
 ## Passo 3 — vídeo longo: `longo/roteiros/longo-dia-XX.json`
 Siga a estrutura de `longo/roteiros/prototipo.json`, com TODAS as notícias dos shorts, na mesma ordem:
