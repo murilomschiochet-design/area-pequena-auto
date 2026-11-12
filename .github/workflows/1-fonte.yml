@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 4 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/1-fonte.yml"]
 
 permissions:
   contents: write
@@ -27,7 +30,7 @@ jobs:
       - name: Baixar transcricao
         env:
           SUPADATA_API_KEY: ${{ secrets.SUPADATA_API_KEY }}
-        run: python transcricao.py ultimo
+        run: python transcricao.py ultimo 2>&1 | tee fontes/_log.txt
       - name: Salvar no repositorio
         run: |
           git config user.name "area-pequena-bot"

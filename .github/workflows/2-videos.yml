@@ -5,7 +5,7 @@ name: 2 - Gerar e subir
 on:
   push:
     branches: [main]
-    paths: ["roteiros/dia-*.json", "longo/roteiros/longo-dia-*.json"]
+    paths: ["roteiros/dia-*.json", "longo/roteiros/longo-dia-*.json", ".github/workflows/2-videos.yml"]
   workflow_dispatch:
     inputs:
       dia:
@@ -55,10 +55,14 @@ jobs:
           echo "Dia: $DIA"
       - name: Gerar shorts
         run: |
-          python gerar.py ${{ steps.dia.outputs.dia }}
+          set -o pipefail
+          mkdir -p saida/${{ steps.dia.outputs.dia }}
+          python gerar.py ${{ steps.dia.outputs.dia }} 2>&1 | tee saida/${{ steps.dia.outputs.dia }}/_log-shorts.txt
           python nuvem/folha_contato.py ${{ steps.dia.outputs.dia }}
       - name: Gerar video longo
         run: |
+          set -o pipefail
+          exec > >(tee saida/${{ steps.dia.outputs.dia }}/_log-longo.txt) 2>&1
           if [ -f "longo/roteiros/longo-${{ steps.dia.outputs.dia }}.json" ]; then
             python longo/gerar_longo.py longo-${{ steps.dia.outputs.dia }}
             python nuvem/folha_contato.py ${{ steps.dia.outputs.dia }} --longo
@@ -73,7 +77,7 @@ jobs:
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: |
           if [ -z "$YT_REFRESH_TOKEN" ]; then echo "Sem chave do YouTube ainda: pulei o upload."; exit 0; fi
-          python subir.py ${{ steps.dia.outputs.dia }}
+          python subir.py ${{ steps.dia.outputs.dia }} 2>&1 | tee saida/${{ steps.dia.outputs.dia }}/_log-subir.txt
       - name: Guardar os videos pra conferir (3 dias)
         if: always()
         uses: actions/upload-artifact@v4
