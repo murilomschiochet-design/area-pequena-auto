@@ -1,11 +1,16 @@
  cena 00 abertura   6.0s  Bienvenidos a Área Pequeña FC. Estas son las noticias de fút
-Traceback (most recent call last):
-  File "/home/runner/work/area-pequena-auto/area-pequena-auto/longo/gerar_longo.py", line 309, in <module>
-    main()
-  File "/home/runner/work/area-pequena-auto/area-pequena-auto/longo/gerar_longo.py", line 257, in main
-    palavras = asyncio.run(falar(c["voz"], voz, mp3))
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/asyncio/runners.py", line 191, in run
-    raise RuntimeError(
-RuntimeError: asyncio.run() cannot be called from a running event loop
-sys:1: RuntimeWarning: coroutine 'falar' was never awaited
+ cena 01 card       6.1s  Empezamos con España. Luis de la Fuente explotó por el caso 
+ cena 02 foto       7.9s  En España se dijo que Lamine se había borrado del partido an
+ cena 03 cita       6.4s  Me duele la mentira, la falta de rigor y el invento. Así lo 
+ cena 04 foto      11.6s  Aclaró que el jugador tiene una inflamación en la rodilla, y
+ cena 05 card       4.0s  Pasamos a Brasil, donde hay polémica con Raphinha.
+ cena 06 foto       9.9s  Raphinha comentó que Ancelotti sabe que tiene que repartir m
+ cena 07 foto       8.1s  Pero Gabriel Magalhães salió a defenderlo. Dijo que sus pala
+ cena 08 foto       5.4s  Y Ancelotti le dio todavía más peso: Raphinha será el capitá
+ cena 09 card       4.2s  Y en el Barça, Alejandro Balde ahora sí se abre a salir.
+ cena 10 numero     8.2s  En verano quiso quedarse, aunque sabía que jugaría poco. Per
+ cena 11 foto       4.1s  Por eso ya contempla una salida en el mercado de enero.
+ cena 12 cierre     7.5s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-01/longo.mp4  (89s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-01/_contato_longo.jpg
