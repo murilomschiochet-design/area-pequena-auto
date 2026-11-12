@@ -6,6 +6,7 @@ Tipos de cena: abertura | card (o card do short) | foto | cita | numero | cierre
 Uso: python longo/gerar_longo.py prototipo [voz]
 """
 import asyncio
+import concurrent.futures
 import json
 import os
 import subprocess
@@ -254,7 +255,9 @@ def main():
         mp3 = os.path.join(trab, f"{i:02d}.mp3")
         for tentativa in range(4):          # o serviço de voz às vezes falha à toa: tenta de novo
             try:
-                palavras = asyncio.run(falar(c["voz"], voz, mp3))
+                # roda a voz numa thread própria: no Linux o navegador (playwright) já ocupa o loop asyncio desta
+                with concurrent.futures.ThreadPoolExecutor(1) as ex:
+                    palavras = ex.submit(asyncio.run, falar(c["voz"], voz, mp3)).result()
                 break
             except edge_tts.exceptions.NoAudioReceived:
                 if tentativa == 3:
