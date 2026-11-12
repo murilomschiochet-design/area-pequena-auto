@@ -1,0 +1,19 @@
+
+== dia-01: 8 shorts
+ 01 De la Fuente *defiende* a Lamine: "Me duele la mentira"
+    ok
+ 02 Polémica con *Raphinha* en Brasil
+    ok
+ 03 Balde ya *contempla salir* del Barça en enero
+    ok
+ 04 España *cuidará* a Pedri y Fermín
+    ok
+ 05 Jude y Jobe Bellingham, *juntos* por primera vez
+    ok
+ 06 Ya hablan de *100 millones* por Prestianni
+    ok
+ 07 Harry Kane *respalda* a Pochettino
+    ok
+ 08 Tuchel: "Tenemos *asuntos pendientes*"
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-01/painel.html

@@ -1,0 +1,16 @@
+ cena 00 abertura   6.0s  Bienvenidos a Área Pequeña FC. Estas son las noticias de fút
+Traceback (most recent call last):
+  File "/home/runner/work/area-pequena-auto/area-pequena-auto/longo/gerar_longo.py", line 309, in <module>
+    main()
+  File "/home/runner/work/area-pequena-auto/area-pequena-auto/longo/gerar_longo.py", line 272, in main
+    fundo_cena(c, i, d, png, mp4, card)
+  File "/home/runner/work/area-pequena-auto/area-pequena-auto/longo/gerar_longo.py", line 182, in fundo_cena
+    for q in fundo_frames(c, i, n):
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/area-pequena-auto/area-pequena-auto/longo/gerar_longo.py", line 134, in fundo_frames
+    yield from quadros_ken_burns(carregar_cobrindo(ESTADIO), n, i % 2 == 0)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/area-pequena-auto/area-pequena-auto/longo/gerar_longo.py", line 76, in carregar_cobrindo
+    im = cv2.imdecode(np.fromfile(arq, dtype=np.uint8), cv2.IMREAD_COLOR)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/area-pequena-auto/area-pequena-auto/canal/_estadio.jpg'
