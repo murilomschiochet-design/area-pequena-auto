@@ -1,0 +1,135 @@
+{
+ "dia": "dia-02",
+ "data": "12 de noviembre",
+ "voz": "es-ES-AlvaroNeural",
+ "cenas": [
+  {
+   "tipo": "abertura",
+   "fundo": "estadio",
+   "tag": "Resumen del día",
+   "titulo": "Las noticias *de hoy*",
+   "sub": "12 de noviembre",
+   "voz": "Bienvenidos a Área Pequeña FC. Estas son las noticias de fútbol de hoy."
+  },
+  {
+   "tipo": "card",
+   "card": "01",
+   "fundo": "estadio",
+   "voz": "Empezamos en la Premier League. El Manchester United despidió a Michael Carrick."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Premier League",
+   "titulo": "El United *despide* a Carrick",
+   "voz": "Es oficial: el Manchester United despidió a Michael Carrick y buscará nombrar a su sucesor lo antes posible. El club calificó de decepcionante el inicio de temporada.",
+   "short": "01"
+  },
+  {
+   "tipo": "numero",
+   "fundo": "foto",
+   "numero": "15",
+   "titulo": "partidos: *7 derrotas*, 5 empates, 3 victorias",
+   "sub": "Manchester United esta temporada",
+   "voz": "Siete derrotas, cinco empates y solo tres victorias en quince partidos entre todas las competencias.",
+   "short": "01"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Premier League",
+   "titulo": "Pochettino *ante el Liverpool*",
+   "voz": "Mauricio Pochettino será el técnico del United el domingo veintidós, cuando visiten al Liverpool. Según Ben Jacobs, ya hablan con la Federación de Estados Unidos para resolver los últimos detalles de la contratación.",
+   "pessoa": "Mauricio Pochettino"
+  },
+  {
+   "tipo": "card",
+   "card": "02",
+   "fundo": "estadio",
+   "voz": "Pasamos a Francia, donde hay versiones cruzadas sobre Mbappé y Zidane."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Francia",
+   "titulo": "El *avión privado*",
+   "voz": "Según la prensa española, Mbappé pensaba volver a Madrid ante la mínima molestia y tenía listo un avión privado. Pero Zidane le habría impedido dejar la concentración y lo guardó para el partido del domingo ante Turquía.",
+   "short": "02"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Francia",
+   "titulo": "Desde Francia *lo desmienten*",
+   "voz": "Pero desde Francia desmienten esa versión. Mbappé no contrató ningún vuelo de regreso a Madrid, y tampoco habría conflicto con Zidane, que solo decidió cuidarlo en el partido de hoy.",
+   "pessoa": "Zinedine Zidane",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "card",
+   "card": "03",
+   "fundo": "estadio",
+   "voz": "Y en el mercado, la Roma frena a Balde."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Mercado · Roma",
+   "titulo": "Gasperini *pidió frenar*",
+   "voz": "La Roma frenó las negociaciones por Alejandro Balde a pedido de su técnico, Gian Piero Gasperini, que tiene otras prioridades para reforzar el plantel en enero.",
+   "short": "03"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Mercado · Roma",
+   "titulo": "¿Mónaco *o Premier*?",
+   "voz": "El Mónaco apareció como alternativa, pero el entorno del jugador prefiere esperar una opción en la Premier League, cuenta el Diario Sport.",
+   "pessoa": "Alejandro Balde"
+  },
+  {
+   "tipo": "card",
+   "card": "04",
+   "fundo": "estadio",
+   "voz": "Seguimos con el mercado del Real Madrid. Hablemos de Endrick."
+  },
+  {
+   "tipo": "numero",
+   "fundo": "foto",
+   "numero": "60",
+   "titulo": "millones de euros *como máximo*",
+   "sub": "Costo de sacar a Endrick del Madrid en enero",
+   "voz": "Sacar a Endrick del Real Madrid en enero costaría hasta sesenta millones de euros, informa The Athletic.",
+   "short": "04"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Mercado · Real Madrid",
+   "titulo": "La Roma *lidera*",
+   "voz": "Según Fabrizio Romano, el brasileño no rechazó definitivamente al Milan, pero ahora mismo la Roma lidera la carrera por ficharlo.",
+   "short": "04"
+  },
+  {
+   "tipo": "card",
+   "card": "05",
+   "fundo": "estadio",
+   "voz": "Y terminamos con Portugal y Bernardo Silva."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Portugal",
+   "titulo": "Capitán *tras Cristiano*",
+   "voz": "Bernardo Silva recibió un apoyo importante como capitán de Portugal después del retiro de Cristiano.",
+   "short": "05"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Portugal",
+   "titulo": "Un *conciliador*",
+   "voz": "Humberto Coelho, leyenda del fútbol portugués y exvicepresidente de la federación, dijo que es un conciliador, que se lleva bien con todos y que es exigente con sus compañeros en el juego.",
+   "pessoa": "Bernardo Silva",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "cierre",
+   "fundo": "estadio",
+   "tag": "Área Pequeña FC",
+   "titulo": "Noticias *cada día*",
+   "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC y activa la campanita."
+  }
+ ]
+}
