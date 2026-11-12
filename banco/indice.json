@@ -866,12 +866,624 @@
      "logo": null
     }
    ]
+  },
+  "Michael Carrick": {
+   "fotos": [
+    {
+     "arquivo": "Michael Carrick/Michael Carrick - Middlesbrough Football Club - 1.jpg",
+     "contexto": "Middlesbrough Football Club",
+     "tipo": "clube",
+     "credito": "Timmy96 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(2).jpg",
+     "nota": 6.38,
+     "ultimo_uso": "2026-11-12 17:22",
+     "usos": 1,
+     "adicionada": "2026-11-12 17:22"
+    },
+    {
+     "arquivo": "Michael Carrick/Michael Carrick - Middlesbrough Football Club - 2.jpg",
+     "contexto": "Middlesbrough Football Club",
+     "tipo": "clube",
+     "credito": "Timmy96 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(6).jpg",
+     "nota": 5.68,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:22"
+    },
+    {
+     "arquivo": "Michael Carrick/Michael Carrick - Middlesbrough Football Club - 3.jpg",
+     "contexto": "Middlesbrough Football Club",
+     "tipo": "clube",
+     "credito": "Timmy96 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(4).jpg",
+     "nota": 5.61,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:22"
+    }
+   ],
+   "abastecido": "2026-11-12 17:22",
+   "wikidata": "Q29566",
+   "times": [
+    {
+     "id": "Q1049171",
+     "nome": "Selección sub-18 de Inglaterra",
+     "atual": true,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q18656",
+     "nome": "Manchester United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19444",
+     "nome": "Birmingham City FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18747",
+     "nome": "West Ham United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19634",
+     "nome": "Swindon Town Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18741",
+     "nome": "Tottenham Hotspur Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q47762",
+     "nome": "Selección de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": "Arms of The Football Association (include star).svg"
+    },
+    {
+     "id": "Q18661",
+     "nome": "Middlesbrough Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Middlesbrough Walk (27470064759).jpg"
+    },
+    {
+     "id": "Q204238",
+     "nome": "Selección sub-21 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1110944",
+     "nome": "Selección de Inglaterra B",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Kylian Mbappé": {
+   "fotos": [
+    {
+     "arquivo": "Kylian Mbappé/Kylian Mbappé - Selección de Francia - 1.jpg",
+     "contexto": "Selección de Francia",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Sweden_6.30.26-225.jpg",
+     "nota": 5.16,
+     "ultimo_uso": "2026-11-12 17:23",
+     "usos": 1,
+     "adicionada": "2026-11-12 17:23"
+    },
+    {
+     "arquivo": "Kylian Mbappé/Kylian Mbappé - Selección de Francia - 2.jpg",
+     "contexto": "Selección de Francia",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Spain_7.24.26-135.jpg",
+     "nota": 5.53,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:23"
+    },
+    {
+     "arquivo": "Kylian Mbappé/Kylian Mbappé - Selección de Francia - 3.jpg",
+     "contexto": "Selección de Francia",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Sweden_6.30.26-193.jpg",
+     "nota": 6.04,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:23"
+    },
+    {
+     "arquivo": "Kylian Mbappé/Kylian Mbappé - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Zo Yout / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbapp%C3%A9_x_Maxime_Tabart.jpg",
+     "nota": 5.81,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:23"
+    },
+    {
+     "arquivo": "Kylian Mbappé/Kylian Mbappé - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Эдгар Брещанов / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbapp%C3%A9_and_Luka_Modri%C4%87_receive_the_award_for_the_best_young_player_and_best_player_in_the_2018_World_Cup_respectively.jpg",
+     "nota": 4.96,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:23"
+    },
+    {
+     "arquivo": "Kylian Mbappé/Kylian Mbappé - Geral - 3.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Zo Yout / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbapp%C3%A9_(cropped).jpg",
+     "nota": 5.8,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:23"
+    }
+   ],
+   "abastecido": "2026-11-12 17:23",
+   "wikidata": "Q21621995",
+   "times": [
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q47774",
+     "nome": "Selección de Francia",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q109500422",
+     "nome": "AS Monaco FC II",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q180305",
+     "nome": "A.S. Monaco F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q483020",
+     "nome": "Paris Saint-Germain FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1450568",
+     "nome": "Selección sub-17 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2701714",
+     "nome": "Selección sub-19 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Endrick": {
+   "fotos": [],
+   "abastecido": "2026-11-12 17:26",
+   "wikidata": "Q110644260",
+   "times": [
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q83459",
+     "nome": "Selección de Brasil",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Brazilian Football Confederation logo.svg"
+    },
+    {
+     "id": "Q899189",
+     "nome": "Selección olímpica de Brasil",
+     "atual": true,
+     "selecao": true,
+     "base": true,
+     "logo": "Brasil Olympic Committee crest.svg"
+    },
+    {
+     "id": "Q80964",
+     "nome": "Sociedade Esportiva Palmeiras",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Palmeiras logo.svg"
+    },
+    {
+     "id": "Q2402747",
+     "nome": "Selección sub-17 de Brasil",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q704",
+     "nome": "Olympique de Lyon",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Bernardo Silva": {
+   "fotos": [],
+   "abastecido": "2026-11-12 17:28",
+   "wikidata": "Q15521306",
+   "times": [
+    {
+     "id": "Q267245",
+     "nome": "Selección de Portugal",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q180305",
+     "nome": "A.S. Monaco F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q131499",
+     "nome": "Sport Lisboa e Benfica",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q50602",
+     "nome": "Manchester City Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7387221",
+     "nome": "S.L. Benfica B",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3873524",
+     "nome": "Selección sub-19 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1630430",
+     "nome": "Selección sub-21 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Mauricio Pochettino": {
+   "fotos": [
+    {
+     "arquivo": "Mauricio Pochettino/Mauricio Pochettino - Selección de los Estados Unidos - 1.jpg",
+     "contexto": "Selección de los Estados Unidos",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_Australia_v_USA_19_June_2026-266.jpg",
+     "nota": 3.18,
+     "ultimo_uso": "2026-11-12 17:32",
+     "usos": 1,
+     "adicionada": "2026-11-12 17:30"
+    }
+   ],
+   "abastecido": "2026-11-12 17:32",
+   "wikidata": "Q313000",
+   "times": [
+    {
+     "id": "Q164134",
+     "nome": "Selección de los Estados Unidos",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "United States Soccer Federation logo.svg"
+    },
+    {
+     "id": "Q8780",
+     "nome": "Real Club Deportivo Espanyol de Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q172476",
+     "nome": "FC Girondins de Burdeos",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Current logo of Girondins de Bordeaux.png"
+    },
+    {
+     "id": "Q221882",
+     "nome": "Club Atlético Newell’s Old Boys",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Newell's escudo 2016.png"
+    },
+    {
+     "id": "Q483020",
+     "nome": "Paris Saint-Germain FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q79800",
+     "nome": "Selección de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18741",
+     "nome": "Tottenham Hotspur Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18732",
+     "nome": "Southampton Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q9616",
+     "nome": "Chelsea Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1187790",
+     "nome": "Selección sub-20 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Afa gold logo24.svg"
+    },
+    {
+     "id": "Q2462207",
+     "nome": "Selección sub-23 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Argentine olympic committee logo image.svg"
+    }
+   ]
+  },
+  "Zinedine Zidane": {
+   "fotos": [
+    {
+     "arquivo": "Zinedine Zidane/Zinedine Zidane - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Oleg Dubyna from Poltava, Ukraine / Wikimedia Commons, CC BY-SA 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_(41758545214).jpg",
+     "nota": 6.15,
+     "ultimo_uso": "2026-11-12 17:36",
+     "usos": 1,
+     "adicionada": "2026-11-12 17:34"
+    },
+    {
+     "arquivo": "Zinedine Zidane/Zinedine Zidane - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Raphaël Labbé / Wikimedia Commons, CC BY-SA 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Zinedine-Zidane.jpg",
+     "nota": 5.14,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-12 17:34"
+    }
+   ],
+   "abastecido": "2026-11-12 17:36",
+   "wikidata": "Q1835",
+   "times": [
+    {
+     "id": "Q298267",
+     "nome": "Association Sportive de Cannes Football",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1422",
+     "nome": "Juventus",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Juventus FC - logo black (Italy, 2020).svg"
+    },
+    {
+     "id": "Q47774",
+     "nome": "Selección de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q172476",
+     "nome": "FC Girondins de Burdeos",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Current logo of Girondins de Bordeaux.png"
+    },
+    {
+     "id": "Q12217",
+     "nome": "Real Madrid Castilla Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1450568",
+     "nome": "Selección sub-17 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1450557",
+     "nome": "Selección sub-18 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1277549",
+     "nome": "Selección sub-21 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3590024",
+     "nome": "Selección B de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3590033",
+     "nome": "Selección sub-16 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
   }
  },
  "escudos": {
   "Fútbol Club Barcelona": {
    "arquivo": "escudos/Fútbol Club Barcelona.jpg",
    "logo": "Football Club Barcelona Color Update.png",
+   "credito": "Escudo: Wikimedia Commons"
+  },
+  "A.S. Roma": {
+   "arquivo": "escudos/A.S. Roma.jpg",
+   "logo": "AS ROMA Text Logo 2020 - 2021 .svg",
+   "credito": "Escudo: Wikimedia Commons"
+  },
+  "Selección de Brasil": {
+   "arquivo": "escudos/Selección de Brasil.jpg",
+   "logo": "Brazilian Football Confederation logo.svg",
    "credito": "Escudo: Wikimedia Commons"
   }
  }

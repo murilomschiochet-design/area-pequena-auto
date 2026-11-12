@@ -1,0 +1,34 @@
+
+== dia-02: 5 shorts
+ 01 El United despide a *Carrick* y llega Pochettino
+[ WARN:0@4.498] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@4.658] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Michael Carrick - Middlesbrough Football Club - 1.jpg
+    banco + Michael Carrick - Middlesbrough Football Club - 2.jpg
+    banco + Michael Carrick - Middlesbrough Football Club - 3.jpg
+    foto: Michael Carrick/Michael Carrick - Middlesbrough Football Club - 1.jpg
+    ok
+ 02 ¿Tensión entre *Mbappé* y Zidane?
+    banco + Kylian Mbappé - Selección de Francia - 1.jpg
+    banco + Kylian Mbappé - Selección de Francia - 2.jpg
+    banco + Kylian Mbappé - Selección de Francia - 3.jpg
+    banco + Kylian Mbappé - Geral - 1.jpg
+    banco + Kylian Mbappé - Geral - 2.jpg
+    banco + Kylian Mbappé - Geral - 3.jpg
+    foto: Kylian Mbappé/Kylian Mbappé - Selección de Francia - 1.jpg
+    ok
+ 03 La Roma *frena* la llegada de Balde
+    banco + escudo A.S. Roma
+    foto: escudo AS Roma
+    ok
+ 04 *Endrick* y su futuro: ¿Roma o Milan?
+    ! sem escudo para Real Madrid Club de Fútbol
+    banco + escudo Selección de Brasil
+    foto: escudo Selección de Brasil
+    ok
+ 05 Bernardo Silva, *capitán* de Portugal
+    ! sem escudo para Selección de Portugal
+    ! sem escudo para Real Madrid Club de Fútbol
+   ! nenhuma foto — coloque uma em fotos/dia-02/05.jpg
+    ok (sem foto)
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-02/painel.html

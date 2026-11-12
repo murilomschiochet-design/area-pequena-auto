@@ -1,0 +1,23 @@
+ cena 00 abertura   6.0s  Bienvenidos a Área Pequeña FC. Estas son las noticias de fút
+ cena 01 card       6.2s  Empezamos en la Premier League. El Manchester United despidi
+ cena 02 foto      10.3s  Es oficial: el Manchester United despidió a Michael Carrick 
+ cena 03 numero     6.7s  Siete derrotas, cinco empates y solo tres victorias en quinc
+[ WARN:0@86.508] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@86.666] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 04 foto      12.9s  Mauricio Pochettino será el técnico del United el domingo ve
+ cena 05 card       4.9s  Pasamos a Francia, donde hay versiones cruzadas sobre Mbappé
+ cena 06 foto      12.7s  Según la prensa española, Mbappé pensaba volver a Madrid ant
+ cena 07 foto      11.1s  Pero desde Francia desmienten esa versión. Mbappé no contrat
+ cena 08 card       3.6s  Y en el mercado, la Roma frena a Balde.
+ cena 09 foto       9.4s  La Roma frenó las negociaciones por Alejandro Balde a pedido
+ cena 10 fotoless   8.0s  El Mónaco apareció como alternativa, pero el entorno del jug
+ cena 11 card       5.1s  Seguimos con el mercado del Real Madrid. Hablemos de Endrick
+ cena 12 numero     6.2s  Sacar a Endrick del Real Madrid en enero costaría hasta sese
+ cena 13 foto       7.9s  Según Fabrizio Romano, el brasileño no rechazó definitivamen
+ cena 14 card       3.7s  Y terminamos con Portugal y Bernardo Silva.
+ cena 15 fotoless   6.1s  Bernardo Silva recibió un apoyo importante como capitán de P
+ cena 16 fotoless  10.8s  Humberto Coelho, leyenda del fútbol portugués y exvicepresid
+ cena 17 cierre     7.5s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-02/longo.mp4  (139s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-02/_contato_longo.jpg
