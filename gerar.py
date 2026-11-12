@@ -104,8 +104,9 @@ def foto_do_short(pasta_fotos, s):
                       ensure_ascii=False, indent=1)
             log(f"    foto: {origem}")
             return auto, credito or ""
-    log("   ! nenhuma foto — coloque uma em " + os.path.join("fotos", os.path.basename(pasta_fotos), sid + ".jpg"))
-    return None, ""
+    log("   ! nenhuma foto — usei o estádio; para trocar, coloque uma em "
+        + os.path.join("fotos", os.path.basename(pasta_fotos), sid + ".jpg"))
+    return os.path.join(BASE, "assets", "estadio-fundo.jpg"), ""     # nunca deixa o card com a foto vazia
 
 
 # ---------------------------------------------------------------- card e vídeo

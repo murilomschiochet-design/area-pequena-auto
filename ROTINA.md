@@ -7,7 +7,8 @@ Trabalhe sozinho, sem perguntar nada. Não instale nada.
 ## Regras de conteúdo (as mais importantes)
 - Fonte única: a transcrição do último vídeo do **@Cracks** (já baixada pelo robô das 05:00 em `fontes/`).
 - Reescreva cada notícia **com palavras próprias**, mas com **o mesmo assunto, os mesmos fatos e as mesmas falas**. **Nunca invente** nada: nem número, nem clube, nem frase, nem opinião atribuída a alguém, nem contexto que não está no vídeo.
-- Nomes podem vir errados na transcrição (ex.: "Rafiña" = Raphinha, "Tugel" = Tuchel, "Magaláez" = Magalhães, "Pochetino" = Pochettino). Corrija só quando tiver certeza absoluta. **Nome duvidoso = pule a notícia.**
+- Nomes podem vir errados na transcrição (ex.: "Rafiña" = Raphinha, "Tugel" = Tuchel, "Magaláez" = Magalhães, "Pochetino" = Pochettino, "Olissé" = Olise, "Materatzi" = Materazzi, "Hendrick" = Endrick, "PSB" = PSG). Erro de grafia de jogador/clube famoso NÃO é dúvida: corrija. **Pule só quando não dá pra saber quem é** (nome desconhecido, sem clube claro).
+- Quando a notícia traz duas versões (ex.: imprensa espanhola diz X, imprensa francesa desmente), mantenha cada detalhe na versão certa; não misture.
 - Aspas só para frase dita literalmente no vídeo. Senão, discurso indireto.
 - Espanhol neutro, frases curtas, tom de notícia.
 
@@ -18,8 +19,8 @@ Senão, leia o id ali e a transcrição em `fontes/<id>.txt`. Se esse id já est
 ## Passo 2 — shorts: `roteiros/dia-XX.json`
 `XX` = número do último `roteiros/dia-*.json` + 1 (dois dígitos). Siga exatamente a estrutura de `roteiros/dia-01.json`:
 - `data` (AAAA-MM-DD de hoje), `fonte` (link do vídeo), `shorts`: até **8 itens**, ids "01".."08", horas "08:00","10:00",…,"22:00".
-- As 8 notícias mais fortes do vídeo, na ordem de força (se houver menos de 8 seguras, faça menos; nunca complete inventando).
-- Cada short: `tag` ("Selección · España", "Mercado · Barça", "Premier League"…), `titulo` (até ~60 caracteres, com UMA `*palavra*` de destaque), `texto` (45–70 palavras, nomes em `**negrito**`), `foto_busca` (lista em ordem: nome completo da pessoa principal como está na Wikipedia; depois `"#Nome oficial do clube"` para o escudo; depois `"~cenário"` ex. `"~Estadio Santiago Bernabéu"`), `contexto` ("selecao" se é notícia de seleção, senão "clube"), `titulo_yt` (chamativo, até 90 caracteres, 1 emoji), `descricao` (1–2 frases + pergunta pro público), `hashtags` (5).
+- As 8 notícias mais fortes do vídeo, na ordem de força. O vídeo costuma ter 10 ou mais: faça 8 sempre que houver 8 seguras (menos só se o vídeo tiver menos; nunca complete inventando).
+- Cada short: `tag` ("Selección · España", "Mercado · Barça", "Premier League"…), `titulo` (até ~60 caracteres, com UMA `*palavra*` de destaque), `texto` (45–70 palavras, nomes em `**negrito**`), `foto_busca` (lista em ordem: nome completo da pessoa principal como está na Wikipedia; depois `"#Nome oficial do clube"` para o escudo; e SEMPRE termine com um `"~cenário"`, ex. `"~Estadio Santiago Bernabéu"`, como última opção), `contexto` ("selecao" se é notícia de seleção, senão "clube"), `titulo_yt` (chamativo, até 90 caracteres, 1 emoji), `descricao` (1–2 frases + pergunta pro público), `hashtags` (5).
 - Acrescente no fim: `"longo": {"hora": "19:00", "titulo_yt": "RESUMEN DEL DÍA: <3 assuntos curtos> | DD/MM", "descricao": "<3-4 frases com os assuntos + convite pra se inscrever>", "tags": ["futbol", "noticias de futbol", ...até 12]}`.
 
 ## Passo 3 — vídeo longo: `longo/roteiros/longo-dia-XX.json`
