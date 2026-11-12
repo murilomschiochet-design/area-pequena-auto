@@ -94,10 +94,11 @@ def enviar(yt, mp4, titulo, descricao, tags, publicar_em=None, privado=False):
 def data_alvo(roteiro, arg):
     if arg:
         return dt.date.fromisoformat(arg)
+    # sempre HOJE; só vai pra amanhã se o último horário do dia já passou (horário perdido vira "daqui a 20 min")
     agora = dt.datetime.now(FUSO)
-    h, m = map(int, roteiro["shorts"][0]["hora"].split(":"))
-    primeiro = agora.replace(hour=h, minute=m, second=0, microsecond=0)
-    return (agora + dt.timedelta(days=1)).date() if agora > primeiro - dt.timedelta(minutes=20) else agora.date()
+    h, m = map(int, roteiro["shorts"][-1]["hora"].split(":"))
+    ultimo = agora.replace(hour=h, minute=m, second=0, microsecond=0)
+    return (agora + dt.timedelta(days=1)).date() if agora > ultimo - dt.timedelta(minutes=20) else agora.date()
 
 
 def subir_dia(dia, data_txt=None, teste=False):

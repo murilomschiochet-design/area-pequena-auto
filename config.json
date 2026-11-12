@@ -1,6 +1,6 @@
 {
-  "_explicacao": "Quantos shorts por dia e em que horários (Roma). Enquanto o Google não aprovar a auditoria, a cota dá ~6 envios: 5 shorts + 1 longo. Depois da aprovação, troque para 8 shorts: 08:00,10:00,12:00,14:00,16:00,18:00,20:00,22:00.",
+  "_explicacao": "Quantos shorts por dia e em que horários (Roma). O primeiro vai ao ar às 10:00 (o robô termina por volta das 09:00). Enquanto o Google não aprovar a auditoria, a cota dá ~6 envios: 5 shorts + 1 longo. Depois da aprovação, troque para 8 shorts: 10:00,11:30,13:00,14:30,16:00,18:00,20:00,22:00.",
   "shorts_por_dia": 5,
-  "horas_shorts": ["08:00", "11:00", "14:00", "17:00", "21:00"],
-  "hora_longo": "19:00"
+  "horas_shorts": ["10:00", "13:00", "16:00", "18:00", "21:00"],
+  "hora_longo": "19:30"
 }

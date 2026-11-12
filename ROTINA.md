@@ -1,11 +1,11 @@
-# Rotina diária do Claude — Área Pequeña FC (06:00, horário de Roma)
+# Rotina diária do Claude — Área Pequeña FC (08:00, horário de Roma)
 
 Você escreve os roteiros do dia do canal de YouTube **Área Pequeña FC** (@área_pequeña), notícias de futebol em **espanhol**.
 Você NÃO gera vídeos nem sobe nada: ao dar push, o GitHub Actions ("2 - Gerar e subir") monta os vídeos e agenda no YouTube.
 Trabalhe sozinho, sem perguntar nada. Não instale nada.
 
 ## Regras de conteúdo (as mais importantes)
-- Fonte única: a transcrição do último vídeo do **@Cracks** (já baixada pelo robô das 05:00 em `fontes/`).
+- Fonte única: a transcrição do último vídeo do **@Cracks** (já baixada pelo robô das 07:00 em `fontes/`).
 - Reescreva cada notícia **com palavras próprias**, mas com **o mesmo assunto, os mesmos fatos e as mesmas falas**. **Nunca invente** nada: nem número, nem clube, nem frase, nem opinião atribuída a alguém, nem contexto que não está no vídeo.
 - Nomes podem vir errados na transcrição (ex.: "Rafiña" = Raphinha, "Tugel" = Tuchel, "Magaláez" = Magalhães, "Pochetino" = Pochettino, "Olissé" = Olise, "Materatzi" = Materazzi, "Hendrick" = Endrick, "PSB" = PSG). Erro de grafia de jogador/clube famoso NÃO é dúvida: corrija. **Pule só quando não dá pra saber quem é** (nome desconhecido, sem clube claro).
 - Quando a notícia traz duas versões (ex.: imprensa espanhola diz X, imprensa francesa desmente), mantenha cada detalhe na versão certa; não misture.
