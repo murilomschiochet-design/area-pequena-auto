@@ -112,8 +112,9 @@ def subir_dia(dia, data_txt=None, teste=False):
               (s.get("descricao", "") + "\n\n" + " ".join(s.get("hashtags", []))).strip(),
               [h.lstrip("#") for h in s.get("hashtags", [])], s["hora"]) for s in roteiro["shorts"]]
     longo = roteiro.get("longo")
+    # o longo vai em 5º na fila: se a cota diária acabar (≈6 envios), ele não fica de fora
     if longo and os.path.exists(os.path.join(pasta, "longo.mp4")):
-        itens.append(("longo", os.path.join(pasta, "longo.mp4"), longo["titulo_yt"], longo["descricao"],
+        itens.insert(4, ("longo", os.path.join(pasta, "longo.mp4"), longo["titulo_yt"], longo["descricao"],
                       longo.get("tags", []), longo["hora"]))
     for sid, mp4, titulo, desc, tags, hora in itens:
         if sid in reg:
@@ -126,7 +127,13 @@ def subir_dia(dia, data_txt=None, teste=False):
         quando = dt.datetime.combine(data, dt.time(h, m), FUSO)
         if quando < agora + dt.timedelta(minutes=15):
             quando = agora + dt.timedelta(minutes=20)       # horário já passou: publica daqui a 20 min
-        vid, st = enviar(yt, mp4, titulo, desc, tags, None if teste else quando, privado=teste)
+        try:
+            vid, st = enviar(yt, mp4, titulo, desc, tags, None if teste else quando, privado=teste)
+        except Exception as e:
+            if "quotaExceeded" in str(e) or "uploadLimitExceeded" in str(e):
+                print(f" {sid}: cota diária do YouTube acabou — o resto fica pra depois (rode de novo amanhã)")
+                break
+            raise
         reg[sid] = {"id": vid, "publicar": None if teste else quando.isoformat(), "titulo": titulo}
         with open(reg_arq, "w", encoding="utf-8") as f:
             json.dump(reg, f, ensure_ascii=False, indent=1)
