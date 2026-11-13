@@ -1,0 +1,27 @@
+ cena 00 abertura   6.0s  Bienvenidos a Área Pequeña FC. Estas son las noticias de fút
+ cena 01 card       4.6s  Empezamos con Francia. ¿Qué pasa con Mbappé?
+ cena 02 foto       8.2s  Mbappé se fue de San Siro sin decir una palabra. Tras el tre
+ cena 03 foto       8.2s  No jugó por una molestia leve en los isquiotibiales. Zidane 
+ cena 04 foto       4.7s  Contó que Kylian quería jugar, pero podría volver contra Tur
+ cena 05 card       5.3s  Pasamos a España. Lamine Yamal ya está listo para volver.
+ cena 06 foto       8.9s  De la Fuente confirmó que Lamine se encuentra muy bien y que
+[ WARN:0@160.178] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@160.318] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 07 foto       4.1s  Mikel Oyarzabal también mejora y volverá con el grupo.
+ cena 08 foto       8.9s  Y el seleccionador ya calentó el partido. Dijo que España co
+ cena 09 card       4.2s  Y en el United, Bruno Fernandes rechaza otra oferta.
+ cena 10 foto       5.3s  The Athletic cuenta que Bruno Fernandes ya dijo no a una seg
+ cena 11 foto       8.1s  Su contrato termina en dos mil veintisiete, y desde enero po
+ cena 12 foto       8.7s  El problema está en el salario y la duración del nuevo acuer
+ cena 13 card       5.2s  Seguimos en el United. Carrick quedó dolido con su salida.
+ cena 14 foto       9.4s  Michael Carrick quedó dolido con cómo manejaron su salida. T
+ cena 15 foto       9.1s  En el club reconocen molestia por cómo se filtró todo. Ademá
+ cena 16 numero     7.8s  Pochettino ya tiene acuerdo con el United. Firmará hasta dos
+ cena 17 card       5.9s  Terminamos en Argentina. Scaloni renovó y la 10 de Messi sig
+ cena 18 foto       9.2s  Scaloni renovó hasta dos mil treinta y confirmó que, por aho
+ cena 19 cita       8.7s  El día que decidamos, esperemos que sea para siempre. Eso sí
+ cena 20 cita      10.3s  También elogió muchísimo a Paredes: estando bien, es el mejo
+ cena 21 cierre     7.5s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-03/longo.mp4  (159s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-03/_contato_longo.jpg

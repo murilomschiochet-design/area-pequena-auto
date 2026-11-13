@@ -136,8 +136,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-143.jpg",
      "nota": 5.15,
-     "ultimo_uso": "2026-11-12 12:01",
-     "usos": 1,
+     "ultimo_uso": "2026-11-13 08:46",
+     "usos": 2,
      "adicionada": "2026-11-12 12:01"
     },
     {
@@ -147,8 +147,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Lamine_Yamal_France_v_Spain_7.24.26-187.jpg",
      "nota": 5.31,
-     "ultimo_uso": "2026-11-12 17:09",
-     "usos": 1,
+     "ultimo_uso": "2026-11-13 08:52",
+     "usos": 2,
      "adicionada": "2026-11-12 12:01"
     },
     {
@@ -887,8 +887,8 @@
      "credito": "Timmy96 / Wikimedia Commons, CC0",
      "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(6).jpg",
      "nota": 5.68,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-13 08:47",
+     "usos": 1,
      "adicionada": "2026-11-12 17:22"
     },
     {
@@ -997,8 +997,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Sweden_6.30.26-225.jpg",
      "nota": 5.16,
-     "ultimo_uso": "2026-11-12 17:23",
-     "usos": 1,
+     "ultimo_uso": "2026-11-13 08:50",
+     "usos": 2,
      "adicionada": "2026-11-12 17:23"
     },
     {
@@ -1008,8 +1008,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Spain_7.24.26-135.jpg",
      "nota": 5.53,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-13 08:46",
+     "usos": 1,
      "adicionada": "2026-11-12 17:23"
     },
     {
@@ -1019,8 +1019,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Sweden_6.30.26-193.jpg",
      "nota": 6.04,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-13 08:50",
+     "usos": 1,
      "adicionada": "2026-11-12 17:23"
     },
     {
@@ -1500,6 +1500,346 @@
      "selecao": true,
      "base": true,
      "logo": null
+    }
+   ]
+  },
+  "Bruno Fernandes": {
+   "fotos": [
+    {
+     "arquivo": "Bruno Fernandes/Bruno Fernandes - Selección de Portugal - 1.jpg",
+     "contexto": "Selección de Portugal",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_Croatia_v_Portugal_2_July_2026-130.jpg",
+     "nota": 5.06,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-13 08:47"
+    },
+    {
+     "arquivo": "Bruno Fernandes/Bruno Fernandes - Selección de Portugal - 2.jpg",
+     "contexto": "Selección de Portugal",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_Croatia_v_Portugal_2_July_2026-128.jpg",
+     "nota": 5.34,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-13 08:47"
+    },
+    {
+     "arquivo": "Bruno Fernandes/Bruno Fernandes - Selección de Portugal - 3.jpg",
+     "contexto": "Selección de Portugal",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_Croatia_v_Portugal_2_July_2026-136.jpg",
+     "nota": 6.12,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-13 08:47"
+    },
+    {
+     "arquivo": "Bruno Fernandes/Bruno Fernandes - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Jahrenvisuals / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Bruno_Fernandes_v_PSG_preseason_2026.jpg",
+     "nota": 6.07,
+     "ultimo_uso": "2026-11-13 08:47",
+     "usos": 1,
+     "adicionada": "2026-11-13 08:47"
+    }
+   ],
+   "abastecido": "2026-11-13 08:47",
+   "wikidata": "Q4979316",
+   "times": [
+    {
+     "id": "Q18656",
+     "nome": "Manchester United Football Club",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q267245",
+     "nome": "Selección de Portugal",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8416",
+     "nome": "Novara F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2798",
+     "nome": "Udinese Calcio",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Udinese Calcio 2010.svg"
+    },
+    {
+     "id": "Q1457",
+     "nome": "Unione Calcio Sampdoria",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Flag of Sampdoria.svg"
+    },
+    {
+     "id": "Q75729",
+     "nome": "Sporting Clube de Portugal",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Sporting Clube de Portugal.svg"
+    },
+    {
+     "id": "Q3873524",
+     "nome": "Selección sub-19 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1772776",
+     "nome": "Selección sub-20 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1630430",
+     "nome": "Selección sub-21 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3590758",
+     "nome": "Selección olímpica de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Lionel Scaloni": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q311586",
+   "times": [
+    {
+     "id": "Q2609",
+     "nome": "Società Sportiva Lazio",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "S.S. Lazio logo.svg"
+    },
+    {
+     "id": "Q221882",
+     "nome": "Club Atlético Newell’s Old Boys",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Newell's escudo 2016.png"
+    },
+    {
+     "id": "Q18747",
+     "nome": "West Ham United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q12236",
+     "nome": "Racing de Santander",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8760",
+     "nome": "Real Club Deportivo de A Coruña",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8835",
+     "nome": "Real Club Deportivo Mallorca",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1886",
+     "nome": "Atalanta Bergamasca Calcio",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Atalanta BC.png"
+    },
+    {
+     "id": "Q214940",
+     "nome": "Club Estudiantes de La Plata",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Estudiantes de la Plata crest (2025).svg"
+    },
+    {
+     "id": "Q79800",
+     "nome": "Selección de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10329",
+     "nome": "Sevilla Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1187790",
+     "nome": "Selección sub-20 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Afa gold logo24.svg"
+    }
+   ]
+  },
+  "Mikel Oyarzabal": {
+   "fotos": [
+    {
+     "arquivo": "Mikel Oyarzabal/Mikel Oyarzabal - Selección de España - 1.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Mikel_Oyarzabal_Argentina_v_Spain_19_July_2026-122.jpg",
+     "nota": 5.36,
+     "ultimo_uso": "2026-11-13 08:58",
+     "usos": 1,
+     "adicionada": "2026-11-13 08:57"
+    },
+    {
+     "arquivo": "Mikel Oyarzabal/Mikel Oyarzabal - Selección de España - 2.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Rodrigo_De_Paul_Mikel_Oyarzabal_Argentina_v_Spain_19_July_2026-098.jpg",
+     "nota": 3.99,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-13 08:58"
+    },
+    {
+     "arquivo": "Mikel Oyarzabal/Mikel Oyarzabal - Selección de España - 3.jpg",
+     "contexto": "Selección de España",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Manu_Kone_Maxence_Lacroix_Mikel_Oyarzabal_France_v_Spain_7.24.26-220.jpg",
+     "nota": 5.54,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-13 08:58"
+    }
+   ],
+   "abastecido": "2026-11-13 08:58",
+   "wikidata": "Q21195147",
+   "times": [
+    {
+     "id": "Q10315",
+     "nome": "Real Sociedad de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q42267",
+     "nome": "Selección de España",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q738846",
+     "nome": "Selección de Euskadi",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q770740",
+     "nome": "Sociedad Deportiva Eibar",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1067750",
+     "nome": "Real Sociedad de Fútbol \"B\"",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3589784",
+     "nome": "Selección sub-18 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2713491",
+     "nome": "Selección sub-19 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1129595",
+     "nome": "Selección sub-21 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Escudo de España (variant).svg"
+    },
+    {
+     "id": "Q2637337",
+     "nome": "Selección sub-23 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Spanish Olympic Committee logo.svg"
     }
    ]
   }
