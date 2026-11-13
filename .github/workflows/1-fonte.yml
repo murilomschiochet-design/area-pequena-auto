@@ -1,10 +1,12 @@
-# 1) Todo dia às 07:00 (Roma, horário de inverno; 08:00 no verão): pega o último vídeo do @Cracks e salva a transcrição em fontes/.
+# 1) Todo dia às 06:17 e de novo às 06:47 (Roma, inverno; +1h no verão): pega o último vídeo do @Cracks e salva a transcrição em fontes/.
+#    Minutos "quebrados" de propósito: o GitHub atrasa ou pula agendamentos na hora cheia. Rodar 2x não duplica (processados.json).
 #    Depois a rotina do Claude (08:00) lê fontes/PENDENTE.txt e escreve os roteiros.
 name: 1 - Transcricao do Cracks
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "17 5 * * *"
+    - cron: "47 5 * * *"
   workflow_dispatch:
   push:
     branches: [main]
