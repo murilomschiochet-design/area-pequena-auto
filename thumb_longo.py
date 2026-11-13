@@ -60,7 +60,7 @@ def avaliar(foto):
     a = np.array(r.getchannel("A")) > 40
     cobertura = a.mean() * (w * h) / (W * H)
     razao = h / max(w, 1)
-    nota = min(h, 1400) / 1400 + (0.6 if 0.9 <= razao <= 2.4 else 0) + a.mean() * 0.5
+    nota = min(h, 1400) / 1400 + (0.8 if 1.3 <= razao <= 2.6 else 0) + a.mean() * 0.5   # rosto só (largo) fica gigante: evita
     return rec, nota, cobertura
 
 
@@ -70,6 +70,9 @@ def melhor_recorte(nome, contexto=None):
     if not melhores:
         return None, []
     melhores.sort(key=lambda x: -x[1])
+    r = Image.open(melhores[0][0])
+    if not (1.15 <= r.height / max(r.width, 1) <= 2.8):     # só rosto ou foto de grupo: essa pessoa vai pro círculo
+        return None, melhores
     return melhores[0][0], melhores
 
 
@@ -107,6 +110,12 @@ def rosto(foto):
     ys, xs = np.nonzero(mask_full)
     if len(xs) == 0:
         return foto
+    if mask_full.mean() > 0.25 or (ys.max() - ys.min()) > 0.75 * H:   # já é um close: usa a foto quase inteira
+        lado = min(W, H)
+        x0 = int(min(max(xs.mean() - lado / 2, 0), W - lado))
+        y0 = 0
+        im.crop((x0, y0, x0 + lado, y0 + lado)).resize((500, 500), Image.LANCZOS).save(destino, quality=92)
+        return destino
     topo, base, esq, dir_ = ys.min(), ys.max(), xs.min(), xs.max()
     larg, alt = dir_ - esq, base - topo
     if alt > 0.6 * H and larg > 0.45 * W:   # foto de busto/rosto: quase a foto inteira
@@ -166,6 +175,84 @@ def escudo_png(clube):
     return arq
 
 
+PAISES = {"españa": "Spain", "francia": "France", "inglaterra": "England", "alemania": "Germany", "italia": "Italy",
+          "portugal": "Portugal", "brasil": "Brazil", "argentina": "Argentina", "países bajos": "the Netherlands",
+          "bélgica": "Belgium", "croacia": "Croatia", "uruguay": "Uruguay", "colombia": "Colombia", "méxico": "Mexico",
+          "estados unidos": "the United States", "marruecos": "Morocco", "noruega": "Norway", "polonia": "Poland",
+          "suiza": "Switzerland", "dinamarca": "Denmark", "turquía": "Turkey", "japón": "Japan", "escocia": "Scotland",
+          "serbia": "Serbia", "senegal": "Senegal", "ecuador": "Ecuador", "chile": "Chile", "perú": "Peru", "paraguay": "Paraguay",
+          "costa de marfil": "Côte d'Ivoire", "nigeria": "Nigeria", "egipto": "Egypt", "corea del sur": "South Korea"}
+
+
+def bandeira_png(selecao):
+    """Seleção → bandeira do país (livre no Commons), em PNG."""
+    import io
+    import urllib.parse
+    nome = selecao.lower().replace("selección de fútbol de ", "").replace("selección de ", "").replace("selección ", "").strip()
+    pais = PAISES.get(nome)
+    if not pais:
+        return None
+    pasta = os.path.join(BASE, "banco", "escudos-png")
+    os.makedirs(pasta, exist_ok=True)
+    arq = os.path.join(pasta, "bandeira-" + banco._nome_arquivo(pais) + ".png")
+    if not os.path.exists(arq):
+        try:
+            url = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(f"Flag_of_{pais.replace(' ', '_')}.svg") + "?width=600"
+            Image.open(io.BytesIO(banco.fotos._get(url))).convert("RGBA").save(arq)
+        except Exception as e:
+            print(f"  ! bandeira {pais} falhou: {str(e)[:60]}")
+            return None
+    return arq
+
+
+def simbolo(clube):
+    """Escudo do clube ou, se for seleção, a bandeira."""
+    if "selecci" in clube.lower():
+        return bandeira_png(clube) or escudo_png(clube)
+    return escudo_png(clube)
+
+
+def cores_de(png, n=3):
+    """As cores mais fortes da imagem (escudo/bandeira/camisa) pra pintar as pinceladas."""
+    im = Image.open(png).convert("RGBA")
+    im.thumbnail((160, 160))
+    a = np.array(im)
+    px = a[a[:, :, 3] > 200][:, :3].astype(np.float32)
+    if len(px) < 50:
+        return []
+    import cv2
+    _, rot, centros = cv2.kmeans(px, 5, None, (cv2.TERM_CRITERIA_EPS + cv2.TERM_CRITERIA_MAX_ITER, 20, 1.0), 3, cv2.KMEANS_PP_CENTERS)
+    conta = np.bincount(rot.flatten(), minlength=5)
+    cores = []
+    for i in np.argsort(-conta):
+        r, g, b = centros[i]
+        sat = max(r, g, b) - min(r, g, b)
+        luz = (r + g + b) / 3
+        if conta[i] < len(px) * 0.04 or (sat < 40 and 60 < luz < 215):   # descarta cinzas sujos
+            continue
+        cores.append("#%02x%02x%02x" % (int(r), int(g), int(b)))
+    return cores[:n]
+
+
+def nitido(caminho):
+    """Mais nitidez, contraste e cor (como thumb profissional)."""
+    from PIL import ImageEnhance, ImageFilter
+    base, ext = os.path.splitext(caminho)
+    destino = base + "-hd" + (".png" if ext.lower() == ".png" else ".jpg")
+    if os.path.exists(destino):
+        return destino
+    im = Image.open(caminho)
+    alfa = im.getchannel("A") if im.mode == "RGBA" else None
+    rgb = im.convert("RGB").filter(ImageFilter.UnsharpMask(radius=2.2, percent=150, threshold=2))
+    rgb = ImageEnhance.Contrast(ImageEnhance.Color(rgb).enhance(1.18)).enhance(1.08)
+    if alfa:
+        rgb.putalpha(alfa)
+        rgb.save(destino)
+    else:
+        rgb.save(destino, quality=93)
+    return destino
+
+
 def escolhas(rot):
     """Quem aparece: o bloco longo.thumb do roteiro (escolhido pela rotina) ou, sem ele, as pessoas dos shorts."""
     t = (rot.get("longo") or {}).get("thumb") or {}
@@ -208,36 +295,44 @@ Título do vídeo (pra conferir que a imagem combina): {longo.get('titulo_yt', '
 def gerar(dia):
     rot = json.load(open(os.path.join(BASE, "roteiros", f"{dia}.json"), encoding="utf-8"))
     g_nomes, c_nomes, escudos, ctx = escolhas(rot)
+    t = (rot.get("longo") or {}).get("thumb") or {}
     grandes, todas, usados = [], [], set()
     for nome in g_nomes:
-        if len(grandes) == 3 or nome in usados:
+        if len(grandes) == 2 or nome in usados:          # 2 grandes; o 3º vira círculo
             continue
         rec, lista = melhor_recorte(nome, ctx.get(nome))
         todas += lista
         if rec:
             usados.add(nome)
             grandes.append((nome, rec))
-    circulos = []
-    for nome in c_nomes + [n for n in g_nomes if n not in usados]:
+    circulos, c_usados = [], []
+    for nome in [n for n in g_nomes if n not in usados] + c_nomes:
         if len(circulos) == 3 or nome in usados:
             continue
         fs = fotos_da_pessoa(nome, ctx.get(nome))
         if fs:
             usados.add(nome)
             circulos.append(fs[0])
+            c_usados.append(nome)
     if not grandes:
         raise SystemExit("sem recorte de nenhum jogador: thumbnail não gerada")
     fundo = min(todas, key=lambda x: x[2])[3] if todas else os.path.join(BASE, "assets", "estadio-fundo.jpg")
     u = navegador.url_arquivo
-    d = {"fundo": u(fundo), "layout": {}}
-    for k, (_, rec) in zip(("p1", "p2", "p3"), grandes):
-        d[k] = u(busto(rec))
+    d = {"fundo": u(fundo), "layout": {}, "alerta": bool(t.get("alerta"))}
+    for k, (_, rec) in zip(("p1", "p2"), grandes):
+        d[k] = u(nitido(busto(rec)))
     for k, f in zip(("c1", "c2", "c3"), circulos):
-        d[k], d[k + "pos"] = u(rosto(f)), "50% 40%"
-    for k, e in zip(("e1", "e2"), escudos[:2]):
-        png = escudo_png(e.get("clube", "")) if e.get("clube") else None
+        d[k], d[k + "pos"] = u(nitido(rosto(f))), "50% 40%"
+    cores = []
+    if escudos and escudos[0].get("clube"):
+        png = simbolo(escudos[0]["clube"])
         if png:
-            d[k], d[k + "marca"] = u(png), e.get("marca", "")
+            cores = cores_de(png)
+            if "bandeira-" not in os.path.basename(png):          # bandeira retangular fica feia: vira só as cores
+                d["e1"], d["e1marca"] = u(png), escudos[0].get("marca", "")
+    if len(cores) < 2:                                   # sem escudo: cores da camisa do principal
+        cores = cores_de(busto(grandes[0][1])) or cores
+    d["cores"] = cores
     pasta = os.path.join(BASE, "saida", dia)
     os.makedirs(pasta, exist_ok=True)
     png = os.path.join(pasta, "_thumb.png")
@@ -245,9 +340,9 @@ def gerar(dia):
     destino = os.path.join(pasta, "thumb.jpg")
     Image.open(png).convert("RGB").save(destino, "JPEG", quality=90)
     os.remove(png)
-    escrever_prompt_flow(pasta, rot, [g[0] for g in grandes], c_nomes[:3], escudos[:2])
-    print(f"thumb: {destino}  (grandes: {[g[0] for g in grandes]}, círculos: {len(circulos)}, "
-          f"escudos: {[e.get('clube') for e in escudos[:2]]}, fundo: {os.path.basename(fundo)})")
+    escrever_prompt_flow(pasta, rot, [g[0] for g in grandes], c_usados, escudos[:1])
+    print(f"thumb: {destino}  (grandes: {[g[0] for g in grandes]}, círculos: {c_usados}, "
+          f"símbolo: {escudos[0].get('clube') if escudos else None}, cores: {cores}, alerta: {d['alerta']})")
     return destino
 
 
