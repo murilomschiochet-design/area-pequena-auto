@@ -1,25 +1,13 @@
 
 == dia-03: 5 shorts
  01 Mbappé *se fue* de San Siro sin hablar
-    foto: Kylian Mbappé/Kylian Mbappé - Selección de Francia - 2.jpg
     ok
  02 Lamine *ya está listo* para volver
-    foto: Lamine Yamal/Lamine Yamal - Selección de España - 1.jpg
     ok
  03 Bruno *rechaza* otra oferta del United
-[ WARN:0@48.903] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
-[ WARN:0@49.094] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
-    banco + Bruno Fernandes - Selección de Portugal - 1.jpg
-    banco + Bruno Fernandes - Selección de Portugal - 2.jpg
-    banco + Bruno Fernandes - Selección de Portugal - 3.jpg
-    banco + Bruno Fernandes - Geral - 1.jpg
-    foto: Bruno Fernandes/Bruno Fernandes - Geral - 1.jpg
     ok
  04 Carrick *dolido* por su salida del United
-    foto: Michael Carrick/Michael Carrick - Middlesbrough Football Club - 2.jpg
     ok
  05 Scaloni *renueva* y nadie usará la 10 de Messi
-    ! sem escudo para selección de fútbol de Argentina
-    foto: File:Estadio Monumental 2024.jpg
     ok
  painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-03/painel.html

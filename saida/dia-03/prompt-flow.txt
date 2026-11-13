@@ -11,7 +11,7 @@ Copy only the LOOK of images 2 and 3 (style references, do not copy their people
 - background: packed football stadium crowd at night, strong depth-of-field blur, warm stadium lights and soft light flares
 - every cut-out person has a thin clean white outline, crisp edges, strong rim light, punchy saturated colors and high contrast
 - circle portraits with thick white borders and drop shadows, faces centered and sharp
-- club crests: Selección de fútbol de Francia (no mark); keep crests flat and accurate
+- club crests: none; keep crests flat and accurate
 - keep the "AREA PEQUEÑA" badge in the bottom-left corner exactly as it is
 No other text, no titles, no watermarks. Photorealistic, sharp, professional sports-news thumbnail.
 

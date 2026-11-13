@@ -5,8 +5,6 @@
  cena 04 foto       4.7s  Contó que Kylian quería jugar, pero podría volver contra Tur
  cena 05 card       5.3s  Pasamos a España. Lamine Yamal ya está listo para volver.
  cena 06 foto       8.9s  De la Fuente confirmó que Lamine se encuentra muy bien y que
-[ WARN:0@160.178] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
-[ WARN:0@160.318] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
  cena 07 foto       4.1s  Mikel Oyarzabal también mejora y volverá con el grupo.
  cena 08 foto       8.9s  Y el seleccionador ya calentó el partido. Dijo que España co
  cena 09 card       4.2s  Y en el United, Bruno Fernandes rechaza otra oferta.
