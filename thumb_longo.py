@@ -42,7 +42,7 @@ def fotos_da_pessoa(nome, contexto=None):
         return []
     fs = [f for f in ent.get("fotos", []) if os.path.exists(os.path.join(banco.PASTA_FOTOS, f["arquivo"]))]
     ordem = {"selecao": 0 if contexto == "selecao" else 1, "clube": 0 if contexto != "selecao" else 1, "geral": 2}
-    fs.sort(key=lambda f: ordem.get(f.get("tipo"), 2))
+    fs.sort(key=lambda f: (ordem.get(f.get("tipo"), 2), -float(f.get("nota") or 0)))
     uniforme = [f for f in fs if f.get("tipo") != "geral"]
     return [os.path.join(banco.PASTA_FOTOS, f["arquivo"]) for f in (uniforme or fs)]
 
@@ -73,45 +73,171 @@ def melhor_recorte(nome, contexto=None):
     return melhores[0][0], melhores
 
 
+def busto(rec):
+    """Corpo inteiro fica pequeno na thumb: corta da cabeça até a cintura (como o Cracks)."""
+    im = Image.open(rec)
+    w, h = im.size
+    if h / max(w, 1) < 1.45:
+        return rec
+    destino = rec.replace(".png", "-busto.png")
+    if not os.path.exists(destino):
+        corte = im.crop((0, 0, w, int(h * 0.6)))
+        caixa = corte.getchannel("A").point(lambda v: 255 if v > 30 else 0).getbbox()
+        (corte.crop(caixa) if caixa else corte).save(destino)
+    return destino
+
+
+def rosto(foto):
+    """Quadrado centrado na cabeça da pessoa (pro círculo), a partir do recorte."""
+    try:
+        rec = recorte.recortar(foto)
+    except Exception:
+        return foto
+    destino = rec.replace(".png", "-rosto.jpg")
+    if os.path.exists(destino):
+        return destino
+    im = Image.open(foto).convert("RGB")
+    im.thumbnail((1400, 1400))
+    from rembg import remove  # noqa: F401  (só pra garantir que o recorte veio do mesmo tamanho)
+    r = Image.open(rec)
+    a = np.array(r.getchannel("A")) > 40
+    # o recorte foi cortado na caixa da pessoa: reencontra a posição dela na foto pelo tamanho
+    W, H = im.size
+    mask_full = np.array(recorte_mascara(foto, im.size))
+    ys, xs = np.nonzero(mask_full)
+    if len(xs) == 0:
+        return foto
+    topo, base, esq, dir_ = ys.min(), ys.max(), xs.min(), xs.max()
+    larg, alt = dir_ - esq, base - topo
+    if alt > 0.6 * H and larg > 0.45 * W:   # foto de busto/rosto: quase a foto inteira
+        lado = int(min(W, H) * 0.85)
+    else:                                   # corpo inteiro pequeno: só cabeça e ombros
+        lado = int(min(max(min(larg * 0.75, alt * 0.42), 120), W, H))
+    linha_cabeca = mask_full[topo:topo + max(lado // 2, 1)]
+    cx = int(np.nonzero(linha_cabeca.any(axis=0))[0].mean()) if linha_cabeca.any() else (esq + dir_) // 2
+    x0 = int(min(max(cx - lado / 2, 0), W - lado))
+    y0 = int(min(max(topo - lado * 0.06, 0), H - lado))
+    im.crop((x0, y0, x0 + lado, y0 + lado)).resize((500, 500), Image.LANCZOS).save(destino, quality=92)
+    return destino
+
+
+def recorte_mascara(foto, tamanho):
+    from rembg import remove, new_session
+    global _sess
+    try:
+        _sess
+    except NameError:
+        _sess = new_session("u2net_human_seg")
+    im = Image.open(foto).convert("RGB").resize(tamanho)
+    m = np.array(remove(im, session=_sess, only_mask=True, post_process_mask=True)) > 100
+    try:
+        import cv2
+        n, lab, stats, _ = cv2.connectedComponentsWithStats(m.astype(np.uint8), 8)
+        if n > 2:
+            w = m.shape[1]
+            melhor = max(range(1, n), key=lambda i: stats[i, cv2.CC_STAT_AREA] / (1 + abs((stats[i, 0] + stats[i, 2] / 2) / w - 0.5) * 2))
+            m = lab == melhor
+    except ImportError:
+        pass
+    return m
+
+
+def escudo_png(clube):
+    """Escudo oficial (Wikidata P154) em PNG transparente, guardado em banco/escudos-png/."""
+    import urllib.parse
+    pasta = os.path.join(BASE, "banco", "escudos-png")
+    os.makedirs(pasta, exist_ok=True)
+    arq = os.path.join(pasta, banco._nome_arquivo(clube) + ".png")
+    if os.path.exists(arq):
+        return arq
+    try:
+        nome, logo = banco._info_clube(clube)
+        if not logo:
+            print(f"  ! sem escudo no Wikidata: {clube}")
+            return None
+        url = "https://commons.wikimedia.org/wiki/Special:FilePath/" + urllib.parse.quote(logo.replace(" ", "_")) + "?width=600"
+        import io
+        im = Image.open(io.BytesIO(banco.fotos._get(url))).convert("RGBA")
+    except Exception as e:
+        print(f"  ! escudo {clube} falhou: {str(e)[:80]}")
+        return None
+    caixa = im.getchannel("A").getbbox()
+    (im.crop(caixa) if caixa else im).save(arq)
+    return arq
+
+
+def escolhas(rot):
+    """Quem aparece: o bloco longo.thumb do roteiro (escolhido pela rotina) ou, sem ele, as pessoas dos shorts."""
+    t = (rot.get("longo") or {}).get("thumb") or {}
+    ctx = {nome_pessoa(s): s.get("contexto") for s in rot["shorts"]}
+    pessoas = [nome_pessoa(s) for s in rot["shorts"] if nome_pessoa(s)]
+    grandes = t.get("grandes") or pessoas[:3]
+    circulos = t.get("circulos") or [p for p in pessoas if p not in grandes][:3]
+    escudos = t.get("escudos") or []
+    return grandes, circulos, escudos, ctx
+
+
+def escrever_prompt_flow(pasta, rot, grandes, circulos, escudos):
+    """Prompt pronto pra melhorar a thumbnail no Flow (Google), usando a nossa como base."""
+    longo = rot.get("longo") or {}
+    clubes = ", ".join(f"{e.get('clube')} ({'red X over it' if e.get('marca') == 'x' else 'green check mark' if e.get('marca') == 'v' else 'no mark'})"
+                       for e in escudos if e.get("clube")) or "none"
+    txt = f"""COMO USAR NO FLOW
+1. Imagem 1: thumb.jpg (esta pasta) = a base. Imagens 2 e 3: duas thumbnails do Cracks (só como referência de estilo).
+2. Cole o prompt abaixo. Gere 4 versões e escolha a melhor; se mudar o rosto de alguém, descarte.
+3. Suba no YouTube Studio > vídeo longo do dia > Miniatura.
+
+PROMPT (cole tudo):
+Edit image 1 into a high-impact YouTube thumbnail for a Spanish football news video, 16:9, 1280x720.
+Keep EXACTLY the same people, faces, hair, kits and positions from image 1 - do not change anyone's face or identity, do not add new people.
+Main figure in the center: {grandes[0] if grandes else ''}. Other large figures: {', '.join(grandes[1:]) or 'none'}. Small circle portraits: {', '.join(circulos) or 'none'}.
+Copy only the LOOK of images 2 and 3 (style references, do not copy their people, logos or text):
+- background: packed football stadium crowd at night, strong depth-of-field blur, warm stadium lights and soft light flares
+- every cut-out person has a thin clean white outline, crisp edges, strong rim light, punchy saturated colors and high contrast
+- circle portraits with thick white borders and drop shadows, faces centered and sharp
+- club crests: {clubes}; keep crests flat and accurate
+- keep the "AREA PEQUEÑA" badge in the bottom-left corner exactly as it is
+No other text, no titles, no watermarks. Photorealistic, sharp, professional sports-news thumbnail.
+
+Título do vídeo (pra conferir que a imagem combina): {longo.get('titulo_yt', '')}
+"""
+    with open(os.path.join(pasta, "prompt-flow.txt"), "w", encoding="utf-8") as f:
+        f.write(txt)
+
+
 def gerar(dia):
     rot = json.load(open(os.path.join(BASE, "roteiros", f"{dia}.json"), encoding="utf-8"))
-    shorts = rot["shorts"]
-    usados, grandes, todas = set(), [], []
-    for s in shorts:
-        nome = nome_pessoa(s)
-        if not nome or nome in usados:
+    g_nomes, c_nomes, escudos, ctx = escolhas(rot)
+    grandes, todas, usados = [], [], set()
+    for nome in g_nomes:
+        if len(grandes) == 3 or nome in usados:
             continue
-        rec, lista = melhor_recorte(nome, s.get("contexto"))
+        rec, lista = melhor_recorte(nome, ctx.get(nome))
         todas += lista
         if rec:
             usados.add(nome)
-            grandes.append((nome, rec, lista))
-        if len(grandes) == 2:
-            break
+            grandes.append((nome, rec))
     circulos = []
-    for s in shorts:
-        nome = nome_pessoa(s)
-        if not nome or nome in usados:
+    for nome in c_nomes + [n for n in g_nomes if n not in usados]:
+        if len(circulos) == 3 or nome in usados:
             continue
-        fs = fotos_da_pessoa(nome, s.get("contexto"))
+        fs = fotos_da_pessoa(nome, ctx.get(nome))
         if fs:
             usados.add(nome)
             circulos.append(fs[0])
-        if len(circulos) == 2:
-            break
     if not grandes:
         raise SystemExit("sem recorte de nenhum jogador: thumbnail não gerada")
-    # fundo: a foto com MENOS gente na frente (mais torcida/estádio)
     fundo = min(todas, key=lambda x: x[2])[3] if todas else os.path.join(BASE, "assets", "estadio-fundo.jpg")
     u = navegador.url_arquivo
-    d = {"fundo": u(fundo), "p1": u(grandes[0][1]),
-         "layout": {"p1x": "370px", "p2x": "10px", "p1h": "700px", "p2h": "640px"}}
-    if len(grandes) > 1:
-        d["p2"] = u(grandes[1][1])
-    else:
-        d["layout"]["p1x"] = "240px"
-    for k, f in zip(("c1", "c2"), circulos):
-        d[k], d[k + "pos"] = u(f), "50% 28%"
+    d = {"fundo": u(fundo), "layout": {}}
+    for k, (_, rec) in zip(("p1", "p2", "p3"), grandes):
+        d[k] = u(busto(rec))
+    for k, f in zip(("c1", "c2", "c3"), circulos):
+        d[k], d[k + "pos"] = u(rosto(f)), "50% 40%"
+    for k, e in zip(("e1", "e2"), escudos[:2]):
+        png = escudo_png(e.get("clube", "")) if e.get("clube") else None
+        if png:
+            d[k], d[k + "marca"] = u(png), e.get("marca", "")
     pasta = os.path.join(BASE, "saida", dia)
     os.makedirs(pasta, exist_ok=True)
     png = os.path.join(pasta, "_thumb.png")
@@ -119,7 +245,9 @@ def gerar(dia):
     destino = os.path.join(pasta, "thumb.jpg")
     Image.open(png).convert("RGB").save(destino, "JPEG", quality=90)
     os.remove(png)
-    print(f"thumb: {destino}  (grandes: {[g[0] for g in grandes]}, círculos: {len(circulos)}, fundo: {os.path.basename(fundo)})")
+    escrever_prompt_flow(pasta, rot, [g[0] for g in grandes], c_nomes[:3], escudos[:2])
+    print(f"thumb: {destino}  (grandes: {[g[0] for g in grandes]}, círculos: {len(circulos)}, "
+          f"escudos: {[e.get('clube') for e in escudos[:2]]}, fundo: {os.path.basename(fundo)})")
     return destino
 
 

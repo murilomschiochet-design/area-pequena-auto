@@ -870,37 +870,16 @@
   "Michael Carrick": {
    "fotos": [
     {
-     "arquivo": "Michael Carrick/Michael Carrick - Middlesbrough Football Club - 1.jpg",
-     "contexto": "Middlesbrough Football Club",
+     "arquivo": "Michael Carrick/Michael Carrick - Manchester United Football Club - m2.jpg",
+     "contexto": "Manchester United Football Club",
      "tipo": "clube",
-     "credito": "Timmy96 / Wikimedia Commons, CC0",
-     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(2).jpg",
-     "nota": 6.38,
-     "ultimo_uso": "2026-11-12 17:22",
-     "usos": 1,
-     "adicionada": "2026-11-12 17:22"
-    },
-    {
-     "arquivo": "Michael Carrick/Michael Carrick - Middlesbrough Football Club - 2.jpg",
-     "contexto": "Middlesbrough Football Club",
-     "tipo": "clube",
-     "credito": "Timmy96 / Wikimedia Commons, CC0",
-     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(6).jpg",
-     "nota": 5.68,
-     "ultimo_uso": "2026-11-13 08:47",
-     "usos": 1,
-     "adicionada": "2026-11-12 17:22"
-    },
-    {
-     "arquivo": "Michael Carrick/Michael Carrick - Middlesbrough Football Club - 3.jpg",
-     "contexto": "Middlesbrough Football Club",
-     "tipo": "clube",
-     "credito": "Timmy96 / Wikimedia Commons, CC0",
-     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(4).jpg",
-     "nota": 5.61,
+     "credito": "Gordon Flood / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Carrick_cropped.jpg",
+     "nota": 9.9,
      "ultimo_uso": null,
      "usos": 0,
-     "adicionada": "2026-11-12 17:22"
+     "adicionada": "2026-11-13 10:26",
+     "manual": true
     }
    ],
    "abastecido": "2026-11-12 17:22",
@@ -986,6 +965,13 @@
      "base": true,
      "logo": null
     }
+   ],
+   "bloqueadas": [
+    "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(2).jpg",
+    "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(6).jpg",
+    "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(4).jpg",
+    "https://commons.wikimedia.org/wiki/File:Michael_Carrick_12042025_(5)_(cropped).jpg",
+    "https://commons.wikimedia.org/wiki/File:Michael_Carrick_-_July_2015_(cropped).jpg"
    ]
   },
   "Kylian Mbappé": {

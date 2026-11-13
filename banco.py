@@ -131,7 +131,7 @@ def abastecer(nome, log=print, forcar=False):
     ts = times(info["id"])
     ent["times"] = [{k: t[k] for k in ("id", "nome", "atual", "selecao", "base", "logo")} for t in ts]
     ref = fotos.rosto_oficial(nome, info)
-    ja = {f["origem"] for f in ent["fotos"]}
+    ja = {f["origem"] for f in ent["fotos"]} | set(ent.get("bloqueadas", []))
     conta = {}
     for f in ent["fotos"]:
         conta[f["contexto"]] = conta.get(f["contexto"], 0) + 1
@@ -180,6 +180,54 @@ def abastecer(nome, log=print, forcar=False):
     ent["abastecido"] = _hoje() if ent["fotos"] else None   # sem foto: tenta de novo na próxima
     _gravar(idx)
     return ent
+
+
+def bloquear(nome, trecho):
+    """Tira do banco as fotos da pessoa cujo arquivo contém `trecho` e nunca mais baixa de novo (foto feia/errada)."""
+    idx = _ler()
+    ent = _entrada(idx, nome)
+    fora = [f for f in ent["fotos"] if trecho in f["arquivo"]]
+    ent["fotos"] = [f for f in ent["fotos"] if f not in fora]
+    ent.setdefault("bloqueadas", []).extend(f["origem"] for f in fora)
+    for f in fora:
+        try:
+            os.remove(os.path.join(PASTA_FOTOS, f["arquivo"]))
+        except OSError:
+            pass
+    _gravar(idx)
+    return [f["arquivo"] for f in fora]
+
+
+def adicionar_manual(nome, pagina_commons, contexto="Geral", tipo="geral"):
+    """Põe no banco uma foto escolhida à mão do Wikimedia Commons (ex.: "File:Michael Carrick - July 2015 (cropped).jpg")."""
+    idx = _ler()
+    ent = _entrada(idx, nome)
+    info = fotos.pessoa(nome)
+    ref = fotos.rosto_oficial(nome, info)
+    d = fotos._api("https://commons.wikimedia.org/w/api.php", action="query", format="json", titles=pagina_commons,
+                   prop="imageinfo", iiprop="url|extmetadata", iiurlwidth=2000, iiextmetadatafilter="Artist|LicenseShortName")
+    pg = list(d["query"]["pages"].values())[0]
+    if "imageinfo" not in pg:
+        raise SystemExit(f"não achei {pagina_commons} no Commons")
+    ii = pg["imageinfo"][0]
+    meta = ii.get("extmetadata") or {}
+    autor = re.sub(r"<[^>]+>", "", (meta.get("Artist") or {}).get("value", "")).strip()[:50]
+    lic = (meta.get("LicenseShortName") or {}).get("value", "")
+    c = {"url": ii.get("thumburl") or ii["url"], "pagina": ii.get("descriptionurl", pagina_commons),
+         "titulo": pg["title"], "credito": (f"{autor} / " if autor else "") + "Wikimedia Commons" + (f", {lic}" if lic else "")}
+    img = fotos._imagem(c["url"])
+    av = fotos._avaliar_jogador(img, ref, c) or (1.0, None)
+    caixa = fotos.recorte(img, av[1]) if av[1] is not None else (0, 0, img.shape[1], img.shape[0])
+    corte = img[caixa[1]:caixa[1] + caixa[3], caixa[0]:caixa[0] + caixa[2]]
+    corte = cv2.resize(corte, (fotos.SAIDA_L, fotos.SAIDA_A), interpolation=cv2.INTER_AREA)
+    n = sum(1 for f in ent["fotos"] if f["contexto"] == contexto) + 1
+    arq = _nome_arquivo(f"{nome} - {contexto} - m{n}.jpg")
+    _salvar_jpg(corte, os.path.join(PASTA_FOTOS, _nome_arquivo(nome), arq))
+    ent["fotos"].append({"arquivo": f"{_nome_arquivo(nome)}/{arq}", "contexto": contexto, "tipo": tipo,
+                         "credito": c["credito"], "origem": c["pagina"], "nota": 9.9, "ultimo_uso": None,
+                         "usos": 0, "adicionada": _hoje(), "manual": True})
+    _gravar(idx)
+    return arq
 
 
 # ---------------------------------------------------------------- escudos
