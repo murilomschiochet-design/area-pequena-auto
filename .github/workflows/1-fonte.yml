@@ -1,7 +1,8 @@
-# 1) Todo dia às 06:17 e de novo às 06:47 (Roma, inverno; +1h no verão): pega o último vídeo do @Cracks e salva a transcrição em fontes/.
+# 1) Todo dia às 06:17 e de novo às 06:47 (Roma, inverno; +1h no verão): junta as notícias da MARCA/AS/Mundo Deportivo
+#    (fontes/noticias-AAAA-MM-DD.txt) e, se houver vídeo novo do @Cracks, a transcrição dele.
 #    Minutos "quebrados" de propósito: o GitHub atrasa ou pula agendamentos na hora cheia. Rodar 2x não duplica (processados.json).
 #    Depois a rotina do Claude (08:00) lê fontes/PENDENTE.txt e escreve os roteiros.
-name: 1 - Transcricao do Cracks
+name: 1 - Fontes do dia
 
 on:
   schedule:
@@ -32,13 +33,15 @@ jobs:
       - name: Baixar transcricao
         env:
           SUPADATA_API_KEY: ${{ secrets.SUPADATA_API_KEY }}
-        run: python transcricao.py ultimo 2>&1 | tee fontes/_log.txt
+        run: python transcricao.py ultimo 2>&1 | tee fontes/_log.txt || true
+      - name: Noticias MARCA / AS / Mundo Deportivo
+        run: python noticias.py 2>&1 | tee -a fontes/_log.txt
       - name: Salvar no repositorio
         run: |
           git config user.name "area-pequena-bot"
           git config user.email "area-pequena-bot@users.noreply.github.com"
           git add fontes
           git diff --cached --quiet && { echo "nada novo"; exit 0; }
-          git commit -m "fonte: $(cat fontes/PENDENTE.txt)"
+          git commit -m "fontes do dia: noticias $( [ -f fontes/PENDENTE.txt ] && echo "+ Cracks $(cat fontes/PENDENTE.txt)" )"
           git pull --rebase -q
           git push
