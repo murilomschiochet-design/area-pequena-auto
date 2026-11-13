@@ -1,0 +1,44 @@
+# 4) Todo dia 12:07 de Brasília (15:07 UTC): publica no Instagram @primeirocliente.site o post do dia + stories.
+name: 4 - Primeiro Cliente (Instagram)
+
+on:
+  schedule:
+    - cron: "7 15 * * *"
+    - cron: "37 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: primeiro-cliente
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -q tzdata
+      - name: Publicar o post de hoje
+        env:
+          PC_IG_TOKEN: ${{ secrets.PC_IG_TOKEN }}
+          PC_IG_USER_ID: ${{ secrets.PC_IG_USER_ID }}
+        run: |
+          if [ -z "$PC_IG_TOKEN" ]; then echo "Sem chave do Instagram do Primeiro Cliente."; exit 0; fi
+          python primeiro_cliente.py publicar
+      - name: Salvar registro
+        run: |
+          git config user.name "primeiro-cliente-bot"
+          git config user.email "primeiro-cliente-bot@users.noreply.github.com"
+          git add primeiro-cliente/fila.json
+          git diff --cached --quiet && { echo "nada novo"; exit 0; }
+          git commit -q -m "primeiro cliente: publicado"
+          git pull --rebase -q
+          git push
