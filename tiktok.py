@@ -163,8 +163,13 @@ def enviar_video(token, mp4):
 
 
 def legenda(s):
-    tags = " ".join(h if h.startswith("#") else "#" + h for h in s.get("hashtags", []))
-    return f"{s['titulo_yt']} {tags} #futbol #noticiasdefutbol".strip()[:2200]
+    extra = "#futbol #noticiasdefutbol".split()
+    tags, vistos = [], set()
+    for h in [h if h.startswith("#") else "#" + h for h in s.get("hashtags", [])] + extra:
+        if h.lower() not in vistos:
+            vistos.add(h.lower())
+            tags.append(h)
+    return f"{s['titulo_yt']} {' '.join(tags)}".strip()[:2200]
 
 
 def enviar_dia(dia):
