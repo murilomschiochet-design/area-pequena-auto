@@ -1,5 +1,5 @@
- 01 na caixa de entrada do TikTok  (10:00)  legenda: MBAPPÉ se va de San Siro sin decir una palabra: ¿qué pasa con Kylian? 😳 #Mbappé #Zidane #Francia #futbol #noticiasdefutbol #futbol #noticiasdefutbol
- 02 na caixa de entrada do TikTok  (13:00)  legenda: LAMINE ya entrena: vuelve a la concentración y apunta a Inglaterra 🔥 #LamineYamal #DeLaFuente #SelecciónEspañola #futbol #noticiasdefutbol #futbol #noticiasdefutbol
- 03 na caixa de entrada do TikTok  (16:00)  legenda: BRUNO FERNANDES rechaza otra oferta del United y podría irse gratis 😳 #BrunoFernandes #ManchesterUnited #Premier #fichajes #futbol #futbol #noticiasdefutbol
- 04 na caixa de entrada do TikTok  (18:00)  legenda: CARRICK, dolido: seguía entrenando al United mientras hablaban con POCHETTINO 🔥 #Carrick #Pochettino #ManchesterUnited #Premier #futbol #futbol #noticiasdefutbol
- 05 na caixa de entrada do TikTok  (21:00)  legenda: SCALONI renueva hasta 2030 y confirma: nadie usará la 10 de Messi por ahora 🔥 #Scaloni #Messi #Argentina #futbol #noticiasdefutbol #futbol #noticiasdefutbol
+ 01: PUBLISH_COMPLETE 
+ 02: PUBLISH_COMPLETE 
+ 03: SEND_TO_USER_INBOX 
+ 04: SEND_TO_USER_INBOX 
+ 05: SEND_TO_USER_INBOX 
