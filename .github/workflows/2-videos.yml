@@ -27,7 +27,7 @@ concurrency:
 jobs:
   videos:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 110
     env:
       PYTHONIOENCODING: utf-8
       USAR_PLAYWRIGHT: "1"
@@ -42,6 +42,11 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-noto-color-emoji >/dev/null
           mkdir -p ~/.fonts && cp modelo/fonts/*.ttf ~/.fonts/ && fc-cache -f >/dev/null
+      - name: Cache do modelo de recorte (rembg)
+        uses: actions/cache@v4
+        with:
+          path: ~/.rembg
+          key: rembg-u2net-human-seg-v1
       - name: Instalar bibliotecas
         run: |
           python -m pip install -q -r requirements.txt
@@ -59,6 +64,15 @@ jobs:
           mkdir -p saida/${{ steps.dia.outputs.dia }}
           python gerar.py ${{ steps.dia.outputs.dia }} 2>&1 | tee saida/${{ steps.dia.outputs.dia }}/_log-shorts.txt
           python nuvem/folha_contato.py ${{ steps.dia.outputs.dia }}
+      - name: Subir os shorts (agendados) antes do longo
+        if: ${{ github.event.inputs.subir != 'nao' }}
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+        run: |
+          if [ -z "$YT_REFRESH_TOKEN" ]; then echo "Sem chave do YouTube ainda: pulei o upload."; exit 0; fi
+          python subir.py ${{ steps.dia.outputs.dia }} 2>&1 | tee saida/${{ steps.dia.outputs.dia }}/_log-subir.txt
       - name: Gerar video longo
         run: |
           set -o pipefail
@@ -69,6 +83,12 @@ jobs:
           else
             echo "sem roteiro do longo para este dia"
           fi
+      - name: Thumbnail do longo
+        continue-on-error: true
+        run: |
+          if [ -f "longo/roteiros/longo-${{ steps.dia.outputs.dia }}.json" ]; then
+            python thumb_longo.py ${{ steps.dia.outputs.dia }} 2>&1 | tee saida/${{ steps.dia.outputs.dia }}/_log-thumb.txt
+          fi
       - name: Subir no YouTube (agendado)
         if: ${{ github.event.inputs.subir != 'nao' }}
         env:
@@ -77,7 +97,7 @@ jobs:
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: |
           if [ -z "$YT_REFRESH_TOKEN" ]; then echo "Sem chave do YouTube ainda: pulei o upload."; exit 0; fi
-          python subir.py ${{ steps.dia.outputs.dia }} 2>&1 | tee saida/${{ steps.dia.outputs.dia }}/_log-subir.txt
+          python subir.py ${{ steps.dia.outputs.dia }} 2>&1 | tee -a saida/${{ steps.dia.outputs.dia }}/_log-subir.txt
       - name: Guardar os videos pra conferir (3 dias)
         if: always()
         uses: actions/upload-artifact@v4

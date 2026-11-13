@@ -91,6 +91,18 @@ def enviar(yt, mp4, titulo, descricao, tags, publicar_em=None, privado=False):
     return resp["id"], resp.get("status", {})
 
 
+def por_thumb(yt, vid, jpg):
+    """Põe a thumbnail personalizada no vídeo (precisa do canal verificado por telefone)."""
+    from googleapiclient.http import MediaFileUpload
+    try:
+        yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(jpg, mimetype="image/jpeg")).execute()
+        print(f" thumbnail aplicada em {vid}")
+        return True
+    except Exception as e:
+        print(f" ! thumbnail não aplicada em {vid}: {str(e)[:200]}")
+        return False
+
+
 def data_alvo(roteiro, arg):
     if arg:
         return dt.date.fromisoformat(arg)
@@ -136,6 +148,9 @@ def subir_dia(dia, data_txt=None, teste=False):
                 break
             raise
         reg[sid] = {"id": vid, "publicar": None if teste else quando.isoformat(), "titulo": titulo}
+        thumb = os.path.join(pasta, "thumb.jpg")
+        if sid == "longo" and os.path.exists(thumb):
+            reg[sid]["thumb"] = por_thumb(yt, vid, thumb)
         with open(reg_arq, "w", encoding="utf-8") as f:
             json.dump(reg, f, ensure_ascii=False, indent=1)
         print(f" {sid} enviado: https://youtu.be/{vid}  " + ("(privado, teste)" if teste else f"agendado {quando:%d/%m %H:%M}"))
@@ -151,6 +166,10 @@ def main():
         login()
     elif cmd == "segredos":
         segredos()
+    elif cmd == "thumb":                      # python subir.py thumb dia-XX  -> (re)aplica a thumb no longo já enviado
+        dia = sys.argv[2]
+        reg = json.load(open(os.path.join(BASE, "saida", dia, "enviados.json"), encoding="utf-8"))
+        por_thumb(youtube(), reg["longo"]["id"], os.path.join(BASE, "saida", dia, "thumb.jpg"))
     else:
         args = [a for a in sys.argv[2:] if not a.startswith("--")]
         subir_dia(cmd, args[0] if args else None, teste="--teste" in sys.argv)

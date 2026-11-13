@@ -31,13 +31,16 @@ Trabalhe sozinho, sem perguntar nada. Não instale nada.
 - Cada short: `tag` ("Selección · España", "Mercado · Barça", "Premier League"…), `titulo` (até ~60 caracteres, com UMA `*palavra*` de destaque), `texto` (45–70 palavras, nomes em `**negrito**`), `foto_busca` (lista em ordem: nome completo da pessoa principal como está na Wikipedia; depois `"#Nome oficial do clube"` para o escudo; e SEMPRE termine com um `"~cenário"`, ex. `"~Estadio Santiago Bernabéu"`, como última opção), `contexto` ("selecao" se é notícia de seleção, senão "clube"), `titulo_yt` (chamativo, até 90 caracteres, 1 emoji), `descricao` (1–2 frases + pergunta pro público + "Fuente: …"), `fonte` (link da matéria), `hashtags` (5).
 - Acrescente no fim: `"longo": {"hora": <hora_longo do config>, "titulo_yt": "RESUMEN DEL DÍA: <3 assuntos curtos> | DD/MM", "descricao": "<3-4 frases com os assuntos + convite pra se inscrever>", "tags": ["futbol", "noticias de futbol", ...até 12]}`.
 
-## Passo 3 — vídeo longo: `longo/roteiros/longo-dia-XX.json`
-Siga a estrutura de `longo/roteiros/prototipo.json`, com TODAS as notícias dos shorts, na mesma ordem:
+## Passo 3 — vídeo longo: `longo/roteiros/longo-dia-XX.json` (6 a 10 minutos)
+Siga a estrutura de `longo/roteiros/prototipo.json`. O longo é o **resumo completo do dia**, bem maior que os shorts:
+- **Duração: 6 a 10 minutos** = a soma das `voz` deve ter **1.000 a 1.500 palavras** (conte com `python3 -c` antes de salvar; se ficar abaixo de 1.000, acrescente notícias, não encha linguiça).
 - `"dia": "dia-XX"`, `"data": "13 de noviembre"` (hoje por extenso), `"voz": "es-ES-AlvaroNeural"`.
-- Cena `abertura` (tag "Resumen del día", titulo "Las noticias *de hoy*", sub = data).
-- Para cada notícia NN: uma cena `{"tipo": "card", "card": "NN", "voz": "<frase de transição + manchete>"}`; depois 2 ou 3 cenas `foto` com `voz` de 1–3 frases cada, `tag`, `titulo` curto com `*destaque*`, e a foto indicada por `"short": "NN"` (a foto do short) ou `"pessoa": "<Nome>"` (+ `"contexto"`) — NUNCA escreva caminho de arquivo. Quando couber, uma cena `cita` (só frase literal: `titulo`, `autor`, `sub` = cargo) ou `numero` (só número dito no vídeo: `numero`, `titulo`, `sub`, e `"short": "NN"` para o fundo).
-- Cena `cierre` (tag "Área Pequeña FC", titulo "Noticias *cada día*", voz convidando a se inscrever e ativar a campanita).
-- A narração soa como um apresentador: transições curtas ("Pasamos a…", "Y en el Barça…"). Números por extenso na `voz` ("ciento veinticuatro"). Mesmos fatos dos shorts, nada novo (pode usar mais detalhes da MESMA matéria).
+- Cena `abertura` (tag "Resumen del día", titulo "Las noticias *de hoy*", sub = data). Voz da abertura cita 3 assuntos que vêm aí.
+- **Bloco 1 — as notícias dos shorts, na mesma ordem, mais completas:** para cada NN, uma cena `{"tipo": "card", "card": "NN", "voz": "<transição + manchete>"}`; depois **3 a 5 cenas** `foto` com mais detalhes da MESMA matéria (contexto, números, o que vem depois), cada uma com `voz` de 1–3 frases, `tag`, `titulo` curto com `*destaque*` e foto por `"short": "NN"` ou `"pessoa": "<Nome>"` (+ `"contexto"`). Use `cita` (frase literal entre aspas na fonte: `titulo`, `autor`, `sub`) e `numero` (só número que está na fonte) quando houver.
+- **Bloco 2 — "Más noticias del día": mais 5 a 8 assuntos quentes** das fontes que NÃO viraram short (outros clubes grandes, seleções, Premier/Serie A, mercado, frases fortes, resultados de ontem). Para cada um: 2 a 3 cenas `foto` (a primeira com `tag` do assunto e `titulo` de manchete) com `"pessoa"` = protagonista (nome como na Wikipedia) e `contexto`; `cita`/`numero` se houver. Sem pessoa clara → cena `foto` com `"pessoa"` do técnico/craque do clube citado na matéria; se nem isso, `"tipo": "fotoless"` com `titulo`.
+- Cena `cierre` (tag "Área Pequeña FC", titulo "Noticias *cada día*", voz convidando a se inscrever, ativar a campanita e comentar).
+- Narração de apresentador: transições curtas e variadas ("Pasamos a…", "Y ojo con esto…", "Mientras tanto en Inglaterra…"). Números por extenso na `voz`. **Tudo das fontes, nada inventado.**
+- Atualize também o `longo.titulo_yt` do dia-XX.json com 3 assuntos e a `descricao` com a lista de todos os assuntos e "Fuentes: MARCA, AS, Mundo Deportivo".
 
 ## Passo 4 — validar
 ```bash
