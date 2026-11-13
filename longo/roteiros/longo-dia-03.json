@@ -1,0 +1,165 @@
+{
+ "dia": "dia-03",
+ "data": "13 de noviembre",
+ "voz": "es-ES-AlvaroNeural",
+ "cenas": [
+  {
+   "tipo": "abertura",
+   "fundo": "estadio",
+   "tag": "Resumen del día",
+   "titulo": "Las noticias *de hoy*",
+   "sub": "13 de noviembre",
+   "voz": "Bienvenidos a Área Pequeña FC. Estas son las noticias de fútbol de hoy."
+  },
+  {
+   "tipo": "card",
+   "card": "01",
+   "fundo": "estadio",
+   "voz": "Empezamos con Francia. ¿Qué pasa con Mbappé?"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Francia",
+   "titulo": "Mbappé *no habló*",
+   "voz": "Mbappé se fue de San Siro sin decir una palabra. Tras el tres a uno ante Italia, ignoró las preguntas sobre cómo estaba.",
+   "pessoa": "Kylian Mbappé",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Francia",
+   "titulo": "Molestia *en los isquiotibiales*",
+   "voz": "No jugó por una molestia leve en los isquiotibiales. Zidane explicó que fue por precaución y negó cualquier problema entre ellos.",
+   "pessoa": "Kylian Mbappé",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Francia",
+   "titulo": "¿Vuelve *ante Turquía*?",
+   "voz": "Contó que Kylian quería jugar, pero podría volver contra Turquía.",
+   "short": "01"
+  },
+  {
+   "tipo": "card",
+   "card": "02",
+   "fundo": "estadio",
+   "voz": "Pasamos a España. Lamine Yamal ya está listo para volver."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · España",
+   "titulo": "Lamine *vuelve*",
+   "voz": "De la Fuente confirmó que Lamine se encuentra muy bien y que mañana se reincorpora a la concentración. La idea es que esté disponible contra Inglaterra.",
+   "pessoa": "Lamine Yamal",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · España",
+   "titulo": "Oyarzabal *también mejora*",
+   "voz": "Mikel Oyarzabal también mejora y volverá con el grupo.",
+   "pessoa": "Mikel Oyarzabal",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · España",
+   "titulo": "¿Una *final*?",
+   "voz": "Y el seleccionador ya calentó el partido. Dijo que España contra Inglaterra podría ser perfectamente una final del Mundial o de la Eurocopa.",
+   "short": "02"
+  },
+  {
+   "tipo": "card",
+   "card": "03",
+   "fundo": "estadio",
+   "voz": "Y en el United, Bruno Fernandes rechaza otra oferta."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Premier League",
+   "titulo": "Segundo *no* de Bruno",
+   "voz": "The Athletic cuenta que Bruno Fernandes ya dijo no a una segunda propuesta de renovación.",
+   "short": "03"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Premier League",
+   "titulo": "Contrato *hasta 2027*",
+   "voz": "Su contrato termina en dos mil veintisiete, y desde enero podría negociar con clubes extranjeros si el United no activa el año extra.",
+   "short": "03"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Premier League",
+   "titulo": "Sin *acuerdo*",
+   "voz": "El problema está en el salario y la duración del nuevo acuerdo. El club quiere que siga y Bruno no cierra la puerta, pero todavía no hay acuerdo.",
+   "short": "03"
+  },
+  {
+   "tipo": "card",
+   "card": "04",
+   "fundo": "estadio",
+   "voz": "Seguimos en el United. Carrick quedó dolido con su salida."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Premier League",
+   "titulo": "Carrick *dolido*",
+   "voz": "Michael Carrick quedó dolido con cómo manejaron su salida. The Telegraph cuenta que siguió entrenando al equipo mientras el United ya hablaba con Pochettino.",
+   "short": "04"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Premier League",
+   "titulo": "Una *filtración* molesta",
+   "voz": "En el club reconocen molestia por cómo se filtró todo. Además, despedirlo junto a su cuerpo técnico costará unos cinco millones de libras.",
+   "short": "04"
+  },
+  {
+   "tipo": "numero",
+   "fundo": "foto",
+   "numero": "2029",
+   "titulo": "Pochettino *firmará hasta*",
+   "sub": "Acuerdo con el Manchester United",
+   "voz": "Pochettino ya tiene acuerdo con el United. Firmará hasta dos mil veintinueve y podría debutar contra Liverpool en Anfield.",
+   "short": "04"
+  },
+  {
+   "tipo": "card",
+   "card": "05",
+   "fundo": "estadio",
+   "voz": "Terminamos en Argentina. Scaloni renovó y la 10 de Messi sigue libre."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Argentina",
+   "titulo": "Scaloni *hasta 2030*",
+   "voz": "Scaloni renovó hasta dos mil treinta y confirmó que, por ahora, nadie usará la diez de Messi. Quiere esperar y dársela a alguien que se la quede.",
+   "short": "05"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "El día que decidamos, *esperemos que sea para siempre*.",
+   "autor": "Lionel Scaloni",
+   "sub": "seleccionador de Argentina",
+   "voz": "El día que decidamos, esperemos que sea para siempre. Eso sí, puede salir después de la Copa América dos mil veintiocho."
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "Estando bien, es *el mejor mediocampista central* de la selección.",
+   "autor": "Lionel Scaloni",
+   "sub": "sobre Paredes",
+   "voz": "También elogió muchísimo a Paredes: estando bien, es el mejor mediocampista central de la selección. Y sobre De Paul, dijo que no tiene las puertas cerradas."
+  },
+  {
+   "tipo": "cierre",
+   "fundo": "estadio",
+   "tag": "Área Pequeña FC",
+   "titulo": "Noticias *cada día*",
+   "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC y activa la campanita."
+  }
+ ]
+}
