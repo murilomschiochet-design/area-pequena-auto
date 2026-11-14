@@ -105,7 +105,12 @@ def main():
         print(f"{hoje} já publicado ({it['publicado']})")
         return
     tok, uid = credencial()
-    it["publicado"] = publicar_item(tok, uid, it, fila["midia"])
+    recentes = [(m.get("caption") or "")[:80] for m in api("GET", f"{uid}/media", tok, fields="caption", limit=8).get("data", [])]
+    if it["legenda"][:80] in recentes:      # o relógio da Cloudflare (ig-relogio) já publicou
+        it["publicado"] = "relogio"
+        print(f"{hoje} já estava no Instagram (relógio)")
+    else:
+        it["publicado"] = publicar_item(tok, uid, it, fila["midia"])
     json.dump(fila, open(FILA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 

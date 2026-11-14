@@ -1,10 +1,8 @@
-# 4) Todo dia 12:07 de Brasília (15:07 UTC): publica no Instagram @primeirocliente.site o post do dia + stories.
+# 4) (à mão) publica no Instagram @primeirocliente.site o post do dia + stories.
 name: 4 - Primeiro Cliente (Instagram)
 
 on:
-  schedule:
-    - cron: "7 15 * * *"
-    - cron: "37 15 * * *"
+  # o horário agora é do relógio da Cloudflare (ig-relogio, a cada 5 min); o GitHub falhava no agendamento. Aqui só à mão.
   workflow_dispatch:
 
 permissions:
