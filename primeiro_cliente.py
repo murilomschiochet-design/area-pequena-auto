@@ -1,6 +1,6 @@
 """@primeirocliente.site: publica no Instagram o post do dia (carrossel ou Reel) + os stories prontos, sozinho.
 
-  python primeiro_cliente.py publicar        -> (workflow diário 12:07 de Brasília) publica o item de HOJE da fila
+  python primeiro_cliente.py publicar        -> publica os itens de HOJE cuja hora já chegou (12:07 e 19:00 de Brasília)
   python primeiro_cliente.py ver [AAAA-MM-DD]  -> mostra o que sai no dia (não publica)
 
 Fila: primeiro-cliente/fila.json (gerada no PC a partir do painel). Mídia pública em MIDIA (Cloudflare Pages, noindex).
@@ -94,24 +94,24 @@ def main():
         raise SystemExit(__doc__)
     fila = json.load(open(FILA, encoding="utf-8"))
     hoje = sys.argv[2] if len(sys.argv) > 2 else dt.datetime.now(FUSO).date().isoformat()
-    it = next((x for x in fila["itens"] if x["publicar"] == hoje), None)
+    do_dia = [x for x in fila["itens"] if x["publicar"] == hoje]      # até 2 por dia: 12:07 e 19:00 (campo "hora")
     if sys.argv[1] == "ver":
-        print(json.dumps(it, ensure_ascii=False, indent=1) if it else f"nada na fila para {hoje}")
+        print(json.dumps(do_dia, ensure_ascii=False, indent=1) if do_dia else f"nada na fila para {hoje}")
         return
-    if not it:
-        print(f"nada na fila para {hoje}")
-        return
-    if it.get("publicado"):
-        print(f"{hoje} já publicado ({it['publicado']})")
+    agora = dt.datetime.now(FUSO).strftime("%H:%M")
+    devidos = [x for x in do_dia if not x.get("publicado") and (len(sys.argv) > 2 or x.get("hora", "12:07") <= agora)]
+    if not devidos:
+        print(f"nada para publicar agora ({hoje} {agora})")
         return
     tok, uid = credencial()
-    recentes = [(m.get("caption") or "")[:80] for m in api("GET", f"{uid}/media", tok, fields="caption", limit=8).get("data", [])]
-    if it["legenda"][:80] in recentes:      # o relógio da Cloudflare (ig-relogio) já publicou
-        it["publicado"] = "relogio"
-        print(f"{hoje} já estava no Instagram (relógio)")
-    else:
-        it["publicado"] = publicar_item(tok, uid, it, fila["midia"])
-    json.dump(fila, open(FILA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    for it in devidos:
+        recentes = [(m.get("caption") or "")[:80] for m in api("GET", f"{uid}/media", tok, fields="caption", limit=8).get("data", [])]
+        if it["legenda"][:80] in recentes:      # o relógio da Cloudflare (ig-relogio) já publicou
+            it["publicado"] = "relogio"
+            print(f"{hoje} {it.get('hora', '12:07')} já estava no Instagram (relógio)")
+        else:
+            it["publicado"] = publicar_item(tok, uid, it, fila["midia"])
+        json.dump(fila, open(FILA, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 
 
 if __name__ == "__main__":
