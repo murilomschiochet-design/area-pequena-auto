@@ -1,0 +1,271 @@
+{
+  "dia": "dia-04",
+  "data": "14 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "14 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la nueva era de Portugal sin Cristiano, de la primera derrota de Argentina sin Messi y de la goleada de Xavi con Países Bajos. Quédate hasta el final, que hay muchas más noticias."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con una noticia que marca época. Portugal juega hoy por primera vez sin Cristiano Ronaldo."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Portugal",
+      "titulo": "Una era *termina*",
+      "voz": "Portugal recibe esta noche a Dinamarca en Braga, a las veinte cuarenta y cinco, en la quinta jornada de la Nations League. Es el arranque oficial de una nueva etapa, después de veintitrés años con Cristiano en la selección.",
+      "short": "01",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Siempre creí que podíamos llegar *más lejos*.",
+      "autor": "Cristiano Ronaldo",
+      "sub": "en su carta de despedida",
+      "voz": "En su carta de despedida, escrita el cinco de noviembre, Cristiano dijo: siempre creí que podíamos llegar más lejos y di todo lo que tenía por esta camiseta."
+    },
+    {
+      "tipo": "numero",
+      "fundo": "foto",
+      "numero": "985",
+      "titulo": "goles *en su carrera*",
+      "sub": "Cristiano Ronaldo, máximo goleador de la historia",
+      "voz": "Es el máximo goleador de la historia, con novecientos ochenta y cinco goles, y ciento cuarenta y seis con la selección. También es el jugador con más partidos internacionales: doscientos treinta y cuatro.",
+      "short": "01"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Portugal",
+      "titulo": "Homenaje *con el 7*",
+      "voz": "Según apuntan varios medios, los jugadores portugueses saldrán al campo con una camiseta con el dorsal siete de Cristiano. Y en el minuto siete de la primera parte habrá otro tributo, que por ahora no ha trascendido.",
+      "short": "01",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Portugal",
+      "titulo": "Jorge Jesus *habla*",
+      "voz": "Jorge Jesus, el seleccionador, también tuvo palabras para él. Dijo que nadie puede olvidar los veintitrés años que Cris jugó en la selección, lo que hizo y lo que significó a nivel mundial en otros clubes. Y lo definió como una leyenda. Portugal ya está clasificada para cuartos, con doce puntos de doce, y quiere estrenar esta etapa con victoria.",
+      "pessoa": "Jorge Jesus",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos a Argentina, que vivió su primera noche en la era post Messi."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "Primera derrota *sin Leo*",
+      "voz": "Uruguay ganó en La Bombonera. Es el primer partido de Argentina sin Messi y la primera derrota de la Argentina de Scaloni. MARCA dice que no la mereció, pero que el fútbol no respeta a nadie.",
+      "short": "02",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "Goles *a balón parado*",
+      "voz": "La Uruguay de Forlán se impuso gracias a dos goles de pelota parada con algo de fortuna. En el primero, un despeje de Lisandro le pegó a Balerdi en el rostro y acabó dentro. El segundo fue de Maxi Araújo, en un córner al primer palo. Julián recortó para Argentina, con Prestianni entrando en el tramo final.",
+      "pessoa": "Diego Forlán",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "Bombonera *semivacía*",
+      "voz": "La imagen fue casi tan llamativa como el resultado. AS habla de tribunas enteras vacías, por los precios de la AFA, entre cincuenta y cinco y ciento setenta euros. Además, la tribuna más económica ni siquiera se habilitó, y las entradas solo se podían retirar físicamente en el estadio de Huracán.",
+      "short": "02",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "Scaloni, *hasta 2030*",
+      "voz": "Era también el primer partido tras la renovación de Scaloni hasta dos mil treinta. Según AS, el resultado fue decepcionante en todos los aspectos.",
+      "pessoa": "Lionel Scaloni",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Y de Argentina nos vamos a Ámsterdam, donde Xavi vive un sueño."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Países Bajos",
+      "titulo": "Goleada *holandesa*",
+      "voz": "Países Bajos goleó siete a cero a Grecia en el Johan Cruyff Arena y se aseguró el pase a cuartos de la Nations League. Reijnders marcó un hat-trick, Dumfries dio tres asistencias y al descanso ya ganaban cinco a cero.",
+      "short": "03",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "La primera parte fue *increíble*, pero este es el camino.",
+      "autor": "Xavi Hernández",
+      "sub": "seleccionador de Países Bajos",
+      "voz": "Xavi lo resumió así: la primera parte fue increíble, pero es solo un partido. Este es el camino. Los jugadores están entrenando muy duro y estoy muy orgulloso de ellos."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Países Bajos",
+      "titulo": "Xavimanía",
+      "voz": "AS habla de Xavimanía. Cuenta que Holanda ya no es un equipo plano que fía todo a Gakpo, sino que controla los partidos con posesión. Y que Timber, colocado de lateral izquierdo, provocó dos goles.",
+      "pessoa": "Xavi Hernández",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Países Bajos",
+      "titulo": "Duelo *con Alemania*",
+      "voz": "El lunes toca Alemania, en Berlín. Xavi dijo que todavía tienen margen de mejora y que será una buena prueba jugar fuera de casa.",
+      "short": "03",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Mientras tanto, en Francia, buenas noticias para Zidane."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Francia",
+      "titulo": "Mbappé *entrena*",
+      "voz": "Kylian Mbappé fue la gran novedad de la sesión de la tarde de Francia en Burdeos. Se entrenó con el grupo, a dos días del duelo decisivo ante Turquía.",
+      "short": "04",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Francia",
+      "titulo": "Francia se juega *el liderato*",
+      "voz": "Mbappé había evolucionado bien de la molestia en los isquiotibiales que le dejó fuera ante Italia. Según AS, Zidane lo necesita para su primera final como seleccionador: Francia debe ganar a Turquía y que Italia no gane a Bélgica para recuperar el liderato del grupo.",
+      "pessoa": "Zinedine Zidane",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Seguimos con otro foco puesto en Brasil: Vinicius."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Brasil",
+      "titulo": "Vinicius *titular*",
+      "voz": "Ancelotti mantiene a Vinicius en el once para el amistoso contra Japón, en Singapur, a pesar de su irregularidad y de la sanción de cuatro partidos. Con Brasil lo acompañarán Raphinha, que será capitán, Estevão y Rayan.",
+      "short": "05",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Brasil",
+      "titulo": "Sin gol *desde agosto*",
+      "voz": "Con el Real Madrid no marca desde el veintiséis de agosto. Su último gol llegó en la fecha FIFA anterior, de penalti ante Australia. AS cree que, si alguien puede devolverle su mejor versión, es Ancelotti, con quien tuvo una relación cercana.",
+      "pessoa": "Carlo Ancelotti",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Pochettino, *oficial*",
+      "voz": "Y ahora, más noticias del día. Ojo con el Manchester United: es oficial, Pochettino es el nuevo entrenador. Según AS, es el duodécimo técnico del club desde la salida de Alex Ferguson en dos mil trece, tras la destitución de Carrick. Y Estados Unidos recibe más de ocho millones de su cláusula.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Klopp *golpea la mesa*",
+      "voz": "Pasamos a Alemania. La Alemania de Klopp ganó uno a tres en Serbia con goles de Babic en propia puerta, Wirtz y Gruda, y expulsiones de Dragojevic y Zivkovic en los locales.",
+      "pessoa": "Jürgen Klopp",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Alemania, *viva*",
+      "voz": "Con este triunfo, a Alemania le basta ganar a los holandeses de Xavi el lunes en Berlín para sellar su pase a cuartos. Es el segundo triunfo de Klopp en cinco partidos como seleccionador.",
+      "pessoa": "Florian Wirtz",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Robertson *iguala* a Dalglish",
+      "voz": "Y noche histórica para Andy Robertson. El capitán de Escocia igualó el récord de Kenny Dalglish, con ciento dos partidos con su selección.",
+      "pessoa": "Andy Robertson",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "numero",
+      "fundo": "foto",
+      "numero": "102",
+      "titulo": "partidos *con Escocia*",
+      "sub": "Andy Robertson iguala a Kenny Dalglish",
+      "voz": "Escocia, además, ganó dos a uno a Macedonia del Norte, con dos goles de John McGinn, el segundo de penalti.",
+      "pessoa": "Andy Robertson",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "De Jong, *precaución*",
+      "voz": "En el Barça, Frenkie de Jong explicó por qué Xavi lo sustituyó en el descanso del siete a cero a Grecia. Dijo que acaba de volver de una lesión y que no había necesidad de correr riesgos.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "El Barça *y el central*",
+      "voz": "Y hablando del Barça, MARCA cuenta que Flick y Deco quieren reforzar la defensa en enero con un central de calidad y con recorrido, no solo para seis meses. Pero la situación económica complica la operación. Todas las miradas están puestas en Alejandro Balde, a quien la entidad confía en que se vaya en enero.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Mourinho y *Bernardo Silva*",
+      "voz": "En el Real Madrid, AS repasa el largo viaje de Mourinho en su quinto mes. Dice que no ha perdido en ninguna competición y que el papel de Bernardo Silva es hoy fundamental en el juego del equipo, pese a que se pensó en él para dar descansos.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Florentino *prepara* la Asamblea",
+      "voz": "Según Mundo Deportivo, Florentino Pérez tiene todo preparado para la Asamblea de socios del veintiuno de noviembre en Valdebebas. Tras siete victorias seguidas, se prevé que cargue contra el estamento arbitral, contra Tebas y contra el Barça.",
+      "pessoa": "Florentino Pérez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Messi *vuelve* al Monumental",
+      "voz": "Y para cerrar, una de Messi. AS informa de que visitará el Monumental con el Inter Miami para un amistoso contra River Plate el diecinueve de enero, en la cancha donde se despidió de la albiceleste.",
+      "pessoa": "Lionel Messi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿cómo recordarás a Cristiano con Portugal? Nos vemos mañana con más noticias."
+    }
+  ]
+}
