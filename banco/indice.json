@@ -994,8 +994,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Spain_7.24.26-135.jpg",
      "nota": 5.53,
-     "ultimo_uso": "2026-11-13 10:38",
-     "usos": 3,
+     "ultimo_uso": "2026-11-14 07:24",
+     "usos": 4,
      "adicionada": "2026-11-12 17:23"
     },
     {
@@ -1273,8 +1273,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_Australia_v_USA_19_June_2026-266.jpg",
      "nota": 3.18,
-     "ultimo_uso": "2026-11-12 17:32",
-     "usos": 1,
+     "ultimo_uso": "2026-11-14 07:50",
+     "usos": 2,
      "adicionada": "2026-11-12 17:30"
     }
    ],
@@ -1391,8 +1391,8 @@
      "credito": "Raphaël Labbé / Wikimedia Commons, CC BY-SA 2.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Zinedine-Zidane.jpg",
      "nota": 5.14,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 07:46",
+     "usos": 1,
      "adicionada": "2026-11-12 17:34"
     }
    ],
@@ -1828,6 +1828,1654 @@
      "logo": "Spanish Olympic Committee logo.svg"
     }
    ]
+  },
+  "Cristiano Ronaldo": {
+   "fotos": [
+    {
+     "arquivo": "Cristiano Ronaldo/Cristiano Ronaldo - Selección de Portugal - 1.jpg",
+     "contexto": "Selección de Portugal",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_0889.jpg",
+     "nota": 3.98,
+     "ultimo_uso": "2026-11-14 07:16",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:13"
+    },
+    {
+     "arquivo": "Cristiano Ronaldo/Cristiano Ronaldo - Selección de Portugal - 2.jpg",
+     "contexto": "Selección de Portugal",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2223.jpg",
+     "nota": 5.57,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:13"
+    },
+    {
+     "arquivo": "Cristiano Ronaldo/Cristiano Ronaldo - Selección de Portugal - 3.jpg",
+     "contexto": "Selección de Portugal",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_2277.jpg",
+     "nota": 4.98,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:13"
+    },
+    {
+     "arquivo": "Cristiano Ronaldo/Cristiano Ronaldo - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Jahrenvisuals / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_benched.jpg",
+     "nota": 6.0,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:13"
+    }
+   ],
+   "abastecido": "2026-11-14 07:16",
+   "wikidata": "Q11571",
+   "times": [
+    {
+     "id": "Q482764",
+     "nome": "Al-Nassr",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Nassr FC Logo.svg"
+    },
+    {
+     "id": "Q18656",
+     "nome": "Manchester United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q75729",
+     "nome": "Sporting Clube de Portugal",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Sporting Clube de Portugal.svg"
+    },
+    {
+     "id": "Q267245",
+     "nome": "Selección de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1422",
+     "nome": "Juventus",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Juventus FC - logo black (Italy, 2020).svg"
+    },
+    {
+     "id": "Q3434146",
+     "nome": "CF Andorinha",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q216459",
+     "nome": "Clube Desportivo Nacional",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1630430",
+     "nome": "Selección sub-21 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3590758",
+     "nome": "Selección olímpica de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1772776",
+     "nome": "Selección sub-20 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3590754",
+     "nome": "Selección sub-17 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q21079208",
+     "nome": "Selección sub-15 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q7579547",
+     "nome": "Sporting C.P. Youth and Academy",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Lionel Messi": {
+   "fotos": [
+    {
+     "arquivo": "Lionel Messi/Lionel Messi - Selección de Argentina - 1.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Egypt_7_July_2026-287.jpg",
+     "nota": 5.32,
+     "ultimo_uso": "2026-11-14 07:22",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:20"
+    },
+    {
+     "arquivo": "Lionel Messi/Lionel Messi - Selección de Argentina - 2.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Spain_19_July_2026-046.jpg",
+     "nota": 5.96,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:20"
+    },
+    {
+     "arquivo": "Lionel Messi/Lionel Messi - Selección de Argentina - 3.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_Argentina_v_Spain_19_July_2026-076.jpg",
+     "nota": 3.77,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:20"
+    },
+    {
+     "arquivo": "Lionel Messi/Lionel Messi - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Saadick Dhansay / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_2010.jpg",
+     "nota": 3.69,
+     "ultimo_uso": "2026-11-14 08:16",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:22"
+    },
+    {
+     "arquivo": "Lionel Messi/Lionel Messi - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Andy Witchger / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_2025.jpg",
+     "nota": 5.09,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:22"
+    }
+   ],
+   "abastecido": "2026-11-14 07:22",
+   "wikidata": "Q615",
+   "times": [
+    {
+     "id": "Q16844931",
+     "nome": "Inter de Miami",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Inter Miami CF wordmark-full pink.png"
+    },
+    {
+     "id": "Q2346842",
+     "nome": "Fútbol Club Barcelona \"C\"",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10467",
+     "nome": "Fútbol Club Barcelona Atlètic",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q483020",
+     "nome": "Paris Saint-Germain FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q79800",
+     "nome": "Selección de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1187790",
+     "nome": "Selección sub-20 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Afa gold logo24.svg"
+    },
+    {
+     "id": "Q2462207",
+     "nome": "Selección sub-23 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Argentine olympic committee logo image.svg"
+    }
+   ]
+  },
+  "Xavi Hernández": {
+   "fotos": [
+    {
+     "arquivo": "Xavi Hernández/Xavi Hernández - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Doha Stadium Plus Qatar / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Xavi_Hernandez_-_31637433045.jpg",
+     "nota": 5.39,
+     "ultimo_uso": "2026-11-14 07:24",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:22"
+    },
+    {
+     "arquivo": "Xavi Hernández/Xavi Hernández - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Doha Stadium Plus Qatar / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Xavi_Hernandez_-_18455561010.jpg",
+     "nota": 4.77,
+     "ultimo_uso": "2026-11-14 07:44",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:23"
+    },
+    {
+     "arquivo": "Xavi Hernández/Xavi Hernández - Geral - 3.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Doha Stadium Plus Qatar / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Xavi_Hernandez_-_18616930766.jpg",
+     "nota": 5.49,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:23"
+    }
+   ],
+   "abastecido": "2026-11-14 07:24",
+   "wikidata": "Q17500",
+   "times": [
+    {
+     "id": "Q47050",
+     "nome": "Selección de los Países Bajos",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q42267",
+     "nome": "Selección de España",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q17228",
+     "nome": "Selección de Cataluña",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10467",
+     "nome": "Fútbol Club Barcelona Atlètic",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q283545",
+     "nome": "Al-Sadd Sports Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2637337",
+     "nome": "Selección sub-23 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Spanish Olympic Committee logo.svg"
+    },
+    {
+     "id": "Q1129595",
+     "nome": "Selección sub-21 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Escudo de España (variant).svg"
+    },
+    {
+     "id": "Q2356290",
+     "nome": "Selección sub-20 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3589784",
+     "nome": "Selección sub-18 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2310295",
+     "nome": "Selección sub-17 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Vinícius Júnior": {
+   "fotos": [
+    {
+     "arquivo": "Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 1.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg",
+     "nota": 6.82,
+     "ultimo_uso": "2026-11-14 07:25",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:25"
+    },
+    {
+     "arquivo": "Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 2.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Brahim_Diaz_Vinicius_Junior_Brazil_V_Morocco_13_June_2026-128.jpg",
+     "nota": 5.4,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:25"
+    }
+   ],
+   "abastecido": "2026-11-14 07:25",
+   "wikidata": "Q28973866",
+   "times": [
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q83459",
+     "nome": "Selección de Brasil",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Brazilian Football Confederation logo.svg"
+    },
+    {
+     "id": "Q17479",
+     "nome": "Clube de Regatas do Flamengo",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q12217",
+     "nome": "Real Madrid Castilla Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q4958687",
+     "nome": "Selección sub-15 de Brasil",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2402747",
+     "nome": "Selección sub-17 de Brasil",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2308235",
+     "nome": "Selección sub-20 del Brasil",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Jorge Jesus": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q527550",
+   "times": [
+    {
+     "id": "Q267245",
+     "nome": "Selección de Portugal",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q75729",
+     "nome": "Sporting Clube de Portugal",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Sporting Clube de Portugal.svg"
+    },
+    {
+     "id": "Q838134",
+     "nome": "Clube de Futebol Estrela da Amadora",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Símbolo Estrela da Amadora.svg"
+    },
+    {
+     "id": "Q208585",
+     "nome": "Vitória Futebol Clube",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1485052",
+     "nome": "GD Riopele",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q211401",
+     "nome": "União Desportiva de Leiria",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q621259",
+     "nome": "Sporting Clube Olhanense",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "SC Olhanense.svg"
+    },
+    {
+     "id": "Q744353",
+     "nome": "Sporting Clube Farense",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q216510",
+     "nome": "Clube de Futebol Os Belenenses",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Os Belenenses.png"
+    },
+    {
+     "id": "Q757422",
+     "nome": "Atlético Clube de Portugal",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7579302",
+     "nome": "Sport Benfica e Castelo Branco",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q131499",
+     "nome": "Sport Lisboa e Benfica",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q6601875",
+     "nome": "Fenerbahçe Spor Kulübü",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q17479",
+     "nome": "Clube de Regatas do Flamengo",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2843873",
+     "nome": "Amora FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1387110",
+     "nome": "Futebol Clube de Felgueiras",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1762119",
+     "nome": "C.F. União",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q223450",
+     "nome": "Vitória Sport Clube",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1346314",
+     "nome": "Moreirense F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q75684",
+     "nome": "Sporting Clube de Braga",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q73965",
+     "nome": "Al-Hilal",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Al Hilal SFC Logo.svg"
+    },
+    {
+     "id": "Q482764",
+     "nome": "Al-Nassr",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Nassr FC Logo.svg"
+    }
+   ]
+  },
+  "Diego Forlán": {
+   "fotos": [
+    {
+     "arquivo": "Diego Forlán/Diego Forlán - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Dltl2010 / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Diego_Forl%C3%A1n_28_jan_2018.jpg",
+     "nota": 5.73,
+     "ultimo_uso": "2026-11-14 07:40",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:39"
+    }
+   ],
+   "abastecido": "2026-11-14 07:40",
+   "wikidata": "Q261534",
+   "times": [
+    {
+     "id": "Q214978",
+     "nome": "Club Atlético Independiente",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Escudo del Club Atlético Independiente de Avellaneda.svg"
+    },
+    {
+     "id": "Q18656",
+     "nome": "Manchester United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q631",
+     "nome": "Inter de Milán",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Internazionale Milano 2021.svg"
+    },
+    {
+     "id": "Q12297",
+     "nome": "Villarreal Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q80845",
+     "nome": "Sport Club Internacional",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Escudo do Sport Club Internacional.svg"
+    },
+    {
+     "id": "Q8701",
+     "nome": "Atlético de Madrid",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q16320",
+     "nome": "Club Atlético Peñarol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Escudo del Club Atlético Peñarol.svg"
+    },
+    {
+     "id": "Q855809",
+     "nome": "Cerezo Osaka",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q134916",
+     "nome": "Selección de Uruguay",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q16845355",
+     "nome": "Mumbai City Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q141045",
+     "nome": "Kitchee SC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q386543",
+     "nome": "Club Atlético Atenas",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Escudo Club Atlético Atenas.png"
+    },
+    {
+     "id": "Q2442864",
+     "nome": "Selección sub-20 de Uruguay",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Carlo Ancelotti": {
+   "fotos": [
+    {
+     "arquivo": "Carlo Ancelotti/Carlo Ancelotti - Selección de Brasil - 1.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-34.jpg",
+     "nota": 6.22,
+     "ultimo_uso": "2026-11-14 07:50",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:47"
+    },
+    {
+     "arquivo": "Carlo Ancelotti/Carlo Ancelotti - Selección de Brasil - 2.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg",
+     "nota": 6.87,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:47"
+    },
+    {
+     "arquivo": "Carlo Ancelotti/Carlo Ancelotti - Selección de Brasil - 3.jpg",
+     "contexto": "Selección de Brasil",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Mohamed_Ouahbi,_Carlo_Ancelotti_at_2026_FIFA_World_Cup_by_YantsImages.jpg",
+     "nota": 6.06,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:47"
+    }
+   ],
+   "abastecido": "2026-11-14 07:50",
+   "wikidata": "Q174614",
+   "times": [
+    {
+     "id": "Q83459",
+     "nome": "Selección de Brasil",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Brazilian Football Confederation logo.svg"
+    },
+    {
+     "id": "Q2739",
+     "nome": "A.S. Roma",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "AS ROMA Text Logo 2020 - 2021 .svg"
+    },
+    {
+     "id": "Q2693",
+     "nome": "Parma Calcio 1913",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo Parma Calcio 1913 (adozione 2016).svg"
+    },
+    {
+     "id": "Q1543",
+     "nome": "A.C. Milan",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo of AC Milan.svg"
+    },
+    {
+     "id": "Q676899",
+     "nome": "Selección de Italia",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": "Logo Italy National Football Team - 2023.svg"
+    },
+    {
+     "id": "Q289707",
+     "nome": "Associazione Calcio Reggiana 1919",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1422",
+     "nome": "Juventus",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Juventus FC - logo black (Italy, 2020).svg"
+    },
+    {
+     "id": "Q9616",
+     "nome": "Chelsea Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q483020",
+     "nome": "Paris Saint-Germain FC",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q15789",
+     "nome": "F. C. Bayern Múnich",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Bayern München logo (2024).svg"
+    },
+    {
+     "id": "Q2641",
+     "nome": "Società Sportiva Calcio Napoli",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "SSC Napoli 2024 (deep blue navy).svg"
+    },
+    {
+     "id": "Q5794",
+     "nome": "Everton F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q922698",
+     "nome": "Selección sub-21 de Italia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Logo Italy National Football Team - 2023.svg"
+    }
+   ]
+  },
+  "Jürgen Klopp": {
+   "fotos": [
+    {
+     "arquivo": "Jürgen Klopp/Jürgen Klopp - Liverpool Fútbol Club - 1.jpg",
+     "contexto": "Liverpool Fútbol Club",
+     "tipo": "clube",
+     "credito": "Steffen Prößdorf / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2022-07-21_Fu%C3%9Fball,_M%C3%A4nner,Freundschaftsspiel,_RB_Leipzig_-_FC_Liverpool_1DX_2241_by_Stepro.jpg",
+     "nota": 4.84,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:52"
+    },
+    {
+     "arquivo": "Jürgen Klopp/Jürgen Klopp - Liverpool Fútbol Club - 2.jpg",
+     "contexto": "Liverpool Fútbol Club",
+     "tipo": "clube",
+     "credito": "Steffen Prößdorf / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2022-07-21_Fu%C3%9Fball,_M%C3%A4nner,Freundschaftsspiel,_RB_Leipzig_-_FC_Liverpool_1DX_2240_by_Stepro.jpg",
+     "nota": 4.68,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:52"
+    },
+    {
+     "arquivo": "Jürgen Klopp/Jürgen Klopp - Liverpool Fútbol Club - 3.jpg",
+     "contexto": "Liverpool Fútbol Club",
+     "tipo": "clube",
+     "credito": "Steffen Prößdorf / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2022-07-21_Fu%C3%9Fball,_M%C3%A4nner,Freundschaftsspiel,_RB_Leipzig_-_FC_Liverpool_1DX_2063_by_Stepro.jpg",
+     "nota": 4.62,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:52"
+    },
+    {
+     "arquivo": "Jürgen Klopp/Jürgen Klopp - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Opel_at_IAA_2019_IMG_0356.jpg",
+     "nota": 4.52,
+     "ultimo_uso": "2026-11-14 07:55",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:54"
+    },
+    {
+     "arquivo": "Jürgen Klopp/Jürgen Klopp - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Opel_at_IAA_2019_IMG_0347.jpg",
+     "nota": 5.37,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:54"
+    },
+    {
+     "arquivo": "Jürgen Klopp/Jürgen Klopp - Geral - 3.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Lohscheller,_Juergen_Klopp_at_IAA_2019_IMG_0343.jpg",
+     "nota": 5.31,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:54"
+    }
+   ],
+   "abastecido": "2026-11-14 07:55",
+   "wikidata": "Q83106",
+   "times": [
+    {
+     "id": "Q43310",
+     "nome": "Selección de Alemania",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q105254",
+     "nome": "1. FSV Mainz 05",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo Mainz 05.svg"
+    },
+    {
+     "id": "Q162364",
+     "nome": "1. FC Pforzheim",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "1 fc pforzheim.svg"
+    },
+    {
+     "id": "Q14118284",
+     "nome": "Eintracht Frankfurt II",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q543035",
+     "nome": "Rot-Weiss Frankfurt",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Rw fmm.gif"
+    },
+    {
+     "id": "Q38245",
+     "nome": "Eintracht Frankfurt",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1130849",
+     "nome": "Liverpool Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo Liverpool FC (2024).png"
+    },
+    {
+     "id": "Q41420",
+     "nome": "Borussia Dortmund",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Borussia Dortmund logo.svg"
+    }
+   ]
+  },
+  "Florian Wirtz": {
+   "fotos": [
+    {
+     "arquivo": "Florian Wirtz/Florian Wirtz - Selección de Alemania - 1.jpg",
+     "contexto": "Selección de Alemania",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Florian_Wirtz_17,_Alan_Franco_21_Ecuador_v_Germany_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg",
+     "nota": 4.24,
+     "ultimo_uso": "2026-11-14 07:59",
+     "usos": 1,
+     "adicionada": "2026-11-14 07:58"
+    },
+    {
+     "arquivo": "Florian Wirtz/Florian Wirtz - Selección de Alemania - 2.jpg",
+     "contexto": "Selección de Alemania",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Florian_Wirtz_Pedro_Vite_Ecuador_v_Germany_25_June_2026-130.jpg",
+     "nota": 4.52,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:58"
+    },
+    {
+     "arquivo": "Florian Wirtz/Florian Wirtz - Selección de Alemania - 3.jpg",
+     "contexto": "Selección de Alemania",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Florian_Wirtz_17,_Moises_Caicedo_23_Ecuador_v_Germany_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg",
+     "nota": 4.83,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 07:58"
+    }
+   ],
+   "abastecido": "2026-11-14 07:59",
+   "wikidata": "Q94699949",
+   "times": [
+    {
+     "id": "Q1130849",
+     "nome": "Liverpool Fútbol Club",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo Liverpool FC (2024).png"
+    },
+    {
+     "id": "Q104761",
+     "nome": "Bayer 04 Leverkusen",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo TSV Bayer 04 Leverkusen.svg"
+    },
+    {
+     "id": "Q43310",
+     "nome": "Selección de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q113136",
+     "nome": "Selección sub-15 de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1202759",
+     "nome": "Selección sub-16 de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q319699",
+     "nome": "Selección sub-17 de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q314851",
+     "nome": "Selección sub-21 de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Andy Robertson": {
+   "fotos": [
+    {
+     "arquivo": "Andy Robertson/Andy Robertson - Selección de Escocia - 1.jpg",
+     "contexto": "Selección de Escocia",
+     "tipo": "selecao",
+     "credito": "Scottish Government / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:First_Minister_meets_with_Scottish_National_Football_Team_(2).jpg",
+     "nota": 5.25,
+     "ultimo_uso": "2026-11-14 08:04",
+     "usos": 1,
+     "adicionada": "2026-11-14 08:02"
+    },
+    {
+     "arquivo": "Andy Robertson/Andy Robertson - Selección de Escocia - 2.jpg",
+     "contexto": "Selección de Escocia",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Scotland_Starting_XI_Scotland_v_Bolivia_6_June_2026-15.jpg",
+     "nota": 4.35,
+     "ultimo_uso": "2026-11-14 08:04",
+     "usos": 1,
+     "adicionada": "2026-11-14 08:02"
+    },
+    {
+     "arquivo": "Andy Robertson/Andy Robertson - Selección de Escocia - 3.jpg",
+     "contexto": "Selección de Escocia",
+     "tipo": "selecao",
+     "credito": "Scottish Government / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:First_Minister_meets_with_Scottish_National_Football_Team_(3).jpg",
+     "nota": 5.61,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 08:02"
+    },
+    {
+     "arquivo": "Andy Robertson/Andy Robertson - Liverpool Fútbol Club - 1.jpg",
+     "contexto": "Liverpool Fútbol Club",
+     "tipo": "clube",
+     "credito": "Timmy96 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Andrew_Robertson_and_Calvin_Ramsay_04012026_(1).jpg",
+     "nota": 5.73,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 08:02"
+    },
+    {
+     "arquivo": "Andy Robertson/Andy Robertson - Liverpool Fútbol Club - 2.jpg",
+     "contexto": "Liverpool Fútbol Club",
+     "tipo": "clube",
+     "credito": "Eric The Fish from UK / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:LFC_Parade_2019_01.jpg",
+     "nota": 4.98,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 08:04"
+    }
+   ],
+   "abastecido": "2026-11-14 08:04",
+   "wikidata": "Q15915040",
+   "times": [
+    {
+     "id": "Q18741",
+     "nome": "Tottenham Hotspur Football Club",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19477",
+     "nome": "Hull City Association Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q852753",
+     "nome": "Queen's Park Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q192873",
+     "nome": "Dundee United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q34044",
+     "nome": "Selección de Escocia",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1130849",
+     "nome": "Liverpool Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo Liverpool FC (2024).png"
+    },
+    {
+     "id": "Q1812121",
+     "nome": "Selección sub-21 de Escocia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Frenkie de Jong": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q19898898",
+   "times": [
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q47050",
+     "nome": "Selección de los Países Bajos",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q332664",
+     "nome": "Willem II Tilburg",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q81888",
+     "nome": "Ajax de Ámsterdam",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1770361",
+     "nome": "Jong Ajax",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q514714",
+     "nome": "Selección sub-19 de los Países Bajos",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1811026",
+     "nome": "Selección sub-21 de los Países Bajos",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Hansi Flick": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q577384",
+   "times": [
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q15789",
+     "nome": "F. C. Bayern Múnich",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Bayern München logo (2024).svg"
+    },
+    {
+     "id": "Q1279534",
+     "nome": "Victoria Bammental",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "1603-cup der Heidelberger Brauerei 2014-12-27 21-30-35.JPG"
+    },
+    {
+     "id": "Q104770",
+     "nome": "F. C. Colonia",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "1. FC Koeln Logo 2014–.svg"
+    },
+    {
+     "id": "Q639525",
+     "nome": "SV Sandhausen",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q22707",
+     "nome": "TSG 1899 Hoffenheim",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "TSG Logo-Standard 4c.png"
+    },
+    {
+     "id": "Q43310",
+     "nome": "Selección de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2016992",
+     "nome": "Selección sub-18 de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1203196",
+     "nome": "Selección juvenil de Alemania",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "José Mourinho": {
+   "fotos": [
+    {
+     "arquivo": "José Mourinho/José Mourinho - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Ronnie Macdonald from Chelmsford, United Kingdom / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jose_Mourinho_2013.jpg",
+     "nota": 3.73,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 08:11"
+    },
+    {
+     "arquivo": "José Mourinho/José Mourinho - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Hilmi Hacaloğlu / Wikimedia Commons, Public domain",
+     "origem": "https://commons.wikimedia.org/wiki/File:Fenerbahce_manager_Jose_Mourinho_and_Ali_Ko%C3%A7,_June_2024.jpg",
+     "nota": 5.7,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 08:13"
+    },
+    {
+     "arquivo": "José Mourinho/José Mourinho - Real Madrid Club de Fútbol - 1.jpg",
+     "contexto": "Real Madrid Club de Fútbol",
+     "tipo": "clube",
+     "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(1).jpg",
+     "nota": 6.86,
+     "ultimo_uso": "2026-11-14 08:15",
+     "usos": 1,
+     "adicionada": "2026-11-14 08:14"
+    },
+    {
+     "arquivo": "José Mourinho/José Mourinho - Real Madrid Club de Fútbol - 2.jpg",
+     "contexto": "Real Madrid Club de Fútbol",
+     "tipo": "clube",
+     "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(2).jpg",
+     "nota": 6.85,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 08:14"
+    },
+    {
+     "arquivo": "José Mourinho/José Mourinho - Real Madrid Club de Fútbol - 3.jpg",
+     "contexto": "Real Madrid Club de Fútbol",
+     "tipo": "clube",
+     "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(3).jpg",
+     "nota": 5.64,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 08:14"
+    }
+   ],
+   "abastecido": "2026-11-14 08:15",
+   "wikidata": "Q79983",
+   "times": [
+    {
+     "id": "Q622432",
+     "nome": "Rio Ave Futebol Clube",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q216510",
+     "nome": "Clube de Futebol Os Belenenses",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Os Belenenses.png"
+    },
+    {
+     "id": "Q2474559",
+     "nome": "G.D. Sesimbra",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10388036",
+     "nome": "União Futebol Comércio e Indústria",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18656",
+     "nome": "Manchester United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q131499",
+     "nome": "Sport Lisboa e Benfica",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q211401",
+     "nome": "União Desportiva de Leiria",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q128446",
+     "nome": "Fútbol Club Oporto",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Emblema F C Porto (derived).jpg"
+    },
+    {
+     "id": "Q9616",
+     "nome": "Chelsea Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q631",
+     "nome": "Inter de Milán",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Internazionale Milano 2021.svg"
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q18741",
+     "nome": "Tottenham Hotspur Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2739",
+     "nome": "A.S. Roma",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "AS ROMA Text Logo 2020 - 2021 .svg"
+    },
+    {
+     "id": "Q6601875",
+     "nome": "Fenerbahçe Spor Kulübü",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    }
+   ]
+  },
+  "Florentino Pérez": {
+   "fotos": [],
+   "abastecido": "2026-11-14 08:15"
   }
  },
  "escudos": {

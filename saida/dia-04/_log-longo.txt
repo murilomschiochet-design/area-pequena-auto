@@ -1,0 +1,39 @@
+ cena 00 abertura  14.4s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la nueva era 
+ cena 01 card       7.3s  Empezamos con una noticia que marca época. Portugal juega ho
+ cena 02 foto      13.1s  Portugal recibe esta noche a Dinamarca en Braga, a las veint
+ cena 03 cita       9.5s  En su carta de despedida, escrita el cinco de noviembre, Cri
+ cena 04 numero    12.4s  Es el máximo goleador de la historia, con novecientos ochent
+ cena 05 foto      12.7s  Según apuntan varios medios, los jugadores portugueses saldr
+[ WARN:0@123.974] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@124.090] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 06 fotoless  21.5s  Jorge Jesus, el seleccionador, también tuvo palabras para él
+ cena 07 card       4.9s  Pasamos a Argentina, que vivió su primera noche en la era po
+ cena 08 foto      12.2s  Uruguay ganó en La Bombonera. Es el primer partido de Argent
+ cena 09 foto      19.1s  La Uruguay de Forlán se impuso gracias a dos goles de pelota
+ cena 10 foto      18.3s  La imagen fue casi tan llamativa como el resultado. AS habla
+ cena 11 fotoless   9.4s  Era también el primer partido tras la renovación de Scaloni 
+ cena 12 card       4.7s  Y de Argentina nos vamos a Ámsterdam, donde Xavi vive un sue
+ cena 13 foto      12.0s  Países Bajos goleó siete a cero a Grecia en el Johan Cruyff 
+ cena 14 cita      11.6s  Xavi lo resumió así: la primera parte fue increíble, pero es
+ cena 15 foto      13.2s  AS habla de Xavimanía. Cuenta que Holanda ya no es un equipo
+ cena 16 foto       8.7s  El lunes toca Alemania, en Berlín. Xavi dijo que todavía tie
+ cena 17 card       4.7s  Mientras tanto, en Francia, buenas noticias para Zidane.
+ cena 18 foto       9.3s  Kylian Mbappé fue la gran novedad de la sesión de la tarde d
+ cena 19 foto      14.6s  Mbappé había evolucionado bien de la molestia en los isquiot
+ cena 20 card       4.1s  Seguimos con otro foco puesto en Brasil: Vinicius.
+ cena 21 foto      13.5s  Ancelotti mantiene a Vinicius en el once para el amistoso co
+ cena 22 foto      15.0s  Con el Real Madrid no marca desde el veintiséis de agosto. S
+ cena 23 foto      19.2s  Y ahora, más noticias del día. Ojo con el Manchester United:
+ cena 24 foto      10.9s  Pasamos a Alemania. La Alemania de Klopp ganó uno a tres en 
+ cena 25 foto      11.4s  Con este triunfo, a Alemania le basta ganar a los holandeses
+ cena 26 foto       9.2s  Y noche histórica para Andy Robertson. El capitán de Escocia
+ cena 27 numero     7.7s  Escocia, además, ganó dos a uno a Macedonia del Norte, con d
+ cena 28 foto      11.1s  En el Barça, Frenkie de Jong explicó por qué Xavi lo sustitu
+ cena 29 foto      18.0s  Y hablando del Barça, MARCA cuenta que Flick y Deco quieren 
+ cena 30 foto      13.6s  En el Real Madrid, AS repasa el largo viaje de Mourinho en s
+ cena 31 fotoless  14.1s  Según Mundo Deportivo, Florentino Pérez tiene todo preparado
+ cena 32 foto      12.0s  Y para cerrar, una de Messi. AS informa de que visitará el M
+ cena 33 cierre    14.0s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-04/longo.mp4  (407s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-04/_contato_longo.jpg

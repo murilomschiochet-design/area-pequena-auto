@@ -1,0 +1,32 @@
+{
+ "01": {
+  "publish_id": "v_inbox_file~v2.7707925307096942614",
+  "legenda": "PORTUGAL juega por primera vez SIN CRISTIANO RONALDO: homenaje con el 7 😢 #CristianoRonaldo #Portugal #NationsLeague #futbol #noticiasdefutbol",
+  "hora": "10:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "02": {
+  "publish_id": "v_inbox_file~v2.7707925096647903254",
+  "legenda": "ARGENTINA pierde en su primer partido SIN MESSI y la Bombonera, semivacía 😳 #Messi #Argentina #Uruguay #futbol #noticiasdefutbol",
+  "hora": "13:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "03": {
+  "publish_id": "v_inbox_file~v2.7707925429097367574",
+  "legenda": "XAVI arrasa con Países Bajos: 7-0 a Grecia y «este es el camino» 🔥 #Xavi #PaísesBajos #Reijnders #futbol #noticiasdefutbol",
+  "hora": "16:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "04": {
+  "publish_id": "v_inbox_file~v2.7707925307097008150",
+  "legenda": "MBAPPÉ vuelve a entrenar y Zidane espera tenerlo contra Turquía 🔥 #Mbappé #Zidane #Francia #futbol #noticiasdefutbol",
+  "hora": "18:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "05": {
+  "publish_id": "v_inbox_file~v2.7707925307097040918",
+  "legenda": "VINICIUS, titular con Brasil: Ancelotti confía en él pese a su mala racha 😳 #Vinicius #Brasil #Ancelotti #futbol #noticiasdefutbol",
+  "hora": "21:00",
+  "status": "SEND_TO_USER_INBOX"
+ }
+}
