@@ -1273,8 +1273,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_Australia_v_USA_19_June_2026-266.jpg",
      "nota": 3.18,
-     "ultimo_uso": "2026-11-14 07:50",
-     "usos": 2,
+     "ultimo_uso": "2026-11-14 09:56",
+     "usos": 3,
      "adicionada": "2026-11-12 17:30"
     }
    ],
@@ -1380,8 +1380,8 @@
      "credito": "Oleg Dubyna from Poltava, Ukraine / Wikimedia Commons, CC BY-SA 2.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Zinedine_Zidane_(41758545214).jpg",
      "nota": 6.15,
-     "ultimo_uso": "2026-11-12 17:36",
-     "usos": 1,
+     "ultimo_uso": "2026-11-14 09:53",
+     "usos": 2,
      "adicionada": "2026-11-12 17:34"
     },
     {
@@ -2046,8 +2046,8 @@
      "credito": "Andy Witchger / Wikimedia Commons, CC BY 2.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_2025.jpg",
      "nota": 5.09,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 10:06",
+     "usos": 1,
      "adicionada": "2026-11-14 07:22"
     }
    ],
@@ -2151,8 +2151,8 @@
      "credito": "Doha Stadium Plus Qatar / Wikimedia Commons, CC BY 2.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Xavi_Hernandez_-_18616930766.jpg",
      "nota": 5.49,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 09:51",
+     "usos": 1,
      "adicionada": "2026-11-14 07:23"
     }
    ],
@@ -2336,8 +2336,31 @@
    ]
   },
   "Jorge Jesus": {
-   "fotos": [],
-   "abastecido": null,
+   "fotos": [
+    {
+     "arquivo": "Jorge Jesus/Jorge Jesus - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Palácio do Planalto / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:2020_-_Jorge_Jesus_e_Jair_Bolsonaro.jpg",
+     "nota": 5.97,
+     "ultimo_uso": "2026-11-14 09:42",
+     "usos": 1,
+     "adicionada": "2026-11-14 09:38"
+    },
+    {
+     "arquivo": "Jorge Jesus/Jorge Jesus - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Alface / Wikimedia Commons, CC BY-SA 3.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Jorge_Jesus.jpg",
+     "nota": 6.08,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 09:39"
+    }
+   ],
+   "abastecido": "2026-11-14 09:42",
    "wikidata": "Q527550",
    "times": [
     {
@@ -2527,8 +2550,8 @@
      "credito": "Dltl2010 / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Diego_Forl%C3%A1n_28_jan_2018.jpg",
      "nota": 5.73,
-     "ultimo_uso": "2026-11-14 07:40",
-     "usos": 1,
+     "ultimo_uso": "2026-11-14 09:45",
+     "usos": 2,
      "adicionada": "2026-11-14 07:39"
     }
    ],
@@ -2661,8 +2684,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Carlo_Ancelotti_Brazil_V_Morocco_13_June_2026-47.jpg",
      "nota": 6.87,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 09:55",
+     "usos": 1,
      "adicionada": "2026-11-14 07:47"
     },
     {
@@ -2847,8 +2870,8 @@
      "credito": "Alexander Migl / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Opel_at_IAA_2019_IMG_0347.jpg",
      "nota": 5.37,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 09:58",
+     "usos": 1,
      "adicionada": "2026-11-14 07:54"
     },
     {
@@ -2952,8 +2975,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Florian_Wirtz_Pedro_Vite_Ecuador_v_Germany_25_June_2026-130.jpg",
      "nota": 4.52,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 09:58",
+     "usos": 1,
      "adicionada": "2026-11-14 07:58"
     },
     {
@@ -3038,8 +3061,8 @@
      "credito": "Scottish Government / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:First_Minister_meets_with_Scottish_National_Football_Team_(2).jpg",
      "nota": 5.25,
-     "ultimo_uso": "2026-11-14 08:04",
-     "usos": 1,
+     "ultimo_uso": "2026-11-14 10:00",
+     "usos": 2,
      "adicionada": "2026-11-14 08:02"
     },
     {
@@ -3060,8 +3083,8 @@
      "credito": "Scottish Government / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:First_Minister_meets_with_Scottish_National_Football_Team_(3).jpg",
      "nota": 5.61,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 09:59",
+     "usos": 1,
      "adicionada": "2026-11-14 08:02"
     },
     {
@@ -3149,8 +3172,31 @@
    ]
   },
   "Frenkie de Jong": {
-   "fotos": [],
-   "abastecido": null,
+   "fotos": [
+    {
+     "arquivo": "Frenkie de Jong/Frenkie de Jong - Fútbol Club Barcelona - 1.jpg",
+     "contexto": "Fútbol Club Barcelona",
+     "tipo": "clube",
+     "credito": "Werner100359 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_CF_Barcelona_(Testspiel_4._August_2021)_34.jpg",
+     "nota": 3.64,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-14 10:00"
+    },
+    {
+     "arquivo": "Frenkie de Jong/Frenkie de Jong - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "El Biyo / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:De_jong_Frenkie.jpg",
+     "nota": 5.86,
+     "ultimo_uso": "2026-11-14 10:01",
+     "usos": 1,
+     "adicionada": "2026-11-14 10:00"
+    }
+   ],
+   "abastecido": "2026-11-14 10:01",
    "wikidata": "Q19898898",
    "times": [
     {
@@ -3332,8 +3378,8 @@
      "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(2).jpg",
      "nota": 6.85,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-14 10:05",
+     "usos": 1,
      "adicionada": "2026-11-14 08:14"
     },
     {

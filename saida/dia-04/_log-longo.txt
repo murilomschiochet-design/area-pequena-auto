@@ -4,9 +4,9 @@
  cena 03 cita       9.5s  En su carta de despedida, escrita el cinco de noviembre, Cri
  cena 04 numero    12.4s  Es el máximo goleador de la historia, con novecientos ochent
  cena 05 foto      12.7s  Según apuntan varios medios, los jugadores portugueses saldr
-[ WARN:0@123.974] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
-[ WARN:0@124.090] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
- cena 06 fotoless  21.5s  Jorge Jesus, el seleccionador, también tuvo palabras para él
+[ WARN:0@222.239] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@222.402] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 06 foto      21.5s  Jorge Jesus, el seleccionador, también tuvo palabras para él
  cena 07 card       4.9s  Pasamos a Argentina, que vivió su primera noche en la era po
  cena 08 foto      12.2s  Uruguay ganó en La Bombonera. Es el primer partido de Argent
  cena 09 foto      19.1s  La Uruguay de Forlán se impuso gracias a dos goles de pelota

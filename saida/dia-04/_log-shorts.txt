@@ -1,34 +1,13 @@
 
 == dia-04: 5 shorts
  01 Portugal arranca *sin Cristiano*
-[ WARN:0@3.570] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
-[ WARN:0@3.693] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
-    banco + Cristiano Ronaldo - Selección de Portugal - 1.jpg
-    banco + Cristiano Ronaldo - Selección de Portugal - 2.jpg
-    banco + Cristiano Ronaldo - Selección de Portugal - 3.jpg
-    banco + Cristiano Ronaldo - Geral - 1.jpg
-    foto: Cristiano Ronaldo/Cristiano Ronaldo - Selección de Portugal - 1.jpg
     ok
  02 Argentina *sin Messi* cae ante Uruguay
-    banco + Lionel Messi - Selección de Argentina - 1.jpg
-    banco + Lionel Messi - Selección de Argentina - 2.jpg
-    banco + Lionel Messi - Selección de Argentina - 3.jpg
-    banco + Lionel Messi - Geral - 1.jpg
-    banco + Lionel Messi - Geral - 2.jpg
-    foto: Lionel Messi/Lionel Messi - Selección de Argentina - 1.jpg
     ok
  03 Xavi: «*Este es el camino*»
-    banco + Xavi Hernández - Geral - 1.jpg
-    banco + Xavi Hernández - Geral - 2.jpg
-    banco + Xavi Hernández - Geral - 3.jpg
-    foto: Xavi Hernández/Xavi Hernández - Geral - 1.jpg
     ok
  04 Mbappé *vuelve* a entrenar con Francia
-    foto: Kylian Mbappé/Kylian Mbappé - Selección de Francia - 2.jpg
     ok
  05 Vinicius *titular* con Ancelotti
-    banco + Vinícius Júnior - Selección de Brasil - 1.jpg
-    banco + Vinícius Júnior - Selección de Brasil - 2.jpg
-    foto: Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 1.jpg
     ok
  painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-04/painel.html
