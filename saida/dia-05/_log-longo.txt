@@ -8,8 +8,6 @@
  cena 07 foto      14.6s  Portugal perdió uno a cuatro ante Dinamarca en Braga. Los ti
  cena 08 cita      11.6s  Preguntado por si había echado de menos a Cristiano, Jorge J
  cena 09 foto      13.7s  El técnico añadió que la gente sí lo echa de menos, porque n
-[ WARN:0@377.525] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
-[ WARN:0@377.606] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
  cena 10 fotoless  18.4s  Højbjerg marcó de penalti en el minuto cuarenta y tres. Højl
  cena 11 card       5.5s  Y de una leyenda que se retiró hace años a otra que ha decid
  cena 12 foto      15.3s  El Balón de Oro de dos mil cinco vuelve este domingo. A los 
@@ -22,7 +20,9 @@
  cena 19 card       6.0s  Y terminamos los cinco grandes temas con una polémica italia
  cena 20 foto      14.0s  Zbigniew Boniek, exjugador de la Juventus y la Roma y actual
  cena 21 foto      12.8s  Para explicarlo, describió el juego de Guardiola como un pas
- cena 22 fotoless  16.9s  Boniek prefiere los equipos verticales que buscan marcar. Ci
+[ WARN:0@958.572] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@959.546] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 22 foto      16.9s  Boniek prefiere los equipos verticales que buscan marcar. Ci
  cena 23 foto      16.0s  Pasamos a Más noticias del día. En el Manchester United, AS 
  cena 24 foto      15.9s  Pochettino ya ha costado ocho millones de euros, la compensa
  cena 25 foto      14.2s  Y hablando de Estados Unidos: según el diario Sport, que cit

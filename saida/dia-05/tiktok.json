@@ -2,21 +2,31 @@
  "01": {
   "publish_id": "v_inbox_file~v2.7708297625702778902",
   "legenda": "LAMINE YAMAL jugará con el 10 de España ante Inglaterra 🔟 #LamineYamal #SelecciónEspañola #Inglaterra #futbol #noticiasdefutbol",
-  "hora": "09:00"
+  "hora": "09:00",
+  "status": "PUBLISH_COMPLETE"
  },
  "02": {
   "publish_id": "v_inbox_file~v2.7708297625702828054",
   "legenda": "JORGE JESUS sobre Cristiano tras el 1-4: \"Solo si es para que me haga compañía\" 😳 #JorgeJesus #CristianoRonaldo #Portugal #futbol #noticiasdefutbol",
-  "hora": "12:00"
+  "hora": "12:00",
+  "status": "SEND_TO_USER_INBOX"
  },
  "03": {
   "publish_id": "v_inbox_file~v2.7708297701783275542",
   "legenda": "RONALDINHO vuelve a jugar a los 46 años: ¡hoy debuta con el Ravenna! ⚽ #Ronaldinho #Ravenna #SerieC #futbol #noticiasdefutbol",
-  "hora": "15:00"
+  "hora": "15:00",
+  "status": "SEND_TO_USER_INBOX"
  },
  "04": {
   "publish_id": "v_inbox_file~v2.7708297701783324694",
   "legenda": "DE LA FUENTE a Tuchel: \"En España no hay racismo\" 🔥 y Tuchel responde #DeLaFuente #Tuchel #EspañaInglaterra #futbol #noticiasdefutbol",
-  "hora": "17:00"
+  "hora": "17:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "05": {
+  "publish_id": "v_inbox_file~v2.7708312894940973078",
+  "legenda": "BONIEK sentencia a GUARDIOLA: \"Ha matado el fútbol\" 😳 #Guardiola #Boniek #ManchesterCity #futbol #noticiasdefutbol",
+  "hora": "20:00",
+  "status": "SEND_TO_USER_INBOX"
  }
 }

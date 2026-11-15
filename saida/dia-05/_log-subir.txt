@@ -1,12 +1,11 @@
- 01 enviado: https://youtu.be/LP3XiCVgAio  agendado 15/11 09:00
- 02 enviado: https://youtu.be/MH6E1q96E4M  agendado 15/11 12:00
- 03 enviado: https://youtu.be/lr52UXJIScI  agendado 15/11 15:00
- 04 enviado: https://youtu.be/_3DlMuMWYjo  agendado 15/11 17:00
- 05 enviado: https://youtu.be/soeAXdyTX40  agendado 15/11 20:00
  01 já enviado (LP3XiCVgAio)
  02 já enviado (MH6E1q96E4M)
  03 já enviado (lr52UXJIScI)
  04 já enviado (_3DlMuMWYjo)
- thumbnail aplicada em wqglAOsDzPg
- longo enviado: https://youtu.be/wqglAOsDzPg  agendado 15/11 18:30
+ 05 já enviado (soeAXdyTX40)
+ 01 já enviado (LP3XiCVgAio)
+ 02 já enviado (MH6E1q96E4M)
+ 03 já enviado (lr52UXJIScI)
+ 04 já enviado (_3DlMuMWYjo)
+ longo já enviado (wqglAOsDzPg)
  05 já enviado (soeAXdyTX40)

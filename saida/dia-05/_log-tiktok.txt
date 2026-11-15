@@ -1,17 +1,7 @@
- 01: 5145815 bytes
- 01 na caixa de entrada do TikTok  (09:00)  legenda: LAMINE YAMAL jugará con el 10 de España ante Inglaterra 🔟 #LamineYamal #SelecciónEspañola #Inglaterra #futbol #noticiasdefutbol
- 02: 5228706 bytes
- 02 na caixa de entrada do TikTok  (12:00)  legenda: JORGE JESUS sobre Cristiano tras el 1-4: "Solo si es para que me haga compañía" 😳 #JorgeJesus #CristianoRonaldo #Portugal #futbol #noticiasdefutbol
- 03: 5072687 bytes
- 03 na caixa de entrada do TikTok  (15:00)  legenda: RONALDINHO vuelve a jugar a los 46 años: ¡hoy debuta con el Ravenna! ⚽ #Ronaldinho #Ravenna #SerieC #futbol #noticiasdefutbol
- 04: 5388540 bytes
- 04 na caixa de entrada do TikTok  (17:00)  legenda: DE LA FUENTE a Tuchel: "En España no hay racismo" 🔥 y Tuchel responde #DeLaFuente #Tuchel #EspañaInglaterra #futbol #noticiasdefutbol
  05: 5454264 bytes
-TikTok respondeu 500: <html>
-<head><title>500 Internal Server Error</title></head>
-<body>
-<center><h1>500 Internal Server Error</h1></center>
-<hr><center>TLB</center>
-</body>
-</html>
-
+ 05 na caixa de entrada do TikTok  (20:00)  legenda: BONIEK sentencia a GUARDIOLA: "Ha matado el fútbol" 😳 #Guardiola #Boniek #ManchesterCity #futbol #noticiasdefutbol
+ 01: PUBLISH_COMPLETE 
+ 02: SEND_TO_USER_INBOX 
+ 03: SEND_TO_USER_INBOX 
+ 04: SEND_TO_USER_INBOX 
+ 05: SEND_TO_USER_INBOX 
