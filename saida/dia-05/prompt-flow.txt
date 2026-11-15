@@ -1,0 +1,18 @@
+COMO USAR NO FLOW
+1. Imagem 1: thumb.jpg (esta pasta) = a base. Imagens 2 e 3: duas thumbnails do Cracks (só como referência de estilo).
+2. Cole o prompt abaixo. Gere 4 versões e escolha a melhor; se mudar o rosto de alguém, descarte.
+3. Suba no YouTube Studio > vídeo longo do dia > Miniatura.
+
+PROMPT (cole tudo):
+Edit image 1 into a high-impact YouTube thumbnail for a Spanish football news video, 16:9, 1280x720.
+Keep EXACTLY the same people, faces, hair, kits and positions from image 1 - do not change anyone's face or identity, do not add new people.
+Main figure in the center: Lamine Yamal. Other large figures: none. Small circle portraits: Cristiano Ronaldo, Ronaldinho, Pep Guardiola.
+Copy only the LOOK of images 2 and 3 (style references, do not copy their people, logos or text):
+- background: packed football stadium crowd at night, strong depth-of-field blur, warm stadium lights and soft light flares
+- every cut-out person has a thin clean white outline, crisp edges, strong rim light, punchy saturated colors and high contrast
+- circle portraits with thick white borders and drop shadows, faces centered and sharp
+- club crests: Selección de fútbol de España (no mark); keep crests flat and accurate
+- keep the "AREA PEQUEÑA" badge in the bottom-left corner exactly as it is
+No other text, no titles, no watermarks. Photorealistic, sharp, professional sports-news thumbnail.
+
+Título do vídeo (pra conferir que a imagem combina): Lamine se pone el 10 | "Solo si es para que me haga compañía" | ¿Ronaldinho vuelve a los 46? | Boniek: "Guardiola mató el fútbol"

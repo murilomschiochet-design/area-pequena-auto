@@ -1,0 +1,26 @@
+
+== dia-05: 5 shorts
+ 01 Lamine Yamal se pone *el 10*
+    foto: Lamine Yamal/Lamine Yamal - Selección de España - 3.jpg
+    ok
+ 02 Jorge Jesus: «*Solo si es para que me haga compañía*»
+    foto: Jorge Jesus/Jorge Jesus - Geral - 2.jpg
+    ok
+ 03 Ronaldinho *vuelve* a jugar a los 46
+[ WARN:0@39.331] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@39.462] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Ronaldinho - Fútbol Club Barcelona - 1.jpg
+    banco + Ronaldinho - Fútbol Club Barcelona - 2.jpg
+    banco + Ronaldinho - Fútbol Club Barcelona - 3.jpg
+    banco + Ronaldinho - Geral - 1.jpg
+    foto: Ronaldinho/Ronaldinho - Geral - 1.jpg
+    ok
+ 04 De la Fuente: «*En España no hay racismo*»
+    banco + Luis de la Fuente - Selección de España - 1.jpg
+    foto: Luis de la Fuente/Luis de la Fuente - Selección de España - 1.jpg
+    ok
+ 05 Boniek: «Guardiola *ha matado* el fútbol»
+    ! sem escudo para U.S. Lecce
+    foto: File:Etihad Stadium, Manchester City Football Club (Ank Kumar, Infosys) 15.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-05/painel.html

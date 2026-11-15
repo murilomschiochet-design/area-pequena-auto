@@ -1,0 +1,42 @@
+ cena 00 abertura  15.6s  Bienvenidos a Área Pequeña FC. Hoy hablamos de Lamine Yamal 
+ cena 01 card       7.8s  Empezamos con España, que esta noche se juega el primer pues
+ cena 02 foto      12.9s  Luis de la Fuente ya comunicó a la UEFA la lista de veintitr
+ cena 03 foto      15.0s  Los cuatro que verán el partido desde la grada del Metropoli
+ cena 04 foto      17.0s  Pero la noticia está en los dorsales. Con Oyarzabal y Lamine
+ cena 05 foto      16.3s  No es la primera vez que Lamine elige el diez. Ya lo hizo en
+ cena 06 card       6.5s  Pasamos a Portugal, que vivió una noche muy distinta a la qu
+ cena 07 foto      14.6s  Portugal perdió uno a cuatro ante Dinamarca en Braga. Los ti
+ cena 08 cita      11.6s  Preguntado por si había echado de menos a Cristiano, Jorge J
+ cena 09 foto      13.7s  El técnico añadió que la gente sí lo echa de menos, porque n
+[ WARN:0@377.525] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@377.606] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 10 fotoless  18.4s  Højbjerg marcó de penalti en el minuto cuarenta y tres. Højl
+ cena 11 card       5.5s  Y de una leyenda que se retiró hace años a otra que ha decid
+ cena 12 foto      15.3s  El Balón de Oro de dos mil cinco vuelve este domingo. A los 
+ cena 13 foto      14.0s  Según MARCA, apenas ha completado un entrenamiento con sus n
+ cena 14 cita      11.8s  En su presentación con el Ravenna, Ronaldinho prometió: esto
+ cena 15 card       6.6s  Volvemos a la selección española, donde el seleccionador sal
+ cena 16 foto      13.0s  Luis de la Fuente defendió a la afición española antes del p
+ cena 17 foto      15.5s  El seleccionador garantizó que no buscará el empate, aunque 
+ cena 18 foto      13.6s  Y en la misma línea, el atlético Baena defendió la gestión d
+ cena 19 card       6.0s  Y terminamos los cinco grandes temas con una polémica italia
+ cena 20 foto      14.0s  Zbigniew Boniek, exjugador de la Juventus y la Roma y actual
+ cena 21 foto      12.8s  Para explicarlo, describió el juego de Guardiola como un pas
+ cena 22 fotoless  16.9s  Boniek prefiere los equipos verticales que buscan marcar. Ci
+ cena 23 foto      16.0s  Pasamos a Más noticias del día. En el Manchester United, AS 
+ cena 24 foto      15.9s  Pochettino ya ha costado ocho millones de euros, la compensa
+ cena 25 foto      14.2s  Y hablando de Estados Unidos: según el diario Sport, que cit
+ cena 26 foto      18.2s  En Francia, Zidane confirmó que Mbappé jugará ante Turquía, 
+ cena 27 foto      17.4s  Francia es segunda del grupo con diez puntos, los mismos que
+ cena 28 foto      15.7s  Según Mundo Deportivo, Mbappé es el único jugador del Madrid
+ cena 29 foto      14.4s  En Países Bajos, Frenkie de Jong fue desconvocado por Xavi p
+ cena 30 fotoless  14.3s  En Dinamarca, el atlético Hjulmand disputó los noventa minut
+ cena 31 foto      16.5s  MARCA repasa el caso de Enzo Fernández: con apenas veinticin
+ cena 32 fotoless  15.1s  En Segunda, Raúl González debutó como técnico del Real Ovied
+ cena 33 foto      15.4s  Según Cracks, Rodrygo ya está en la fase final de su recuper
+ cena 34 foto      11.2s  También según Cracks, que cita al diario Sport, el padre de 
+ cena 35 foto      13.7s  Y en las eliminatorias africanas, Egipto goleó cinco a cero 
+ cena 36 cierre    13.7s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-05/longo.mp4  (506s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-05/_contato_longo.jpg
