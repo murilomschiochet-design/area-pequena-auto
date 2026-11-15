@@ -1,0 +1,292 @@
+{
+  "dia": "dia-05",
+  "data": "15 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "15 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de Lamine Yamal y su nuevo dorsal con España, de la frase de Jorge Jesus sobre Cristiano Ronaldo y del regreso de Ronaldinho a los cuarenta y seis años. Quédate hasta el final, que hay muchas más noticias."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con España, que esta noche se juega el primer puesto del grupo ante Inglaterra, y con una noticia sobre Lamine Yamal."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Lamine *se pone el 10*",
+      "voz": "Luis de la Fuente ya comunicó a la UEFA la lista de veintitrés jugadores para el partido contra Inglaterra. Aunque tuvo a veintiocho en Las Rozas, solo tuvo que hacer cuatro descartes, además de la baja de Grimaldo por gripe.",
+      "short": "01",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Los *descartes*",
+      "voz": "Los cuatro que verán el partido desde la grada del Metropolitano son Álvaro Valles, Jacobo Ramón, De Frutos y Roberto Fernández. Grimaldo se marchó anoche aquejado de un proceso vírico que ha afectado a varios internacionales españoles durante la semana.",
+      "pessoa": "Luis de la Fuente",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "El dorsal *más legendario*",
+      "voz": "Pero la noticia está en los dorsales. Con Oyarzabal y Lamine de vuelta, había dudas sobre si el delantero del Barcelona cambiaría el diecinueve por el diez, vacante por la lesión de Dani Olmo. Y así ha sido: es el dorsal de Pelé, Maradona, Messi, Platini o Modric.",
+      "short": "01",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "No es la *primera vez*",
+      "voz": "No es la primera vez que Lamine elige el diez. Ya lo hizo en octubre de dos mil veinticuatro, ante Dinamarca en Murcia, en un partido que España ganó uno a cero con gol de Zubimendi. A España le basta un empate para ser primera de grupo y jugar la vuelta de cuartos en casa.",
+      "pessoa": "Lamine Yamal",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos a Portugal, que vivió una noche muy distinta a la que esperaba, en su primer partido sin Cristiano."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Portugal",
+      "titulo": "Un homenaje *y una goleada*",
+      "voz": "Portugal perdió uno a cuatro ante Dinamarca en Braga. Los titulares salieron con el siete de Cristiano, hubo un tifo con el mensaje Obrigado, capitão y la grada aplaudió en el minuto siete. Pero el resultado pesó más que el homenaje.",
+      "short": "02",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "¿Echar de menos a Cristiano? *Solo si es para que me haga compañía*.",
+      "autor": "Jorge Jesus",
+      "sub": "tras la derrota ante Dinamarca",
+      "voz": "Preguntado por si había echado de menos a Cristiano, Jorge Jesus respondió: ¿echar de menos a Cristiano? ¿Si ya no está en la selección? Solo si es para que me haga compañía."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Portugal",
+      "titulo": "Jorge Jesus *explica*",
+      "voz": "El técnico añadió que la gente sí lo echa de menos, porque no ha olvidado lo que Cristiano hizo durante veintitrés años con la selección, y que nadie está contento. En lo deportivo reconoció que no fueron tan sólidos en defensa como Dinamarca.",
+      "pessoa": "Jorge Jesus",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Portugal",
+      "titulo": "Goles *daneses*",
+      "voz": "Højbjerg marcó de penalti en el minuto cuarenta y tres. Højlund hizo dos goles, en el cincuenta y en el cincuenta y siete, y Andersen firmó el cuarto en el setenta y cinco. Bernardo Silva puso el uno a cuatro final en el descuento. Portugal está obligada a puntuar en Gales para clasificarse como líder.",
+      "pessoa": "Rasmus Højlund",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Y de una leyenda que se retiró hace años a otra que ha decidido volver: Ronaldinho."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Serie C · Italia",
+      "titulo": "Ronaldinho *regresa*",
+      "voz": "El Balón de Oro de dos mil cinco vuelve este domingo. A los cuarenta y seis años jugará con el Ravenna contra el Forlì, en la Serie C, a las cinco y media de la tarde, en el estadio Bruno Benelli. Será su primer partido oficial desde dos mil quince.",
+      "short": "03",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Serie C · Italia",
+      "titulo": "Un solo *entrenamiento*",
+      "voz": "Según MARCA, apenas ha completado un entrenamiento con sus nuevos compañeros y el club ha instalado una grada adicional por la expectación. Todas las miradas están puestas en la posibilidad de que marque el gol número trescientos de su carrera.",
+      "pessoa": "Ronaldinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Estoy deseando *bailar con el balón*.",
+      "autor": "Ronaldinho",
+      "sub": "en su presentación con el Ravenna",
+      "voz": "En su presentación con el Ravenna, Ronaldinho prometió: estoy deseando bailar con el balón. Su último partido oficial fue con el Fluminense, y su retirada se anunció en dos mil dieciocho."
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Volvemos a la selección española, donde el seleccionador salió al paso de las críticas antes del gran partido."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "De la Fuente *contundente*",
+      "voz": "Luis de la Fuente defendió a la afición española antes del partido contra Inglaterra con una frase directa: decidle a Tuchel que en España no hay racismo. Tuchel, por su parte, aseguró que se ha tergiversado su mensaje.",
+      "short": "04",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Ganar, *no empatar*",
+      "voz": "El seleccionador garantizó que no buscará el empate, aunque le sirva para ser primero: la única idea, dijo, es ganar y llegar al decimotercer partido seguido con victoria. Son cuarenta y tres partidos sin perder, la selección que más partidos lleva imbatida.",
+      "pessoa": "Luis de la Fuente",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Baena *defiende* a Lamine",
+      "voz": "Y en la misma línea, el atlético Baena defendió la gestión de la convocatoria de Lamine: si hubiera trato de favor, dijo, lo entenderían. Lamine, según De la Fuente, está fantástico y ha recuperado perfectamente.",
+      "pessoa": "Lamine Yamal",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y terminamos los cinco grandes temas con una polémica italiana que tiene a Guardiola en el centro."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Polémica",
+      "titulo": "Boniek *contra Guardiola*",
+      "voz": "Zbigniew Boniek, exjugador de la Juventus y la Roma y actual vicepresidente de la UEFA, criticó el estilo de Guardiola en una entrevista con el Corriere dello Sport. Dijo: tengo un gran respeto por Guardiola, pero ha matado el fútbol.",
+      "short": "05",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Polémica",
+      "titulo": "Mil *setecientos ochenta y ocho*",
+      "voz": "Para explicarlo, describió el juego de Guardiola como un pase de un lado a otro, hacia la derecha y de vuelta a la izquierda, hasta acabar el partido con mil setecientos ochenta y ocho pases. Y aseguró que no lo disfruta.",
+      "pessoa": "Pep Guardiola",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Polémica",
+      "titulo": "Los equipos *que le gustan*",
+      "voz": "Boniek prefiere los equipos verticales que buscan marcar. Citó al Lazio y al Frosinone, que arriesgan encajar tres para poder marcar cuatro o cinco, y a la Roma, donde a veces ves a Mancini o a Hermoso en el área rival. También habló de la eterna comparación entre Maradona y Messi.",
+      "pessoa": "Zbigniew Boniek",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "120 millones *en banquillos*",
+      "voz": "Pasamos a Más noticias del día. En el Manchester United, AS calcula que el gasto en entrenadores supera los ciento veinte millones de euros en trece años. Doce técnicos han pasado por el banquillo desde la salida de Ferguson, y Pochettino será el tercero de este año.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "El precio *de Pochettino*",
+      "voz": "Pochettino ya ha costado ocho millones de euros, la compensación que el United pagó a la federación de Estados Unidos. Michael Carrick y sus ayudantes también serán compensados, con un coste estimado de unos seis millones. Una suma que inquieta a Jim Ratcliffe.",
+      "pessoa": "Michael Carrick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "¿Guardiola *a Estados Unidos*?",
+      "voz": "Y hablando de Estados Unidos: según el diario Sport, que cita el programa Cracks, Guardiola habría aceptado mantener las primeras conversaciones con la federación la próxima semana. Si aceptara, sería su primer trabajo como seleccionador.",
+      "pessoa": "Pep Guardiola",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Zidane *sobre Mbappé*",
+      "voz": "En Francia, Zidane confirmó que Mbappé jugará ante Turquía, después de perderse la derrota con Italia por molestias musculares. El seleccionador dijo que cambia todo tenerlo disponible, y sobre los rumores de mala relación fue claro: tengo una relación entrenador-jugador con él, no hay ningún problema, son tonterías.",
+      "pessoa": "Kylian Mbappé",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Francia *necesita ganar*",
+      "voz": "Francia es segunda del grupo con diez puntos, los mismos que Italia, y Bélgica suma nueve. Necesita ganar a Turquía para asegurar su presencia en cuartos sin depender de otros resultados. Y además se verán las caras Mbappé y Arda Güler, dos cracks del Real Madrid con camisetas distintas.",
+      "pessoa": "Arda Güler",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "El parón *de Mbappé*",
+      "voz": "Según Mundo Deportivo, Mbappé es el único jugador del Madrid que ha sido titular en los dieciséis partidos de la temporada: doce de Liga y cuatro de Champions, con diecisiete goles en mil cuatrocientos treinta minutos. Sus únicas reservas llegan cuando viaja con Francia.",
+      "pessoa": "Kylian Mbappé",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Frenkie, *fuera*",
+      "voz": "En Países Bajos, Frenkie de Jong fue desconvocado por Xavi por unas molestias en el pubis que ya le impidieron jugar la segunda parte contra Grecia. Volverá a Barcelona y no jugará el lunes ante Alemania en Berlín, en la última jornada del grupo.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Hjulmand *cierra bocas*",
+      "voz": "En Dinamarca, el atlético Hjulmand disputó los noventa minutos de la goleada en Portugal y cerró un debate en su país sobre si podía compartir el centro del campo con Højbjerg sin solaparse. Dijo en su momento: disfruto mucho jugando con él.",
+      "pessoa": "Morten Hjulmand",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Enzo Fernández, *dos caras*",
+      "voz": "MARCA repasa el caso de Enzo Fernández: con apenas veinticinco años, sus traspasos han movido más de trescientos diez millones de euros, solo por detrás de Neymar y Lukaku. Dice que su mejor versión llega con Argentina, y él lo resume así: siempre haré lo que el entrenador me pida.",
+      "pessoa": "Enzo Fernández",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Debut *amargo* de Raúl",
+      "voz": "En Segunda, Raúl González debutó como técnico del Real Oviedo con derrota ante el Girona. Dijo que en este deporte a veces no hay debuts soñados, que el partido fue igualado y que el vestuario estaba abatido, pero que ya piensan en preparar el próximo partido.",
+      "pessoa": "Raúl González",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Rodrygo *ya vuelve*",
+      "voz": "Según Cracks, Rodrygo ya está en la fase final de su recuperación tras ocho meses fuera por la rotura de ligamento. Trabaja en el centro de entrenamiento del Santos con permiso del Real Madrid y apunta a volver entre finales de este año y comienzos de dos mil veintisiete.",
+      "pessoa": "Rodrygo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Hamza *se queda*",
+      "voz": "También según Cracks, que cita al diario Sport, el padre de Hamza Abdelkarim desmintió que el jugador quiera irse del Barça: los rumores sobre un traspaso al Como, aseguró, son inventados.",
+      "pessoa": "Hamza Abdelkarim",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Salah *llega a 70*",
+      "voz": "Y en las eliminatorias africanas, Egipto goleó cinco a cero a Malawi, con dos goles de Salah, que llegó a setenta y se convirtió en el máximo goleador de su selección. Marruecos ganó cinco a uno a Níger, con doblete de Hakimi.",
+      "pessoa": "Mohamed Salah",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿qué te parece que Lamine se ponga el diez? Nos vemos mañana con más noticias."
+    }
+  ]
+}
