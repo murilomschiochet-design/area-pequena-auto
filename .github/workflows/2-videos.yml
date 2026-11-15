@@ -1,4 +1,4 @@
-# 2) Quando um roteiro novo chega (roteiros/dia-XX.json), monta os 8 shorts + o vídeo longo e sobe AGENDADO no YouTube. Instagram: Reels + 3 stories por dia.
+# 2) Quando um roteiro novo chega (roteiros/dia-XX.json), monta os 8 shorts + o vídeo longo e sobe AGENDADO no YouTube. Instagram: Reels + 3 stories por dia. 
 #    Também dá pra rodar à mão em Actions > "2 - Gerar e subir" > Run workflow (escolhendo o dia e se sobe ou não).
 name: 2 - Gerar e subir
 
