@@ -1,0 +1,21 @@
+
+== dia-06: 5 shorts
+ 01 Se acaba *la racha* de España
+    foto: Lamine Yamal/Lamine Yamal - Selección de España - 2.jpg
+    ok
+ 02 Vinicius: «*Entrené menos*, soy humano»
+    foto: Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 2.jpg
+    ok
+ 03 Bellingham: «*Perdí la sonrisa*»
+    foto: Jude Bellingham/Jude Bellingham - Geral - 1.jpg
+    ok
+ 04 Ancelotti: «*Romario habla mucho*»
+    foto: Carlo Ancelotti/Carlo Ancelotti - Selección de Brasil - 3.jpg
+    ok
+ 05 Güler deja a Zidane *boquiabierto*
+[ WARN:0@90.039] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@90.191] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+    ! sem escudo para Real Madrid Club de Fútbol
+    foto: escudo Selección de Turquía
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-06/painel.html

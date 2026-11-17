@@ -1,0 +1,47 @@
+ cena 00 abertura  15.8s  Bienvenidos a Área Pequeña FC. Hoy hablamos del final de la 
+ cena 01 card       7.5s  Empezamos con la selección española, que ha vivido una noche
+ cena 02 foto      11.8s  España perdió dos a tres contra Inglaterra en el Metropolita
+ cena 03 foto      14.0s  La última derrota había sido el veintiocho de marzo de dos m
+ cena 04 foto      14.1s  Inglaterra fue superior durante buena parte de la primera mi
+ cena 05 foto      16.0s  Después llegó la reacción. Lamine Yamal, con el diez a la es
+ cena 06 cita      14.4s  Dentro del vestuario del Metropolitano se escuchó una frase 
+ cena 07 foto      14.5s  Con la derrota, España cayó a la segunda plaza del grupo y s
+ cena 08 card       6.0s  Pasamos al Real Madrid, porque Vinicius ha hablado con mucha
+ cena 09 foto      14.6s  Antes del partido de Brasil contra Singapur, Vinicius atendi
+ cena 10 cita       9.3s  Vinicius lo explicó así: terminé entrenando menos que en los
+ cena 11 foto      13.7s  Además, habló de su renovación. Con tantos clubes interesado
+ cena 12 foto      19.4s  Vinicius recordó que la temporada pasada, hasta diciembre, s
+ cena 13 card       4.4s  Y seguimos en el Madrid, con una confesión de Jude Bellingha
+ cena 14 foto      10.1s  Según MARCA, Bellingham ha recuperado la alegría. Suma seis 
+ cena 15 cita      13.5s  En British Vogue, Bellingham confesó: perdí la sonrisa jugan
+ cena 16 foto      11.5s  Contó que se ponía muy tenso y estresado, y que empezó a hab
+ cena 17 foto      14.3s  El Mundial fue su punto de inflexión. Marcó siete goles, sol
+ cena 18 card       5.3s  Pasamos a Brasil, donde Carlo Ancelotti ha respondido con du
+ cena 19 foto      10.1s  Romario atacó al seleccionador y Ancelotti le contestó en la
+ cena 20 cita      11.6s  Ancelotti lo dijo así: Romario dio su opinión, y todos tiene
+ cena 21 foto      16.6s  Pero también fue autocrítico. Dijo que es un trabajo nuevo y
+ cena 22 foto      14.3s  Sobre Raphinha, que fue expulsado en el banquillo tras prote
+ cena 23 card       5.9s  Y cerramos el bloque principal con otro jugador del Madrid q
+ cena 24 foto      11.6s  Según MARCA, Arda Güler ya no es una promesa, es una realida
+[ WARN:0@893.522] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@893.666] global net_impl_backend.cpp:345 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 25 foto      13.6s  En sus últimos ocho partidos con el Madrid y con Turquía ha 
+ cena 26 cita       9.2s  Zinedine Zidane, seleccionador de Francia, lo elogió así: Tu
+ cena 27 foto      12.1s  Kevin de Bruyne también se rindió tras el golazo de falta de
+ cena 28 foto      14.4s  Y ahora, más noticias del día. En el Manchester United, el f
+ cena 29 fotoless  14.8s  Uno era Fabian Hürzeler, entrenador del Brighton, que está s
+ cena 30 foto      12.1s  Finalmente, Pochettino fue quien mejor encajó para suplir a 
+ cena 31 foto      12.4s  Pasamos al Madrid. Según MARCA, el club ha desactivado la al
+ cena 32 foto      17.0s  Bernardo estará disponible para Mourinho en el regreso del M
+ cena 33 foto      14.7s  Y una despedida importante: Romelu Lukaku ha anunciado en In
+ cena 34 cita      10.7s  Lukaku escribió: estoy orgulloso de haber representado a mi 
+ cena 35 foto      10.2s  Vamos con el Barça. Frenkie de Jong tiene un estiramiento en
+ cena 36 foto      17.0s  Y ojo con el calendario del equipo de Hansi Flick: siete par
+ cena 37 foto      13.1s  Mientras tanto en la Nations League, Francia ganó dos a uno 
+ cena 38 fotoless  12.2s  Y en Bruselas, Italia dejó escapar su gran oportunidad. Pio 
+ cena 39 fotoless  13.9s  Y terminamos con política y fútbol. El alcalde de Madrid, Jo
+ cena 40 cita      17.2s  Almeida dijo: la final tiene que ser aquí. Y preguntó: ¿algu
+ cena 41 cierre    13.9s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-06/longo.mp4  (529s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-06/_contato_longo.jpg
