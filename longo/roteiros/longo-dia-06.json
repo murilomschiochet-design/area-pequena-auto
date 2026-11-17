@@ -1,0 +1,332 @@
+{
+  "dia": "dia-06",
+  "data": "17 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "17 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos del final de la racha de España tras perder contra Inglaterra, de lo que ha dicho Vinicius sobre su mal momento y de la confesión de Bellingham sobre su etapa con Inglaterra. Quédate hasta el final, que hay muchas más noticias."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con la selección española, que ha vivido una noche que acabó con una de las rachas más largas del fútbol de selecciones."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Se acaba *la racha*",
+      "voz": "España perdió dos a tres contra Inglaterra en el Metropolitano. Con esa derrota terminó una racha de mil trescientos veintiocho días y cuarenta y cuatro partidos oficiales sin conocer la derrota.",
+      "short": "01",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Desde *Escocia*",
+      "voz": "La última derrota había sido el veintiocho de marzo de dos mil veintitrés, ante Escocia, por dos a cero. Según Mundo Deportivo, el propio Luis de la Fuente había avisado en las últimas previas de que ese momento estaba cada vez más cerca.",
+      "pessoa": "Luis de la Fuente",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Un *0-3* en contra",
+      "voz": "Inglaterra fue superior durante buena parte de la primera mitad y llegó a ganar por cero a tres. Según AS, Bellingham paseaba por el Metropolitano como si fuera su Bernabéu, y los de Tuchel dominaron hasta que Elliot Anderson fue expulsado.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "La *reacción*",
+      "voz": "Después llegó la reacción. Lamine Yamal, con el diez a la espalda, robó el balón y provocó el penalti con expulsión, que Oyarzabal convirtió. Según AS, Lamine cocinó los dos goles de España y fue una tortura para Inglaterra en ese tramo final.",
+      "pessoa": "Lamine Yamal",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "El que venga *que lo supere*.",
+      "autor": "Vestuario de España",
+      "sub": "tras la derrota ante Inglaterra",
+      "voz": "Dentro del vestuario del Metropolitano se escuchó una frase que resume el ánimo del grupo: el que venga que lo supere. Según Mundo Deportivo, el equipo estaba dolido, pero consciente de que se cerraba una etapa histórica, aunque no se acababa."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "*Cuartos* difíciles",
+      "voz": "Con la derrota, España cayó a la segunda plaza del grupo y se queda sin el factor campo a favor en los cuartos de final. Según AS, entre los posibles rivales aparecen Francia, Holanda o Alemania, y también Portugal si no se estrella en Gales.",
+      "pessoa": "Luis de la Fuente",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos al Real Madrid, porque Vinicius ha hablado con mucha sinceridad de su bajón de rendimiento."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Brasil",
+      "titulo": "Vinicius *habla claro*",
+      "voz": "Antes del partido de Brasil contra Singapur, Vinicius atendió a los medios. Explicó que no se preparó mejor después del Mundial, porque perder tan pronto fue algo que nadie esperaba, y que aprovechó las vacaciones para descansar y estar con su familia.",
+      "short": "02",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Terminé entrenando *menos* que en los últimos años.",
+      "autor": "Vinicius",
+      "sub": "sobre su inicio de temporada",
+      "voz": "Vinicius lo explicó así: terminé entrenando menos que en los últimos años. Y reconoció que eso puede haber afectado su inicio de temporada."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Brasil",
+      "titulo": "Un verano *abrumador*",
+      "voz": "Además, habló de su renovación. Con tantos clubes interesados el verano pasado, dijo sentirse realmente abrumado, igual que por la situación en el Real Madrid. Pero recordó que la temporada es muy larga.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Brasil",
+      "titulo": "*Cinco goles* hasta diciembre",
+      "voz": "Vinicius recordó que la temporada pasada, hasta diciembre, solo había marcado cinco goles, y que terminó con más de veinte, como en todas las demás temporadas. Citó a Cristiano y a Messi como los únicos que han mantenido un nivel tan alto durante tantos años. Y añadió: soy humano, cometo errores a menudo.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Y seguimos en el Madrid, con una confesión de Jude Bellingham."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Inglaterra",
+      "titulo": "Bellingham *recupera la sonrisa*",
+      "voz": "Según MARCA, Bellingham ha recuperado la alegría. Suma seis goles y diez asistencias entre el Madrid e Inglaterra, y vuelve a situarse entre los mejores del mundo.",
+      "short": "03",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Perdí la sonrisa. *Me sentí el chivo expiatorio*.",
+      "autor": "Jude Bellingham",
+      "sub": "en British Vogue",
+      "voz": "En British Vogue, Bellingham confesó: perdí la sonrisa jugando como Inglaterra después de la Eurocopa. Me sentí un poco como el chivo expiatorio. Creo que me trataban un poco mal en comparación con lo que aportaba."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Inglaterra",
+      "titulo": "Tenso *y estresado*",
+      "voz": "Contó que se ponía muy tenso y estresado, y que empezó a hablar con alguien que le ayudó a manejar ese tipo de cosas. También reconoció que decidió seguir sin operarse del hombro y que fue un error.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Inglaterra",
+      "titulo": "El *Mundial* de Jude",
+      "voz": "El Mundial fue su punto de inflexión. Marcó siete goles, solo por detrás de Mbappé, con diez, y de Messi, con ocho, y Inglaterra acabó tercera. Fue el jugador más destacado, por encima de Harry Kane.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Pasamos a Brasil, donde Carlo Ancelotti ha respondido con dureza a una leyenda."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Brasil",
+      "titulo": "Ancelotti *responde*",
+      "voz": "Romario atacó al seleccionador y Ancelotti le contestó en la previa del partido contra Singapur. Dijo que todo el mundo tiene derecho a opinar en un país democrático.",
+      "short": "04",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Romario *habla mucho*, y está en su derecho.",
+      "autor": "Carlo Ancelotti",
+      "sub": "sobre las críticas de Romario",
+      "voz": "Ancelotti lo dijo así: Romario dio su opinión, y todos tienen derecho a decir mentiras, verdades o disparates. Lo cierto es que Romario habla mucho, y está en su derecho."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Brasil",
+      "titulo": "Autocrítica *del técnico*",
+      "voz": "Pero también fue autocrítico. Dijo que es un trabajo nuevo y que le gusta, pero que no es suficiente, y que tiene que hacer más. Admitió: hace mucho tiempo que no somos competitivos. Pidió paciencia, porque el equipo está probando a nuevos jugadores.",
+      "pessoa": "Carlo Ancelotti",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Brasil",
+      "titulo": "El caso *Raphinha*",
+      "voz": "Sobre Raphinha, que fue expulsado en el banquillo tras protestar el tres a dos de Japón, Ancelotti dijo que quería estar con el equipo y que eso es una señal de que el grupo es muy sano. Avisó además de que arriba empezarán Estêvão, Endrick y Vinicius.",
+      "pessoa": "Raphinha",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y cerramos el bloque principal con otro jugador del Madrid que no deja de crecer: Arda Güler."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Turquía",
+      "titulo": "Güler *sin freno*",
+      "voz": "Según MARCA, Arda Güler ya no es una promesa, es una realidad. Es el jugador de la Nations League que más faltas recibe, el segundo que más dispara y el cuarto que más ocasiones genera.",
+      "short": "05",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Turquía",
+      "titulo": "*Nueve goles* en ocho partidos",
+      "voz": "En sus últimos ocho partidos con el Madrid y con Turquía ha fabricado nueve goles: ha marcado cinco y ha dado cuatro asistencias. Ante Francia, en la derrota por dos a uno, asistió desde el córner a Bardakci en el minuto noventa.",
+      "pessoa": "Arda Güler",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Arda es *muy, muy, muy bueno*.",
+      "autor": "Zinedine Zidane",
+      "sub": "tras Francia-Turquía",
+      "voz": "Zinedine Zidane, seleccionador de Francia, lo elogió así: Turquía no me sorprendió. Arda es muy, muy, muy bueno."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Turquía",
+      "titulo": "Elogio *de De Bruyne*",
+      "voz": "Kevin de Bruyne también se rindió tras el golazo de falta de Güler en la derrota ante Bélgica, por uno a dos: Arda Güler es fantástico, juega en uno de los mejores clubes del mundo y es uno de los mejores futbolistas del mundo.",
+      "pessoa": "Arda Güler",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "El *banquillo* del United",
+      "voz": "Y ahora, más noticias del día. En el Manchester United, el fichaje de Pochettino no fue tan claro como parecía. Según The Athletic, citado por Mundo Deportivo, en la cumbre de Mónaco había otros tres nombres sobre la mesa.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Hürzeler, *Emery y Fàbregas*",
+      "voz": "Uno era Fabian Hürzeler, entrenador del Brighton, que está segundo en la Premier. Tony Bloom le puso precio: veinte millones de euros, pero él prefirió no escuchar ofertas. Los otros dos eran Unai Emery y Cesc Fàbregas, del Como.",
+      "pessoa": "Fabian Hürzeler",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Poch *llega el miércoles*",
+      "voz": "Finalmente, Pochettino fue quien mejor encajó para suplir a Carrick. Su llegada está prevista para este miércoles, cuando deje definitivamente la selección de Estados Unidos para viajar a Inglaterra.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Susto *con Bernardo Silva*",
+      "voz": "Pasamos al Madrid. Según MARCA, el club ha desactivado la alerta por Bernardo Silva. El centrocampista abandonó la concentración de Portugal por precaución tras unas ligeras molestias que no revisten gravedad.",
+      "pessoa": "Bernardo Silva",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Disponible *para el Celta*",
+      "voz": "Bernardo estará disponible para Mourinho en el regreso del Madrid a la competición, el próximo sábado ante el Celta en el Bernabéu. El club recupera a los internacionales este martes. Otro susto fue el de Tchouaméni, que se volvió de la concentración de Francia por una lesión en el aductor derecho.",
+      "pessoa": "Bernardo Silva",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Bélgica",
+      "titulo": "Lukaku *se despide*",
+      "voz": "Y una despedida importante: Romelu Lukaku ha anunciado en Instagram que deja la selección de Bélgica a los treinta y tres años. Se va como máximo goleador histórico de los Diablos Rojos, con noventa y cuatro goles en ciento treinta y cinco partidos.",
+      "pessoa": "Romelu Lukaku",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Estoy tranquilo *con mi decisión*.",
+      "autor": "Romelu Lukaku",
+      "sub": "anunciando su retirada de Bélgica",
+      "voz": "Lukaku escribió: estoy orgulloso de haber representado a mi país en cuatro Copas del Mundo y tres Eurocopas. Y añadió: estoy tranquilo con mi decisión de parar aquí."
+    },
+    {
+      "tipo": "foto",
+      "tag": "FC Barcelona",
+      "titulo": "Barça: *De Jong disponible*",
+      "voz": "Vamos con el Barça. Frenkie de Jong tiene un estiramiento en el músculo obturador, pero según el comunicado del club estará disponible para el partido contra el Villarreal.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "FC Barcelona",
+      "titulo": "*Siete partidos* en 21 días",
+      "voz": "Y ojo con el calendario del equipo de Hansi Flick: siete partidos en veintiún días, entre el domingo veintidós de noviembre y el domingo trece de diciembre. Empieza con el Villarreal, después viaja a Azerbaiyán para jugar contra el Sabah en Champions, y el dos de diciembre recibe al Atlético.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Nations League",
+      "titulo": "Francia y Bélgica *ganan*",
+      "voz": "Mientras tanto en la Nations League, Francia ganó dos a uno a Turquía y se clasificó como primera de grupo. Según AS, Zidane salvó su primera final como técnico. A Mbappé le anularon un gol por fuera de juego.",
+      "pessoa": "Zinedine Zidane",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Nations League",
+      "titulo": "*Bochorno* de Italia",
+      "voz": "Y en Bruselas, Italia dejó escapar su gran oportunidad. Pio Esposito adelantó a los azzurri en el minuto once, pero Bélgica remontó y ganó cuatro a uno, un resultado que AS calificó de bochorno.",
+      "pessoa": "Pio Esposito",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mundial 2030",
+      "titulo": "Almeida *reclama la final*",
+      "voz": "Y terminamos con política y fútbol. El alcalde de Madrid, José Luis Martínez-Almeida, volvió a reclamar la final del Mundial dos mil treinta para su ciudad. Dijo que dejarla fuera sería insultar directamente a España.",
+      "pessoa": "José Luis Martínez-Almeida",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "¿Alguien tiene *el cuajo* de robarle la final?",
+      "autor": "José Luis Martínez-Almeida",
+      "sub": "sobre el Mundial 2030",
+      "voz": "Almeida dijo: la final tiene que ser aquí. Y preguntó: ¿alguien tiene el cuajo de robarle la final a una ciudad que tiene los mejores estadios, las mejores infraestructuras y experiencia en albergar grandes acontecimientos? Marruecos aspira a celebrarla en un nuevo estadio en Casablanca."
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿qué te parece el final de la racha de España? Nos vemos mañana con más noticias."
+    }
+  ]
+}
