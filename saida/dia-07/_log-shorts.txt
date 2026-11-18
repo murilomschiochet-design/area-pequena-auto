@@ -1,0 +1,24 @@
+
+== dia-07: 5 shorts
+ 01 Mijatovic *avisa* a Vinicius
+    foto: Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 1.jpg
+    ok
+ 02 Pochettino se despide *entre lágrimas*
+    foto: Mauricio Pochettino/Mauricio Pochettino - Selección de los Estados Unidos - 1.jpg
+    ok
+ 03 Dibu: Nico Paz *puede llevar* el 10
+[ WARN:0@54.367] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@54.572] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    ! sem escudo para Selección de Argentina
+    banco + escudo Calcio Como 1907
+    foto: escudo Calcio Como 1907
+    ok
+ 04 Haaland salva a Noruega *en el 96'*
+    banco + Erling Haaland - Selección de Noruega - 1.jpg
+    banco + Erling Haaland - Selección de Noruega - 2.jpg
+    foto: Erling Haaland/Erling Haaland - Selección de Noruega - 1.jpg
+    ok
+ 05 Cherki y Mbappé, *tensión* en Francia
+    foto: Kylian Mbappé/Kylian Mbappé - Selección de Francia - 2.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-07/painel.html

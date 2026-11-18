@@ -1,0 +1,42 @@
+ cena 00 abertura  18.2s  Bienvenidos a Área Pequeña FC. Hoy hablamos del recado de Mi
+ cena 01 card       8.3s  Empezamos con el Real Madrid, porque Vinicius vuelve del par
+ cena 02 foto      12.3s  Vinicius marcó su primer hat-trick con la selección brasileñ
+ cena 03 foto      17.6s  Según Mundo Deportivo, antes del partido contra Japón, que B
+ cena 04 cita      15.8s  Mijatovic analizó el momento del brasileño en El Larguero. D
+ cena 05 fotoless  13.7s  El exdirectivo blanco añadió que Vinicius no va a ganar tant
+ cena 06 foto      13.6s  Mijatovic cree que, si el Madrid gana LaLiga o la Champions 
+ cena 07 foto      18.0s  Mundo Deportivo plantea el rompecabezas de Mourinho. El Madr
+ cena 08 card       7.6s  Pasamos a la Premier League, porque Mauricio Pochettino ya h
+ cena 09 foto      14.2s  Estados Unidos ganó dos a cero a Haití en Cincinnati, ocho a
+ cena 10 foto      14.5s  Según MARCA, Pochettino pone fin a su etapa por voluntad pro
+ cena 11 foto      15.3s  Pochettino deja a su sucesor una amplia cantera. En poco más
+ cena 12 cita      12.9s  Mundo Deportivo recuerda lo que dijo el técnico argentino al
+ cena 13 card       7.0s  Y ahora Argentina, que cerró el año con una paliza y con un 
+ cena 14 foto      14.2s  Argentina goleó siete a cero a Costa Rica en Córdoba. El par
+[ WARN:0@913.282] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@913.461] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 15 foto      16.1s  Según MARCA, Julián Álvarez suma diecinueve goles en sesenta
+ cena 16 cita      14.4s  Dibu Martínez dijo sobre Nico Paz: si sigue con esta humilda
+ cena 17 foto      15.5s  Con este triunfo, Dibu Martínez igualó el récord de Sergio R
+ cena 18 fotoless  16.4s  Lo menos positivo fue la entrada. Según Mundo Deportivo, sol
+ cena 19 card       4.6s  Seguimos con Noruega, que vivió una noche de locos en Copenh
+ cena 20 foto      11.9s  Noruega perdía dos a cero ante Dinamarca a los catorce minut
+ cena 21 foto      13.8s  Haaland empezó la reacción después de que le anularan un pri
+ cena 22 foto      14.0s  Odegaard empató en el minuto ochenta y tres. Y en el noventa
+ cena 23 card       6.4s  Y ojo con lo que se cuenta de la selección de Francia, donde
+ cena 24 foto      11.8s  Según Cracks, Cherki se calentó con Mbappé en pleno entrenam
+ cena 25 foto      15.6s  El asunto se hizo todavía más viral porque Radio Montecarlo 
+ cena 26 foto      14.8s  Pero otra parte de la prensa lo defiende. Mbappé lleva un go
+ cena 27 cita      15.7s  José Mourinho inauguró el curso de la Escuela Universitaria 
+ cena 28 foto      13.6s  Mourinho contó que ha estado fuera trece años y que en ese t
+ cena 29 foto      15.8s  Erik Lira, el Pitbull de México y capitán del Cruz Azul, con
+ cena 30 cita      14.6s  Según Lira, Bellingham se le acercó, le dio la mano y le dij
+ cena 31 foto      14.4s  Según Cracks, el Madrid empieza a dudar de Olise. El diario 
+ cena 32 foto      14.1s  Según Cracks, que cita a The Athletic, Declan Rice acordó ci
+ cena 33 foto      13.4s  Según Cracks, Alemania ganó cinco a cero a Países Bajos, que
+ cena 34 foto      11.2s  Cracks añade que un analista fue todavía más duro: cero vale
+ cena 35 cita      14.0s  Isco, capitán del Betis, habló antes del derbi del sábado: c
+ cena 36 cierre    16.0s  Y hasta aquí el resumen de hoy en Área Pequeña FC. Si te ha 
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-07/longo.mp4  (501s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-07/_contato_longo.jpg

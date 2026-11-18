@@ -1,0 +1,32 @@
+{
+ "01": {
+  "publish_id": "v_inbox_file~v2.7709408951200598038",
+  "legenda": "MIJATOVIC a Vinicius tras su hat-trick: \"No va a ganar tanto dinero como ahora\" 😳 #Vinicius #RealMadrid #Mijatovic #Brasil #futbol #noticiasdefutbol",
+  "hora": "09:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "02": {
+  "publish_id": "v_inbox_file~v2.7709408951200647190",
+  "legenda": "POCHETTINO se despide de Estados Unidos con ovación y se va al Manchester United 🔥 #Pochettino #ManchesterUnited #PremierLeague #USMNT #futbol #noticiasdefutbol",
+  "hora": "12:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "03": {
+  "publish_id": "v_inbox_file~v2.7709409144801069058",
+  "legenda": "DIBU lo dice: \"Nico Paz claramente puede llevar la 10 de Argentina\" tras el 7-0 🔥 #NicoPaz #Argentina #Messi #DibuMartinez #futbol #noticiasdefutbol",
+  "hora": "15:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "04": {
+  "publish_id": "v_inbox_file~v2.7709409144801134594",
+  "legenda": "HAALAND en el 96': Noruega remonta un 0-2 y elimina a Dinamarca 🔥 #Haaland #Noruega #Dinamarca #NationsLeague #futbol #noticiasdefutbol",
+  "hora": "17:00",
+  "status": "SEND_TO_USER_INBOX"
+ },
+ "05": {
+  "publish_id": "v_inbox_file~v2.7709408951200761878",
+  "legenda": "MBAPPÉ y CHERKI se calientan en pleno entrenamiento con Francia 😳 #Mbappé #Cherki #Francia #Zidane #futbol #noticiasdefutbol",
+  "hora": "20:00",
+  "status": "SEND_TO_USER_INBOX"
+ }
+}

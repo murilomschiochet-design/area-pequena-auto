@@ -426,8 +426,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Jude_Bellingham_Yoel_Barcenas_England_v_Panama_27_June_26-111.jpg",
      "nota": 5.45,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-18 08:08",
+     "usos": 1,
      "adicionada": "2026-11-12 12:05"
     },
     {
@@ -983,8 +983,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Sweden_6.30.26-225.jpg",
      "nota": 5.16,
-     "ultimo_uso": "2026-11-15 08:53",
-     "usos": 5,
+     "ultimo_uso": "2026-11-18 08:05",
+     "usos": 6,
      "adicionada": "2026-11-12 17:23"
     },
     {
@@ -994,8 +994,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Spain_7.24.26-135.jpg",
      "nota": 5.53,
-     "ultimo_uso": "2026-11-14 07:24",
-     "usos": 4,
+     "ultimo_uso": "2026-11-18 07:21",
+     "usos": 5,
      "adicionada": "2026-11-12 17:23"
     },
     {
@@ -1005,8 +1005,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Sweden_6.30.26-193.jpg",
      "nota": 6.04,
-     "ultimo_uso": "2026-11-15 07:51",
-     "usos": 4,
+     "ultimo_uso": "2026-11-18 08:04",
+     "usos": 5,
      "adicionada": "2026-11-12 17:23"
     },
     {
@@ -1273,8 +1273,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Mauricio_Pochettino_Australia_v_USA_19_June_2026-266.jpg",
      "nota": 3.18,
-     "ultimo_uso": "2026-11-17 07:41",
-     "usos": 7,
+     "ultimo_uso": "2026-11-18 07:38",
+     "usos": 10,
      "adicionada": "2026-11-12 17:30"
     }
    ],
@@ -2258,8 +2258,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_(cropped).jpg",
      "nota": 6.82,
-     "ultimo_uso": "2026-11-17 07:27",
-     "usos": 2,
+     "ultimo_uso": "2026-11-18 07:33",
+     "usos": 4,
      "adicionada": "2026-11-14 07:25"
     },
     {
@@ -2269,8 +2269,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Brahim_Diaz_Vinicius_Junior_Brazil_V_Morocco_13_June_2026-128.jpg",
      "nota": 5.4,
-     "ultimo_uso": "2026-11-17 07:27",
-     "usos": 2,
+     "ultimo_uso": "2026-11-18 07:29",
+     "usos": 3,
      "adicionada": "2026-11-14 07:25"
     }
    ],
@@ -3191,8 +3191,8 @@
      "credito": "El Biyo / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:De_jong_Frenkie.jpg",
      "nota": 5.86,
-     "ultimo_uso": "2026-11-15 08:57",
-     "usos": 3,
+     "ultimo_uso": "2026-11-18 08:13",
+     "usos": 5,
      "adicionada": "2026-11-14 10:00"
     }
    ],
@@ -3367,8 +3367,8 @@
      "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(1).jpg",
      "nota": 6.86,
-     "ultimo_uso": "2026-11-14 08:15",
-     "usos": 1,
+     "ultimo_uso": "2026-11-18 08:07",
+     "usos": 2,
      "adicionada": "2026-11-14 08:14"
     },
     {
@@ -3389,8 +3389,8 @@
      "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(3).jpg",
      "nota": 5.64,
-     "ultimo_uso": null,
-     "usos": 0,
+     "ultimo_uso": "2026-11-18 07:34",
+     "usos": 1,
      "adicionada": "2026-11-14 08:14"
     }
    ],
@@ -4736,6 +4736,767 @@
   "José Luis Martínez-Almeida": {
    "fotos": [],
    "abastecido": "2026-11-17 07:52"
+  },
+  "Nico Paz": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q111336539",
+   "times": [
+    {
+     "id": "Q1120838",
+     "nome": "Calcio Como 1907",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Calcio Como - logo (Italy, 2019-).svg"
+    },
+    {
+     "id": "Q79800",
+     "nome": "Selección de Argentina",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q12217",
+     "nome": "Real Madrid Castilla Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1187790",
+     "nome": "Selección sub-20 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Afa gold logo24.svg"
+    }
+   ]
+  },
+  "Erling Haaland": {
+   "fotos": [
+    {
+     "arquivo": "Erling Haaland/Erling Haaland - Selección de Noruega - 1.jpg",
+     "contexto": "Selección de Noruega",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-164.jpg",
+     "nota": 4.75,
+     "ultimo_uso": "2026-11-18 07:20",
+     "usos": 1,
+     "adicionada": "2026-11-18 07:18"
+    },
+    {
+     "arquivo": "Erling Haaland/Erling Haaland - Selección de Noruega - 2.jpg",
+     "contexto": "Selección de Noruega",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg",
+     "nota": 6.47,
+     "ultimo_uso": "2026-11-18 07:55",
+     "usos": 1,
+     "adicionada": "2026-11-18 07:18"
+    }
+   ],
+   "abastecido": "2026-11-18 07:20",
+   "wikidata": "Q28967995",
+   "times": [
+    {
+     "id": "Q995313",
+     "nome": "Bryne FK",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q208552",
+     "nome": "Molde FK",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Molde Fotball Logo.svg"
+    },
+    {
+     "id": "Q994811",
+     "nome": "FC Red Bull Salzburgo",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q41420",
+     "nome": "Borussia Dortmund",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Borussia Dortmund logo.svg"
+    },
+    {
+     "id": "Q50602",
+     "nome": "Manchester City Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q184387",
+     "nome": "Selección de Noruega",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q3873545",
+     "nome": "Selección sub-20 de Noruega",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2446294",
+     "nome": "Selección sub-21 de Noruega",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Pedja Mijatović": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q237964",
+   "times": [
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q219264",
+     "nome": "Fudbalski Klub Budućnost Podgorica",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2052",
+     "nome": "ACF Fiorentina",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "ACF Fiorentina - logo (Italy, 2022).svg"
+    },
+    {
+     "id": "Q188656",
+     "nome": "F. K. Partizan Belgrado",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8823",
+     "nome": "Levante Unión Deportiva",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10333",
+     "nome": "Valencia Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1131732",
+     "nome": "Selección de Serbia y Montenegro",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q188363",
+     "nome": "Selección de Yugoslavia",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    }
+   ]
+  },
+  "Julián Álvarez": {
+   "fotos": [
+    {
+     "arquivo": "Julián Álvarez/Julián Álvarez - Selección de Argentina - 1.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Argentina_v_Egypt_7_July_2026-251.jpg",
+     "nota": 5.21,
+     "ultimo_uso": "2026-11-18 07:44",
+     "usos": 1,
+     "adicionada": "2026-11-18 07:41"
+    },
+    {
+     "arquivo": "Julián Álvarez/Julián Álvarez - Selección de Argentina - 2.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Mohanad_Lasheen_Argentina_v_Egypt_7_July_2026-303.jpg",
+     "nota": 4.55,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 07:41"
+    },
+    {
+     "arquivo": "Julián Álvarez/Julián Álvarez - Selección de Argentina - 3.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Julian_Alvarez_Mohanad_Lasheen_Argentina_v_Egypt_7_July_2026-222.jpg",
+     "nota": 4.55,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 07:41"
+    }
+   ],
+   "abastecido": "2026-11-18 07:44",
+   "wikidata": "Q59381180",
+   "times": [
+    {
+     "id": "Q79800",
+     "nome": "Selección de Argentina",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8701",
+     "nome": "Atlético de Madrid",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q50602",
+     "nome": "Manchester City Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q15799",
+     "nome": "Club Atlético River Plate",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Club Atlético River Plate logo.svg"
+    },
+    {
+     "id": "Q1187790",
+     "nome": "Selección sub-20 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Afa gold logo24.svg"
+    },
+    {
+     "id": "Q2462207",
+     "nome": "Selección sub-23 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Argentine olympic committee logo image.svg"
+    }
+   ]
+  },
+  "Emiliano Martínez": {
+   "fotos": [
+    {
+     "arquivo": "Emiliano Martínez/Emiliano Martínez - Selección de Argentina - 1.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Egypt_7_July_2026-177.jpg",
+     "nota": 5.2,
+     "ultimo_uso": "2026-11-18 07:50",
+     "usos": 1,
+     "adicionada": "2026-11-18 07:46"
+    },
+    {
+     "arquivo": "Emiliano Martínez/Emiliano Martínez - Selección de Argentina - 2.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-235.jpg",
+     "nota": 3.74,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 07:46"
+    },
+    {
+     "arquivo": "Emiliano Martínez/Emiliano Martínez - Selección de Argentina - 3.jpg",
+     "contexto": "Selección de Argentina",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-242.jpg",
+     "nota": 4.26,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 07:46"
+    }
+   ],
+   "abastecido": "2026-11-18 07:50",
+   "wikidata": "Q3275904",
+   "times": [
+    {
+     "id": "Q79800",
+     "nome": "Selección de Argentina",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q9616",
+     "nome": "Chelsea Football Club",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19498",
+     "nome": "Sheffield Wednesday Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q48946",
+     "nome": "Oxford United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q48950",
+     "nome": "Rotherham United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19500",
+     "nome": "Wolverhampton Wanderers F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q9617",
+     "nome": "Arsenal Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18729",
+     "nome": "Reading Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8806",
+     "nome": "Getafe Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Getafe CF Logo.png"
+    },
+    {
+     "id": "Q18711",
+     "nome": "Aston Villa Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2902690",
+     "nome": "Selección sub-17 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1187790",
+     "nome": "Selección sub-20 de Argentina",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Afa gold logo24.svg"
+    }
+   ]
+  },
+  "Martin Ødegaard": {
+   "fotos": [
+    {
+     "arquivo": "Martin Ødegaard/Martin Ødegaard - Selección de Noruega - 1.jpg",
+     "contexto": "Selección de Noruega",
+     "tipo": "selecao",
+     "credito": "MichaelEmilio / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_C_46.jpg",
+     "nota": 5.42,
+     "ultimo_uso": "2026-11-18 08:01",
+     "usos": 1,
+     "adicionada": "2026-11-18 07:58"
+    },
+    {
+     "arquivo": "Martin Ødegaard/Martin Ødegaard - Selección de Noruega - 2.jpg",
+     "contexto": "Selección de Noruega",
+     "tipo": "selecao",
+     "credito": "MichaelEmilio / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_C_17.jpg",
+     "nota": 5.28,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 07:58"
+    },
+    {
+     "arquivo": "Martin Ødegaard/Martin Ødegaard - Selección de Noruega - 3.jpg",
+     "contexto": "Selección de Noruega",
+     "tipo": "selecao",
+     "credito": "MichaelEmilio / Wikimedia Commons, CC BY 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Norway_Italy_-_June_2025_D_03.jpg",
+     "nota": 5.6,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 07:58"
+    }
+   ],
+   "abastecido": "2026-11-18 08:01",
+   "wikidata": "Q16902219",
+   "times": [
+    {
+     "id": "Q184387",
+     "nome": "Selección de Noruega",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8682",
+     "nome": "Real Madrid Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7482049",
+     "nome": "Strømsgodset IF",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q200321",
+     "nome": "SC Heerenveen",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q219233",
+     "nome": "SBV Vitesse",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10315",
+     "nome": "Real Sociedad de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q9617",
+     "nome": "Arsenal Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q3590274",
+     "nome": "Selección sub-17 de Noruega",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2446294",
+     "nome": "Selección sub-21 de Noruega",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q121599275",
+     "nome": "Selección sub-15 de Noruega",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3873500",
+     "nome": "Selección sub-16 de Noruega",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Michael Olise": {
+   "fotos": [
+    {
+     "arquivo": "Michael Olise/Michael Olise - Selección de Francia - 1.jpg",
+     "contexto": "Selección de Francia",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Olise_France_v_Sweden_6.30.26-111.jpg",
+     "nota": 5.14,
+     "ultimo_uso": "2026-11-18 08:10",
+     "usos": 1,
+     "adicionada": "2026-11-18 08:10"
+    },
+    {
+     "arquivo": "Michael Olise/Michael Olise - Selección de Francia - 2.jpg",
+     "contexto": "Selección de Francia",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Olise_France_v_Morocco_9_July_2026-198.jpg",
+     "nota": 5.57,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 08:10"
+    },
+    {
+     "arquivo": "Michael Olise/Michael Olise - Selección de Francia - 3.jpg",
+     "contexto": "Selección de Francia",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Michael_Olise_France_v_Morocco_9_July_2026-142.jpg",
+     "nota": 4.58,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 08:10"
+    }
+   ],
+   "abastecido": "2026-11-18 08:10",
+   "wikidata": "Q62050484",
+   "times": [
+    {
+     "id": "Q15789",
+     "nome": "F. C. Bayern Múnich",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Bayern München logo (2024).svg"
+    },
+    {
+     "id": "Q47774",
+     "nome": "Selección de Francia",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19467",
+     "nome": "Crystal Palace Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18729",
+     "nome": "Reading Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1450557",
+     "nome": "Selección sub-18 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1277549",
+     "nome": "Selección sub-21 de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3590215",
+     "nome": "Selección olímpica de Francia",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Declan Rice": {
+   "fotos": [
+    {
+     "arquivo": "Declan Rice/Declan Rice - Selección de Inglaterra - 1.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Declan_Rice_England_v_Ghana_23_June_2026-305.jpg",
+     "nota": 5.6,
+     "ultimo_uso": "2026-11-18 08:11",
+     "usos": 1,
+     "adicionada": "2026-11-18 08:11"
+    },
+    {
+     "arquivo": "Declan Rice/Declan Rice - Selección de Inglaterra - 2.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Declan_Rice_Ivan_Toney_England_v_Panama_27_June_26-050.jpg",
+     "nota": 5.97,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 08:11"
+    },
+    {
+     "arquivo": "Declan Rice/Declan Rice - Selección de Inglaterra - 3.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Declan_Rice_4_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_03.jpg",
+     "nota": 5.41,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-18 08:11"
+    }
+   ],
+   "abastecido": "2026-11-18 08:11",
+   "wikidata": "Q30007142",
+   "times": [
+    {
+     "id": "Q9617",
+     "nome": "Arsenal Fútbol Club",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18747",
+     "nome": "West Ham United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q163547",
+     "nome": "Selección de Irlanda",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q47762",
+     "nome": "Selección de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": "Arms of The Football Association (include star).svg"
+    },
+    {
+     "id": "Q3590338",
+     "nome": "Selección sub-17 de Irlanda",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q9306853",
+     "nome": "Selección sub-19 de Irlanda",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1672798",
+     "nome": "Selección sub-21 de Irlanda",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
   }
  },
  "escudos": {
@@ -4757,6 +5518,11 @@
   "Selección de Turquía": {
    "arquivo": "escudos/Selección de Turquía.jpg",
    "logo": "Türk millî takımlar göğüs arması.png",
+   "credito": "Escudo: Wikimedia Commons"
+  },
+  "Calcio Como 1907": {
+   "arquivo": "escudos/Calcio Como 1907.jpg",
+   "logo": "Calcio Como - logo (Italy, 2019-).svg",
    "credito": "Escudo: Wikimedia Commons"
   }
  }
