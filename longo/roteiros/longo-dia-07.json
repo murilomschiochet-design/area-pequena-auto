@@ -1,0 +1,292 @@
+{
+  "dia": "dia-07",
+  "data": "18 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "18 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos del recado de Mijatovic a Vinicius tras su hat-trick con Brasil, de la despedida de Pochettino antes de llegar al Manchester United y de la goleada de Argentina, con Nico Paz señalado como heredero del diez de Messi. Quédate hasta el final, que hay muchas más noticias."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con el Real Madrid, porque Vinicius vuelve del parón de selecciones con cinco goles y con un mensaje muy directo de Pedja Mijatovic."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Brasil",
+      "titulo": "Un *hat-trick* con Brasil",
+      "voz": "Vinicius marcó su primer hat-trick con la selección brasileña en la goleada de Brasil por cero a siete contra Singapur. Lo hizo en solo doce minutos, entre el minuto nueve y el treinta y uno, y fue el gran protagonista del partido.",
+      "short": "01",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Brasil",
+      "titulo": "*Cinco goles* en dos partidos",
+      "voz": "Según Mundo Deportivo, antes del partido contra Japón, que Brasil perdió por dos a tres, Vinicius ya había marcado los dos tantos brasileños. Con esos cinco goles en dos partidos, regresa muy reforzado al Real Madrid, después de unas semanas con dudas por su rendimiento y su sequía goleadora.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Creo que *Vinicius se ha relajado*.",
+      "autor": "Pedja Mijatovic",
+      "sub": "en El Larguero",
+      "voz": "Mijatovic analizó el momento del brasileño en El Larguero. Dijo: creo que Vinicius se ha relajado, eso de que tengo que vivir, porque soy muy joven. Y le recomendó que piense que después de dejar el fútbol hay mucha vida para disfrutar con la familia y los amigos."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Brasil",
+      "titulo": "*Dinero* y futuro",
+      "voz": "El exdirectivo blanco añadió que Vinicius no va a ganar tanto dinero como ahora. Además, confirmó que el Madrid recibió una o dos ofertas muy importantes por el brasileño, una de ellas del Arsenal, y que en el club las rechazaron.",
+      "pessoa": "Pedja Mijatović",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Brasil",
+      "titulo": "*Si no hay títulos*",
+      "voz": "Mijatovic cree que, si el Madrid gana LaLiga o la Champions y Vinicius es protagonista, no lo venderá bajo ningún concepto. Pero si sucede lo contrario, opina que el club valorará alguna oferta, y que seguramente llegará.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Mourinho",
+      "titulo": "*El dilema* de Mourinho",
+      "voz": "Mundo Deportivo plantea el rompecabezas de Mourinho. El Madrid ha encadenado triunfos sin Vinicius en el once, y Diomande lo ha sustituido con tanto éxito que muchos apuestan por él. Vinicius ya cumplió su sanción de cuatro partidos de liga y está disponible para recibir al Celta el sábado en el Bernabéu.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos a la Premier League, porque Mauricio Pochettino ya ha dirigido su último partido con Estados Unidos antes de llegar al Manchester United."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Estados Unidos",
+      "titulo": "Adiós *con ovación*",
+      "voz": "Estados Unidos ganó dos a cero a Haití en Cincinnati, ocho a cero en el global, y avanzó a las semifinales de la Liga de Naciones de la Concacaf. Fue el último partido de Pochettino al frente de la selección, y el público lo despidió con una gran ovación.",
+      "short": "02",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Estados Unidos",
+      "titulo": "Por *voluntad propia*",
+      "voz": "Según MARCA, Pochettino pone fin a su etapa por voluntad propia y no por malos resultados, como suele ocurrir en los banquillos. Tuvo una despedida emotiva, y Mundo Deportivo destacó el llanto semicontenido del entrenador al anunciar su adiós.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Estados Unidos",
+      "titulo": "*Treinta y dos* debutantes",
+      "voz": "Pochettino deja a su sucesor una amplia cantera. En poco más de dos años hizo debutar a treinta y dos jugadores, y el último fue Reed Baker-Whiting, defensa de veintiún años del Nashville, que debutó este martes. Las semifinales se jugarán en marzo.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "A una oportunidad así, *no se le puede decir que no*.",
+      "autor": "Mauricio Pochettino",
+      "sub": "sobre el Manchester United",
+      "voz": "Mundo Deportivo recuerda lo que dijo el técnico argentino al explicar su salida: a una oportunidad así, no se le puede decir que no. Y señala que el United considera que encajará bien, por su prestigio para crear culturas de equipo."
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Y ahora Argentina, que cerró el año con una paliza y con un debate muy interesante sobre quién hereda el diez de Messi."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "Tres *dobletes*",
+      "voz": "Argentina goleó siete a cero a Costa Rica en Córdoba. El partido se resume en tres dobletes: Julián Álvarez y Nico Paz en la primera parte, y Mastantuono en la segunda. El séptimo gol fue de Alexis Mac Allister.",
+      "short": "03",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "*Julián* y Nico Paz",
+      "voz": "Según MARCA, Julián Álvarez suma diecinueve goles en sesenta y cuatro partidos con su país y ya firma tres goles en esta ventana. De Nico Paz dice que lo suyo es de escándalo: marcó un doblete, y el segundo fue un derechazo con su pierna mala, después de dejar atrás a varios rivales.",
+      "pessoa": "Julián Álvarez",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Nico Paz *claramente puede llevar la 10* de Argentina.",
+      "autor": "Dibu Martínez",
+      "sub": "tras el 7-0 a Costa Rica",
+      "voz": "Dibu Martínez dijo sobre Nico Paz: si sigue con esta humildad, con este presente, Nico Paz claramente puede llevar la diez de Argentina y ponerse ese peso encima. Y añadió: aquí no hay egos, hay trabajo, humildad y respeto."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "Récord de *Dibu*",
+      "voz": "Con este triunfo, Dibu Martínez igualó el récord de Sergio Romero con cuarenta y siete partidos sin recibir goles. Romero necesitó noventa y seis encuentros, y Dibu lo consiguió en setenta y uno. Él lo resumió así: es algo que soñaba desde chico.",
+      "pessoa": "Emiliano Martínez",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Argentina",
+      "titulo": "Estadios *vacíos*",
+      "voz": "Lo menos positivo fue la entrada. Según Mundo Deportivo, solo se vendieron dieciocho mil entradas y se ocuparon unas treinta mil de las cincuenta y siete mil plazas del Mario Kempes. Cracks cuenta que Scaloni respondió que cuando haga falta, los hinchas van a estar.",
+      "pessoa": "Lionel Scaloni",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Seguimos con Noruega, que vivió una noche de locos en Copenhague."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Noruega",
+      "titulo": "Remontada *de locos*",
+      "voz": "Noruega perdía dos a cero ante Dinamarca a los catorce minutos, con goles de Hojlund y Hojbjerg. Pero logró remontar y ganó dos a tres, lo que le mete en el bombo de los cuartos de final de la Nations League.",
+      "short": "04",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Noruega",
+      "titulo": "El *error* del portero",
+      "voz": "Haaland empezó la reacción después de que le anularan un primer gol por supuesta falta. Puso el dos a uno tras un grave fallo del portero danés, Hermansen, que intentó regatear sin éxito a Odegaard, y fue el inicio de la tragedia local.",
+      "pessoa": "Erling Haaland",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Noruega",
+      "titulo": "Penalti *en el 96*",
+      "voz": "Odegaard empató en el minuto ochenta y tres. Y en el noventa y tres hubo una clara mano en el área danesa. Haaland transformó el penalti en el minuto noventa y seis: su gol sesenta y ocho en sesenta y un partidos con Noruega.",
+      "pessoa": "Martin Ødegaard",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y ojo con lo que se cuenta de la selección de Francia, donde Cherki y Mbappé habrían tenido un encontronazo."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Francia",
+      "titulo": "Cherki *se calentó*",
+      "voz": "Según Cracks, Cherki se calentó con Mbappé en pleno entrenamiento. En redes aseguran que le dijo una frase muy subida de tono tras una pérdida, aunque es algo que circula en redes sociales.",
+      "short": "05",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Francia",
+      "titulo": "Otra *discusión*",
+      "voz": "El asunto se hizo todavía más viral porque Radio Montecarlo reveló una discusión con Barcola durante el partido ante Italia. Además, la prensa francesa le reclama demasiados toques de balón y echar la culpa a los compañeros más jóvenes durante los partidos.",
+      "pessoa": "Kylian Mbappé",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Francia",
+      "titulo": "*Lo defienden*",
+      "voz": "Pero otra parte de la prensa lo defiende. Mbappé lleva un gol y tres asistencias en seis partidos con Zidane y participó en los dos goles contra Turquía, aunque en ese partido terminó sin gol ni asistencia. Lleva doce goles en dos mil veintiséis.",
+      "pessoa": "Kylian Mbappé",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "En 2013 me podía haber quedado, pero *salí por amor al club*.",
+      "autor": "José Mourinho",
+      "sub": "en la Universidad Real Madrid",
+      "voz": "José Mourinho inauguró el curso de la Escuela Universitaria Real Madrid junto a Butragueño y habló de su vínculo con el club. Dijo: en dos mil trece me podía haber quedado, pero salí por amor al club y porque pensaba que en ese momento el equipo no necesitaba mi perfil."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Mourinho",
+      "titulo": "Un *entrenador solo*",
+      "voz": "Mourinho contó que ha estado fuera trece años y que en ese tiempo entendió mejor lo que se piensa del Real Madrid fuera de España. Y dio una clave de su carrera: el entrenador siempre está solo, y hay que saber esconder las debilidades.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Bellingham",
+      "titulo": "Lira y *Bellingham*",
+      "voz": "Erik Lira, el Pitbull de México y capitán del Cruz Azul, contó en un podcast qué le dijo Bellingham tras la eliminación de México ante Inglaterra en los cuartos del Mundial. Lira reconoce que antes del partido se mentalizó para frenar a Jude, aunque aún así les hizo dos goles.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Eres un gran jugador, *tienes un gran corazón*.",
+      "autor": "Jude Bellingham",
+      "sub": "a Erik Lira tras el Mundial",
+      "voz": "Según Lira, Bellingham se le acercó, le dio la mano y le dijo: eres un gran jugador, tienes un gran corazón, ojalá juegues en un equipo grande. Después intercambiaron camisetas, y el mexicano confesó que lloró al terminar el partido."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Olise",
+      "titulo": "Dudas con *Olise*",
+      "voz": "Según Cracks, el Madrid empieza a dudar de Olise. El diario AS cuenta que llegaron informes sobre su carácter y algunas actitudes que no terminan de gustar. Después de su floja fecha FIFA, Le Figaro también le pidió que deje de desaparecer.",
+      "pessoa": "Michael Olise",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Arsenal",
+      "titulo": "Rice *amarra* con el Arsenal",
+      "voz": "Según Cracks, que cita a The Athletic, Declan Rice acordó cinco años más con el Arsenal, hasta dos mil treinta y uno. El centrocampista suma ciento setenta y tres partidos, veintidós goles y treinta y seis asistencias con los gunners.",
+      "pessoa": "Declan Rice",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Alemania",
+      "titulo": "Alemania *humilla* a Países Bajos",
+      "voz": "Según Cracks, Alemania ganó cinco a cero a Países Bajos, quedó líder de su grupo y podría enfrentar a España en cuartos de final. La prensa neerlandesa habló de humillación y lo calificó como su peor derrota desde mil novecientos cincuenta y nueve.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Países Bajos",
+      "titulo": "Cero *valentía*",
+      "voz": "Cracks añade que un analista fue todavía más duro: cero valentía, cero presión, nos borraron. También avisó de que Países Bajos no puede depender siempre de Frenkie de Jong.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Ojalá podamos darle una *alegría a nuestra gente*.",
+      "autor": "Isco",
+      "sub": "antes del derbi sevillano",
+      "voz": "Isco, capitán del Betis, habló antes del derbi del sábado: con muchas ganas de ese partido, con mucha ilusión, muy motivados. Y dijo que el ambiente del derbi se disfruta mucho y que ojalá puedan darle una alegría a su gente."
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy en Área Pequeña FC. Si te ha gustado, suscríbete, activa la campanita para no perderte ninguna noticia y cuéntanos en los comentarios qué opinas de Vinicius, de Nico Paz y de la despedida de Pochettino. ¡Nos vemos mañana!"
+    }
+  ]
+}
