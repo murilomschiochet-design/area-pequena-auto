@@ -1,0 +1,5 @@
+[ WARN:0@5.382] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@5.798] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[0;93m2026-11-19 08:07:47.085436833 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+  ! sem escudo no Wikidata: Real Madrid Club de Fútbol
+thumb: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-08/thumb.jpg  (grandes: ['Kylian Mbappé', 'Lamine Yamal'], círculos: ['Antonio Rüdiger'], símbolo: Real Madrid Club de Fútbol, cores: ['#0e2a49', '#10467d', '#9f7460'], alerta: False)

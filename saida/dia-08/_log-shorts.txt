@@ -1,0 +1,28 @@
+
+== dia-08: 5 shorts
+ 01 Mbappé: *"Dormiré mejor"*
+[ WARN:0@5.625] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@6.072] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    ! sem escudo para Real Madrid Club de Fútbol
+    foto: escudo Selección de Turquía
+    ok
+ 02 Rüdiger defiende a *Mbappé*
+    banco + Antonio Rüdiger - Selección de Alemania - 1.jpg
+    banco + Antonio Rüdiger - Selección de Alemania - 2.jpg
+    banco + Antonio Rüdiger - Selección de Alemania - 3.jpg
+    banco + Antonio Rüdiger - Chelsea Football Club - 1.jpg
+    banco + Antonio Rüdiger - Chelsea Football Club - 2.jpg
+    foto: Antonio Rüdiger/Antonio Rüdiger - Chelsea Football Club - 1.jpg
+    ok
+ 03 Endrick y *enero*
+    ! sem escudo para Real Madrid Club de Fútbol
+    foto: escudo Selección de Brasil
+    ok
+ 04 Lamine, *el mejor* de LaLiga
+    foto: Lamine Yamal/Lamine Yamal - Selección de España - 1.jpg
+    ok
+ 05 Forbs y *el 7* de Cristiano
+    ! sem escudo para Selección de fútbol de Portugal
+    foto: File:Estádio da Luz 05.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-08/painel.html

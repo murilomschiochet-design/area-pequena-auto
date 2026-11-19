@@ -1,0 +1,44 @@
+ cena 00 abertura  17.2s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la renovación
+ cena 01 card       6.7s  Empezamos con el Real Madrid, porque Arda Güler ha renovado 
+ cena 02 foto      13.7s  Arda Güler, de veintiún años, ha renovado con el Real Madrid
+ cena 03 cita      13.5s  El propio Arda Güler mostró su satisfacción en redes sociale
+ cena 04 foto      19.4s  Muchos compañeros celebraron la noticia. Vinicius, Brahim y 
+ cena 05 card       5.9s  Seguimos en el Madrid, donde Antonio Rüdiger ha dado una ent
+ cena 06 foto      12.9s  Rüdiger respondió a las críticas por la poca implicación def
+ cena 07 cita      12.4s  Esta fue su frase completa: ¿debo decirle a un jugador que h
+ cena 08 foto      12.0s  Rüdiger puso ejemplos del pasado. Recordó el éxito que tuvie
+ cena 09 foto      19.0s  Sobre José Mourinho, Rüdiger contó que lo llamó poco antes d
+ cena 10 card       6.4s  Y seguimos con el Real Madrid, ahora con Endrick, que vuelve
+ cena 11 foto       9.9s  Endrick, de veinte años, destacó en este parón con la selecc
+ cena 12 cita      14.3s  Después del partido le preguntaron por sus pocos minutos. Di
+ cena 13 foto      12.0s  Hace unos días, Endrick no cerró la puerta a salir en enero.
+ cena 14 foto      15.0s  Mundo Deportivo cuenta que en Italia aseguran que Milan y Ro
+ cena 15 card       6.0s  Pasamos al Barcelona, que se ha llevado la mayoría de los pr
+ cena 16 foto      12.4s  Lamine Yamal ha sido elegido Mejor Jugador de LaLiga dos mil
+[ WARN:0@618.091] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@618.216] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 17 foto      18.9s  Hansi Flick recibirá el premio al Mejor Entrenador por reval
+ cena 18 foto      13.0s  El Real Madrid se llevó dos premios. Carlos Espí será el Mej
+ cena 19 card       4.7s  Y ahora Portugal, donde un número muy especial ha dado mucho
+ cena 20 foto      10.2s  Según MARCA, Carlos Forbs vistió el mítico dorsal siete de C
+ cena 21 cita      11.3s  Forbs dijo que es un número especial y que está muy orgullos
+ cena 22 fotoless  15.2s  Jorge Jesús cerró la fase de grupos con un aviso: que los de
+ cena 23 fotoless  10.4s  El sorteo de los cuartos de final de la Liga de Naciones es 
+ cena 24 foto      13.7s  Pasamos a las noticias de selecciones y de fútbol internacio
+ cena 25 cita      15.2s  Suárez también contó cómo terminó siendo el nueve del Barça.
+ cena 26 foto      12.9s  Suárez aseguró que en aquel tridente había cero egoísmo. Si 
+ cena 27 fotoless  16.0s  Y una despedida: según MARCA, Antonio Adán ha anunciado su r
+ cena 28 cita      13.5s  En su vídeo de despedida, Adán dijo: después de pensarlo muc
+ cena 29 foto      15.7s  Seguimos con Alemania. Mundo Deportivo cuenta que Lothar Mat
+ cena 30 cita      14.3s  Matthäus escribió que, tras el cinco a cero, las expectativa
+ cena 31 foto      17.6s  Ya están definidos los cuartos de la Liga de Naciones. Según
+ cena 32 foto      14.3s  España continúa líder del ranking mundial de la FIFA, aunque
+ cena 33 foto      14.1s  Según AS, hubo escándalo en África. Túnez amagó con irse del
+ cena 34 foto      17.2s  Tras unos siete minutos de incertidumbre, los tunecinos reca
+ cena 35 fotoless  15.2s  En Sudamérica, Uruguay goleó cinco a cero a República Domini
+ cena 36 fotoless  13.8s  Y una última noticia de cantera. Según MARCA, JJ Gabriel, un
+ cena 37 foto       8.2s  Y MARCA destaca a Dowman, que supera a Jude Bellingham como 
+ cena 38 cierre    15.4s  Y hasta aquí el resumen de hoy en Área Pequeña FC. Si te ha 
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-08/longo.mp4  (510s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-08/_contato_longo.jpg
