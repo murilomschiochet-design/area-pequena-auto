@@ -88,6 +88,8 @@ jobs:
           TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
           TIKTOK_CHAVE: ${{ secrets.TIKTOK_CHAVE }}
         run: |
+          # desligado em 19/11 a pedido do Murilo: os vídeos vão na página ap-legendas (botão Enviar pro TikTok), igual ao Levelz IT.
+          if [ "${{ vars.TIKTOK_API_AP }}" != "1" ]; then echo "TikTok pela API desligado: use a pagina ap-legendas."; exit 0; fi
           if [ -z "$TIKTOK_CHAVE" ]; then echo "Sem chave do TikTok: pulei."; exit 0; fi
           python tiktok.py ${{ steps.dia.outputs.dia }} 2>&1 | tee saida/${{ steps.dia.outputs.dia }}/_log-tiktok.txt
       - name: Pagina de legendas do TikTok (ap-legendas.pages.dev)
