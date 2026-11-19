@@ -1,0 +1,307 @@
+{
+ "dia": "dia-08",
+ "data": "19 de noviembre",
+ "voz": "es-ES-AlvaroNeural",
+ "cenas": [
+  {
+   "tipo": "abertura",
+   "fundo": "estadio",
+   "tag": "Resumen del día",
+   "titulo": "Las noticias *de hoy*",
+   "sub": "19 de noviembre",
+   "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la renovación de Arda Güler con el Real Madrid y de la curiosa respuesta de Mbappé, de las palabras de Rüdiger sobre Mourinho y de los premios de LaLiga, con Lamine Yamal como mejor jugador. Quédate hasta el final, que hay muchas más noticias."
+  },
+  {
+   "tipo": "card",
+   "card": "01",
+   "fundo": "estadio",
+   "voz": "Empezamos con el Real Madrid, porque Arda Güler ha renovado y la reacción de Mbappé no ha pasado desapercibida."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Arda Güler",
+   "titulo": "Renueva *hasta 2032*",
+   "voz": "Arda Güler, de veintiún años, ha renovado con el Real Madrid hasta dos mil treinta y dos. El club lo anunció a través de un comunicado oficial, y Mundo Deportivo recuerda que el turco es ahora una pieza clave en el equipo de Mourinho.",
+   "short": "01",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "Mi sueño es *vestir esta camiseta* durante muchos años.",
+   "autor": "Arda Güler",
+   "sub": "tras renovar con el Madrid",
+   "voz": "El propio Arda Güler mostró su satisfacción en redes sociales. Escribió: mi sueño es vestir esta camiseta durante muchos años, ganar juntos nuevos títulos y, algún día, dejar mi propia huella en esta historia única."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Mbappé",
+   "titulo": "La reacción de *Mbappé*",
+   "voz": "Muchos compañeros celebraron la noticia. Vinicius, Brahim y Huijsen respondieron con corazones, y Lucas Vázquez escribió good news. Pero Mundo Deportivo destaca la reacción más curiosa, la de Mbappé: gracias, voy a dormir mejor esta noche. Según AS, el francés fue el primero en reaccionar.",
+   "pessoa": "Kylian Mbappé",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "card",
+   "card": "02",
+   "fundo": "estadio",
+   "voz": "Seguimos en el Madrid, donde Antonio Rüdiger ha dado una entrevista muy comentada a The Athletic."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Rüdiger",
+   "titulo": "Rüdiger *defiende* a Mbappé",
+   "voz": "Rüdiger respondió a las críticas por la poca implicación defensiva de jugadores como Mbappé. Dijo, según MARCA, que no tiene sentido pedirle a un jugador que ha marcado cien goles en dos años que haga su trabajo.",
+   "short": "02",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "¿Debo decirle a un jugador que ha marcado *100 goles en dos años* que haga mi trabajo?",
+   "autor": "Antonio Rüdiger",
+   "sub": "a The Athletic",
+   "voz": "Esta fue su frase completa: ¿debo decirle a un jugador que ha marcado cien goles en dos años que haga mi trabajo? Eso no tiene sentido. Y añadió que no hay que estar siempre hablando de cómo defienden."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Rüdiger",
+   "titulo": "Mirar *la historia*",
+   "voz": "Rüdiger puso ejemplos del pasado. Recordó el éxito que tuvieron Gareth Bale, Benzema y Cristiano Ronaldo, y dijo que así es la historia del Real Madrid: siempre fue un grupo de estrellas.",
+   "pessoa": "Antonio Rüdiger",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Mourinho",
+   "titulo": "Mourinho *le quería*",
+   "voz": "Sobre José Mourinho, Rüdiger contó que lo llamó poco antes del final de la temporada para decirle que sería el entrenador y que quería que se quedara. Recordó que Mourinho lo quiso en otras ocasiones, cuando estaba en el Tottenham y cuando era más joven. Y dijo que, a los treinta y tres años, por fin se han encontrado.",
+   "pessoa": "José Mourinho",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "card",
+   "card": "03",
+   "fundo": "estadio",
+   "voz": "Y seguimos con el Real Madrid, ahora con Endrick, que vuelve del parón con goles y con el futuro en el aire."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Endrick",
+   "titulo": "Brilla *con Brasil*",
+   "voz": "Endrick, de veinte años, destacó en este parón con la selección brasileña. Según Mundo Deportivo, marcó un gol ante Singapur y dio otro a Vinicius.",
+   "short": "03",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "Mourinho decide *cuánto tiempo juego*.",
+   "autor": "Endrick",
+   "sub": "tras el partido ante Singapur",
+   "voz": "Después del partido le preguntaron por sus pocos minutos. Dijo: espero pasar toda mi vida en el Real Madrid. Y sobre jugar más, respondió: creo que esa es decisión de Mourinho, él decide cuánto tiempo juego."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Endrick",
+   "titulo": "*Enero* en el aire",
+   "voz": "Hace unos días, Endrick no cerró la puerta a salir en enero. Dijo que solo tiene veinte años, que quiere jugar y ser feliz, y que no sabe qué pasará en enero, porque eso está en manos de Dios.",
+   "pessoa": "Endrick",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Mercado · Endrick",
+   "titulo": "Milan y Roma, *interesados*",
+   "voz": "Mundo Deportivo cuenta que en Italia aseguran que Milan y Roma están muy interesados, y que en Brasil hablan de una oferta del Milan. AS añade que el jugador trabaja en su salida para el invierno, pero que Mourinho no quiere perder a nadie de la plantilla, y menos a él.",
+   "pessoa": "Endrick",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "card",
+   "card": "04",
+   "fundo": "estadio",
+   "voz": "Pasamos al Barcelona, que se ha llevado la mayoría de los premios de LaLiga de la temporada pasada."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Barça · Lamine Yamal",
+   "titulo": "Mejor jugador *de LaLiga*",
+   "voz": "Lamine Yamal ha sido elegido Mejor Jugador de LaLiga dos mil veinticinco veintiséis. Completó la temporada con dieciséis goles y doce asistencias, y fue una de las piezas clave en el título del Barcelona.",
+   "short": "04",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Barça · Flick",
+   "titulo": "Flick y *Joan Garcia*",
+   "voz": "Hansi Flick recibirá el premio al Mejor Entrenador por revalidar el campeonato con noventa y cuatro puntos. Y Joan Garcia se lleva el de Mejor Parada, por su intervención en el derbi ante el Espanyol, por delante de Oblak y Unai Simón. Cerró su primera temporada en el club con el Trofeo Zamora, tras encajar solo veintiún goles.",
+   "pessoa": "Hansi Flick",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Premios",
+   "titulo": "El Madrid *también gana*",
+   "voz": "El Real Madrid se llevó dos premios. Carlos Espí será el Mejor Jugador Sub-veintitrés por su temporada en el Levante, con once goles, y Arda Güler recibirá el de Mejor Gol, por su tanto ante el Elche en el Bernabéu.",
+   "pessoa": "Arda Güler",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "card",
+   "card": "05",
+   "fundo": "estadio",
+   "voz": "Y ahora Portugal, donde un número muy especial ha dado mucho que hablar."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Portugal",
+   "titulo": "El 7 *de Cristiano*",
+   "voz": "Según MARCA, Carlos Forbs vistió el mítico dorsal siete de Cristiano ante Gales, y su gol fue el del triunfo. Cracks añade que fue uno de los héroes de Portugal.",
+   "short": "05",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "Es un *número especial*. Estoy muy orgulloso de representarlo.",
+   "autor": "Carlos Forbs",
+   "sub": "sobre el dorsal 7",
+   "voz": "Forbs dijo que es un número especial y que está muy orgulloso de representarlo. Pero cuando le preguntaron si ya era su nuevo dueño, respondió: no, solo intento dar lo mejor de mí."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Portugal",
+   "titulo": "*Miedo* a Portugal",
+   "voz": "Jorge Jesús cerró la fase de grupos con un aviso: que los demás tengan miedo de Portugal. Aun así, Vitinha y Dalot admitieron que deben mejorar atrás, porque recibieron goles en cinco de los seis partidos, aunque reaccionaron tras el uno a cuatro ante Dinamarca.",
+   "pessoa": "Carlos Forbs",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · España",
+   "titulo": "El *sorteo*",
+   "voz": "El sorteo de los cuartos de final de la Liga de Naciones es el viernes. Según AS, España jugará contra Alemania, Francia o Portugal, con la vuelta fuera de casa.",
+   "pessoa": "Carlos Forbs",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Más noticias",
+   "titulo": "Luis Suárez y *Messi*",
+   "voz": "Pasamos a las noticias de selecciones y de fútbol internacional. Según Cracks, Luis Suárez pidió no comparar todavía a Lamine con Messi. Dijo que igualar a Leo va a ser prácticamente imposible, por todo lo que ha dado.",
+   "pessoa": "Luis Suárez",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "Quédate ahí, *gordo*.",
+   "autor": "Lionel Messi",
+   "sub": "según Luis Suárez, en un partido ante el Ajax",
+   "voz": "Suárez también contó cómo terminó siendo el nueve del Barça. Durante un partido contra el Ajax, Messi se abrió a la banda y le dijo: quédate ahí, gordo. Luis Enrique mantuvo el cambio y así nació la posición que hizo funcionar al tridente."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Más noticias",
+   "titulo": "Un tridente *sin egoísmo*",
+   "voz": "Suárez aseguró que en aquel tridente había cero egoísmo. Si Messi marcaba, Neymar y él lo celebraban, y al revés. También reveló que hicieron de todo para que Neymar no se fuera al Paris Saint-Germain.",
+   "pessoa": "Luis Suárez",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Más noticias",
+   "titulo": "Adiós *a Adán*",
+   "voz": "Y una despedida: según MARCA, Antonio Adán ha anunciado su retirada del fútbol profesional a los treinta y nueve años. El portero, que salió de la cantera del Real Madrid, jugó también en Cagliari, Betis, Atlético de Madrid, Sporting de Lisboa y Esteghlal.",
+   "pessoa": "Antonio Adán",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "El fútbol *me lo ha dado todo*.",
+   "autor": "Antonio Adán",
+   "sub": "en su mensaje de retirada",
+   "voz": "En su vídeo de despedida, Adán dijo: después de pensarlo mucho quiero anunciar que dejo el fútbol profesional. Y añadió: el fútbol me lo ha dado todo. Terminó con un gracias fútbol, ha sido un privilegio."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Alemania",
+   "titulo": "Alemania *de Klopp*",
+   "voz": "Seguimos con Alemania. Mundo Deportivo cuenta que Lothar Matthäus pidió moderar la euforia tras el cinco a cero ante Países Bajos. Alemania terminó líder del grupo con once puntos, los mismos que Países Bajos y Grecia, pero con mejor diferencia de goles.",
+   "pessoa": "Jürgen Klopp",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "Nadie debe empezar a creer que somos *favoritos* para el Mundial.",
+   "autor": "Lothar Matthäus",
+   "sub": "en su columna de Sky",
+   "voz": "Matthäus escribió que, tras el cinco a cero, las expectativas han crecido, pero que el seleccionador, Jürgen Klopp, sabe valorar ese resultado. Y destacó que Klopp tiene una plantilla muy amplia, con ninguna titularidad asegurada."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Nations League",
+   "titulo": "Los *cuartos* de final",
+   "voz": "Ya están definidos los cuartos de la Liga de Naciones. Según Cracks, Francia, Alemania, Inglaterra y Portugal fueron líderes de grupo, y Bélgica, Países Bajos, España y Noruega quedaron segundos. AS recuerda que los cuartos reunirán nueve Mundiales y veintitrés títulos.",
+   "pessoa": "Luis de la Fuente",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · FIFA",
+   "titulo": "España sigue *líder*",
+   "voz": "España continúa líder del ranking mundial de la FIFA, aunque con menos ventaja tras perder ante Inglaterra y cortar su racha de cuarenta y tres partidos sin perder. Argentina, tras golear siete a cero a Costa Rica, es segunda y se acerca.",
+   "pessoa": "Lamine Yamal",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · África",
+   "titulo": "Plantón *de Túnez*",
+   "voz": "Según AS, hubo escándalo en África. Túnez amagó con irse del campo ante Libia tras un penalti muy dudoso señalado en su contra justo antes del descanso. Los jugadores rodearon al árbitro y el capitán, Ferjani Sassi, ordenó parar.",
+   "pessoa": "Ferjani Sassi",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · África",
+   "titulo": "El partido *siguió*",
+   "voz": "Tras unos siete minutos de incertidumbre, los tunecinos recapacitaron y volvieron. Libia lanzó el penalti y el partido terminó uno a uno. AS recuerda que la FIFA y la IFAB habían tomado medidas para expulsar a quienes se retiren del campo, después de lo vivido en la final entre Senegal y Marruecos.",
+   "pessoa": "Ferjani Sassi",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Uruguay",
+   "titulo": "Valverde *cambia* Uruguay",
+   "voz": "En Sudamérica, Uruguay goleó cinco a cero a República Dominicana. Según AS, Federico Valverde saltó al campo en el minuto sesenta y dos, con uno a cero, y el partido cambió con él. Cracks añade que marcó y dio una asistencia.",
+   "pessoa": "Federico Valverde",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "fotoless",
+   "fundo": "estadio",
+   "tag": "Real Madrid · Cantera",
+   "titulo": "JJ Gabriel, *a un paso* del Madrid",
+   "voz": "Y una última noticia de cantera. Según MARCA, JJ Gabriel, una perla inglesa de dieciséis años, dice adiós al United y está a un paso del Real Madrid. Ya prepara su nueva aventura en Valdebebas."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Selección · Inglaterra",
+   "titulo": "Dowman *rompe récords*",
+   "voz": "Y MARCA destaca a Dowman, que supera a Jude Bellingham como anotador más joven de la sub-veintiuno de Inglaterra, ¡con solo dieciséis años!",
+   "pessoa": "Max Dowman",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "cierre",
+   "fundo": "estadio",
+   "tag": "Área Pequeña FC",
+   "titulo": "Noticias *cada día*",
+   "voz": "Y hasta aquí el resumen de hoy en Área Pequeña FC. Si te ha gustado, suscríbete, activa la campanita para no perderte ninguna noticia y cuéntanos en los comentarios qué opinas de Arda Güler, de Rüdiger y de Lamine Yamal. ¡Nos vemos mañana!"
+  }
+ ]
+}
