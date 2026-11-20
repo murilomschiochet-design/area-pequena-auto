@@ -1,0 +1,43 @@
+ cena 00 abertura  17.5s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la puerta que
+ cena 01 card       6.5s  Empezamos con el Barça, porque Deco ha reconocido que las le
+ cena 02 foto      12.5s  Deco dejó un titular en Catalunya Ràdio: las lesiones nos ob
+ cena 03 foto       7.3s  Tanto, que De Jong, Espart y Fariñas tuvieron que actuar com
+[ WARN:0@126.980] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@127.081] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 04 foto      11.3s  Según Marca, que recoge el vídeo de Cracks, Flick pidió un c
+ cena 05 foto      15.2s  Mundo Deportivo cuenta que en verano el primer nombre de la 
+ cena 06 fotoless  16.1s  Deco contradijo la versión de que Balde podía salir. Aseguró
+ cena 07 card       6.2s  Pasamos al Real Madrid, donde la cantera internacional tiene
+ cena 08 foto      13.7s  Según AS, el joven JJ Gabriel, de dieciséis años, y su famil
+ cena 09 foto      14.6s  AS asegura que el fichaje está a punto y que solo le falta e
+ cena 10 foto      16.3s  El contrato lo marca la normativa FIFA: sería por tres años,
+ cena 11 card       4.8s  Seguimos con el Real Madrid, que tiene más renovaciones en l
+ cena 12 foto       9.9s  Mundo Deportivo recuerda que el club anunció con solo veinti
+ cena 13 foto      12.7s  Thibaut Courtois tiene contrato hasta dos mil veintisiete y 
+ cena 14 cita      11.2s  El propio Courtois lo dijo tras la eliminación de Bélgica en
+ cena 15 foto      15.1s  Jude Bellingham tiene contrato hasta junio de dos mil veinti
+ cena 16 card       5.4s  Y ojo con esto, porque en la Premier League hay un cruce de 
+ cena 17 foto      17.2s  Mykhailo Mudryk, cedido por el Chelsea al Tottenham, fue sus
+ cena 18 fotoless  11.5s  Andriy Shevchenko, presidente de la federación ucraniana, pu
+ cena 19 cita      17.2s  Shevchenko afirmó que los representantes del jugador se diri
+ cena 20 foto      11.2s  Shevchenko añadió que, si no existen pruebas, espera que Mud
+ cena 21 card       5.2s  Cambiamos de tema, y de continente, con unas palabras de Pep
+ cena 22 foto      13.9s  Pep Guardiola está en Brasil para participar en un evento en
+ cena 23 cita      12.2s  En una entrevista con Bundesliga Magazine, Guardiola dijo: J
+ cena 24 foto      16.4s  Sobre el impacto de Klopp como seleccionador de Alemania, Gu
+ cena 25 foto      18.6s  Más noticias del día. El Barça vuelve a la Liga el domingo a
+ cena 26 foto      14.5s  Y hablando de ese partido, Mundo Deportivo recuerda que el V
+ cena 27 foto      16.5s  Pasamos a la Nations League. España acabó segunda de su grup
+ cena 28 foto      15.2s  Según Mundo Deportivo, los cuartos se juegan a doble partido
+ cena 29 foto      11.4s  En el Atlético, Enrique Cerezo fue preguntado por la renovac
+ cena 30 cita       9.1s  Esta fue la respuesta del presidente del Atlético: lo de Sim
+ cena 31 foto      15.5s  Mientras tanto en el Real Madrid, Mourinho perdió a diecioch
+ cena 32 foto      16.1s  MARCA calcula que los jugadores del Madrid acumularon mil no
+ cena 33 foto      16.6s  Y en la MLS, mala noticia para Griezmann. El Orlando City pe
+ cena 34 foto      14.2s  Y otro dato de la MLS: Messi sigue siendo el jugador mejor p
+ cena 35 fotoless  15.1s  Y para terminar con Cracks. Conmebol prepara su propia Natio
+ cena 36 fotoless  17.3s  Según Cracks, las pausas de hidratación podrían volver en el
+ cena 37 cierre    15.6s  Y hasta aquí el resumen de hoy en Área Pequeña FC. Si te ha 
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-09/longo.mp4  (497s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-09/_contato_longo.jpg

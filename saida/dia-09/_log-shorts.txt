@@ -1,0 +1,28 @@
+
+== dia-09: 5 shorts
+ 01 Deco admite que el Barça *valora un central*
+[ WARN:0@50.665] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@50.774] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    foto: escudo Fútbol Club Barcelona
+    ok
+ 02 JJ Gabriel, *a un paso* del Real Madrid
+    ! sem escudo para Real Madrid Club de Fútbol
+    foto: File:Ciudad Universitaria 02.jpg
+    ok
+ 03 Courtois y Bellingham, *los próximos* en renovar
+    banco + Thibaut Courtois - Selección de Bélgica - 1.jpg
+    banco + Thibaut Courtois - Selección de Bélgica - 2.jpg
+    banco + Thibaut Courtois - Selección de Bélgica - 3.jpg
+    banco + Thibaut Courtois - Chelsea Football Club - 1.jpg
+    foto: Thibaut Courtois/Thibaut Courtois - Chelsea Football Club - 1.jpg
+    ok
+ 04 Shevchenko acusa a *Mudryk* de mentir
+    ! sem escudo para Chelsea Football Club
+    ! sem escudo para Tottenham Hotspur Football Club
+    banco + escudo Selección de Ucrania
+    foto: escudo Selección de Ucrania
+    ok
+ 05 Guardiola sobre Klopp: *"No tengo palabras"*
+    foto: Pep Guardiola/Pep Guardiola - Manchester City Football Club - 1.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-09/painel.html

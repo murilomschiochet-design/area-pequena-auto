@@ -1,0 +1,4 @@
+[ WARN:0@50.083] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@50.191] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[0;93m2026-11-20 08:16:23.564329290 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+sem recorte de nenhum jogador: thumbnail não gerada
