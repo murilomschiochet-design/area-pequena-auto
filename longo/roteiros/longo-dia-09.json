@@ -1,0 +1,298 @@
+{
+  "dia": "dia-09",
+  "data": "20 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "20 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la puerta que Deco abre a un central en el Barça, del fichaje a punto de JJ Gabriel por el Real Madrid y de la polémica entre Shevchenko y Mudryk. Además, los elogios de Guardiola a Klopp. Quédate hasta el final, que hay más."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con el Barça, porque Deco ha reconocido que las lesiones en defensa obligan a mirar el mercado."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Deco",
+      "titulo": "Las lesiones *mandan*",
+      "voz": "Deco dejó un titular en Catalunya Ràdio: las lesiones nos obligan a valorar si traer un central. Mundo Deportivo recuerda que las bajas de Christensen, Eric y Koundé dejaron a Flick muy justo de efectivos atrás.",
+      "short": "01",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Defensa",
+      "titulo": "Tres centrocampistas *de defensas*",
+      "voz": "Tanto, que De Jong, Espart y Fariñas tuvieron que actuar como defensas en algunos momentos, según Mundo Deportivo.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Flick",
+      "titulo": "Flick pide *dos refuerzos*",
+      "voz": "Según Marca, que recoge el vídeo de Cracks, Flick pidió un central para acompañar a Cubarsí y también un lateral. Christensen sigue con problemas físicos y Eric juega más por la banda.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Mercado",
+      "titulo": "Bastoni, *el primero de la lista*",
+      "voz": "Mundo Deportivo cuenta que en verano el primer nombre de la lista de Deco era Alessandro Bastoni, capitán del Inter, y que incluso se acordaron cinco temporadas con el jugador. Pero Flick prefirió apostar por Gerard Martín, renovar a Christensen y no fichar a un central.",
+      "pessoa": "Alessandro Bastoni",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Balde",
+      "titulo": "Balde *no se vende*",
+      "voz": "Deco contradijo la versión de que Balde podía salir. Aseguró que el Barça no piensa venderlo y que el jugador tampoco ha pedido salir. Eso sí, dejó abierta la llegada de un central en enero, pero solo si aparece el perfil correcto y el fair play financiero lo permite.",
+      "pessoa": "Alejandro Balde",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos al Real Madrid, donde la cantera internacional tiene un nombre propio: JJ Gabriel."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · JJ Gabriel",
+      "titulo": "Conoció *Valdebebas*",
+      "voz": "Según AS, el joven JJ Gabriel, de dieciséis años, y su familia conocieron la ciudad deportiva del Real Madrid. No fue el reconocimiento médico oficial, pero se dejó ver por la zona donde se suelen hacer los chequeos.",
+      "short": "02",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · JJ Gabriel",
+      "titulo": "Solo falta *el lazo*",
+      "voz": "AS asegura que el fichaje está a punto y que solo le falta el lazo. Le querían todos los gigantes, pero por su mente solo pasaba el blanco. Eso sí, fuentes del periódico aclaran que fue una visita para conocer las instalaciones y hablar.",
+      "short": "02",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · JJ Gabriel",
+      "titulo": "Contrato *hasta 2029*",
+      "voz": "El contrato lo marca la normativa FIFA: sería por tres años, hasta dos mil veintinueve. Los dieciséis años son la edad mínima legal para firmar un contrato profesional. Después existe un compromiso no escrito de revisión para ampliarlo cuando cumpla la mayoría de edad.",
+      "short": "02",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Seguimos con el Real Madrid, que tiene más renovaciones en la agenda."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Renovaciones",
+      "titulo": "Arda y *Tchouaméni*",
+      "voz": "Mundo Deportivo recuerda que el club anunció con solo veinticuatro horas de diferencia las renovaciones de Arda Güler y de Aurélien Tchouaméni, las dos hasta dos mil treinta y dos.",
+      "short": "03",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Courtois",
+      "titulo": "Courtois, *un año más*",
+      "voz": "Thibaut Courtois tiene contrato hasta dos mil veintisiete y su ampliación será por una temporada más, hasta junio de dos mil veintiocho. Es la política del Madrid de renovar año a año a los jugadores de más de treinta años.",
+      "pessoa": "Thibaut Courtois",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Sueño con *acabar mi carrera aquí*, ojalá seguir cuatro o cinco años más.",
+      "autor": "Thibaut Courtois",
+      "sub": "tras la eliminación de Bélgica ante España",
+      "voz": "El propio Courtois lo dijo tras la eliminación de Bélgica en cuartos del Mundial a manos de España: soy muy feliz en el Madrid y sueño con acabar mi carrera aquí, ojalá seguir otros cuatro o cinco años."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Bellingham",
+      "titulo": "Bellingham, *hasta 2031*",
+      "voz": "Jude Bellingham tiene contrato hasta junio de dos mil veintinueve y ampliaría su vínculo presumiblemente hasta dos mil treinta y uno. La renovación conllevará una subida de sueldo para un jugador considerado troncal en el presente y el futuro de la plantilla de Mourinho.",
+      "short": "03",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Y ojo con esto, porque en la Premier League hay un cruce de acusaciones muy serio."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Mudryk",
+      "titulo": "Mudryk *señala a Ucrania*",
+      "voz": "Mykhailo Mudryk, cedido por el Chelsea al Tottenham, fue suspendido desde noviembre de dos mil veinticuatro hasta julio de dos mil veintiséis por dar positivo por meldonium. Ahora acusa a la Federación de Ucrania de ser responsable de su positivo, al considerar que la sustancia entró durante una concentración con la selección.",
+      "short": "04",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Shevchenko",
+      "titulo": "Shevchenko *responde*",
+      "voz": "Andriy Shevchenko, presidente de la federación ucraniana, publicó un comunicado en el que califica las acusaciones de calumnia infundada contra su personal, que según él trabaja de manera honesta y profesional.",
+      "pessoa": "Andriy Shevchenko",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Sus representantes pidieron que un empleado asumiera *falsamente* la responsabilidad.",
+      "autor": "Andriy Shevchenko",
+      "sub": "comunicado de la Federación de Ucrania",
+      "voz": "Shevchenko afirmó que los representantes del jugador se dirigieron a la federación en varias ocasiones con la propuesta de buscar a un empleado que asumiera, falsamente, la responsabilidad por el meldonium. Y dijo que la federación se negó, porque esa propuesta contraviene los principios que rigen su trabajo."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Mudryk",
+      "titulo": "Piden *una disculpa*",
+      "voz": "Shevchenko añadió que, si no existen pruebas, espera que Mudryk se retracte públicamente de sus acusaciones y pida disculpas a las personas cuya honestidad y profesionalidad ha puesto en entredicho.",
+      "short": "04",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Cambiamos de tema, y de continente, con unas palabras de Pep Guardiola."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Alemania · Guardiola",
+      "titulo": "Guardiola, *en Brasil*",
+      "voz": "Pep Guardiola está en Brasil para participar en un evento en São Paulo y ver el partido entre el Bahia, que pertenece a City Group, y el Coritiba. En el Instagram del Bahia anunció: estaré en Salvador el sábado, y quiero ver el estadio lleno.",
+      "short": "05",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Klopp hace de nuestro mundo del fútbol *un lugar mejor*.",
+      "autor": "Pep Guardiola",
+      "sub": "a Bundesliga Magazine",
+      "voz": "En una entrevista con Bundesliga Magazine, Guardiola dijo: Jürgen Klopp es el tipo de entrenador que hace de nuestro mundo del fútbol un lugar mejor. Tiene carisma y es un comunicador increíblemente bueno."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Alemania · Klopp",
+      "titulo": "Orgullo *alemán*",
+      "voz": "Sobre el impacto de Klopp como seleccionador de Alemania, Guardiola dijo que inspirará a los jugadores a adoptar su estilo. Añadió que nadie puede decir si ganarán la próxima Eurocopa o el Mundial, pero que está convencido al cien por cien de que los aficionados volverán a sentirse orgullosos.",
+      "short": "05",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Villarreal",
+      "titulo": "Koundé y Olmo *vuelven*",
+      "voz": "Más noticias del día. El Barça vuelve a la Liga el domingo ante el Villarreal con varios fichajes de lujo para Flick: Koundé, que dejó atrás el esguince de tobillo, y Dani Olmo, que recibirá el alta médica. También Eric García, Christensen y Frenkie de Jong están ya en condiciones de jugar, según Mundo Deportivo.",
+      "pessoa": "Jules Koundé",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Lamine Yamal",
+      "titulo": "Lamine y *el Villarreal*",
+      "voz": "Y hablando de ese partido, Mundo Deportivo recuerda que el Villarreal es el equipo al que más goles ha marcado Lamine Yamal: cinco, de los sesenta y dos que suma en ciento sesenta y siete partidos oficiales con el primer equipo. Tiene diecinueve años.",
+      "pessoa": "Lamine Yamal",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Nations League",
+      "titulo": "España espera *rival*",
+      "voz": "Pasamos a la Nations League. España acabó segunda de su grupo tras perder ante Inglaterra por dos a tres y conocerá su rival de cuartos en el sorteo de Nyon, a las doce del mediodía. Puede tocarle la Francia de Zidane, la Alemania de Klopp o la Portugal de Jorge Jesus.",
+      "pessoa": "Luis de la Fuente",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · Nations League",
+      "titulo": "Cuartos y *final four*",
+      "voz": "Según Mundo Deportivo, los cuartos se juegan a doble partido: la ida entre el veinticinco y el veintisiete de marzo, con España como local, y la vuelta entre el veintiocho y el treinta. La final four será del nueve al trece de junio en un país por determinar.",
+      "pessoa": "Luis de la Fuente",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Atlético · Simeone",
+      "titulo": "Simeone: *todo igual*",
+      "voz": "En el Atlético, Enrique Cerezo fue preguntado por la renovación de Simeone, que termina contrato el treinta de junio de dos mil veintisiete, durante el estreno del documental Bien Hecho de Movistar Plus.",
+      "pessoa": "Diego Simeone",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Lo de Simeone: *no hay nada*, ni a favor ni en contra. Todo está exactamente igual.",
+      "autor": "Enrique Cerezo",
+      "sub": "en el estreno de 'Bien Hecho'",
+      "voz": "Esta fue la respuesta del presidente del Atlético: lo de Simeone, no hay nada, ni a favor ni en contra. Todo está exactamente igual."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Mourinho",
+      "titulo": "Mou, *tranquilo*",
+      "voz": "Mientras tanto en el Real Madrid, Mourinho perdió a dieciocho de sus veintiséis jugadores durante el parón, pero AS cuenta que, salvo Tchouaméni, que volvió con molestias leves en la ingle, el resto están sanos. El Celta visita el Bernabéu el sábado a las nueve de la noche.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Parón",
+      "titulo": "Mil *novecientos cinco* minutos",
+      "voz": "MARCA calcula que los jugadores del Madrid acumularon mil novecientos cinco minutos internacionales, con ocho goles y nueve asistencias. Solo el Arsenal presenta una cifra superior, con dos mil cuatrocientos sesenta y tres. El Barça suma mil ochenta y cuatro.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "MLS · Griezmann",
+      "titulo": "Adiós *de Griezmann*",
+      "voz": "Y en la MLS, mala noticia para Griezmann. El Orlando City perdió uno a tres ante el Cincinnati en el play-in y su primera temporada en Estados Unidos termina ahí. Marcó catorce goles y repartió siete asistencias en dieciocho jornadas, según Mundo Deportivo.",
+      "pessoa": "Antoine Griezmann",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "MLS · Messi",
+      "titulo": "Messi, *el mejor pagado*",
+      "voz": "Y otro dato de la MLS: Messi sigue siendo el jugador mejor pagado, con veintiocho coma tres millones de dólares. Lewandowski es segundo con diecinueve coma cinco millones y Griezmann tercero, con casi catorce millones.",
+      "pessoa": "Lionel Messi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "fotoless",
+      "fundo": "estadio",
+      "tag": "Selecciones · Conmebol",
+      "titulo": "Nations League *sudamericana*",
+      "voz": "Y para terminar con Cracks. Conmebol prepara su propia Nations League. El presidente de la Federación Uruguaya adelantó que las próximas eliminatorias tendrían un título en juego, aunque el proyecto todavía necesita la aprobación oficial de Conmebol."
+    },
+    {
+      "tipo": "fotoless",
+      "fundo": "estadio",
+      "tag": "Mundial 2030 · FIFA",
+      "titulo": "Pausas *de hidratación*",
+      "voz": "Según Cracks, las pausas de hidratación podrían volver en el Mundial dos mil treinta. FIFA incluyó esa posibilidad en los documentos enviados a las cadenas interesadas en comprar los derechos: serían descansos de tres minutos en cada tiempo. The Athletic aclara que todavía no está decidido."
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy en Área Pequeña FC. Si te ha gustado, suscríbete, activa la campanita para no perderte ninguna noticia y cuéntanos en los comentarios qué opinas de Deco, de JJ Gabriel y de Guardiola. ¡Nos vemos mañana!"
+    }
+  ]
+}
