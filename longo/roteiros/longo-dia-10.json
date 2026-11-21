@@ -1,0 +1,302 @@
+{
+ "dia": "dia-10",
+ "data": "21 de noviembre",
+ "voz": "es-ES-AlvaroNeural",
+ "cenas": [
+  {
+   "tipo": "abertura",
+   "fundo": "estadio",
+   "tag": "Resumen del día",
+   "titulo": "Las noticias *de hoy*",
+   "sub": "21 de noviembre",
+   "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la doble lesión del Bayern con Kane y Olise, del regreso de Vinicius en el Real Madrid contra el Celta, y de la noche agridulce de Cristiano Ronaldo. Estas son las noticias de fútbol de hoy."
+  },
+  {
+   "tipo": "card",
+   "card": "01",
+   "fundo": "estadio",
+   "voz": "Empezamos en Alemania, donde el Bayern vivió una noche para olvidar."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Bundesliga · Bayern",
+   "titulo": "Un *1-1* que duele",
+   "voz": "El Bayern empató uno a uno en casa contra el Colonia, en la reaparición de Vincent Kompany en el banquillo tras su paso por el hospital en las últimas semanas. El partido se puso cuesta arriba muy pronto: en el minuto doce, el Colonia golpeó con un gran gol de Moore.",
+   "pessoa": "Vincent Kompany",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Bundesliga · Bayern",
+   "titulo": "Kane *se retira*",
+   "voz": "En el minuto dieciocho, Harry Kane sintió una gran molestia en el tobillo izquierdo al intentar rematar un balón. Kompany decidió sustituirlo y entró Tom Bischof. Kane salió cojeando, y después abandonó el estadio ayudándose de una muleta.",
+   "short": "01"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "Harry Kane sufrió un desgarro del *ligamento sindesmótico*",
+   "autor": "Bayern",
+   "sub": "parte médico del club",
+   "voz": "El parte médico del Bayern lo confirmó: Harry Kane sufrió un desgarro del ligamento sindesmótico en el tobillo izquierdo. Estará ausente en los próximos meses, y según AS serán tres meses de baja."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Bundesliga · Bayern",
+   "titulo": "Olise *también cae*",
+   "voz": "Y no fue el único. Michael Olise también se lesionó en la primera parte, y el Bayern salió al descanso sin Kane ni Olise. Jamal Musiala reapareció tras varias semanas ausente y pudo marcar el dos a uno, pero el marcador no se movió.",
+   "pessoa": "Michael Olise",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Bundesliga · Bayern",
+   "titulo": "Un punto *de ventaja*",
+   "voz": "El Bayern concedió su cuarto empate en esta Bundesliga. Se queda un punto por encima del Borussia Dortmund, que juega este sábado en Mönchengladbach. Y según MARCA, el resultado puede tener consecuencias nefastas en la lucha por el liderato.",
+   "pessoa": "Harry Kane",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "card",
+   "card": "02",
+   "fundo": "estadio",
+   "voz": "Pasamos a LaLiga, donde esta noche vuelve el Bernabéu."
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Real Madrid",
+   "titulo": "Un mes *después*",
+   "voz": "El Real Madrid vuelve a casa un mes después, tras una gira de cuatro victorias a domicilio: Barcelona, Racing, AEK y Valencia. Con ocho triunfos seguidos, recibe esta noche al Celta a las nueve buscando el noveno.",
+   "short": "02"
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Real Madrid",
+   "titulo": "¿Vinicius *titular*?",
+   "voz": "La gran incógnita se llama Vinicius. El brasileño vuelve a jugar en LaLiga tras cumplir cuatro partidos de sanción y llega después de marcar cinco goles con Brasil. Todo apunta a que será titular, junto a Mbappé y Bellingham.",
+   "short": "02"
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Real Madrid",
+   "titulo": "Diomande, *al banco*",
+   "voz": "Si Vinicius juega de inicio, Diomande sería suplente, porque no parece que Mourinho vaya a sentar a Arda Güler, una de las claves de la racha de triunfos. Mourinho tiene a todos disponibles, incluidos Tchouaméni y Bernardo Silva, ya recuperados de sus molestias musculares.",
+   "pessoa": "José Mourinho",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Real Madrid",
+   "titulo": "Tres partidos *en ocho días*",
+   "voz": "Ojo con el calendario: el Madrid tiene tres encuentros en ocho días, dos de LaLiga y uno de Champions, el martes ante el PSV. El Celta, que ganó dos a cero la temporada pasada con un doblete de Williot Swedberg, estrena en el Bernabéu un tramo final de año en el que se medirá a cuatro equipos de Champions.",
+   "pessoa": "Vinícius Júnior",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "card",
+   "card": "03",
+   "fundo": "estadio",
+   "voz": "Y nos vamos a Arabia Saudí, con noticias de Cristiano Ronaldo."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Arabia Saudí · Cristiano",
+   "titulo": "Gol *y madera*",
+   "voz": "Noche agridulce para Cristiano. Antes del cuarto de hora abrió el marcador, tras un robo de Samu Costa, y Yeda entonó su celebración. Dos minutos después pudo marcar otra vez desde los once metros, pero su penalti se estrelló en la madera.",
+   "short": "03"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Arabia Saudí · Cristiano",
+   "titulo": "Remontada *del Al Ahli*",
+   "voz": "Después llegó la remontada. Ivan Toney y Galeno fueron los artífices del tres a uno del Al Ahli en Yeda, tras un primer tiempo memorable del portugués, según AS.",
+   "pessoa": "Cristiano Ronaldo",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "numero",
+   "fundo": "foto",
+   "numero": "986",
+   "titulo": "goles *en su carrera*",
+   "sub": "Cristiano Ronaldo",
+   "voz": "Con su gol, Cristiano se queda en novecientos ochenta y seis, a apenas catorce tantos de los mil. AS cree que lo más probable es que supere esa marca esta misma temporada.",
+   "short": "03"
+  },
+  {
+   "tipo": "card",
+   "card": "04",
+   "fundo": "estadio",
+   "voz": "Seguimos con el Real Madrid, que ata a dos pilares."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Renovaciones",
+   "titulo": "Courtois, *hasta 2028*",
+   "voz": "Es oficial: Thibaut Courtois renueva con el Real Madrid hasta dos mil veintiocho. Su contrato terminaba este verano, así que se amplía una temporada más.",
+   "short": "04"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Renovaciones",
+   "titulo": "La *década* blanca",
+   "voz": "Courtois alcanzará la década en el Real Madrid y se acerca a los cuatrocientos partidos. Según AS, su deseo es continuar incluso más allá de dos mil veintiocho.",
+   "pessoa": "Thibaut Courtois",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Renovaciones",
+   "titulo": "Valverde, *2031*",
+   "voz": "Y hay más. Según ha podido saber AS, hay acuerdo para extender el contrato de Fede Valverde hasta dos mil treinta y uno. Se convertirá en uno de los jugadores mejor pagados de la plantilla, después de casi media vida en el Madrid.",
+   "pessoa": "Federico Valverde",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "card",
+   "card": "05",
+   "fundo": "estadio",
+   "voz": "Y en el Atlético de Madrid, el problema está en el ataque."
+  },
+  {
+   "tipo": "numero",
+   "fundo": "foto",
+   "numero": "3",
+   "titulo": "goles *como máximo*",
+   "sub": "Ningún delantero del Atlético pasa de ahí",
+   "voz": "Por primera vez en la era Simeone, ningún delantero del Atlético ha superado los tres goles en los primeros dieciséis partidos.",
+   "short": "05"
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Atlético",
+   "titulo": "Los *números* del ataque",
+   "voz": "Jonathan David, el último en llegar, lidera a los puntas con tres goles en apenas cuatrocientos treinta y seis minutos. Julián Álvarez lleva dos en setecientos treinta y cuatro, y Sorloth, que se perdió buena parte del inicio por una lesión, suma ciento cincuenta y cinco minutos y ningún gol.",
+   "short": "05"
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Atlético",
+   "titulo": "Lookman, *lesionado*",
+   "voz": "Lookman, que lleva dos goles en setecientos treinta y cinco minutos, regresó del parón lesionado para varias semanas. El máximo goleador del Atlético es Baena, con cinco, seguido por Giuliano y Grimaldo, con cuatro cada uno.",
+   "pessoa": "Ademola Lookman",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "fotoless",
+   "fundo": "estadio",
+   "tag": "Más noticias",
+   "titulo": "*Más noticias* del día",
+   "voz": "Y ahora, las otras noticias del día."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Asamblea",
+   "titulo": "Nadal, *directivo blanco*",
+   "voz": "Mientras tanto en el Real Madrid, este sábado se celebra la primera asamblea tras la reelección de Florentino Pérez. El gran protagonista es Rafa Nadal: se propone a los compromisarios su incorporación a la junta directiva. El club lo definió como una de las más grandes leyendas de la historia del deporte.",
+   "pessoa": "Rafael Nadal",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Cuentas",
+   "titulo": "Récord *de ingresos*",
+   "voz": "Según MARCA, los socios votan un cierre récord del ejercicio con mil doscientos veintiún millones de euros de ingresos, un tres coma uno por ciento más que la temporada anterior. El presupuesto para esta temporada sería de unos mil cuatrocientos millones. El Bernabéu duplicó sus ingresos respecto a antes de la reforma.",
+   "pessoa": "Florentino Pérez",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Real Madrid · Mercado",
+   "titulo": "Nico Paz, *80 millones*",
+   "voz": "Y según Cracks, que cita a Cope, el Madrid planea ejecutar en el verano de dos mil veintisiete la opción de recompra de Nico Paz, fijada en ochenta millones de euros. Este año Nico pidió quedarse en Italia para seguir creciendo, y el Madrid vendió el cincuenta por ciento de sus derechos por sesenta millones.",
+   "pessoa": "Nico Paz",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Mercado · Barça",
+   "titulo": "Lisandro, *descartado*",
+   "voz": "En el Barça, Lisandro Martínez se aleja, según cuenta Cracks. Pedro Bravo explicó que ofreció al argentino y que Deco respondió que es un buen jugador, pero que no les gusta y no les encaja. Según el agente, tampoco convence a Flick.",
+   "pessoa": "Lisandro Martínez",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Barça · Renovaciones",
+   "titulo": "El plan *de Deco*",
+   "voz": "Mientras tanto, AS destaca el plan de Deco: Xavi Espart renovó este viernes hasta dos mil treinta, y ya son once renovaciones estratégicas en dos años. Raphinha firmó hasta dos mil treinta hace un par de semanas, y las ampliaciones de Gerard Martín y Marc Bernal están encaminadas.",
+   "pessoa": "Deco",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Barça · Balde",
+   "titulo": "Balde, *en el aire*",
+   "voz": "El mismo diario recuerda que en dos mil veintiocho acaban contrato Balde, Casadó, Christensen y Ter Stegen. Y apunta que es fácil intuir que no forman parte del proyecto de futuro del Barça, ni siquiera el lateral, que vive días difíciles.",
+   "pessoa": "Alejandro Balde",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Mercado · Barça",
+   "titulo": "Mikautadze *sueña*",
+   "voz": "Y visita el Camp Nou este domingo con el Villarreal Georges Mikautadze, que ya dijo para DAZN que el Barça es el club de su vida. Llegó al Villarreal en dos mil veinticinco por treinta millones de euros, el fichaje más caro de la historia del club amarillo.",
+   "pessoa": "Georges Mikautadze",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "cita",
+   "fundo": "estadio",
+   "titulo": "El Barça es *el club de mi vida*, desde pequeño les veo jugar y ahora trabajo para tener la oportunidad, ¿por qué no?",
+   "autor": "Georges Mikautadze",
+   "sub": "delantero del Villarreal, para DAZN",
+   "voz": "Esto dijo Mikautadze a DAZN: el Barça es el club de mi vida, desde pequeño les veo jugar y ahora trabajo para tener la oportunidad, ¿por qué no?"
+  },
+  {
+   "tipo": "fotoless",
+   "fundo": "estadio",
+   "tag": "Inglaterra · UEFA",
+   "titulo": "Multa *a Inglaterra*",
+   "voz": "Según Cracks, la UEFA multó con quince mil euros a la federación inglesa por cánticos discriminatorios ante España. Si reinciden durante los próximos dos años, no podrán vender entradas para un partido fuera de casa."
+  },
+  {
+   "tipo": "foto",
+   "tag": "Inglaterra · Bellingham",
+   "titulo": "Ferdinand *lo eleva*",
+   "voz": "Y Rio Ferdinand puso a Bellingham por encima de tres leyendas. Aseguró que Jude ya superó con Inglaterra a Lampard, Scholes y Gerrard, según Cracks.",
+   "pessoa": "Jude Bellingham",
+   "contexto": "selecao"
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Athletic",
+   "titulo": "Terzic, *sin soluciones*",
+   "voz": "En San Mamés, el Athletic perdió cero a uno ante el Espanyol, con gol de Roberto Fernández en la segunda parte. Terzic reconoció que no encontraron soluciones para marcar, y que eso es una línea roja.",
+   "pessoa": "Edin Terzić",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "LaLiga · Espanyol",
+   "titulo": "Sarabia *se estrena*",
+   "voz": "Para el Espanyol de Eder Sarabia fue un debut con victoria como técnico. Desde el cambio de entrenador suma siete de los últimos nueve puntos, con dos triunfos seguidos a domicilio, algo que no lograba desde la primera vuelta del curso pasado.",
+   "pessoa": "Eder Sarabia",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "foto",
+   "tag": "Segunda División · Leganés",
+   "titulo": "Morata, *figura*",
+   "voz": "Y en Segunda, el Leganés remontó en Encamp y ganó uno a tres al Andorra de la mano de un gran Álvaro Morata, que asistió en el primer gol y marcó el segundo, antes de marcharse lesionado. El Andorra jugó más de una hora con diez por la expulsión de Hugo Solozábal.",
+   "pessoa": "Álvaro Morata",
+   "contexto": "clube"
+  },
+  {
+   "tipo": "cierre",
+   "fundo": "estadio",
+   "tag": "Área Pequeña FC",
+   "titulo": "Noticias *cada día*",
+   "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿Vinicius titular esta noche? Nos vemos mañana con más noticias de fútbol."
+  }
+ ]
+}
