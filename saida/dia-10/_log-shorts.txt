@@ -1,0 +1,18 @@
+
+== dia-10: 5 shorts
+ 01 Kane y Olise *caen lesionados* en el Bayern
+    foto: Harry Kane/Harry Kane - Selección de Inglaterra - 2.jpg
+    ok
+ 02 Real Madrid-Celta: ¿juega *Vinicius*?
+    foto: Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 2.jpg
+    ok
+ 03 Cristiano *marca y falla* un penalti: 986
+    foto: Cristiano Ronaldo/Cristiano Ronaldo - Geral - 1.jpg
+    ok
+ 04 Courtois *renueva* y Valverde apunta a 2031
+    foto: Thibaut Courtois/Thibaut Courtois - Chelsea Football Club - 1.jpg
+    ok
+ 05 Al Atlético le *falla el nueve*
+    foto: Diego Simeone/Diego Simeone - Geral - 2.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-10/painel.html

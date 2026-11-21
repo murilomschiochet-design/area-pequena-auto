@@ -1,0 +1,44 @@
+ cena 00 abertura  14.7s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la doble lesi
+ cena 01 card       4.8s  Empezamos en Alemania, donde el Bayern vivió una noche para 
+[ WARN:0@71.936] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@72.062] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 02 foto      15.1s  El Bayern empató uno a uno en casa contra el Colonia, en la 
+ cena 03 foto      15.0s  En el minuto dieciocho, Harry Kane sintió una gran molestia 
+ cena 04 cita      12.1s  El parte médico del Bayern lo confirmó: Harry Kane sufrió un
+ cena 05 foto      14.5s  Y no fue el único. Michael Olise también se lesionó en la pr
+ cena 06 foto      14.5s  El Bayern concedió su cuarto empate en esta Bundesliga. Se q
+ cena 07 card       4.1s  Pasamos a LaLiga, donde esta noche vuelve el Bernabéu.
+ cena 08 foto      13.5s  El Real Madrid vuelve a casa un mes después, tras una gira d
+ cena 09 foto      14.3s  La gran incógnita se llama Vinicius. El brasileño vuelve a j
+ cena 10 foto      16.3s  Si Vinicius juega de inicio, Diomande sería suplente, porque
+ cena 11 foto      18.0s  Ojo con el calendario: el Madrid tiene tres encuentros en oc
+ cena 12 card       4.7s  Y nos vamos a Arabia Saudí, con noticias de Cristiano Ronald
+ cena 13 foto      14.8s  Noche agridulce para Cristiano. Antes del cuarto de hora abr
+ cena 14 foto      10.3s  Después llegó la remontada. Ivan Toney y Galeno fueron los a
+ cena 15 numero    10.9s  Con su gol, Cristiano se queda en novecientos ochenta y seis
+ cena 16 card       4.1s  Seguimos con el Real Madrid, que ata a dos pilares.
+ cena 17 foto      10.0s  Es oficial: Thibaut Courtois renueva con el Real Madrid hast
+ cena 18 foto      10.2s  Courtois alcanzará la década en el Real Madrid y se acerca a
+ cena 19 fotoless  13.8s  Y hay más. Según ha podido saber AS, hay acuerdo para extend
+ cena 20 card       4.1s  Y en el Atlético de Madrid, el problema está en el ataque.
+ cena 21 numero     7.6s  Por primera vez en la era Simeone, ningún delantero del Atlé
+ cena 22 foto      16.8s  Jonathan David, el último en llegar, lidera a los puntas con
+ cena 23 fotoless  14.2s  Lookman, que lleva dos goles en setecientos treinta y cinco 
+ cena 24 fotoless   3.5s  Y ahora, las otras noticias del día.
+ cena 25 fotoless  17.2s  Mientras tanto en el Real Madrid, este sábado se celebra la 
+ cena 26 fotoless  18.8s  Según MARCA, los socios votan un cierre récord del ejercicio
+ cena 27 foto      17.6s  Y según Cracks, que cita a Cope, el Madrid planea ejecutar e
+ cena 28 foto      14.9s  En el Barça, Lisandro Martínez se aleja, según cuenta Cracks
+ cena 29 foto      16.6s  Mientras tanto, AS destaca el plan de Deco: Xavi Espart reno
+ cena 30 fotoless  14.3s  El mismo diario recuerda que en dos mil veintiocho acaban co
+ cena 31 fotoless  14.2s  Y visita el Camp Nou este domingo con el Villarreal Georges 
+ cena 32 cita       8.6s  Esto dijo Mikautadze a DAZN: el Barça es el club de mi vida,
+ cena 33 fotoless  13.3s  Según Cracks, la UEFA multó con quince mil euros a la federa
+ cena 34 foto       9.8s  Y Rio Ferdinand puso a Bellingham por encima de tres leyenda
+ cena 35 foto      12.2s  En San Mamés, el Athletic perdió cero a uno ante el Espanyol
+ cena 36 fotoless  13.6s  Para el Espanyol de Eder Sarabia fue un debut con victoria c
+ cena 37 fotoless  15.0s  Y en Segunda, el Leganés remontó en Encamp y ganó uno a tres
+ cena 38 cierre    13.7s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-10/longo.mp4  (482s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-10/_contato_longo.jpg
