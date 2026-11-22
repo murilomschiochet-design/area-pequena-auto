@@ -37,18 +37,21 @@
   "container": "18043173965849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T17:00:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T22:03+01:00",
+  "media_id": "17973470631195162"
  },
  "story-05": {
   "container": "18043174067849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T20:05:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T22:03+01:00",
+  "media_id": "18104834537563038"
  },
  "05": {
   "container": "18043174142849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T20:00:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T22:03+01:00",
+  "media_id": "18123784288745229"
  }
 }
