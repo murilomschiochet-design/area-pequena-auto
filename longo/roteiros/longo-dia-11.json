@@ -1,0 +1,323 @@
+{
+  "dia": "dia-11",
+  "data": "22 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "22 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de Rafa Nadal, nuevo directivo del Real Madrid, del duro discurso de Florentino Pérez contra Tebas, y de la grave lesión de Harry Kane en el Bayern. Estas son las noticias de fútbol de hoy."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos en el Bernabéu, donde el Real Madrid vivió una Asamblea con un invitado muy especial."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Junta Directiva",
+      "titulo": "Nadal, *directivo* blanco",
+      "voz": "Rafa Nadal ya es miembro de la Junta Directiva del Real Madrid. Los socios compromisarios lo ratificaron en la Asamblea, en el momento más esperado del día.",
+      "pessoa": "Rafael Nadal",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "numero",
+      "fundo": "foto",
+      "numero": "1.704",
+      "titulo": "votos *a favor*",
+      "sub": "Ratificación de Rafa Nadal",
+      "voz": "No hubo discusión. Nadal recibió mil setecientos cuatro votos a favor, y la sala se llenó de papeletas blancas con el sí. Siguió una ovación de un minuto ante un Rafa muy emocionado.",
+      "short": "01"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Este club es *tu casa*",
+      "autor": "Florentino Pérez",
+      "sub": "Asamblea del Real Madrid",
+      "voz": "Florentino Pérez le dio la bienvenida con estas palabras: Para el club y para mí es un día muy especial. Es una leyenda admirada y respetada en todos los rincones del mundo. Y cerró diciendo: Este club es tu casa."
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Lo asumo con *total humildad*",
+      "autor": "Rafa Nadal",
+      "sub": "Tras ser ratificado",
+      "voz": "Nadal respondió agradecido: el Madrid es una marca global, lo asumo con total humildad y espero estar muchos años. Y cerró con un hala Madrid.",
+      "pessoa": "Rafael Nadal",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "En esa misma Asamblea, Florentino Pérez también dejó titulares muy fuertes."
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Florentino *contra Tebas*",
+      "voz": "Según AS, fue un discurso algo más breve de lo habitual, de cuarenta y nueve minutos, pero cargado de pólvora. Florentino apuntó sobre todo a Javier Tebas, al caso Negreira y a la prensa.",
+      "short": "02"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Repugnante e *indigno*",
+      "autor": "Florentino Pérez",
+      "sub": "Sobre Tebas",
+      "voz": "Florentino recordó que en octubre Tebas comparó a Real Madrid TV con el nazismo, y que en lugar de rectificar se reafirmó. Dijo que eso no es una opinión, sino una ofensa, repugnante e indigno. Y añadió que es indigno que aún no haya dimitido.",
+      "pessoa": "Florentino Pérez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Caso Negreira",
+      "titulo": "Los *datos* de Florentino",
+      "voz": "Sobre el caso Negreira, Florentino expuso datos del club. Dijo que en la última década el Barcelona ha jugado ochocientos sesenta y dos minutos en superioridad numérica, y que desde la llegada del VAR al Real Madrid le han anulado cuarenta y dos goles, frente a diecinueve del Barça. Son cifras que presentó el presidente madridista.",
+      "short": "02"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "No voy a *descansar*",
+      "autor": "Florentino Pérez",
+      "sub": "Caso Negreira",
+      "voz": "Florentino fue claro: no voy a descansar para lograr la integridad en el deporte. El Real Madrid la va a defender hasta el final. Recordó además que fue el propio club quien presentó una denuncia ante la UEFA.",
+      "pessoa": "Florentino Pérez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Tebas",
+      "titulo": "Tebas *responde*",
+      "voz": "Tebas contestó en redes sociales. Su primera reacción no fue sobre el caso Negreira, sino sobre el plan de televisión en la India. Escribió que ahora resulta que Florentino es el portavoz de la UEFA, y que anuncia sus planes de televisión antes que ellos mismos.",
+      "pessoa": "Javier Tebas",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Pasamos a Alemania, donde el Bayern recibió un golpe duro."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Kane, *cuatro meses* fuera",
+      "voz": "El Bayern hizo público el parte médico: Harry Kane sufre una rotura del ligamento de la sindesmosis del tobillo izquierdo. La lesión fue confirmada tras los estudios del departamento médico, y estará fuera de las canchas durante los próximos cuatro meses.",
+      "short": "03"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Un *empate* con bajas",
+      "voz": "Todo ocurrió en el empate uno a uno contra el Colonia. El Bayern rescató el punto con gol de Nathaniel Brown. Fue además el regreso de Vincent Kompany al banquillo, después de estar casi un mes fuera por problemas de salud. Se perdió cinco partidos.",
+      "pessoa": "Vincent Kompany",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Olise *también* cae",
+      "voz": "Y no fue el único. Michael Olise también se lesionó y salió de cambio al comenzar el segundo tiempo. El club informó de una contusión en el antepié, que tratarán en los próximos días. Fabrizio Romano dice que podría estar listo para la Champions de la semana que viene.",
+      "pessoa": "Michael Olise",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Cambiamos de tema y nos vamos a Barcelona, donde Hansi Flick habló antes del partido contra el Villarreal."
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "No me importa lo que *haga el Madrid*",
+      "autor": "Hansi Flick",
+      "sub": "Previa del Barça-Villarreal",
+      "voz": "Preguntado por el Real Madrid, Flick fue directo: no me importa lo que hagan, porque tenemos tres puntos de ventaja y queremos mantenerlos. Dijo que el partido contra ellos es pasado.",
+      "short": "04"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Barça",
+      "titulo": "Raphinha, *aceptado*",
+      "voz": "Sobre Raphinha, que se quedó tres días más en Singapur con Brasil pese a su expulsión, Flick dijo que ha hablado con él. Tiene su opinión, pero no es importante: ellos decidieron lo que decidieron y tiene que aceptarlo. Y añadió que cuando está en el Barça lo da todo.",
+      "pessoa": "Raphinha",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Barça",
+      "titulo": "Bajas y *dudas*",
+      "voz": "Flick confirmó que Christensen será baja dos partidos por molestias en el sóleo. Cubarsí estará en el banquillo y viajará a Bakú. Pero Koundé y Eric García están de vuelta, y Dani Olmo también se recuperó.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Barça",
+      "titulo": "Lamine, *todo pactado*",
+      "voz": "Sobre Lamine Yamal y la polémica por su ausencia en el primer partido del parón, Flick dijo que para él estaba claro por qué no jugó, que todo estuvo pactado con el seleccionador y que está contento con el jugador.",
+      "pessoa": "Lamine Yamal",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y ojo con lo que se mueve en la Premier League, con un debut muy esperado."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · United",
+      "titulo": "Pochettino *debuta* en Anfield",
+      "voz": "Mauricio Pochettino debuta este domingo como técnico del Manchester United, nada menos que en Anfield, ante el Liverpool. En su primera rueda de prensa contó que pasó tres horas hablando individualmente con los jugadores y que su oficina se convirtió prácticamente en un confesionario.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Mercado",
+      "titulo": "Suena *Osimhen*",
+      "voz": "Según The Sun, Victor Osimhen está halagado por el interés del United y valoraría el fichaje si cobra una ficha similar a la actual, cercana a quince millones por temporada. Tiene contrato con el Galatasaray hasta dos mil veintinueve y no tiene cláusula de rescisión.",
+      "short": "05"
+    },
+    {
+      "tipo": "numero",
+      "fundo": "foto",
+      "numero": "100M",
+      "titulo": "euros *de traspaso*",
+      "sub": "Victor Osimhen",
+      "voz": "El traspaso difícilmente bajaría de los cien millones de euros. Y el Galatasaray pagó setenta y cinco millones al Nápoles por él hace poco más de un año. Osimhen lleva diez goles esta temporada.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · United",
+      "titulo": "Bruno *sigue* de capitán",
+      "voz": "Pochettino también aclaró que Bruno Fernandes seguirá siendo el capitán del United. Dijo que Bruno es su capitán, pero que todos los jugadores necesitan sentirse importantes, del más bajo al más alto.",
+      "pessoa": "Bruno Fernandes",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "fotoless",
+      "fundo": "estadio",
+      "tag": "Más noticias",
+      "titulo": "*Más noticias* del día",
+      "voz": "Y ahora, las otras noticias del día."
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "La *tercera fase* de Mourinho",
+      "voz": "Según AS, Mourinho quiere llegar a Navidades con el Madrid rodando aún mejor y, a ser posible, líder. Eso sí, no considera al equipo un producto acabado y avisa de que necesita tres temporadas para alcanzar la perfección.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Nueve partidos, *29 días*",
+      "voz": "Se viene un tramo de nueve partidos en veintinueve días. En una semana, el Madrid visitará Anoeta, San Mamés y el Emirates.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Quiero que *Portugal gane siempre*",
+      "autor": "José Mourinho",
+      "sub": "Sobre la ausencia de Cristiano",
+      "voz": "Mourinho no quiso hablar de Cristiano. Le preguntaron por la primera convocatoria de Portugal en una ventana FIFA sin él, y respondió: como portugués, la única cosa que digo es que quiero que Portugal gane siempre. Después, cortó la conversación.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Atlético",
+      "titulo": "Simeone y *los goles*",
+      "voz": "En el Atlético, Simeone se mostró entusiasmado antes de recibir al Getafe. Dijo que le entusiasma que estén donde están sin los goles de los delanteros, y esperó que lleguen los goles para superar todo lo bueno que están haciendo.",
+      "pessoa": "Diego Simeone",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Musiala, *a la venta*",
+      "voz": "Otra noticia desde el Bayern: Karl-Heinz Rummenigge no descarta vender a Jamal Musiala. Dijo que ya no es asumible y que sospechan que le será difícil volver a su nivel anterior.",
+      "pessoa": "Jamal Musiala",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mercado · Barça",
+      "titulo": "Bastoni *sigue en el radar*",
+      "voz": "Según Cracks, el Barça sigue pensando en Alessandro Bastoni. Mateo Moretto cuenta que Deco sigue muy interesado en el central del Inter, aunque primero volverá a hablar con el entrenador. Bastoni tiene contrato hasta dos mil veintiocho.",
+      "pessoa": "Alessandro Bastoni",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Arabia Saudí",
+      "titulo": "Cristiano *falla* el 987",
+      "voz": "Cristiano Ronaldo marcó el único gol de su equipo en la derrota por tres a uno ante el Al Ahli. Fue su gol número novecientos ochenta y seis. Pudo marcar el novecientos ochenta y siete de penal, pero estrelló el balón en el poste.",
+      "pessoa": "Cristiano Ronaldo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · United",
+      "titulo": "Berrada y *Carrick*",
+      "voz": "El director ejecutivo del United, Omar Berrada, explicó el despido de Carrick: dijo que a veces, en plena temporada, es la única decisión que puedes tomar para provocar una reacción. Sobre el juvenil JJ Gabriel, que se va del club, dijo que quieren jugadores que sientan que estar en el United es un privilegio.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "MLS · Inter Miami",
+      "titulo": "Messi y *los playoffs*",
+      "voz": "Según Mundo Deportivo, el Inter Miami de Messi aspira a ser el primer equipo que revalida el título de la MLS desde dos mil doce. Los playoffs comienzan este sábado ante el Columbus Crew, al mejor de tres partidos, y llegan con más dudas que hace un año por sus problemas defensivos.",
+      "pessoa": "Lionel Messi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Cuentas",
+      "titulo": "Las cuentas, *récord*",
+      "voz": "La Asamblea del Real Madrid aprobó las cuentas, con cifras récord: mil doscientos veintiún millones de euros de ingresos de explotación y un beneficio después de impuestos de veintiséis millones. Florentino aseguró que el Bernabéu ya ingresa más del doble que antes de la reforma.",
+      "pessoa": "Florentino Pérez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid · Bernabéu",
+      "titulo": "Vuelven *los conciertos*",
+      "voz": "José Ángel Sánchez anunció que los conciertos volverán al Bernabéu pronto. Dijo que no existe ningún impedimento legal y que las obras de acústica ya terminaron. Sobre la remodelación, quedan obras de exterior y de iluminación.",
+      "pessoa": "Florentino Pérez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "El enemigo puede estar *fuera*",
+      "autor": "Florentino Pérez",
+      "sub": "Sobre los pitos en el Bernabéu",
+      "voz": "Un socio criticó que se pite a los jugadores en el Bernabéu, y Florentino le dio la razón. Dijo que son el activo más importante que tienen y pidió no ayudar a esos pitos. El enemigo puede estar fuera, pero no debe estar en casa.",
+      "pessoa": "Florentino Pérez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿cómo suplirá el Bayern a Kane? Nos vemos mañana con más noticias de fútbol."
+    }
+  ]
+}
