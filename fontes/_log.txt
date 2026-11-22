@@ -1,3 +1,10 @@
-já baixado: fontes/34t7Gy211Hk.txt
-75 notícias de futebol nas últimas 26 h
-salvo /home/runner/work/area-pequena-auto/area-pequena-auto/fontes/noticias-2026-11-21.txt (49 com texto da matéria)
+WARNING: [youtube] O8x4C1VohF4: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: Too Many Requests>)
+WARNING: [youtube] O8x4C1VohF4: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+WARNING: [youtube] O8x4C1VohF4: Unable to download API page: HTTP Error 403: Forbidden (caused by <HTTPError 403: Forbidden>)
+ERROR: [youtube] O8x4C1VohF4: Failed to extract any player response; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U
+yt-dlp não pegou a legenda (ERROR: [youtube] O8x4C1VohF4: Failed to extract any player response; please report this issue on  https://github.com/yt-); usando o Supadata
+/home/runner/work/area-pequena-auto/area-pequena-auto/fontes/O8x4C1VohF4.txt
+¡Espí salva al Madrid! | ¿Maldición Balón de Oro? | Alarma en PSG por Doué | Chelsea goleado | 2026-11-22 | 922 palavras (via Supadata)
+70 notícias de futebol nas últimas 26 h
+salvo /home/runner/work/area-pequena-auto/area-pequena-auto/fontes/noticias-2026-11-22.txt (56 com texto da matéria)
