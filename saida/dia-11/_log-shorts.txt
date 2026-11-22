@@ -1,0 +1,24 @@
+
+== dia-11: 5 shorts
+ 01 Nadal ya es *directivo* del Real Madrid
+    ! sem escudo para Real Madrid Club de Fútbol
+    foto: File:Estadio Santiago Bernabéu 39.jpg
+    ok
+ 02 Florentino contra Tebas: *"Repugnante e indigno"*
+[ WARN:0@79.690] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@79.816] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Javier Tebas - Geral - 1.jpg
+    banco + Javier Tebas - Geral - 2.jpg
+    banco + Javier Tebas - Geral - 3.jpg
+    foto: Javier Tebas/Javier Tebas - Geral - 1.jpg
+    ok
+ 03 Kane, *cuatro meses* de baja
+    foto: Harry Kane/Harry Kane - Selección de Inglaterra - 1.jpg
+    ok
+ 04 Flick: *"No me importa"* lo que haga el Madrid
+    foto: escudo Fútbol Club Barcelona
+    ok
+ 05 Pochettino debuta y suena *Osimhen*
+    foto: Mauricio Pochettino/Mauricio Pochettino - Selección de los Estados Unidos - 1.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-11/painel.html

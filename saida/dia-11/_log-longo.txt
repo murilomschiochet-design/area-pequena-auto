@@ -1,0 +1,45 @@
+ cena 00 abertura  14.9s  Bienvenidos a Área Pequeña FC. Hoy hablamos de Rafa Nadal, n
+ cena 01 card       6.1s  Empezamos en el Bernabéu, donde el Real Madrid vivió una Asa
+ cena 02 fotoless   9.8s  Rafa Nadal ya es miembro de la Junta Directiva del Real Madr
+ cena 03 numero    12.1s  No hubo discusión. Nadal recibió mil setecientos cuatro voto
+ cena 04 cita      13.5s  Florentino Pérez le dio la bienvenida con estas palabras: Pa
+ cena 05 cita       9.6s  Nadal respondió agradecido: el Madrid es una marca global, l
+ cena 06 card       5.4s  En esa misma Asamblea, Florentino Pérez también dejó titular
+ cena 07 foto      11.8s  Según AS, fue un discurso algo más breve de lo habitual, de 
+ cena 08 cita      15.4s  Florentino recordó que en octubre Tebas comparó a Real Madri
+ cena 09 foto      18.9s  Sobre el caso Negreira, Florentino expuso datos del club. Di
+ cena 10 cita      12.8s  Florentino fue claro: no voy a descansar para lograr la inte
+ cena 11 foto      15.8s  Tebas contestó en redes sociales. Su primera reacción no fue
+ cena 12 card       4.4s  Pasamos a Alemania, donde el Bayern recibió un golpe duro.
+ cena 13 foto      14.8s  El Bayern hizo público el parte médico: Harry Kane sufre una
+ cena 14 foto      15.6s  Todo ocurrió en el empate uno a uno contra el Colonia. El Ba
+ cena 15 foto      16.6s  Y no fue el único. Michael Olise también se lesionó y salió 
+ cena 16 card       6.2s  Cambiamos de tema y nos vamos a Barcelona, donde Hansi Flick
+ cena 17 cita      11.3s  Preguntado por el Real Madrid, Flick fue directo: no me impo
+ cena 18 foto      16.2s  Sobre Raphinha, que se quedó tres días más en Singapur con B
+[ WARN:0@480.457] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@480.567] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 19 foto      12.9s  Flick confirmó que Christensen será baja dos partidos por mo
+ cena 20 foto      11.5s  Sobre Lamine Yamal y la polémica por su ausencia en el prime
+ cena 21 card       4.9s  Y ojo con lo que se mueve en la Premier League, con un debut
+ cena 22 foto      16.3s  Mauricio Pochettino debuta este domingo como técnico del Man
+ cena 23 foto      15.4s  Según The Sun, Victor Osimhen está halagado por el interés d
+ cena 24 numero    12.5s  El traspaso difícilmente bajaría de los cien millones de eur
+ cena 25 foto      12.3s  Pochettino también aclaró que Bruno Fernandes seguirá siendo
+ cena 26 fotoless   3.5s  Y ahora, las otras noticias del día.
+ cena 27 foto      13.9s  Según AS, Mourinho quiere llegar a Navidades con el Madrid r
+ cena 28 foto       8.7s  Se viene un tramo de nueve partidos en veintinueve días. En 
+ cena 29 cita      15.7s  Mourinho no quiso hablar de Cristiano. Le preguntaron por la
+ cena 30 foto      13.0s  En el Atlético, Simeone se mostró entusiasmado antes de reci
+ cena 31 foto      10.9s  Otra noticia desde el Bayern: Karl-Heinz Rummenigge no desca
+ cena 32 foto      14.4s  Según Cracks, el Barça sigue pensando en Alessandro Bastoni.
+ cena 33 foto      13.7s  Cristiano Ronaldo marcó el único gol de su equipo en la derr
+ cena 34 foto      18.6s  El director ejecutivo del United, Omar Berrada, explicó el d
+ cena 35 foto      15.7s  Según Mundo Deportivo, el Inter Miami de Messi aspira a ser 
+ cena 36 fotoless  15.9s  La Asamblea del Real Madrid aprobó las cuentas, con cifras r
+ cena 37 fotoless  14.1s  José Ángel Sánchez anunció que los conciertos volverán al Be
+ cena 38 cita      14.2s  Un socio criticó que se pite a los jugadores en el Bernabéu,
+ cena 39 cierre    13.8s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-11/longo.mp4  (504s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-11/_contato_longo.jpg

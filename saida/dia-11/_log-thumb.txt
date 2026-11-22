@@ -1,0 +1,3 @@
+[ WARN:0@49.946] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@50.050] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+sem recorte de nenhum jogador: thumbnail não gerada

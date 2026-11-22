@@ -1,0 +1,11 @@
+ 01 enviado: https://youtu.be/JMde5Wi0dYQ  agendado 22/11 09:00
+ 02 enviado: https://youtu.be/9PFHYrmLmBE  agendado 22/11 12:00
+ 03 enviado: https://youtu.be/M_ffdPuMe0s  agendado 22/11 15:00
+ 04 enviado: https://youtu.be/OlkXBQ9Ci1E  agendado 22/11 17:00
+ 05 enviado: https://youtu.be/x6ZYrdd7wgw  agendado 22/11 20:00
+ 01 já enviado (JMde5Wi0dYQ)
+ 02 já enviado (9PFHYrmLmBE)
+ 03 já enviado (M_ffdPuMe0s)
+ 04 já enviado (OlkXBQ9Ci1E)
+ longo enviado: https://youtu.be/BOJFBu7uz4Q  agendado 22/11 18:30
+ 05 já enviado (x6ZYrdd7wgw)
