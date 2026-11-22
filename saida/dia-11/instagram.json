@@ -3,31 +3,35 @@
   "container": "18043173467849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T09:05:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T16:01+01:00",
+  "media_id": "18127403785810069"
  },
  "01": {
   "container": "18043173536849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T09:00:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T16:01+01:00"
  },
  "02": {
   "container": "18043173644849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T12:00:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T16:01+01:00",
+  "media_id": "18155076964554827"
  },
  "story-03": {
   "container": "18043173752849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T15:05:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T16:01+01:00",
+  "media_id": "18649566061020000"
  },
  "03": {
   "container": "18043173824849487",
   "status": "FINISHED",
   "publicar": "2026-11-22T15:00:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-22T16:01+01:00",
+  "media_id": "18083110529731591"
  },
  "04": {
   "container": "18043173965849487",
