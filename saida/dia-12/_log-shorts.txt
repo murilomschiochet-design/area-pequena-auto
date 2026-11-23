@@ -1,0 +1,30 @@
+
+== dia-12: 5 shorts
+ 01 Espí *vuelve a salvar* al Madrid
+    foto: Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 2.jpg
+    ok
+ 02 Doué se rompe el *cruzado*
+[ WARN:0@41.992] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@42.172] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Désiré Doué - Selección de Francia - 1.jpg
+    banco + Désiré Doué - Selección de Francia - 2.jpg
+    banco + Désiré Doué - Selección de Francia - 3.jpg
+    foto: Désiré Doué/Désiré Doué - Selección de Francia - 1.jpg
+    ok
+ 03 Musiala, *otro episodio* y polémica en el Bayern
+    foto: Jamal Musiala/Jamal Musiala - Selección de Alemania - 2.jpg
+    ok
+ 04 Messi *explota* y lanza un balonazo
+    foto: Lionel Messi/Lionel Messi - Geral - 1.jpg
+    ok
+ 05 Chelsea *hundido* ante el Leeds
+    ! sem escudo para Chelsea Football Club
+    banco + Moisés Caicedo - Selección de Ecuador - 1.jpg
+    banco + Moisés Caicedo - Selección de Ecuador - 2.jpg
+    banco + Moisés Caicedo - Selección de Ecuador - 3.jpg
+    banco + Moisés Caicedo - Brighton & Hove Albion Football Club - 1.jpg
+    banco + Moisés Caicedo - Brighton & Hove Albion Football Club - 2.jpg
+    banco + Moisés Caicedo - Brighton & Hove Albion Football Club - 3.jpg
+    foto: Moisés Caicedo/Moisés Caicedo - Selección de Ecuador - 1.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-12/painel.html

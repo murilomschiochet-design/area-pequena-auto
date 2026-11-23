@@ -1,0 +1,44 @@
+ cena 00 abertura  14.2s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la nueva remo
+ cena 01 card       5.3s  Empezamos en el Bernabéu, donde el Madrid volvió a pasar apu
+ cena 02 foto      12.4s  El Real Madrid venció dos a uno al Celta, pero tuvo que sufr
+ cena 03 foto      17.2s  Después llegó otro susto: Mbappé falló un penalti. Según AS,
+ cena 04 foto      12.1s  Mourinho dejó a Vinicius en el banco y lo sacó en la segunda
+ cena 05 numero     9.4s  Espí marcó a cinco minutos del final y ya suma cuatro goles 
+ cena 06 cita      11.8s  Mourinho elogió a Espí en rueda de prensa: la historia está 
+ cena 07 foto      18.2s  Con este triunfo, según Cracks, el Madrid suma nueve victori
+ cena 08 card       5.5s  Pasamos a París, donde el PSG ganó, pero terminó con la peor
+ cena 09 foto      11.4s  El PSG confirmó que Désiré Doué tiene roto el ligamento cruz
+ cena 10 foto      10.4s  El club informó que será operado antes de que acabe noviembr
+[ WARN:0@539.139] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 11 cita       8.4s  Tras el partido, Luis Enrique ya había avisado: dijo que hay
+ cena 12 foto      15.6s  Es un duro revés. Hace un mes el PSG ya perdió a Kvaratskhel
+ cena 13 card       4.8s  Y ojo con lo que pasa en Múnich, porque la situación de Musi
+ cena 14 foto      17.5s  Según Bild, Jamal Musiala sufrió el lunes un nuevo episodio 
+ cena 15 cita      11.2s  Rummenigge dijo que Musiala tiene un problema de salud y un 
+ cena 16 foto      16.0s  El sindicato mundial de futbolistas salió en su defensa. Acu
+ cena 17 cita      14.6s  Stefan Effenberg también estalló contra la directiva. Dijo q
+ cena 18 card       4.4s  Cambiamos de continente: Messi perdió los nervios en Miami.
+ cena 19 foto      14.5s  El Inter Miami cayó cero a tres ante el Columbus Crew en la 
+ cena 20 foto      13.3s  Messi le lanzó el balón a la cara y lo derribó. El árbitro A
+ cena 21 foto      15.1s  En la segunda parte, el Inter Miami se quedó con diez por la
+ cena 22 card       4.1s  Y en Inglaterra, el Chelsea sigue en caída libre.
+ cena 23 foto      10.7s  El Chelsea de Xabi Alonso perdió uno a cuatro ante el Leeds 
+ cena 24 foto      14.3s  Según Cracks, el Chelsea ya suma cinco derrotas en once part
+ cena 25 foto      13.1s  Para empeorar el día, Moisés Caicedo tuvo que salir a los ve
+ cena 26 fotoless   3.5s  Y ahora, las otras noticias del día.
+ cena 27 fotoless  13.8s  Después del derbi sevillano, que acabó uno a uno, el Betis d
+ cena 28 fotoless  14.3s  Por otro lado, María Saravia, esposa del portero Álvaro Vall
+ cena 29 fotoless  14.7s  En lo deportivo, Antony marcó su primer gol de la temporada 
+ cena 30 foto      17.0s  En el Barça-Villarreal, Lamine Yamal recibió tratamiento en 
+ cena 31 foto      15.1s  Antes del partido, según Cracks, el técnico del Villarreal, 
+ cena 32 fotoless  16.0s  En la Premier, el Arsenal empató dos a dos con el Newcastle 
+ cena 33 foto      19.8s  MARCA destaca un dato curioso: Rodri ganó el Balón de Oro en
+[ WARN:0@2133.506] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 34 foto      13.9s  Boca Juniors ganó la Copa Sudamericana al vencer dos a cero 
+ cena 35 foto      12.3s  Tras el título, el capitán Leandro Paredes se desmayó mientr
+ cena 36 foto      12.7s  Y volvemos al Madrid. AS asegura que Bellingham está en su m
+ cena 37 foto       9.8s  El Madrid ya prepara la visita del PSV en Champions, el mart
+ cena 38 cierre    13.7s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-12/longo.mp4  (482s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-12/_contato_longo.jpg
