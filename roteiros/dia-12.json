@@ -1,0 +1,162 @@
+{
+  "data": "2026-11-23",
+  "fonte": "MARCA, AS, Mundo Deportivo, https://www.youtube.com/watch?v=O8x4C1VohF4",
+  "shorts": [
+    {
+      "id": "01",
+      "hora": "09:00",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Espí *vuelve a salvar* al Madrid",
+      "texto": "El **Real Madrid** remontó al Celta (2-1) en el Bernabéu. **Pablo Durán** adelantó a los gallegos pronto, **Mbappé** falló un penalti y **Vinicius**, que salió desde el banquillo, cambió el partido. **Bellingham** empató y **Carlos Espí** marcó el 2-1 a cinco minutos del final. Es su cuarto gol en solo 63 minutos con el Madrid.",
+      "foto_busca": [
+        "Carlos Espí",
+        "Vinícius Júnior",
+        "#Real Madrid Club de Fútbol",
+        "~Estadio Santiago Bernabéu"
+      ],
+      "contexto": "clube",
+      "titulo_yt": "¡ESPÍ vuelve a salvar al Madrid! Remontada ante el Celta con Vinicius desde el banquillo 🔥",
+      "descricao": "El Real Madrid venció 2-1 al Celta: Mbappé falló un penalti, Bellingham empató y Espí marcó a cinco minutos del final. Es su cuarto gol en 63 minutos con el Madrid. ¿Debe ser titular? Fuente: AS, MARCA, Cracks",
+      "fonte": "https://as.com/futbol/espi-siempre-llega-a-tiempo-f202611-n/ | https://www.marca.com/futbol/real-madrid/2026/11/22/vinicius-enciende-chispa-espi-mantiene-llama.html | https://www.youtube.com/watch?v=O8x4C1VohF4",
+      "hashtags": [
+        "#Espi",
+        "#RealMadrid",
+        "#Vinicius",
+        "#LaLiga",
+        "#futbol"
+      ]
+    },
+    {
+      "id": "02",
+      "hora": "12:00",
+      "tag": "Ligue 1 · PSG",
+      "titulo": "Doué se rompe el *cruzado*",
+      "texto": "Mala noticia para el **PSG**: **Désiré Doué** tiene roto el ligamento cruzado anterior de la rodilla derecha, según el comunicado del club. Será operado antes de que acabe noviembre y se perderá lo que queda de temporada. Es la misma lesión que sufrió **Kvaratskhelia** en octubre. **Luis Enrique** ya había dicho que era \"una lesión grave\".",
+      "foto_busca": [
+        "Désiré Doué",
+        "Luis Enrique Martínez",
+        "#Paris Saint-Germain Football Club",
+        "~Parque de los Príncipes"
+      ],
+      "contexto": "clube",
+      "titulo_yt": "¡DOUÉ se rompe el cruzado! El PSG confirma lo peor y se pierde la temporada 😰",
+      "descricao": "El PSG confirmó que Doué tiene roto el ligamento cruzado anterior de la rodilla derecha y será operado antes de que acabe noviembre. Luis Enrique ya había hablado de una lesión grave. ¿Debe fichar el PSG en enero? Fuente: MARCA, Mundo Deportivo, AS",
+      "fonte": "https://www.marca.com/futbol/2026/11/22/psg-confirma-peores-noticias-doue-rompe-cruzado.html | https://www.mundodeportivo.com/futbol/ligue-1/20261122/1004254068/psg-confirma-doue-pierde-temporada.html | https://as.com/futbol/internacional/doue-evacuado-en-camilla-f202611-n/",
+      "hashtags": [
+        "#Doue",
+        "#PSG",
+        "#LuisEnrique",
+        "#Ligue1",
+        "#futbol"
+      ]
+    },
+    {
+      "id": "03",
+      "hora": "15:00",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Musiala, *otro episodio* y polémica en el Bayern",
+      "texto": "**Jamal Musiala** sufrió el lunes un nuevo episodio de ausencia, según **Bild**. Ocurrió el día en que se reunió el consejo del **Bayern**. Antes, **Rummenigge** dijo que sospechan que \"le será difícil volver a su nivel anterior\". **FIFPRO** salió en defensa del jugador y acusó al club de presionarlo en público: \"Los contratos están para respetarse\".",
+      "foto_busca": [
+        "Jamal Musiala",
+        "Karl-Heinz Rummenigge",
+        "#Fußball-Club Bayern München",
+        "~Allianz Arena"
+      ],
+      "contexto": "clube",
+      "titulo_yt": "MUSIALA: otro episodio y FIFPRO acusa al Bayern de presionarlo 😳",
+      "descricao": "Según Bild, Musiala sufrió un nuevo episodio de ausencia. Rummenigge puso en duda su regreso al mejor nivel y FIFPRO acusó al Bayern de presionarlo públicamente. ¿De qué lado estás? Fuente: AS, Mundo Deportivo, MARCA, Cracks",
+      "fonte": "https://as.com/futbol/internacional/preocupacion-por-musiala-otro-desmayo-f202611-n/ | https://www.mundodeportivo.com/futbol/bundesliga/20261122/1004254077/conmocion-bayern-musiala-sufre-ataque-ausencia.html | https://www.marca.com/futbol/bundesliga/2026/11/22/fifpro-sale-defensa-jamal-musiala-acusa-bayern-video.html | https://www.youtube.com/watch?v=O8x4C1VohF4",
+      "hashtags": [
+        "#Musiala",
+        "#Bayern",
+        "#FIFPRO",
+        "#Bundesliga",
+        "#futbol"
+      ]
+    },
+    {
+      "id": "04",
+      "hora": "17:00",
+      "tag": "MLS · Inter Miami",
+      "titulo": "Messi *explota* y lanza un balonazo",
+      "texto": "**Leo Messi** perdió los nervios en la derrota del **Inter Miami** ante el Columbus Crew (0-3) en los playoffs de la MLS. En el 45+5, en un saque de banda, **Gonzalo Tapia** se puso delante para obstruirlo y Messi le lanzó el balón a la cara. El árbitro mostró amarilla a ambos, aunque los rivales pedían la expulsión.",
+      "foto_busca": [
+        "Lionel Messi",
+        "#Club Internacional de Fútbol Miami",
+        "~Estadio Chase"
+      ],
+      "contexto": "clube",
+      "titulo_yt": "¡MESSI explota y le lanza un balonazo a la cara a un rival! 😱",
+      "descricao": "En la derrota del Inter Miami 0-3 ante el Columbus Crew, Messi lanzó el balón a la cara de Gonzalo Tapia. Vio amarilla, igual que su rival. ¿Debió ser expulsado? Fuente: MARCA",
+      "fonte": "https://www.marca.com/futbol/2026/11/22/frustracion-messi-pelotazo-cara-rival-derrota-inter-miami.html | https://www.marca.com/futbol/2026/11/22/messi-explota-lanza-balonazo-cara-rival-video.html",
+      "hashtags": [
+        "#Messi",
+        "#InterMiami",
+        "#MLS",
+        "#Playoffs",
+        "#futbol"
+      ]
+    },
+    {
+      "id": "05",
+      "hora": "20:00",
+      "tag": "Premier League · Chelsea",
+      "titulo": "Chelsea *hundido* ante el Leeds",
+      "texto": "El **Chelsea** de **Xabi Alonso** cayó 1-4 ante el Leeds en Stamford Bridge. **Emegha** adelantó a los blues, pero **Okafor** marcó dos y el equipo fue abucheado. Suma cinco derrotas en 11 partidos de Premier y ha encajado 20 goles. Además, **Caicedo** tuvo que salir lesionado a los 22 minutos.",
+      "foto_busca": [
+        "Xabi Alonso",
+        "Moisés Caicedo",
+        "#Chelsea Football Club",
+        "~Stamford Bridge"
+      ],
+      "contexto": "clube",
+      "titulo_yt": "¡Chelsea HUNDIDO! 1-4 ante el Leeds y la presión crece sobre Xabi Alonso 😬",
+      "descricao": "El Chelsea perdió 1-4 ante el Leeds en Stamford Bridge, con abucheos y la lesión de Caicedo. Ya suma cinco derrotas en 11 partidos de Premier. ¿Se ha caído el proyecto de Xabi Alonso? Fuente: AS, Cracks",
+      "fonte": "https://as.com/futbol/internacional/naufragio-total-de-xabi-f202611-n/ | https://www.youtube.com/watch?v=O8x4C1VohF4",
+      "hashtags": [
+        "#Chelsea",
+        "#XabiAlonso",
+        "#PremierLeague",
+        "#Caicedo",
+        "#futbol"
+      ]
+    }
+  ],
+  "longo": {
+    "hora": "18:30",
+    "titulo_yt": "¡Espí salva al Madrid! | Doué, fuera la temporada | ¿Bayern presiona a Musiala? | Messi explota",
+    "descricao": "Espí salva otra vez al Real Madrid ante el Celta.\nDoué se rompe el cruzado y se pierde la temporada con el PSG.\nMusiala, otro episodio y la polémica en el Bayern.\nMessi lanza un balonazo a la cara de un rival.\nEl Chelsea de Xabi Alonso, hundido ante el Leeds.\nMás: insultos racistas a Natan, el derbi sevillano, Barça-Villarreal, la Premier, la maldición del Balón de Oro, Boca campeón y Bellingham.\nSuscríbete a Área Pequeña FC y activa la campanita para no perderte ninguna noticia.\nFuentes: MARCA, AS, Mundo Deportivo, Cracks",
+    "tags": [
+      "Carlos Espí",
+      "Real Madrid",
+      "Mourinho",
+      "Vinicius",
+      "Désiré Doué",
+      "PSG",
+      "Jamal Musiala",
+      "Bayern",
+      "Lionel Messi",
+      "Chelsea",
+      "noticias de fútbol",
+      "Área Pequeña FC"
+    ],
+    "thumb": {
+      "grandes": [
+        "Jamal Musiala",
+        "Désiré Doué"
+      ],
+      "circulos": [
+        "Carlos Espí",
+        "Lionel Messi",
+        "Vinícius Júnior"
+      ],
+      "escudos": [
+        {
+          "clube": "Real Madrid Club de Fútbol",
+          "marca": "v"
+        }
+      ],
+      "alerta": true
+    }
+  }
+}

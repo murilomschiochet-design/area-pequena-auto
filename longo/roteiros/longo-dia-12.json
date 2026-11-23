@@ -1,0 +1,306 @@
+{
+  "dia": "dia-12",
+  "data": "23 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "23 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la nueva remontada del Real Madrid con Espí como héroe, de la grave lesión de Doué en el PSG y de la polémica en el Bayern por Musiala. Estas son las noticias de fútbol de hoy."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos en el Bernabéu, donde el Madrid volvió a pasar apuros ante el Celta."
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Espí, *otra vez* héroe",
+      "voz": "El Real Madrid venció dos a uno al Celta, pero tuvo que sufrir. Pablo Durán adelantó pronto a los gallegos, en una jugada de quince pases y diez jugadores distintos en treinta y cinco segundos, según MARCA.",
+      "short": "01"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "El *penalti* de Mbappé",
+      "voz": "Después llegó otro susto: Mbappé falló un penalti. Según AS, en la jugada de esa falta Huijsen y Bellingham pidieron la roja para el rival, pero el árbitro no la mostró. El Madrid dominó casi todo el partido, con veinticuatro tiros, pero el marcador tardó una hora en admitirlo.",
+      "pessoa": "Kylian Mbappé",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Vinicius *cambia* el partido",
+      "voz": "Mourinho dejó a Vinicius en el banco y lo sacó en la segunda parte. Según MARCA, apareció en la foto de los dos goles del Madrid: participó en el empate de Bellingham y asistió a Espí para el dos a uno.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "numero",
+      "fundo": "foto",
+      "numero": "63",
+      "titulo": "minutos, *cuatro goles*",
+      "sub": "Carlos Espí con el Real Madrid",
+      "voz": "Espí marcó a cinco minutos del final y ya suma cuatro goles en solo sesenta y tres minutos oficiales con el Madrid. Para AS, es el hombre que siempre llega a tiempo.",
+      "short": "01"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "La historia está llena de *gente como él*",
+      "autor": "José Mourinho",
+      "sub": "Sobre Espí",
+      "voz": "Mourinho elogió a Espí en rueda de prensa: la historia está llena de gente como él, que es decisiva sin jugar muchos minutos. Bromeó también con la idea de ponerlo junto a Mbappé de titulares.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Clasificación",
+      "titulo": "Nueve *victorias* seguidas",
+      "voz": "Con este triunfo, según Cracks, el Madrid suma nueve victorias seguidas, su mejor racha desde dos mil veintidós. Llega a treinta y tres puntos, los mismos que el Barça, que tiene un partido menos. Y MARCA cuenta que Rafa Nadal, nuevo directivo, celebró el gol de Espí en pie junto a su hijo.",
+      "short": "01"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos a París, donde el PSG ganó, pero terminó con la peor noticia."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Ligue 1 · PSG",
+      "titulo": "Doué, *roto* el cruzado",
+      "voz": "El PSG confirmó que Désiré Doué tiene roto el ligamento cruzado anterior de la rodilla derecha. Se lesionó el sábado ante el Niza y salió en camilla, entre lágrimas, según Cracks.",
+      "short": "02"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Ligue 1 · PSG",
+      "titulo": "Operación *y baja*",
+      "voz": "El club informó que será operado antes de que acabe noviembre. Se pierde prácticamente toda la temporada y los cuartos de final de la Nations League contra España, en marzo.",
+      "short": "02"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Es una *lesión grave*",
+      "autor": "Luis Enrique",
+      "sub": "Tras el partido ante el Niza",
+      "voz": "Tras el partido, Luis Enrique ya había avisado: dijo que hay que esperar a las pruebas, pero que es una lesión grave, eso está claro.",
+      "pessoa": "Luis Enrique Martínez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Ligue 1 · PSG",
+      "titulo": "Otro *golpe* para Luis Enrique",
+      "voz": "Es un duro revés. Hace un mes el PSG ya perdió a Kvaratskhelia por la misma lesión, ante el Barcelona. Doué había participado directamente en diez goles en quince partidos. MARCA añade que el club podría replantearse fichar en enero.",
+      "short": "02"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Y ojo con lo que pasa en Múnich, porque la situación de Musiala preocupa."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Musiala, *otro episodio*",
+      "voz": "Según Bild, Jamal Musiala sufrió el lunes un nuevo episodio de ausencia, consecuencia de la disfunción neurológica que padece. Ocurrió el mismo día en que se reunió el consejo de supervisión del Bayern. Según AS, el club busca una medicación que controle la enfermedad sin afectar su rendimiento.",
+      "short": "03"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Será difícil volver a su *nivel*",
+      "autor": "Karl-Heinz Rummenigge",
+      "sub": "Consejo del Bayern",
+      "voz": "Rummenigge dijo que Musiala tiene un problema de salud y un contrato muy importante. Añadió: sospechamos que le será difícil volver a su nivel anterior, y hay que tomar una decisión.",
+      "pessoa": "Karl-Heinz Rummenigge",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "FIFPRO *defiende* a Musiala",
+      "voz": "El sindicato mundial de futbolistas salió en su defensa. Acusa al Bayern de presionarlo públicamente antes de negociar su contrato. Recordó, según Cracks, que los contratos están para respetarse y que una lesión no es motivo para cambiar uno ya firmado.",
+      "pessoa": "Jamal Musiala",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Una comunicación *catastrófica*",
+      "autor": "Stefan Effenberg",
+      "sub": "Sobre la directiva del Bayern",
+      "voz": "Stefan Effenberg también estalló contra la directiva. Dijo que la comunicación del Bayern fue catastrófica y pidió una disculpa. Por su parte, el director ejecutivo Dreesen pidió tiempo: dijo que Jamal necesita tiempo para regresar.",
+      "pessoa": "Stefan Effenberg",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Cambiamos de continente: Messi perdió los nervios en Miami."
+    },
+    {
+      "tipo": "foto",
+      "tag": "MLS · Inter Miami",
+      "titulo": "Messi *pierde* la cabeza",
+      "voz": "El Inter Miami cayó cero a tres ante el Columbus Crew en la primera ronda de los playoffs, antes con homenaje a Messi por su nueva Bota de Oro. En el descuento de la primera parte, cuando Messi quiso sacar rápido de banda, Gonzalo Tapia se puso delante.",
+      "short": "04"
+    },
+    {
+      "tipo": "foto",
+      "tag": "MLS · Inter Miami",
+      "titulo": "Amarilla *para los dos*",
+      "voz": "Messi le lanzó el balón a la cara y lo derribó. El árbitro Allen Chapman mostró amarilla a ambos, aunque los rivales pedían la roja. Según MARCA, Messi reaccionó porque creía que Tapia intentaba hacer tiempo.",
+      "short": "04"
+    },
+    {
+      "tipo": "foto",
+      "tag": "MLS · Inter Miami",
+      "titulo": "Contra *las cuerdas*",
+      "voz": "En la segunda parte, el Inter Miami se quedó con diez por la expulsión de Lujan. Habroune marcó en el minuto cincuenta y dos y Tapia hizo doblete. Como la eliminatoria es al mejor de tres partidos, el equipo de Messi está obligado a ganar el siguiente.",
+      "pessoa": "Lionel Messi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y en Inglaterra, el Chelsea sigue en caída libre."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Chelsea",
+      "titulo": "Chelsea, *hundido*",
+      "voz": "El Chelsea de Xabi Alonso perdió uno a cuatro ante el Leeds en Stamford Bridge. Emegha adelantó a los blues, pero Okafor marcó dos goles y la afición despidió al equipo con abucheos.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Chelsea",
+      "titulo": "Cinco derrotas, *veinte goles*",
+      "voz": "Según Cracks, el Chelsea ya suma cinco derrotas en once partidos de Premier y cayó al octavo puesto. Para AS, solo ha ganado uno de sus últimos cinco partidos y ha encajado veinte goles en once jornadas, un problema defensivo sin solución.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Chelsea",
+      "titulo": "Caicedo, *lesionado*",
+      "voz": "Para empeorar el día, Moisés Caicedo tuvo que salir a los veintidós minutos tras un golpe en la espalda en un balón aéreo. Según Cracks, ya venía tocado desde el parón y ahora toca esperar para saber cuánto tiempo estará fuera.",
+      "pessoa": "Moisés Caicedo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "fotoless",
+      "fundo": "estadio",
+      "tag": "Más noticias",
+      "titulo": "*Más noticias* del día",
+      "voz": "Y ahora, las otras noticias del día."
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Betis",
+      "titulo": "Insultos *racistas* a Natan",
+      "voz": "Después del derbi sevillano, que acabó uno a uno, el Betis denunció insultos racistas contra Natan cuando se dirigía al autobús. El defensa respondió en X con calma y centró su mensaje en el partido de Champions del martes ante el Slovan.",
+      "pessoa": "Natan",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Betis",
+      "titulo": "La denuncia *de la mujer de Valles*",
+      "voz": "Por otro lado, María Saravia, esposa del portero Álvaro Valles, denunció en Instagram que durante el calentamiento un aficionado gritó que ojalá se muera su hija esa noche. Según su relato, el hombre iba de la mano de un niño pequeño.",
+      "pessoa": "Álvaro Valles",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Sevilla-Betis",
+      "titulo": "Antony y *Kike Salas*",
+      "voz": "En lo deportivo, Antony marcó su primer gol de la temporada y adelantó al Betis, pero Kike Salas empató en el descuento tras un error de Valles. Marc Bartra dijo que el goleador debía estar expulsado, y Agoumé respondió: que sigan quejándose.",
+      "pessoa": "Antony",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · FC Barcelona",
+      "titulo": "Lamine, *tobillo* y penalti",
+      "voz": "En el Barça-Villarreal, Lamine Yamal recibió tratamiento en un tobillo durante el calentamiento, aunque fue titular. Flick explicó que De Jong jugó de central porque es mejor en el medio, y que Eric García fue lateral. Y Mundo Deportivo y MARCA recogieron que Lamine falló un penalti.",
+      "pessoa": "Lamine Yamal",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · FC Barcelona",
+      "titulo": "Iñigo Pérez *avisa*",
+      "voz": "Antes del partido, según Cracks, el técnico del Villarreal, Iñigo Pérez, dijo que Lamine es diferencial y que la idea era atacarle por su banda para obligarlo a defender. Cracks también recordó que Lamine le ha marcado al Villarreal en los últimos tres cruces.",
+      "pessoa": "Lamine Yamal",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Arsenal *empata*",
+      "voz": "En la Premier, el Arsenal empató dos a dos con el Newcastle tras ir ganando. Sigue líder con veintiocho puntos, pero el Brighton es segundo con veintidós y tiene un partido menos. Además, el Bournemouth llegó a nueve victorias seguidas en todas las competiciones.",
+      "pessoa": "Mikel Arteta",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Balón de Oro",
+      "titulo": "¿Existe *la maldición*?",
+      "voz": "MARCA destaca un dato curioso: Rodri ganó el Balón de Oro en dos mil veinticuatro y se rompió el cruzado. Dembélé lo ganó en dos mil veinticinco y cayó por una lesión muscular. Y ahora Harry Kane, campeón en dos mil veintiséis, sufre una rotura de ligamento en el tobillo. Es pura coincidencia, pero llama la atención.",
+      "pessoa": "Harry Kane",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Copa Sudamericana",
+      "titulo": "Boca *campeón*",
+      "voz": "Boca Juniors ganó la Copa Sudamericana al vencer dos a cero al Atlético Mineiro en Barranquilla. Con este título, según MARCA, terminó con dieciocho años sin títulos internacionales y miles de aficionados lo celebraron en el Obelisco.",
+      "pessoa": "Leandro Paredes",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Copa Sudamericana",
+      "titulo": "El susto *de Paredes*",
+      "voz": "Tras el título, el capitán Leandro Paredes se desmayó mientras hablaba con un periodista, por un golpe de calor. Según MARCA, se recuperó pocos segundos después y se fue al vestuario por sus propios medios.",
+      "pessoa": "Leandro Paredes",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Bellingham, *en su mejor momento*",
+      "voz": "Y volvemos al Madrid. AS asegura que Bellingham está en su mejor momento. El exjugador Álvaro Benito lo definió en la Cadena SER como el mejor centrocampista del mundo y dijo que es un jugador total.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League",
+      "titulo": "Mourinho *confirma* a Vinicius",
+      "voz": "El Madrid ya prepara la visita del PSV en Champions, el martes. Según AS, Mourinho confirmó que Vinicius será titular ante los neerlandeses.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿debe jugar Espí de titular? Nos vemos mañana con más noticias de fútbol."
+    }
+  ]
+}
