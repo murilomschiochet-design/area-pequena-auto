@@ -1,0 +1,44 @@
+ cena 00 abertura  13.9s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la respuesta 
+ cena 01 card       3.9s  Empezamos con Mourinho, que no se quedó callado.
+ cena 02 foto      14.7s  Santi Comesaña, centrocampista del Villarreal, habló de la p
+ cena 03 cita      12.7s  La respuesta de Mourinho llegó este lunes en rueda de prensa
+ cena 04 foto      10.2s  En la misma comparecencia, según AS, Mourinho evitó hablar s
+ cena 05 card       4.7s  Pasamos al Barcelona, que viaja a Bakú con una baja importan
+ cena 06 foto      17.2s  El Barcelona informó en un comunicado de que Lamine Yamal no
+[ WARN:0@199.175] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@199.278] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 07 foto      13.9s  MARCA cuenta que Lamine no estará el miércoles, pero quedará
+ cena 08 foto      10.5s  Sí está en la lista Cubarsí, que regresó de la selección con
+ cena 09 card       4.8s  Seguimos en el Real Madrid, con palabras de su capitán bajo 
+ cena 10 foto      12.3s  Thibaut Courtois compareció en la víspera del partido contra
+ cena 11 cita      13.9s  Sobre Vinicius, Courtois fue claro: si queremos luchar por t
+ cena 12 foto      12.1s  El portero explicó que la remontada en Roma les dio ese plus
+ cena 13 foto      14.5s  Sobre los pitos del Bernabéu, opinó que no siempre ayudan. Y
+ cena 14 card       3.6s  Ahora, un aviso de la selección española.
+ cena 15 foto      10.6s  Luis de la Fuente habló del cruce de cuartos de final de la 
+ cena 16 cita       8.8s  El seleccionador dijo que Francia es una grandísima selecció
+ cena 17 foto      14.5s  Según De la Fuente, algo queda de aquel partido de semifinal
+ cena 18 card       4.1s  Y cerramos los shorts con una goleada para el recuerdo.
+ cena 19 foto      17.7s  La selección española Sub diecisiete goleó quince a cero a F
+ cena 20 fotoless  13.3s  Rafa Cruz fue el gran goleador. Su primer tanto fue un golaz
+ cena 21 foto      15.6s  Roberto Tomás y Guille Trujillano marcaron tres goles cada u
+ cena 22 foto      10.6s  Con seis puntos y una diferencia de goles de más veinte, la 
+ cena 23 foto      10.6s  Más noticias del día. Mikel Arteta tranquilizó al Arsenal: D
+ cena 24 foto      16.6s  Según Arteta, aún tienen que hacer más pruebas, pero tiene b
+ cena 25 foto      15.4s  Mala noticia para el Madrid: Endrick sufre una lesión en el 
+ cena 26 foto      14.9s  En Inglaterra, el Manchester United sigue en problemas tras 
+ cena 27 fotoless  12.1s  El United apelará la expulsión de Lenny Yoro a los ocho minu
+ cena 28 cita      11.7s  Y Gary Neville se hizo viral al darse dos bofetadas en telev
+ cena 29 foto      13.9s  Según Radio Montecarlo, el PSG ya tiene una lista de posible
+ cena 30 fotoless   9.8s  Sin embargo, según Cracks, Luis Enrique quiere ver cómo resp
+ cena 31 fotoless  10.5s  Y en el Chelsea, según Telegraph, la directiva apoyará a Xab
+ cena 32 foto      14.5s  Mourinho habló del calendario, después de las lesiones de Ha
+ cena 33 foto      10.6s  Él mismo bromeó con que no se bajaría el sueldo: mismas rued
+ cena 34 foto      13.7s  Alejandro Grimaldo tiene cinco goles en trece jornadas y est
+ cena 35 foto       9.2s  Según MARCA, buena parte de su cifra llega desde los once me
+ cena 36 foto      13.7s  Y terminamos en la Premier, con Álvaro Arbeloa. Su Fulham em
+ cena 37 foto       8.2s  Arbeloa elogió a Bassey y Affengruber, sus centrales, con un
+ cena 38 cierre    14.0s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-13/longo.mp4  (457s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-13/_contato_longo.jpg

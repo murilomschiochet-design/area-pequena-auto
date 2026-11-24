@@ -1,0 +1,19 @@
+
+== dia-13: 5 shorts
+ 01 Mou: *"tiene amnesia"*
+    foto: José Mourinho/José Mourinho - Real Madrid Club de Fútbol - 2.jpg
+    ok
+ 02 Lamine, *baja* para Bakú
+    foto: Lamine Yamal/Lamine Yamal - Selección de España - 1.jpg
+    ok
+ 03 Courtois: *"necesitamos"* al mejor Vinicius
+    foto: Thibaut Courtois/Thibaut Courtois - Chelsea Football Club - 1.jpg
+    ok
+ 04 De la Fuente a Francia: *"el mejor equipo"*
+    foto: Luis de la Fuente/Luis de la Fuente - Selección de España - 1.jpg
+    ok
+ 05 España Sub-17: *¡15-0* a Fiyi!
+    ! sem escudo para selección de fútbol de España
+    foto: File:Al Gharafa SC wins Amir Cup 2025 championship.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-13/painel.html
