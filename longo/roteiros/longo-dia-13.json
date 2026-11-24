@@ -1,0 +1,309 @@
+{
+  "dia": "dia-13",
+  "data": "24 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "24 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la respuesta de Mourinho a Comesaña, de la baja de Lamine Yamal para viajar a Bakú y de la goleada histórica de España Sub diecisiete. Estas son las noticias de fútbol de hoy."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con Mourinho, que no se quedó callado."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · Mourinho",
+      "titulo": "Mou y *Comesaña*",
+      "voz": "Santi Comesaña, centrocampista del Villarreal, habló de la presión que, según él, ejercen Barcelona y Real Madrid sobre los árbitros. Dijo que les pasó lo mismo en el Bernabéu y que les pasa lo mismo ahora, y que esa presión es muy dura.",
+      "short": "01"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Tiene *amnesia*",
+      "autor": "José Mourinho",
+      "sub": "Sobre Santi Comesaña",
+      "voz": "La respuesta de Mourinho llegó este lunes en rueda de prensa. Primero dijo que Comesaña tiene amnesia. Según AS, añadió que si quiere meterlos en el mismo saco, que no lo haga con Negreira.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Vinicius, *potencial máximo*",
+      "voz": "En la misma comparecencia, según AS, Mourinho evitó hablar sobre Nico Paz. Y defendió a Vinicius: dijo que cree que volverá a su potencial máximo.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos al Barcelona, que viaja a Bakú con una baja importante."
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · FC Barcelona",
+      "titulo": "Lamine, *tobillo derecho*",
+      "voz": "El Barcelona informó en un comunicado de que Lamine Yamal no viajará a Azerbaiyán por molestias leves en el tobillo derecho. Ya había sentido dolor en esa zona en el calentamiento previo al partido contra el Villarreal y fue atendido por los médicos, aunque pudo jugar los noventa minutos, según Cracks.",
+      "short": "02"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · FC Barcelona",
+      "titulo": "Con *Flick* en Bakú",
+      "voz": "MARCA cuenta que Lamine no estará el miércoles, pero quedará a disposición de Flick para el cruce contra el Dépor. Tampoco viajan Hamza, que tiene una sobrecarga, ni Christensen, que se perderá al menos dos partidos por molestias en el sóleo.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · FC Barcelona",
+      "titulo": "Cubarsí *sí viaja*",
+      "voz": "Sí está en la lista Cubarsí, que regresó de la selección con una sobrecarga. Y la gran novedad es Bisiwu, el central del Espanyol que entra por primera vez en una convocatoria.",
+      "pessoa": "Pau Cubarsí",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Seguimos en el Real Madrid, con palabras de su capitán bajo palos."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · Real Madrid",
+      "titulo": "Courtois, *antes del PSV*",
+      "voz": "Thibaut Courtois compareció en la víspera del partido contra el PSV. Destacó la mejora del equipo y señaló como momento clave la reacción tras el descanso ante el Celta, que atribuyó a la charla de Mourinho.",
+      "short": "03"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Necesitamos al *mejor Vinicius*",
+      "autor": "Thibaut Courtois",
+      "sub": "Antes del partido ante el PSV",
+      "voz": "Sobre Vinicius, Courtois fue claro: si queremos luchar por todos los títulos, dijo, necesitamos al mejor Vinicius. Según AS, también apuntó que solo Messi o Cristiano han conseguido ser un nueve o un diez todo el tiempo.",
+      "pessoa": "Thibaut Courtois",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "El *clic* de Roma",
+      "voz": "El portero explicó que la remontada en Roma les dio ese plus y que fue fundamental para el clic del equipo. Dijo que ante el Betis no merecieron perder y que contra el Atlético tendrían que haber creído más en sí mismos.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Los *pitos* y el futuro",
+      "voz": "Sobre los pitos del Bernabéu, opinó que no siempre ayudan. Y dejó claro su futuro: su objetivo es terminar su carrera en el Madrid. Sobre Mourinho, dijo que con los años se cambia y que, cuando tiene que hablar, habla claro.",
+      "pessoa": "Thibaut Courtois",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Ahora, un aviso de la selección española."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "España-Francia, *en marzo*",
+      "voz": "Luis de la Fuente habló del cruce de cuartos de final de la Liga de Naciones contra Francia, previsto los días veinticinco y veintiocho de marzo, con la ida probablemente en Valencia y la vuelta en París.",
+      "short": "04"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Enfrente tendrán *al mejor equipo del mundo*",
+      "autor": "Luis de la Fuente",
+      "sub": "Sobre Francia",
+      "voz": "El seleccionador dijo que Francia es una grandísima selección, de las mejores del mundo probablemente, pero que enfrente tendrá al mejor equipo del mundo.",
+      "pessoa": "Luis de la Fuente",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Selección · España",
+      "titulo": "Un mensaje *del Mundial*",
+      "voz": "Según De la Fuente, algo queda de aquel partido de semifinales del Mundial, que España ganó por cero a dos. Con ese mismo mensaje empezarán a preparar el cruce, que dijo afrontar muy ilusionado y que será muy difícil, ante el equipo de Zinedine Zidane.",
+      "pessoa": "Zinedine Zidane",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y cerramos los shorts con una goleada para el recuerdo."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mundial Sub-17",
+      "titulo": "*Quince* goles",
+      "voz": "La selección española Sub diecisiete goleó quince a cero a Fiyi en el Mundial que se juega en Catar. Es la mayor goleada de España en este torneo, según Mundo Deportivo, y la segunda máxima de la historia de la competición, detrás del dieciséis a cero de Marruecos a Nueva Caledonia el año pasado, según Cracks.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mundial Sub-17",
+      "titulo": "Rafa Cruz, *dedicatoria*",
+      "voz": "Rafa Cruz fue el gran goleador. Su primer tanto fue un golazo con dedicatoria a Christian Imga, que tuvo que dejar el Mundial por una lesión muscular. Al descanso, España ya ganaba por nueve goles.",
+      "pessoa": "Rafa Cruz",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mundial Sub-17",
+      "titulo": "Hat tricks *y más*",
+      "voz": "Roberto Tomás y Guille Trujillano marcaron tres goles cada uno. El resto llegó de Marco Company, Yeremaiah Ramos y Jorge Domínguez, que hizo dos. Mundo Deportivo destaca que España decidió mostrar respeto al rival jugando a su máximo nivel.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mundial Sub-17",
+      "titulo": "Ahora, *Marruecos*",
+      "voz": "Con seis puntos y una diferencia de goles de más veinte, la clasificación está virtualmente cerrada. Según AS, la Rojita se jugará el liderato contra Marruecos.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Arsenal",
+      "titulo": "Raya, *sin quirófano*",
+      "voz": "Más noticias del día. Mikel Arteta tranquilizó al Arsenal: David Raya no jugará contra el Borussia Dortmund por una lesión de hombro, pero dijo que no parece muy grave.",
+      "pessoa": "David Raya",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Arsenal",
+      "titulo": "Kepa *al arco*",
+      "voz": "Según Arteta, aún tienen que hacer más pruebas, pero tiene buena pinta y no tendrá que pasar por quirófano, lo que le hubiera dejado varios meses fuera. Aun así, se espera que esté varias semanas de baja. Kepa Arrizabalaga defenderá la portería del Arsenal en Champions.",
+      "pessoa": "Kepa Arrizabalaga",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Endrick, *tres semanas*",
+      "voz": "Mala noticia para el Madrid: Endrick sufre una lesión en el abductor de la pierna izquierda. Según Mundo Deportivo, estará fuera unas tres semanas y se perdería los partidos ante Alavés, Real Sociedad, Athletic y Arsenal, además del duelo ante el PSV.",
+      "pessoa": "Endrick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Man. United",
+      "titulo": "United, *crisis*",
+      "voz": "En Inglaterra, el Manchester United sigue en problemas tras la goleada en Anfield. Según Cracks, Pochettino dijo que están decepcionados porque en ocho minutos todos sus planes se fueron a la basura, pero que quedan muchos partidos y sus jugadores quieren pelear.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Man. United",
+      "titulo": "La roja *a Yoro*",
+      "voz": "El United apelará la expulsión de Lenny Yoro a los ocho minutos, porque cree que no fue falta de último hombre. Buscará demostrar que Alexander Isak no pudo controlar el balón y que la jugada terminaba en manos de Senne Lammens.",
+      "pessoa": "Lenny Yoro",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Despierten, *juegan en el United*",
+      "autor": "Gary Neville",
+      "sub": "En televisión, tras la goleada",
+      "voz": "Y Gary Neville se hizo viral al darse dos bofetadas en televisión durante el análisis del partido. Pidió a los defensores que despierten: nunca los ve alertas, dijo, están como perdidos.",
+      "pessoa": "Gary Neville",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Ligue 1 · PSG",
+      "titulo": "El PSG *busca refuerzos*",
+      "voz": "Según Radio Montecarlo, el PSG ya tiene una lista de posibles refuerzos de ataque para enero, para reemplazar a los lesionados Doué y Kvaratskhelia. Incluso hay versiones de que Julián Álvarez estaría otra vez entre los candidatos.",
+      "pessoa": "Julián Álvarez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Ligue 1 · PSG",
+      "titulo": "Luis Enrique *espera*",
+      "voz": "Sin embargo, según Cracks, Luis Enrique quiere ver cómo responden los jugadores que ya tiene en la plantilla en los siete partidos que quedan hasta dos mil veintisiete.",
+      "pessoa": "Luis Enrique Martínez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Chelsea",
+      "titulo": "Chelsea *apoya a Xabi*",
+      "voz": "Y en el Chelsea, según Telegraph, la directiva apoyará a Xabi Alonso pese a los malos resultados, porque no quieren repetir errores del pasado, como el despido de Enzo Maresca.",
+      "pessoa": "Xabi Alonso",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Mou *y el calendario*",
+      "voz": "Mourinho habló del calendario, después de las lesiones de Harry Kane y Désiré Doué. Dijo que si quieren dinero tienen que trabajar mucho y correr riesgos, y que si algún jugador quiere hacer huelga se le puede proponer que gane un cincuenta por ciento menos.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Real Madrid",
+      "titulo": "Mismas ruedas, *mismo sueldo*",
+      "voz": "Él mismo bromeó con que no se bajaría el sueldo: mismas ruedas, mismo sueldo. Pero admitió que, si le dan la opción de jugar solo cada tres días, sería mejor.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Atlético",
+      "titulo": "Grimaldo *va por el récord*",
+      "voz": "Alejandro Grimaldo tiene cinco goles en trece jornadas y está a uno de ser el defensa más goleador del Atlético en una Liga. El récord lo tiene Delfí Geli, con seis goles en la temporada noventa y cuatro, noventa y cinco.",
+      "pessoa": "Alejandro Grimaldo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Atlético",
+      "titulo": "Tres penaltis, *tres goles*",
+      "voz": "Según MARCA, buena parte de su cifra llega desde los once metros: tres lanzamientos ante la Real Sociedad, el Madrid y el Getafe, tres aciertos.",
+      "pessoa": "Alejandro Grimaldo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Fulham",
+      "titulo": "Arbeloa, *orgulloso*",
+      "voz": "Y terminamos en la Premier, con Álvaro Arbeloa. Su Fulham empató uno a uno con el Manchester City y ya suma cinco partidos sin perder. Según MARCA, el equipo es decimoquinto, dos puntos por encima del descenso.",
+      "pessoa": "Álvaro Arbeloa",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Fulham",
+      "titulo": "Maldini *y Baresi*",
+      "voz": "Arbeloa elogió a Bassey y Affengruber, sus centrales, con una comparación que dio la vuelta: dijo que parecían Maldini y Baresi.",
+      "pessoa": "Álvaro Arbeloa",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿tiene razón Mourinho o Comesaña? Nos vemos mañana con más noticias de fútbol."
+    }
+  ]
+}
