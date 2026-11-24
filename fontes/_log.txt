@@ -1,8 +1,8 @@
 WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] YnoXxgaDGQs: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
-yt-dlp não pegou a legenda (ERROR: [youtube] YnoXxgaDGQs: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-); usando o Supadata
-/home/runner/work/area-pequena-auto/area-pequena-auto/fontes/YnoXxgaDGQs.txt
-"Stop pressuring the referees!" Mou explodes | Unhappy with Lamine | 'Slaps' at United | 2026-11-23 | 688 palavras (via Supadata)
+ERROR: [youtube] JF2y9L9vCxM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+yt-dlp não pegou a legenda (ERROR: [youtube] JF2y9L9vCxM: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-); usando o Supadata
+/home/runner/work/area-pequena-auto/area-pequena-auto/fontes/JF2y9L9vCxM.txt
+Barça to appeal Fermín's red card | Florentino "obsessed" with Olise | Fed up with Lisandro! | 2026-11-24 | 543 palavras (via Supadata)
 74 notícias de futebol nas últimas 26 h
-salvo /home/runner/work/area-pequena-auto/area-pequena-auto/fontes/noticias-2026-11-23.txt (53 com texto da matéria)
+salvo /home/runner/work/area-pequena-auto/area-pequena-auto/fontes/noticias-2026-11-24.txt (51 com texto da matéria)
