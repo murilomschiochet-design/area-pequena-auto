@@ -1,0 +1,302 @@
+{
+  "dia": "dia-14",
+  "data": "25 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "25 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la sentencia del TAS que devuelve la Copa África a Senegal, de la renovación de Bellingham con el Real Madrid y de la dimisión de Gil Marín en LaLiga. Estas son las noticias de fútbol de hoy."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con un terremoto en el fútbol africano."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Copa África · Senegal",
+      "titulo": "El TAS da la razón a *Senegal*",
+      "voz": "El Tribunal de Arbitraje Deportivo confirmó a Senegal como campeona de la Copa África 2025. Con su fallo, anuló la decisión de la CAF, que en marzo había declarado campeón a Marruecos por tres a cero.",
+      "short": "01"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Copa África · Senegal",
+      "titulo": "La final de *Rabat*",
+      "voz": "Recordemos qué pasó. En la final del dieciocho de enero, en Rabat, Senegal ganó cero a uno en la prórroga con gol de Pape Gueye. Antes, el árbitro señaló un penalti para Marruecos y casi todos los senegaleses, menos su capitán Sadio Mané, abandonaron el campo. Tras unos minutos volvieron, y Brahim Díaz falló el lanzamiento.",
+      "pessoa": "Pape Gueye",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Copa África · Senegal",
+      "titulo": "Fallo *unánime*",
+      "voz": "El panel del TAS estuvo formado por el francés Gérald Simon como presidente, el italiano Luigi Fumagalli y el alemán Ulrich Haas, y decidió por unanimidad. Consideró que reanudar o suspender el partido era una decisión exclusiva del árbitro, y que al reiniciar el juego ambos equipos estaban de nuevo sobre el campo y querían continuar.",
+      "pessoa": "Sadio Mané",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Copa África · Marruecos",
+      "titulo": "Marruecos, *en pie de guerra*",
+      "voz": "Marruecos reaccionó con un comunicado. Su federación expresó sorpresa y protestó porque el tribunal no tuvo en cuenta su petición sobre el intercambio de mensajes entre el árbitro Ulrich Haas y el presidente de la federación senegalesa, cuarenta y ocho horas antes del fallo. Y anunció que agotará todas las vías legales para apelar.",
+      "pessoa": "Brahim Díaz",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Copa África · Marruecos",
+      "titulo": "¿Tribunal *Federal Suizo*?",
+      "voz": "Según Mundo Deportivo, el siguiente paso al que podría acogerse Marruecos sería apelar ante el Tribunal Federal Suizo. Antes del fallo, Senegal ya había rechazado esa acusación y calificó de imaginaria la supuesta llamada. La disputa sigue abierta.",
+      "pessoa": "Pape Gueye",
+      "contexto": "selecao"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos al Real Madrid, con una renovación de peso."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mercado · Real Madrid",
+      "titulo": "Bellingham *hasta 2031*",
+      "voz": "Jude Bellingham y el Real Madrid están en negociaciones avanzadas para renovar. Según Mundo Deportivo, el centrocampista inglés, de veintitrés años, se vincularía cinco temporadas más, hasta dos mil treinta y uno.",
+      "short": "02"
+    },
+    {
+      "tipo": "numero",
+      "fundo": "estadio",
+      "titulo": "*31* millones netos",
+      "sub": "El sueldo de Bellingham, según el Daily Mail",
+      "voz": "El Daily Mail calcula que cobraría unos treinta y un millones de euros netos al año. Sería el tercer jugador mejor pagado de Europa, solo por detrás de Haaland, con treinta y uno coma siete millones, y de Mbappé, con treinta y uno coma tres.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Una *ola de renovaciones*",
+      "voz": "Bellingham sería el siguiente tras Courtois, Tchouaméni y Arda Güler este mismo noviembre. Además, Brahim Díaz y Fede Valverde podrían renovar en las próximas semanas, con un acuerdo cerrado hasta dos mil treinta y uno.",
+      "pessoa": "Federico Valverde",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Seis goles, *cuatro asistencias*",
+      "voz": "Bellingham lleva seis goles y cuatro asistencias en diecisiete partidos esta temporada, y se ha convertido en uno de los jugadores indiscutibles para Mourinho, el nuevo técnico del Madrid.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Y ojo con lo que pasó en los despachos de LaLiga."
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Atlético",
+      "titulo": "Gil Marín, *fuera*",
+      "voz": "Miguel Ángel Gil Marín, consejero delegado del Atlético de Madrid, presentó su dimisión como vicepresidente de LaLiga y miembro de su Junta Directiva durante la Asamblea General de la patronal.",
+      "short": "03"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Atlético",
+      "titulo": "Aliado de *Tebas*",
+      "voz": "Gil Marín ocupaba el cargo desde que fue elegido en febrero de dos mil veinte y era uno de los grandes aliados de Javier Tebas. Mundo Deportivo recuerda que acababa de ser reelegido otros dos años.",
+      "pessoa": "Javier Tebas",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · UEC",
+      "titulo": "El malestar por la *UEC*",
+      "voz": "Según MARCA, los motivos estarían ligados al malestar de varios clubes por la financiación que LaLiga hace de la Unión de Clubes Europeos. Tebas habría reconocido ante los clubes que LaLiga llevaba años financiándola, con una aportación que podría superar el millón de euros.",
+      "pessoa": "Javier Tebas",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Atlético",
+      "titulo": "La versión *del Atlético*",
+      "voz": "El Atlético ofrece otra explicación. Habla de una difícil compatibilidad entre ser vicepresidente primero de LaLiga y miembro del comité ejecutivo de la UEFA y de la EFC. Dice que es una forma de evitar posibles conflictos de intereses y que su compromiso con LaLiga y la Federación sigue intacto.",
+      "pessoa": "Miguel Ángel Gil Marín",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Cruzamos la frontera hasta París."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · PSG",
+      "titulo": "Luis Enrique, *sin mercado*",
+      "voz": "Luis Enrique descartó acudir al mercado de invierno, a pesar de las lesiones de rodilla de Désiré Doué y Khvicha Kvaratskhelia, que estarán de baja varios meses.",
+      "short": "04"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "No es *nuestro estilo*",
+      "autor": "Luis Enrique",
+      "sub": "Sobre el mercado de invierno",
+      "voz": "El técnico dijo en rueda de prensa: no tenemos la obligación de acudir al mercado, no vamos a fichar a un jugador para seis meses, no es nuestro estilo. Tenemos un equipo.",
+      "pessoa": "Luis Enrique",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · PSG",
+      "titulo": "Líder, *igualado con el Madrid*",
+      "voz": "El PSG es líder de la primera fase de la Champions con cuatro victorias en cuatro partidos, empatado a puntos con el Real Madrid. Mañana recibe a la Roma, que es vigésima en la tabla. Luis Enrique elogió a Gasperini y a Donyell Malen, que acaba de marcar cuatro goles en la Serie A ante el Parma.",
+      "pessoa": "Luis Enrique",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y vamos con un fichaje que se quedó en el aire."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mercado · Real Madrid",
+      "titulo": "Florentino y *Olise*",
+      "voz": "Fabrizio Romano cuenta que el Real Madrid quería a Michael Olise en verano, pero que Florentino Pérez no quiso hacer nada sin permiso del Bayern.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mercado · Bayern",
+      "titulo": "Dos llamadas *al Bayern*",
+      "voz": "Según Romano, Florentino incluso habría llamado dos veces para dejar claro que no negociaría a espaldas del club alemán. Por ahora, Olise es intocable y no está a la venta.",
+      "pessoa": "Michael Olise",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mercado · Bayern",
+      "titulo": "Bayern y *Trent*",
+      "voz": "Y hablando del Bayern: el periodista Christian Falk cuenta que el club busca un lateral, pero con un perfil más joven, así que descarta a Trent Alexander-Arnold y el Madrid puede estar tranquilo.",
+      "pessoa": "Trent Alexander-Arnold",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Más *noticias del día*",
+      "voz": "Y ahora, más noticias del día.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · FC Barcelona",
+      "titulo": "Flick, *sin Lamine*",
+      "voz": "Pasamos al Barcelona. Hansi Flick explicó antes del partido de Bakú contra el Sabah que decidieron que Lamine Yamal se quedara en casa y que lo esperan para el fin de semana. Dijo que no ha decidido quién jugará por él y que podría haber rotaciones.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Se nota *siempre*",
+      "autor": "Frenkie de Jong",
+      "sub": "Sobre la ausencia de Lamine",
+      "voz": "Frenkie de Jong también habló y fue claro sobre la baja de Lamine: si no está, se nota siempre. Habló de un jugador con un talento extraordinario, que genera muchas ocasiones y peligro él solo.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · FC Barcelona",
+      "titulo": "El Barça *apelará* la roja de Fermín",
+      "voz": "Según Cracks, el Barça presentará alegaciones contra la roja de Fermín para que la sanción se quede en un partido. El club defiende que no insultó al cuarto árbitro y que su reacción fue por la tensión del momento. Así evitaría perderse también el partido contra el Atlético.",
+      "pessoa": "Fermín López",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · Atlético",
+      "titulo": "Simeone, *solo el Viking*",
+      "voz": "Seguimos con el Atlético de Madrid. Diego Simeone compareció antes del duelo ante el Viking, días después de la victoria en Getafe que lo convirtió en el técnico con más victorias en la historia de LaLiga.",
+      "pessoa": "Diego Simeone",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "No tengo otro *plazo*",
+      "autor": "Diego Simeone",
+      "sub": "Sobre su futuro",
+      "voz": "Preguntado por su futuro y por los récords que le quedan, Simeone respondió: no tengo otro plazo que el de mañana, el Viking.",
+      "pessoa": "Diego Simeone",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · PSG",
+      "titulo": "Hakimi, *concentrado*",
+      "voz": "Cambiamos de tema. Achraf Hakimi, del PSG, evitó valorar el juicio que enfrentará en dos mil veintisiete. Dijo estar concentrado en el fútbol, que es lo más importante para él, y centrado en el partido de mañana ante la Roma.",
+      "pessoa": "Achraf Hakimi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Haaland, *a los tribunales*",
+      "voz": "En la Premier League, The Sun informa de que Erling Haaland emprende acciones legales contra una empresa que usurpó su nombre. El delantero noruego intentó registrar su nombre como marca comercial en la Unión Europea para ropa deportiva, suplementos y bebidas energéticas, entre otros productos, pero ya existía una empresa llamada Haaland.",
+      "pessoa": "Erling Haaland",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Mercado · Arabia",
+      "titulo": "Arabia, *otra vez*",
+      "voz": "Y Arabia Saudita amenaza con volver a romper la banca. Según el Daily Mail, los clubes de la Saudi Pro League estudian ampliar el cupo de extranjeros de ocho a catorce o más por equipo, lo que reabriría el grifo del dinero para fichar en Europa. El motivo tendría que ver con el Mundial de dos mil treinta y cuatro.",
+      "pessoa": "Cristiano Ronaldo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Raya, *sin cirugía*",
+      "voz": "Buenas noticias para el Arsenal. Según Cracks, David Raya no necesita cirugía en el hombro y la lesión es menos grave de lo que temían. Eso sí, se pierde el partido de Champions contra el Dortmund y no saben si llegará al duelo ante el City.",
+      "pessoa": "David Raya",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "United, *la alarma*",
+      "voz": "Y en el Manchester United la situación asusta. Según Cracks, un medio calcula que su probabilidad de descenso pasó del tres al veintisiete por ciento, y Steven Gerrard criticó duramente a Pochettino por dejar a Maguire en el banquillo contra el Liverpool.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions · PSV",
+      "titulo": "El *PSV* desafía al Madrid",
+      "voz": "Para terminar, MARCA presenta a Esmir Bajraktarevic, extremo bosnio del PSV apodado el Messi del PSV, que marcó el penalti definitivo que eliminó a Italia en la repesca y clasificó a Bosnia para el Mundial. Uno de los jugadores más desequilibrantes de la Eredivisie desafía al Madrid.",
+      "pessoa": "Esmir Bajraktarević",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿merece Senegal la Copa África? Nos vemos mañana con más noticias de fútbol."
+    }
+  ]
+}
