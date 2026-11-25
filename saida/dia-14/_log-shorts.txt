@@ -1,0 +1,28 @@
+
+== dia-14: 5 shorts
+ 01 El TAS da la *Copa África* a Senegal
+[ WARN:0@4.756] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@4.950] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Sadio Mané - Selección de Senegal - 1.jpg
+    banco + Sadio Mané - Selección de Senegal - 2.jpg
+    banco + Sadio Mané - Selección de Senegal - 3.jpg
+    banco + Sadio Mané - Geral - 1.jpg
+    banco + Sadio Mané - Geral - 2.jpg
+    banco + Sadio Mané - FC Red Bull Salzburgo - 1.jpg
+    foto: Sadio Mané/Sadio Mané - Selección de Senegal - 1.jpg
+    ok
+ 02 Bellingham, *a punto de renovar*
+    foto: Jude Bellingham/Jude Bellingham - Geral - 2.jpg
+    ok
+ 03 Gil Marín *dimite* en LaLiga
+    ! Miguel Ángel Gil Marín não está no Wikidata
+    foto: Javier Tebas/Javier Tebas - Geral - 3.jpg
+    ok
+ 04 Luis Enrique: *"no es nuestro estilo"*
+    ! sem escudo para Paris Saint-Germain FC
+    foto: Désiré Doué/Désiré Doué - Selección de Francia - 2.jpg
+    ok
+ 05 Florentino y su *obsesión* por Olise
+    foto: Michael Olise/Michael Olise - Selección de Francia - 1.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-14/painel.html

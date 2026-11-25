@@ -1,0 +1,43 @@
+ cena 00 abertura  14.2s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la sentencia 
+ cena 01 card       3.9s  Empezamos con un terremoto en el fútbol africano.
+ cena 02 foto      12.6s  El Tribunal de Arbitraje Deportivo confirmó a Senegal como c
+[ WARN:0@120.468] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@120.658] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 03 fotoless  20.8s  Recordemos qué pasó. En la final del dieciocho de enero, en 
+ cena 04 foto      18.4s  El panel del TAS estuvo formado por el francés Gérald Simon 
+ cena 05 foto      19.3s  Marruecos reaccionó con un comunicado. Su federación expresó
+ cena 06 fotoless  15.6s  Según Mundo Deportivo, el siguiente paso al que podría acoge
+ cena 07 card       4.1s  Pasamos al Real Madrid, con una renovación de peso.
+ cena 08 foto      13.4s  Jude Bellingham y el Real Madrid están en negociaciones avan
+ cena 09 numero    14.2s  El Daily Mail calcula que cobraría unos treinta y un millone
+ cena 10 fotoless  13.1s  Bellingham sería el siguiente tras Courtois, Tchouaméni y Ar
+ cena 11 foto      10.3s  Bellingham lleva seis goles y cuatro asistencias en diecisie
+ cena 12 card       3.7s  Y ojo con lo que pasó en los despachos de LaLiga.
+ cena 13 foto      11.2s  Miguel Ángel Gil Marín, consejero delegado del Atlético de M
+ cena 14 foto      12.1s  Gil Marín ocupaba el cargo desde que fue elegido en febrero 
+ cena 15 foto      15.7s  Según MARCA, los motivos estarían ligados al malestar de var
+ cena 16 fotoless  17.8s  El Atlético ofrece otra explicación. Habla de una difícil co
+ cena 17 card       3.1s  Cruzamos la frontera hasta París.
+ cena 18 foto       9.3s  Luis Enrique descartó acudir al mercado de invierno, a pesar
+ cena 19 cita      10.9s  El técnico dijo en rueda de prensa: no tenemos la obligación
+ cena 20 fotoless  17.7s  El PSG es líder de la primera fase de la Champions con cuatr
+ cena 21 card       3.5s  Y vamos con un fichaje que se quedó en el aire.
+ cena 22 foto       8.5s  Fabrizio Romano cuenta que el Real Madrid quería a Michael O
+ cena 23 foto      11.0s  Según Romano, Florentino incluso habría llamado dos veces pa
+ cena 24 fotoless  10.6s  Y hablando del Bayern: el periodista Christian Falk cuenta q
+ cena 25 foto       3.4s  Y ahora, más noticias del día.
+ cena 26 foto      14.4s  Pasamos al Barcelona. Hansi Flick explicó antes del partido 
+ cena 27 cita      11.6s  Frenkie de Jong también habló y fue claro sobre la baja de L
+ cena 28 foto      16.0s  Según Cracks, el Barça presentará alegaciones contra la roja
+ cena 29 foto      11.7s  Seguimos con el Atlético de Madrid. Diego Simeone compareció
+ cena 30 cita       7.7s  Preguntado por su futuro y por los récords que le quedan, Si
+ cena 31 foto      14.7s  Cambiamos de tema. Achraf Hakimi, del PSG, evitó valorar el 
+ cena 32 foto      19.0s  En la Premier League, The Sun informa de que Erling Haaland 
+ cena 33 foto      18.0s  Y Arabia Saudita amenaza con volver a romper la banca. Según
+ cena 34 foto      14.6s  Buenas noticias para el Arsenal. Según Cracks, David Raya no
+ cena 35 foto      14.7s  Y en el Manchester United la situación asusta. Según Cracks,
+ cena 36 fotoless  16.6s  Para terminar, MARCA presenta a Esmir Bajraktarevic, extremo
+ cena 37 cierre    13.9s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-14/longo.mp4  (471s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-14/_contato_longo.jpg
