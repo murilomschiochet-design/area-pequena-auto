@@ -1,54 +1,8 @@
 WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] wBJnhN3B5k8: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
-yt-dlp não pegou a legenda (ERROR: [youtube] wBJnhN3B5k8: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-); usando o Supadata
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1728, in wrapper
-    return func(self, *args, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1863, in __extract_info
-    ie_result = ie.extract(url)
-                ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 764, in extract
-    ie_result = self._real_extract(url)
-                ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/extractor/youtube/_video.py", line 4103, in _real_extract
-    self.raise_no_formats(reason, expected=True)
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/extractor/common.py", line 1271, in raise_no_formats
-    raise ExtractorError(msg, expected=expected, video_id=video_id)
-yt_dlp.utils.ExtractorError: [youtube] wBJnhN3B5k8: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/area-pequena-auto/area-pequena-auto/transcricao.py", line 93, in baixar
-    return baixar_ytdlp(url)
-           ^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/area-pequena-auto/area-pequena-auto/transcricao.py", line 109, in baixar_ytdlp
-    info = y.extract_info(url, download=True)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1717, in extract_info
-    return self.__extract_info(url, self.get_info_extractor(key), download, extra_info, process)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1746, in wrapper
-    self.report_error(str(e), e.format_traceback())
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1162, in report_error
-    self.trouble(f'{self._format_err("ERROR:", self.Styles.ERROR)} {message}', *args, **kwargs)
-  File "/opt/hostedtoolcache/Python/3.12.16/x64/lib/python3.12/site-packages/yt_dlp/YoutubeDL.py", line 1100, in trouble
-    raise DownloadError(message, exc_info if exc_info and exc_info[0] else sys.exc_info())
-yt_dlp.utils.DownloadError: ERROR: [youtube] wBJnhN3B5k8: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/area-pequena-auto/area-pequena-auto/transcricao.py", line 141, in <module>
-    baixar(url)
-  File "/home/runner/work/area-pequena-auto/area-pequena-auto/transcricao.py", line 96, in baixar
-    return via_servico(url, str(e)[:200])
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/area-pequena-auto/area-pequena-auto/transcricao.py", line 80, in via_servico
-    texto = dados["content"] if isinstance(dados.get("content"), str) else " ".join(c["text"] for c in dados["content"])
-                                                                                                       ~~~~~^^^^^^^^^^^
-KeyError: 'content'
+ERROR: [youtube] kpHfUAbB480: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+yt-dlp não pegou a legenda (ERROR: [youtube] kpHfUAbB480: Sign in to confirm you’re not a bot. This helps protect our community. Use --cookies-from-); usando o Supadata
+/home/runner/work/area-pequena-auto/area-pequena-auto/fontes/kpHfUAbB480.txt
+Mbappé gifts MVP to Vini | "There is only one Manchester" | Haaland explodes | Bruno dreams of th... | 2026-11-25 | 621 palavras (via Supadata)
 74 notícias de futebol nas últimas 26 h
-salvo /home/runner/work/area-pequena-auto/area-pequena-auto/fontes/noticias-2026-11-24.txt (63 com texto da matéria)
+salvo /home/runner/work/area-pequena-auto/area-pequena-auto/fontes/noticias-2026-11-25.txt (49 com texto da matéria)
