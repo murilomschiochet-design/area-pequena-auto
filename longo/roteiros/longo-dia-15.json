@@ -1,0 +1,288 @@
+{
+  "dia": "dia-15",
+  "data": "26 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "26 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la furia de Kimmich contra el Bayern por el caso Musiala, del gesto de Mbappé con Vinicius y del empate del PSG con la Roma. Además, repasamos lo mejor de una noche de Champions League. Estas son las noticias de fútbol de hoy."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos en Múnich, donde el ambiente está al rojo vivo."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Kimmich contra *su club*",
+      "voz": "Joshua Kimmich, capitán del Bayern, arremetió contra la directiva por el caso Musiala. Lo hizo tras la derrota por dos a uno ante el Lille en la Champions League.",
+      "short": "01"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Nunca *expuesto* así",
+      "autor": "Joshua Kimmich",
+      "sub": "Sobre el caso Musiala",
+      "voz": "El centrocampista alemán fue tajante: un jugador no puede ser expuesto de esta manera. Nunca.",
+      "pessoa": "Joshua Kimmich",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Las palabras de *Rummenigge*",
+      "voz": "Todo estalla por lo que dijo Karl-Heinz Rummenigge en Sky. Habló de la necesidad de hablar con la familia, el jugador y la agencia, porque esas sumas, con todo respeto, ya no son viables. En el entorno de Musiala molestaron esas palabras, sobre todo porque alimentaron el bulo en redes de que podía retirarse.",
+      "pessoa": "Jamal Musiala",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Musiala y *su salud*",
+      "voz": "Musiala sufrió un nuevo episodio relacionado con la disfunción neurológica que le diagnosticaron el verano pasado. Tiene veintitrés años y renovó en febrero de dos mil veinticinco hasta dos mil treinta. El Bayern respondió con un comunicado: la salud del jugador está por encima de todo para ambas partes.",
+      "pessoa": "Jamal Musiala",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Una *noche negra* en Múnich",
+      "voz": "Para colmar el mal momento, el Bayern cayó ante el Lille de Davide Ancelotti y se queda decimoquinto. El técnico Kompany fue hospitalizado tras un desmayo y el equipo acumula lesiones. Le quedan Slavia, United y Betis para meterse entre los ocho primeros.",
+      "short": "01"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos a otro asunto caliente: la noche mágica de Vinicius."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Mbappé *cede el MVP*",
+      "voz": "Kylian Mbappé fue elegido jugador del partido ante el PSV, pero le entregó el premio a Vinicius. Además llamó a sus compañeros para celebrar juntos con el brasileño.",
+      "short": "03"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Vini rompe *la sequía*",
+      "voz": "Vinicius marcó en el minuto ochenta y seis. Fue su primer gol en Champions de la temporada y el segundo en total. Con ese tanto terminó una larga sequía. Después pidió perdón a la afición.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Me encanta *como persona*",
+      "autor": "Jude Bellingham",
+      "sub": "Sobre Vinicius",
+      "voz": "Bellingham elogió al brasileño: me encanta cómo juega, pero me encanta más cómo es como persona. Y añadió que él necesita ayuda de sus compañeros, por eso están siempre para él.",
+      "pessoa": "Jude Bellingham",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "La *apuesta* de Mou",
+      "voz": "Según MARCA, Mourinho quiere hacer de Vinicius su gran obra. Combina exigencia, respaldo y cariño, y lo considera fundamental para llevar al Madrid a otro nivel. Mbappé atraviesa su mejor racha individual y Bellingham se ha desatado, pero todavía falta el brasileño.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Cambiamos de Madrid a Barcelona, donde hay un jugador que resucita."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Champions",
+      "titulo": "Balde *resucita* en Bakú",
+      "voz": "Alejandro Balde, envuelto en rumores de salida, fue titular por primera vez esta temporada. Jugó su mejor partido del curso en el uno a cuatro del Barça ante el Sabah.",
+      "short": "04"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Champions",
+      "titulo": "Un *lateral* con ritmo",
+      "voz": "Formó una gran banda izquierda con Anthony Gordon, le dio pases en profundidad y regaló la asistencia del cero a tres a Adeyemi. El Barça ganó, sumó tres goles más en la diferencia de goles y Flick pudo rotar la plantilla.",
+      "pessoa": "Alejandro Balde",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Si Dios *está conmigo*",
+      "autor": "Alejandro Balde",
+      "sub": "Mensaje en Instagram",
+      "voz": "Balde salió en el minuto sesenta y cuatro por una molestia en el tobillo derecho. Después dejó este mensaje en Instagram, con más de siete millones de seguidores: si Dios está conmigo, quién contra mí.",
+      "pessoa": "Alejandro Balde",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Champions",
+      "titulo": "Flick y *el tobillo*",
+      "voz": "Hansi Flick explicó: Balde se ha doblado el tobillo fuerte, pero aún no sabemos qué le ha pasado. Ha jugado muy bien y ha hecho muy buen trabajo.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y en el mismo partido, otro que levantó la voz: Gavi."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Gavi",
+      "titulo": "Gavi *vuelve*",
+      "voz": "Gavi, de veintidós años, acumulaba solo treinta y siete minutos en los últimos cinco partidos. Fue titular ante el Sabah y habló sin rodeos del momento que vive.",
+      "short": "05"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Mentalidad *única*",
+      "autor": "Gavi",
+      "sub": "Tras el partido en Bakú",
+      "voz": "Gavi lo dijo así: considero que mi mentalidad es única, y puede parecer poco humilde que lo diga yo mismo, pero es la verdad. Si no soy yo quien se lo cree, ¿quién se lo va a creer?",
+      "pessoa": "Gavi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Gavi",
+      "titulo": "*Jugador de equipo*",
+      "voz": "Sobre su papel en la rotación de Flick, dijo que si juegas menos minutos se nota, pero no hay excusas, porque las temporadas son largas. Y recordó: nunca he sido una estrella, soy un gran jugador de equipo.",
+      "pessoa": "Gavi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Y ahora sí, la noche grande en París."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League · PSG",
+      "titulo": "El *PSG* se estrella",
+      "voz": "El PSG empató dos a dos con la Roma en el Parque de los Príncipes y puso fin a una racha de trece victorias consecutivas en Champions League. Pesaron las bajas de Doué y Kvaratskhelia.",
+      "short": "02"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League · PSG",
+      "titulo": "Luis Enrique *se rinde*",
+      "voz": "Luis Enrique destacó que fue el partido más difícil de la temporada y dijo: la Roma ha sido el mejor equipo al que nos hemos enfrentado esta temporada. Reconoció que presionaron todo el partido y que merecieron incluso más que el punto.",
+      "pessoa": "Luis Enrique",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League · Roma",
+      "titulo": "Hermoso, *el héroe*",
+      "voz": "El primer gol fue de Mario Hermoso, que recibió de Soulé en el área. El PSG empató con un cabezazo de Zabarnyi antes del descanso. Gasperini dijo que Hermoso tiene una mentalidad increíble y que podría haber marcado tres goles. Es extraordinario, añadió.",
+      "pessoa": "Mario Hermoso",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Más *noticias* del día",
+      "voz": "Y ahora, un repaso rápido a lo que más se habla en el mundo del fútbol, con el Manchester United en el centro del debate.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Manchester United",
+      "titulo": "Lammens, *la pesadilla*",
+      "voz": "El United empató dos a dos con el Sporting en Lisboa. El portero Lammens detuvo un penalti, pero dos minutos después provocó otro, y Suárez marcó. En la segunda parte, otro error suyo sirvió el empate definitivo. Bruno Fernandes anotó los dos goles del United.",
+      "pessoa": "Bruno Fernandes",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Personalidad y *carácter*",
+      "autor": "Mauricio Pochettino",
+      "sub": "Tras el empate en Lisboa",
+      "voz": "Pochettino, que apenas lleva una semana con el equipo, dijo: estoy muy orgulloso de los jugadores. Me gustó el equipo que vimos durante los noventa minutos, la personalidad y el carácter.",
+      "pessoa": "Mauricio Pochettino",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Manchester United",
+      "titulo": "Bruno y *Cristiano*",
+      "voz": "Según Cracks, Bruno Fernandes sueña con ganar la Champions con el United. Sobre Cristiano y su supuesto malestar con Portugal, dijo: si se sintió irrespetado, ¿quién soy yo para decir lo contrario? Aseguró que siempre intentaron respetarlo al máximo.",
+      "pessoa": "Bruno Fernandes",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League · Atlético",
+      "titulo": "El *Atleti* vuelve a ganar",
+      "voz": "El Atlético venció dos a cero al Viking y saltó del puesto veintiséis al dieciocho con siete puntos. Sorloth marcó su primer gol del curso tras un pase de Grimaldo, pero se pidió el cambio en el minuto setenta con la mano en la pierna y se someterá a pruebas.",
+      "pessoa": "Alexander Sørloth",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League · Atlético",
+      "titulo": "Simeone *defiende* a Julián",
+      "voz": "Simeone también habló de Julián: creo en él, lo quiero como persona y lo defenderé como futbolista.",
+      "pessoa": "Diego Simeone",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League · Liverpool",
+      "titulo": "El *Liverpool* vuelve al Top 8",
+      "voz": "El Liverpool ganó cero a tres en Brujas. Isak marcó un doblete, Wirtz vio puerta por quinto partido consecutivo y Alisson dejó la portería a cero. La nota negativa fue la rodilla del español Víctor Muñoz, que salió lesionado.",
+      "pessoa": "Alexander Isak",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League · Inter",
+      "titulo": "Lautaro *nunca se fue*",
+      "voz": "En San Siro, el Inter recibió al Stuttgart. Lautaro Martínez volvió a marcar con el gol del dos a cero y el equipo de Chivu sumó su tercera victoria consecutiva en la Champions League.",
+      "pessoa": "Lautaro Martínez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Haaland, *autocrítico*",
+      "voz": "Según Cracks, tras el empate del City ante el Napoli, Haaland fue muy autocrítico: no es suficiente, los dejamos entrar demasiado fácil. Y ya piensa en la visita al Arsenal: necesitamos una actuación de primer nivel.",
+      "pessoa": "Erling Haaland",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga",
+      "titulo": "*Laporta* vuelve al ataque",
+      "voz": "En Bakú, Joan Laporta habló del enfrentamiento con el Real Madrid. Dijo: acabaremos pidiéndoles royalties porque están promocionando su imagen a costa de nosotros. AS recuerda que no hubo conciliación entre Florentino y el Barça.",
+      "pessoa": "Joan Laporta",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿tiene razón Kimmich? Nos vemos mañana con más noticias de fútbol."
+    }
+  ]
+}
