@@ -1,0 +1,11 @@
+ 01 enviado: https://youtu.be/DyASvRX34I0  agendado 26/11 09:00
+ 02 enviado: https://youtu.be/5iRPYQJw3eM  agendado 26/11 12:00
+ 03 enviado: https://youtu.be/XP5XANFeX30  agendado 26/11 15:00
+ 04 enviado: https://youtu.be/2xYyeLIwbAw  agendado 26/11 17:00
+ 05 enviado: https://youtu.be/BFvSFHPZPec  agendado 26/11 20:00
+ 01 já enviado (DyASvRX34I0)
+ 02 já enviado (5iRPYQJw3eM)
+ 03 já enviado (XP5XANFeX30)
+ 04 já enviado (2xYyeLIwbAw)
+ longo enviado: https://youtu.be/bbvyKkS3KjM  agendado 26/11 18:30
+ 05 já enviado (BFvSFHPZPec)

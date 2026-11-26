@@ -1,0 +1,29 @@
+
+== dia-15: 5 shorts
+ 01 Kimmich *explota* por Musiala
+[ WARN:0@4.341] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@4.515] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Joshua Kimmich - Selección de Alemania - 1.jpg
+    banco + Joshua Kimmich - Selección de Alemania - 2.jpg
+    banco + Joshua Kimmich - Selección de Alemania - 3.jpg
+    banco + Joshua Kimmich - Geral - 1.jpg
+    banco + Joshua Kimmich - Geral - 2.jpg
+    foto: Joshua Kimmich/Joshua Kimmich - Geral - 1.jpg
+    ok
+ 02 El *PSG* frenado por la Roma
+    ! sem escudo para Paris Saint-Germain FC
+    banco + Mario Hermoso - Atlético de Madrid - 1.jpg
+    foto: Mario Hermoso/Mario Hermoso - Atlético de Madrid - 1.jpg
+    ok
+ 03 Mbappé le regala el *MVP* a Vini
+    foto: Vinícius Júnior/Vinícius Júnior - Selección de Brasil - 1.jpg
+    ok
+ 04 Balde: "Si Dios está *conmigo*"
+    banco + Hansi Flick - Geral - 1.jpg
+    foto: Hansi Flick/Hansi Flick - Geral - 1.jpg
+    ok
+ 05 Gavi: "Mi *mentalidad* es única"
+    banco + Gavi - Selección de España - 1.jpg
+    foto: Gavi/Gavi - Selección de España - 1.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-15/painel.html

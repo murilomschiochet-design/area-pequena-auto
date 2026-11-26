@@ -1,0 +1,41 @@
+ cena 00 abertura  17.7s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la furia de K
+ cena 01 card       4.3s  Empezamos en Múnich, donde el ambiente está al rojo vivo.
+ cena 02 foto      10.2s  Joshua Kimmich, capitán del Bayern, arremetió contra la dire
+ cena 03 cita       7.0s  El centrocampista alemán fue tajante: un jugador no puede se
+ cena 04 foto      18.8s  Todo estalla por lo que dijo Karl-Heinz Rummenigge en Sky. H
+ cena 05 foto      17.0s  Musiala sufrió un nuevo episodio relacionado con la disfunci
+ cena 06 foto      15.7s  Para colmar el mal momento, el Bayern cayó ante el Lille de 
+ cena 07 card       4.6s  Pasamos a otro asunto caliente: la noche mágica de Vinicius.
+ cena 08 foto      10.5s  Kylian Mbappé fue elegido jugador del partido ante el PSV, p
+ cena 09 foto      13.1s  Vinicius marcó en el minuto ochenta y seis. Fue su primer go
+ cena 10 cita      11.2s  Bellingham elogió al brasileño: me encanta cómo juega, pero 
+ cena 11 foto      16.6s  Según MARCA, Mourinho quiere hacer de Vinicius su gran obra.
+ cena 12 card       4.7s  Cambiamos de Madrid a Barcelona, donde hay un jugador que re
+ cena 13 foto      10.5s  Alejandro Balde, envuelto en rumores de salida, fue titular 
+ cena 14 fotoless  12.9s  Formó una gran banda izquierda con Anthony Gordon, le dio pa
+ cena 15 cita      12.0s  Balde salió en el minuto sesenta y cuatro por una molestia e
+ cena 16 foto       9.3s  Hansi Flick explicó: Balde se ha doblado el tobillo fuerte, 
+ cena 17 card       4.5s  Y en el mismo partido, otro que levantó la voz: Gavi.
+ cena 18 foto      10.2s  Gavi, de veintidós años, acumulaba solo treinta y siete minu
+ cena 19 cita      11.3s  Gavi lo dijo así: considero que mi mentalidad es única, y pu
+ cena 20 foto      13.0s  Sobre su papel en la rotación de Flick, dijo que si juegas m
+ cena 21 card       3.5s  Y ahora sí, la noche grande en París.
+ cena 22 foto      11.8s  El PSG empató dos a dos con la Roma en el Parque de los Prín
+[ WARN:0@929.524] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@929.873] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 23 fotoless  13.2s  Luis Enrique destacó que fue el partido más difícil de la te
+ cena 24 foto      17.0s  El primer gol fue de Mario Hermoso, que recibió de Soulé en 
+ cena 25 foto       7.3s  Y ahora, un repaso rápido a lo que más se habla en el mundo 
+ cena 26 foto      17.4s  El United empató dos a dos con el Sporting en Lisboa. El por
+ cena 27 cita      11.7s  Pochettino, que apenas lleva una semana con el equipo, dijo:
+ cena 28 foto      15.9s  Según Cracks, Bruno Fernandes sueña con ganar la Champions c
+ cena 29 foto      14.7s  El Atlético venció dos a cero al Viking y saltó del puesto v
+ cena 30 foto       6.4s  Simeone también habló de Julián: creo en él, lo quiero como 
+ cena 31 foto      14.2s  El Liverpool ganó cero a tres en Brujas. Isak marcó un doble
+ cena 32 foto      11.6s  En San Siro, el Inter recibió al Stuttgart. Lautaro Martínez
+ cena 33 foto      13.6s  Según Cracks, tras el empate del City ante el Napoli, Haalan
+ cena 34 foto      14.2s  En Bakú, Joan Laporta habló del enfrentamiento con el Real M
+ cena 35 cierre    13.3s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-15/longo.mp4  (421s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-15/_contato_longo.jpg
