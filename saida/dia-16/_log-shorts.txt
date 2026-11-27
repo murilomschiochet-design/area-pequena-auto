@@ -1,0 +1,25 @@
+
+== dia-16: 5 shorts
+ 01 Messi *estará* en la despedida de Tévez
+    foto: Lionel Messi/Lionel Messi - Geral - 1.jpg
+    ok
+ 02 Flick, *molesto* pese a la goleada
+    foto: Hansi Flick/Hansi Flick - Geral - 1.jpg
+    ok
+ 03 Xabi *reprende* a Fofana por una entrevista
+[ WARN:0@19.023] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@19.139] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Wesley Fofana - ASM Clermont Auvergne - 1.jpg
+    banco + Wesley Fofana - ASM Clermont Auvergne - 2.jpg
+    banco + Wesley Fofana - ASM Clermont Auvergne - 3.jpg
+    banco + Wesley Fofana - Geral - 1.jpg
+    foto: Wesley Fofana/Wesley Fofana - ASM Clermont Auvergne - 1.jpg
+    ok
+ 04 Penalti *polémico* y roja a Jon Martín
+    ! sem escudo para Real Sociedad de Fútbol
+    foto: File:Selhurst Park - geograph.org.uk - 8187925.jpg
+    ok
+ 05 El Madrid, *quinto* favorito según Opta
+    foto: José Mourinho/José Mourinho - Real Madrid Club de Fútbol - 2.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-16/painel.html

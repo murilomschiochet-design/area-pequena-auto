@@ -1,0 +1,46 @@
+ cena 00 abertura  20.2s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la presencia 
+ cena 01 card       5.0s  Empezamos con una cita que ya tiene fecha en el calendario d
+ cena 02 foto      10.5s  Carlos Tévez publicó la convocatoria de su partido de desped
+ cena 03 foto       9.5s  Según AS, Leo Messi estará presente en la despedida del Apac
+ cena 04 foto      10.2s  MARCA añade que Tévez sueña con reunir en La Bombonera a Mes
+ cena 05 foto       8.3s  Faltan unas semanas para la despedida, y la gran pregunta es
+ cena 06 card       6.1s  Pasamos a Barcelona, donde ganar cuatro a uno no fue suficie
+ cena 07 foto      10.5s  El Barça goleó en Bakú, pero a Hansi Flick no le gustó nada 
+ cena 08 cita      10.3s  Después el técnico alemán dijo: lo podemos hacer mejor, pero
+[ WARN:0@115.299] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@115.389] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 09 foto      10.8s  Anthony Gordon fue el MVP con un doblete y ya suma seis gole
+ cena 10 cita       9.1s  Cuando le preguntaron si ya era el rey de Bakú, Gordon se ri
+ cena 11 fotoless  13.0s  Gabriel Jesús también marcó, aunque terminó pidiéndose más. 
+ cena 12 foto      14.7s  Mención especial para Frenkie de Jong. Jugó de central y no 
+ cena 13 card       5.0s  Cambiamos de país, y de tema, con un toque de atención desde
+ cena 14 foto       6.3s  Xabi Alonso reprendió a Wesley Fofana en rueda de prensa por
+ cena 15 foto      13.5s  Según The Athletic, en una charla de más de dos horas con el
+ cena 16 cita      12.0s  Fofana dijo entre risas: ¿viste mi disparo? ¡Le di muy alto!
+ cena 17 fotoless   6.3s  La entrevista salió a la luz tras la dura derrota del sábado
+ cena 18 card       4.4s  Y ahora, una noche amarga para la Real Sociedad en Londres.
+ cena 19 foto      11.2s  La Real Sociedad perdió dos a uno ante el Crystal Palace en 
+ cena 20 foto      11.6s  Todo cambió con el penalti de Jon Martín sobre Mateta, que s
+ cena 21 cita      12.4s  El central explicó su versión: tengo los brazos sobre él, pe
+ cena 22 foto      13.0s  Mundo Deportivo recoge que el presidente Jokin Aperribay pro
+ cena 23 card       5.4s  Seguimos con un ranking que seguro generará debate entre los
+ cena 24 foto       6.0s  El superordenador de Opta pone al Real Madrid como el quinto
+ cena 25 foto       8.8s  El top tres de Opta lo ocupan Arsenal, Bayern y PSG. Justo d
+ cena 26 foto      10.3s  Según AS, el Madrid de Mourinho enlaza diez victorias consec
+ cena 27 foto       4.7s  Y ahora repasamos otras historias que nos dejó la jornada eu
+ cena 28 foto      10.8s  Seguimos con el Bayern, que está en crisis: según Cracks, so
+ cena 29 fotoless  10.7s  La situación llegó al punto de que Laimer, que es lateral, a
+ cena 30 fotoless  11.9s  El Getafe perdió uno a cero ante el Iberia mil novecientos n
+ cena 31 cita      11.6s  Bordalás fue muy crítico: no podemos seguir acumulando decep
+ cena 32 fotoless  11.0s  El Getafe tiene el lunes ante el Espanyol la última oportuni
+ cena 33 foto      11.5s  El Celta perdió uno a dos ante el Bournemouth. Aspas adelant
+ cena 34 cita      11.2s  El técnico del Celta lo resumió así: hemos dejado de jugar c
+ cena 35 foto      13.8s  La Juventus remontó y goleó cuatro a uno al Omonia Nicosia. 
+ cena 36 foto      12.1s  Conceição volvió tras más de un mes lesionado, pero el reest
+ cena 37 foto      12.4s  El Milan ganó dos a cuatro en casa del Olympiacos, pese a te
+ cena 38 fotoless  12.9s  El Inter d'Escaldes derrotó dos a cero al Copenhague y se co
+ cena 39 foto      11.7s  Mala noticia para el Atlético: Sorloth tiene una lesión musc
+ cena 40 cierre    14.1s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-16/longo.mp4  (425s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-16/_contato_longo.jpg

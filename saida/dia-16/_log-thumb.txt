@@ -1,0 +1,4 @@
+[ WARN:0@4.653] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@4.745] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[0;93m2026-11-27 09:26:51.961287739 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+thumb: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-16/thumb.jpg  (grandes: ['Xabi Alonso'], círculos: ['Lionel Messi', 'Anthony Gordon', 'Hansi Flick'], símbolo: FC Barcelona, cores: ['#dfb500', '#ac1b37', '#181106'], alerta: True)

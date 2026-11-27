@@ -556,8 +556,8 @@
      "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Harry_Kane_England_v_Ghana_23_June_2026-220.jpg",
      "nota": 6.35,
-     "ultimo_uso": "2026-11-21 07:27",
-     "usos": 1,
+     "ultimo_uso": "2026-11-27 09:01",
+     "usos": 2,
      "adicionada": "2026-11-12 12:07"
     }
    ],
@@ -1871,8 +1871,8 @@
      "credito": "Jahrenvisuals / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_benched.jpg",
      "nota": 6.0,
-     "ultimo_uso": "2026-11-25 08:04",
-     "usos": 4,
+     "ultimo_uso": "2026-11-27 08:41",
+     "usos": 5,
      "adicionada": "2026-11-14 07:13"
     }
    ],
@@ -2035,8 +2035,8 @@
      "credito": "Saadick Dhansay / Wikimedia Commons, CC BY 2.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_2010.jpg",
      "nota": 3.69,
-     "ultimo_uso": "2026-11-23 07:19",
-     "usos": 3,
+     "ultimo_uso": "2026-11-27 08:34",
+     "usos": 4,
      "adicionada": "2026-11-14 07:22"
     },
     {
@@ -2046,8 +2046,8 @@
      "credito": "Andy Witchger / Wikimedia Commons, CC BY 2.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Lionel_Messi_2025.jpg",
      "nota": 5.09,
-     "ultimo_uso": "2026-11-23 07:55",
-     "usos": 3,
+     "ultimo_uso": "2026-11-27 08:40",
+     "usos": 4,
      "adicionada": "2026-11-14 07:22"
     }
    ],
@@ -3180,8 +3180,8 @@
      "credito": "Werner100359 / Wikimedia Commons, CC0",
      "origem": "https://commons.wikimedia.org/wiki/File:FC_Red_Bull_Salzburg_gegen_CF_Barcelona_(Testspiel_4._August_2021)_34.jpg",
      "nota": 3.64,
-     "ultimo_uso": "2026-11-25 07:56",
-     "usos": 3,
+     "ultimo_uso": "2026-11-27 08:48",
+     "usos": 4,
      "adicionada": "2026-11-14 10:00"
     },
     {
@@ -3266,8 +3266,8 @@
      "credito": "Steffen Prößdorf / Wikimedia Commons, CC BY-SA 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Hansi_Flick_2022-07-30_Fu%C3%9Fball,_M%C3%A4nner,_DFL-Supercup,_RB_Leipzig_-_FC_Bayern_M%C3%BCnchen_1DX_3166_by_Stepro_(cropped).jpg",
      "nota": 6.54,
-     "ultimo_uso": "2026-11-26 07:42",
-     "usos": 2,
+     "ultimo_uso": "2026-11-27 09:01",
+     "usos": 5,
      "adicionada": "2026-11-26 07:19"
     }
    ],
@@ -3390,8 +3390,8 @@
      "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(2).jpg",
      "nota": 6.85,
-     "ultimo_uso": "2026-11-24 07:50",
-     "usos": 6,
+     "ultimo_uso": "2026-11-27 08:36",
+     "usos": 7,
      "adicionada": "2026-11-14 08:14"
     },
     {
@@ -3401,8 +3401,8 @@
      "credito": "Zafer / Wikimedia Commons, CC BY 4.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Mourinho_20250206_(3).jpg",
      "nota": 5.64,
-     "ultimo_uso": "2026-11-24 07:50",
-     "usos": 6,
+     "ultimo_uso": "2026-11-27 09:01",
+     "usos": 7,
      "adicionada": "2026-11-14 08:14"
     }
    ],
@@ -7747,8 +7747,20 @@
    ]
   },
   "Xabi Alonso": {
-   "fotos": [],
-   "abastecido": null,
+   "fotos": [
+    {
+     "arquivo": "Xabi Alonso/Xabi Alonso - Real Sociedad de Fútbol - 1.jpg",
+     "contexto": "Real Sociedad de Fútbol",
+     "tipo": "clube",
+     "credito": "Giovanni Batista Rodriguez / Wikimedia Commons, CC BY-SA 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Xabi_Alonso_Real_Sociedad_B.jpg",
+     "nota": 5.09,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:19"
+    }
+   ],
+   "abastecido": "2026-11-27 09:26",
    "wikidata": "Q208104",
    "times": [
     {
@@ -10132,8 +10144,8 @@
      "credito": "Jarle Vines / Wikimedia Commons, CC BY 3.0",
      "origem": "https://commons.wikimedia.org/wiki/File:Alexander_S%C3%B8rloth.JPG",
      "nota": 4.73,
-     "ultimo_uso": "2026-11-26 07:52",
-     "usos": 1,
+     "ultimo_uso": "2026-11-27 09:15",
+     "usos": 2,
      "adicionada": "2026-11-26 07:52"
     }
    ],
@@ -10462,6 +10474,1049 @@
      "logo": "Football Club Barcelona Color Update.png"
     }
    ]
+  },
+  "Wesley Fofana": {
+   "fotos": [
+    {
+     "arquivo": "Wesley Fofana/Wesley Fofana - ASM Clermont Auvergne - 1.jpg",
+     "contexto": "ASM Clermont Auvergne",
+     "tipo": "clube",
+     "credito": "Zegreg63 / Wikimedia Commons, CC BY-SA 3.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Wesley_Fofana_02.jpg",
+     "nota": 4.31,
+     "ultimo_uso": "2026-11-27 08:35",
+     "usos": 1,
+     "adicionada": "2026-11-27 08:34"
+    },
+    {
+     "arquivo": "Wesley Fofana/Wesley Fofana - ASM Clermont Auvergne - 2.jpg",
+     "contexto": "ASM Clermont Auvergne",
+     "tipo": "clube",
+     "credito": "Zegreg63 / Wikimedia Commons, CC BY-SA 3.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Wesley_Fofana.jpg",
+     "nota": 4.79,
+     "ultimo_uso": "2026-11-27 08:49",
+     "usos": 1,
+     "adicionada": "2026-11-27 08:34"
+    },
+    {
+     "arquivo": "Wesley Fofana/Wesley Fofana - ASM Clermont Auvergne - 3.jpg",
+     "contexto": "ASM Clermont Auvergne",
+     "tipo": "clube",
+     "credito": "Clément Bucco-Lechat / Wikimedia Commons, CC BY-SA 3.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:USO-ASM_-_20140927_-_Wesley_Fofana.jpg",
+     "nota": 6.8,
+     "ultimo_uso": "2026-11-27 08:49",
+     "usos": 1,
+     "adicionada": "2026-11-27 08:34"
+    },
+    {
+     "arquivo": "Wesley Fofana/Wesley Fofana - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Stefano Delfrate / Wikimedia Commons, CC BY-SA 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:ItalieFrance6Nations2019.jpg",
+     "nota": 5.8,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 08:35"
+    }
+   ],
+   "abastecido": "2026-11-27 08:35",
+   "wikidata": "Q3043618",
+   "times": [
+    {
+     "id": "Q518116",
+     "nome": "Selección de rugby de Francia",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q297901",
+     "nome": "ASM Clermont Auvergne",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    }
+   ]
+  },
+  "Anthony Gordon": {
+   "fotos": [
+    {
+     "arquivo": "Anthony Gordon/Anthony Gordon - Selección de Inglaterra - 1.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Anthony_Gordon_England_v_Ghana_23_June_2026-179.jpg",
+     "nota": 4.78,
+     "ultimo_uso": "2026-11-27 08:46",
+     "usos": 1,
+     "adicionada": "2026-11-27 08:42"
+    },
+    {
+     "arquivo": "Anthony Gordon/Anthony Gordon - Selección de Inglaterra - 2.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Anthony_Gordon_18,_Marvin_Senaya_26_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_04.jpg",
+     "nota": 4.46,
+     "ultimo_uso": "2026-11-27 08:46",
+     "usos": 1,
+     "adicionada": "2026-11-27 08:42"
+    },
+    {
+     "arquivo": "Anthony Gordon/Anthony Gordon - Selección de Inglaterra - 3.jpg",
+     "contexto": "Selección de Inglaterra",
+     "tipo": "selecao",
+     "credito": "YantsImages / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Anthony_Gordon_18_England_v_Ghana_at_2026_Fifa_World_Cup_by_YantsImages_01.jpg",
+     "nota": 4.88,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 08:42"
+    },
+    {
+     "arquivo": "Anthony Gordon/Anthony Gordon - Newcastle United Football Club - 1.jpg",
+     "contexto": "Newcastle United Football Club",
+     "tipo": "clube",
+     "credito": "Timmy96 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Anthony_Gordon,_Anthony_Elanga_and_Joe_Willock_24052026_(1).jpg",
+     "nota": 4.38,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 08:42"
+    },
+    {
+     "arquivo": "Anthony Gordon/Anthony Gordon - Newcastle United Football Club - 2.jpg",
+     "contexto": "Newcastle United Football Club",
+     "tipo": "clube",
+     "credito": "Timmy96 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Anthony_Gordon,_Anthony_Elanga_and_Joe_Willock_24052026_(2).jpg",
+     "nota": 4.16,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 08:42"
+    },
+    {
+     "arquivo": "Anthony Gordon/Anthony Gordon - Newcastle United Football Club - 3.jpg",
+     "contexto": "Newcastle United Football Club",
+     "tipo": "clube",
+     "credito": "Timmy96 / Wikimedia Commons, CC0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Anthony_Gordon_and_Joe_Willock_24052026_(1).jpg",
+     "nota": 4.5,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 08:42"
+    }
+   ],
+   "abastecido": "2026-11-27 08:46",
+   "wikidata": "Q45179405",
+   "times": [
+    {
+     "id": "Q47762",
+     "nome": "Selección de Inglaterra",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "Arms of The Football Association (include star).svg"
+    },
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q5794",
+     "nome": "Everton F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q19612",
+     "nome": "Preston North End Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q18716",
+     "nome": "Newcastle United Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1049171",
+     "nome": "Selección sub-18 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2358861",
+     "nome": "Selección sub-19 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1049176",
+     "nome": "Selección sub-20 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q204238",
+     "nome": "Selección sub-21 de Inglaterra",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Gabriel Jesus": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q19708656",
+   "times": [
+    {
+     "id": "Q50602",
+     "nome": "Manchester City Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q80964",
+     "nome": "Sociedade Esportiva Palmeiras",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Palmeiras logo.svg"
+    },
+    {
+     "id": "Q83459",
+     "nome": "Selección de Brasil",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": "Brazilian Football Confederation logo.svg"
+    },
+    {
+     "id": "Q9617",
+     "nome": "Arsenal Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    },
+    {
+     "id": "Q2308235",
+     "nome": "Selección sub-20 del Brasil",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q899189",
+     "nome": "Selección olímpica de Brasil",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "Brasil Olympic Committee crest.svg"
+    }
+   ]
+  },
+  "Jon Martín": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q118876123",
+   "times": [
+    {
+     "id": "Q42267",
+     "nome": "Selección de España",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1129595",
+     "nome": "Selección sub-21 de España",
+     "atual": true,
+     "selecao": true,
+     "base": true,
+     "logo": "Escudo de España (variant).svg"
+    },
+    {
+     "id": "Q10315",
+     "nome": "Real Sociedad de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q913083",
+     "nome": "Sociedad Deportiva Beasain",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8246700",
+     "nome": "Berio Futbol Taldea",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q25476948",
+     "nome": "",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1067750",
+     "nome": "Real Sociedad de Fútbol \"B\"",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2310295",
+     "nome": "Selección sub-17 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3873503",
+     "nome": "Selección sub-16 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3589784",
+     "nome": "Selección sub-18 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2713491",
+     "nome": "Selección sub-19 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q2356290",
+     "nome": "Selección sub-20 de España",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Konrad Laimer": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q18670270",
+   "times": [
+    {
+     "id": "Q994811",
+     "nome": "FC Red Bull Salzburgo",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1387293",
+     "nome": "FC Liefering",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q702455",
+     "nome": "RB Leipzig",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "2019-07-12 Fußball; Freundschaftsspiel RB Leipzig - FC Zürich 1DX 0881 by Stepro 2.png"
+    },
+    {
+     "id": "Q15789",
+     "nome": "F. C. Bayern Múnich",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Bayern München logo (2024).svg"
+    },
+    {
+     "id": "Q163534",
+     "nome": "Selección de Austria",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q302977",
+     "nome": "Selección sub-19 de Austria",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q302967",
+     "nome": "Selección sub-20 de Austria",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q303033",
+     "nome": "Selección sub-21 de Austria",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "José Bordalás": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q3323802",
+   "times": [
+    {
+     "id": "Q223620",
+     "nome": "Deportivo Alavés",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q10512",
+     "nome": "Elche Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8806",
+     "nome": "Getafe Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Getafe CF Logo.png"
+    },
+    {
+     "id": "Q10750304",
+     "nome": "Alicante Club de Fútbol \"B\"",
+     "atual": true,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q11963",
+     "nome": "Hércules Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q5424990",
+     "nome": "Fútbol Club Jove Español San Vicente",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q650797",
+     "nome": "Orihuela Deportiva Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2193267",
+     "nome": "Villajoyosa Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2423014",
+     "nome": "Benidorm Club de Fútbol",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1023177",
+     "nome": "Club Deportivo Dénia",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2601806",
+     "nome": "Fútbol Club Torrevieja",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2885668",
+     "nome": "Unión Deportiva Altea",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q7156",
+     "nome": "Fútbol Club Barcelona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Football Club Barcelona Color Update.png"
+    }
+   ]
+  },
+  "Iago Aspas": {
+   "fotos": [
+    {
+     "arquivo": "Iago Aspas/Iago Aspas - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Harpagornis / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Iago_Aspas_-_Celta_de_Vigo_-_WMES_04.jpg",
+     "nota": 3.53,
+     "ultimo_uso": "2026-11-27 09:07",
+     "usos": 1,
+     "adicionada": "2026-11-27 09:05"
+    },
+    {
+     "arquivo": "Iago Aspas/Iago Aspas - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Harpagornis / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:XXIII_Memorial_Quinocho_(RC_Celta_vs_Mainz_05)_-_38.jpg",
+     "nota": 3.18,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:06"
+    },
+    {
+     "arquivo": "Iago Aspas/Iago Aspas - Geral - 3.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Harpagornis / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:XXIII_Memorial_Quinocho_(RC_Celta_vs_Mainz_05)_-_11.jpg",
+     "nota": 6.3,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:06"
+    },
+    {
+     "arquivo": "Iago Aspas/Iago Aspas - Selección de Galicia - 1.jpg",
+     "contexto": "Selección de Galicia",
+     "tipo": "selecao",
+     "credito": "Estevoaei / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Partido_Galicia_-_Panam%C3%A1_en_Bala%C3%ADdos_38.jpg",
+     "nota": 3.7,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:07"
+    }
+   ],
+   "abastecido": "2026-11-27 09:07",
+   "wikidata": "Q26380",
+   "times": [
+    {
+     "id": "Q8749",
+     "nome": "Real Club Celta de Vigo",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Escudo RC Celta de Vigo.svg"
+    },
+    {
+     "id": "Q10329",
+     "nome": "Sevilla Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q42267",
+     "nome": "Selección de España",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1322761",
+     "nome": "Selección de Galicia",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1130849",
+     "nome": "Liverpool Fútbol Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo Liverpool FC (2024).png"
+    },
+    {
+     "id": "Q2311865",
+     "nome": "Real Club Celta de Vigo \"B\"",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Claudio Giráldez": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q20534503",
+   "times": [
+    {
+     "id": "Q12217",
+     "nome": "Real Madrid Castilla Club de Fútbol",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    }
+   ]
+  },
+  "Francisco Conceição": {
+   "fotos": [
+    {
+     "arquivo": "Francisco Conceição/Francisco Conceição - Selección de Portugal - 1.jpg",
+     "contexto": "Selección de Portugal",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Francisco_Conceicao_Croatia_v_Portugal_2_July_2026-255.jpg",
+     "nota": 5.17,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:08"
+    },
+    {
+     "arquivo": "Francisco Conceição/Francisco Conceição - Ajax de Ámsterdam - 1.jpg",
+     "contexto": "Ajax de Ámsterdam",
+     "tipo": "clube",
+     "credito": "Carlo Bruil Fotografie / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:GAE_-_Ajax_-_52787514767.jpg",
+     "nota": 4.67,
+     "ultimo_uso": "2026-11-27 09:12",
+     "usos": 1,
+     "adicionada": "2026-11-27 09:11"
+    },
+    {
+     "arquivo": "Francisco Conceição/Francisco Conceição - Ajax de Ámsterdam - 2.jpg",
+     "contexto": "Ajax de Ámsterdam",
+     "tipo": "clube",
+     "credito": "Carlo Bruil Fotografie / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:GAE_-_Ajax_-_52788521318.jpg",
+     "nota": 4.72,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:11"
+    }
+   ],
+   "abastecido": "2026-11-27 09:12",
+   "wikidata": "Q99617367",
+   "times": [
+    {
+     "id": "Q267245",
+     "nome": "Selección de Portugal",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q128446",
+     "nome": "Fútbol Club Oporto",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Emblema F C Porto (derived).jpg"
+    },
+    {
+     "id": "Q1770361",
+     "nome": "Jong Ajax",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q81888",
+     "nome": "Ajax de Ámsterdam",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1422",
+     "nome": "Juventus",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Juventus FC - logo black (Italy, 2020).svg"
+    },
+    {
+     "id": "Q7232579",
+     "nome": "Selección sub-16 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3590754",
+     "nome": "Selección sub-17 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q5423714",
+     "nome": "F.C. Porto B",
+     "atual": false,
+     "selecao": false,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q3873511",
+     "nome": "Selección sub-18 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    },
+    {
+     "id": "Q1630430",
+     "nome": "Selección sub-21 de Portugal",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": null
+    }
+   ]
+  },
+  "Luciano Spalletti": {
+   "fotos": [],
+   "abastecido": null,
+   "wikidata": "Q310813",
+   "times": [
+    {
+     "id": "Q1422",
+     "nome": "Juventus",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Juventus FC - logo black (Italy, 2020).svg"
+    },
+    {
+     "id": "Q6703",
+     "nome": "Empoli Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Empoli FC logo.svg"
+    },
+    {
+     "id": "Q2276413",
+     "nome": "Virtus Entella",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1380971",
+     "nome": "Viareggio Calcio",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q8615",
+     "nome": "Spezia Calcio",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo of Spezia Calcio (2025-).svg"
+    },
+    {
+     "id": "Q3963561",
+     "nome": "S.S.D. Calcio Castelfiorentino",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q1457",
+     "nome": "Unione Calcio Sampdoria",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Flag of Sampdoria.svg"
+    },
+    {
+     "id": "Q501245",
+     "nome": "Venezia F.C.",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2798",
+     "nome": "Udinese Calcio",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Udinese Calcio 2010.svg"
+    },
+    {
+     "id": "Q20706646",
+     "nome": "A.C. Ancona",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q2739",
+     "nome": "A.S. Roma",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "AS ROMA Text Logo 2020 - 2021 .svg"
+    },
+    {
+     "id": "Q29108",
+     "nome": "FC Zenit de San Petersburgo",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Zenit 1 star 2015 logo.svg"
+    },
+    {
+     "id": "Q631",
+     "nome": "Inter de Milán",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "FC Internazionale Milano 2021.svg"
+    },
+    {
+     "id": "Q2641",
+     "nome": "Società Sportiva Calcio Napoli",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "SSC Napoli 2024 (deep blue navy).svg"
+    },
+    {
+     "id": "Q676899",
+     "nome": "Selección de Italia",
+     "atual": false,
+     "selecao": true,
+     "base": false,
+     "logo": "Logo Italy National Football Team - 2023.svg"
+    }
+   ]
+  },
+  "Christian Pulisic": {
+   "fotos": [
+    {
+     "arquivo": "Christian Pulisic/Christian Pulisic - Selección de los Estados Unidos - 1.jpg",
+     "contexto": "Selección de los Estados Unidos",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Christian_Pulisic_Belgium_v_USA_6_July_2026-086.jpg",
+     "nota": 5.51,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:13"
+    },
+    {
+     "arquivo": "Christian Pulisic/Christian Pulisic - Selección de los Estados Unidos - 2.jpg",
+     "contexto": "Selección de los Estados Unidos",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Christian_Pulisic_Belgium_v_USA_6_July_2026-078.jpg",
+     "nota": 5.06,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:13"
+    },
+    {
+     "arquivo": "Christian Pulisic/Christian Pulisic - Selección de los Estados Unidos - 3.jpg",
+     "contexto": "Selección de los Estados Unidos",
+     "tipo": "selecao",
+     "credito": "Bryan Berlin / Wikimedia Commons, CC BY-SA 4.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:Christian_Pulisic_USMNT_v_Belgium_Mar_28_2026-132.jpg",
+     "nota": 4.18,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:13"
+    },
+    {
+     "arquivo": "Christian Pulisic/Christian Pulisic - Geral - 1.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Erik Drost / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:USMNT_vs._Trinidad_and_Tobago_(48124870563).jpg",
+     "nota": 4.85,
+     "ultimo_uso": "2026-11-27 09:15",
+     "usos": 1,
+     "adicionada": "2026-11-27 09:14"
+    },
+    {
+     "arquivo": "Christian Pulisic/Christian Pulisic - Geral - 2.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Erik Drost / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:USMNT_vs._Trinidad_and_Tobago_(48125052792).jpg",
+     "nota": 4.91,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:15"
+    },
+    {
+     "arquivo": "Christian Pulisic/Christian Pulisic - Geral - 3.jpg",
+     "contexto": "Geral",
+     "tipo": "geral",
+     "credito": "Erik Drost / Wikimedia Commons, CC BY 2.0",
+     "origem": "https://commons.wikimedia.org/wiki/File:USMNT_vs._Trinidad_and_Tobago_(48125059622).jpg",
+     "nota": 5.43,
+     "ultimo_uso": null,
+     "usos": 0,
+     "adicionada": "2026-11-27 09:15"
+    }
+   ],
+   "abastecido": "2026-11-27 09:15",
+   "wikidata": "Q22279773",
+   "times": [
+    {
+     "id": "Q164134",
+     "nome": "Selección de los Estados Unidos",
+     "atual": true,
+     "selecao": true,
+     "base": false,
+     "logo": "United States Soccer Federation logo.svg"
+    },
+    {
+     "id": "Q1543",
+     "nome": "A.C. Milan",
+     "atual": true,
+     "selecao": false,
+     "base": false,
+     "logo": "Logo of AC Milan.svg"
+    },
+    {
+     "id": "Q41420",
+     "nome": "Borussia Dortmund",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": "Borussia Dortmund logo.svg"
+    },
+    {
+     "id": "Q9616",
+     "nome": "Chelsea Football Club",
+     "atual": false,
+     "selecao": false,
+     "base": false,
+     "logo": null
+    },
+    {
+     "id": "Q3590570",
+     "nome": "Selección sub-17 de los Estados Unidos",
+     "atual": false,
+     "selecao": true,
+     "base": true,
+     "logo": "United States Soccer Federation logo.svg"
+    }
+   ]
+  },
+  "David López": {
+   "fotos": [],
+   "abastecido": "2026-11-27 09:15"
   }
  },
  "escudos": {
@@ -10503,6 +11558,11 @@
   "Beşiktaş Jimnastik Kulübü": {
    "arquivo": "escudos/Beşiktaş Jimnastik Kulübü.jpg",
    "logo": "BesiktasJK-Logo.svg",
+   "credito": "Escudo: Wikimedia Commons"
+  },
+  "Juventus": {
+   "arquivo": "escudos/Juventus.jpg",
+   "logo": "Juventus FC - logo black (Italy, 2020).svg",
    "credito": "Escudo: Wikimedia Commons"
   }
  }
