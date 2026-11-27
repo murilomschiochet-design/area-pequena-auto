@@ -1,0 +1,327 @@
+{
+  "dia": "dia-16",
+  "data": "27 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "27 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la presencia de Messi en la despedida de Tévez, del enfado de Flick pese a la goleada del Barça y de la reprimenda de Xabi Alonso a Fofana. Además, repasamos la polémica noche de la Real Sociedad en Londres y lo más destacado de una jornada europea. Estas son las noticias de fútbol de hoy."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos con una cita que ya tiene fecha en el calendario de los argentinos."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Leyendas · Argentina",
+      "titulo": "Tévez *se despide*",
+      "voz": "Carlos Tévez publicó la convocatoria de su partido de despedida. Será el veinte de diciembre en La Bombonera, el estadio de Boca Juniors, y ya hay estrellas confirmadas.",
+      "short": "01"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Leyendas · Argentina",
+      "titulo": "Messi *confirma*",
+      "voz": "Según AS, Leo Messi estará presente en la despedida del Apache. Y no será el único: también acudirán Buffon, Ferdinand y el Kun Agüero.",
+      "pessoa": "Lionel Messi",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Leyendas · Argentina",
+      "titulo": "El sueño *de Tévez*",
+      "voz": "MARCA añade que Tévez sueña con reunir en La Bombonera a Messi y a Cristiano Ronaldo. Messi ya ha confirmado su presencia, pero todavía falta el sí de Cristiano.",
+      "pessoa": "Cristiano Ronaldo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Leyendas · Argentina",
+      "titulo": "Una *fiesta* en Boca",
+      "voz": "Faltan unas semanas para la despedida, y la gran pregunta es si el portugués terminará viajando a Buenos Aires para completar un cartel de lujo.",
+      "short": "01"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Pasamos a Barcelona, donde ganar cuatro a uno no fue suficiente para dejar tranquilo al entrenador."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Champions",
+      "titulo": "Flick, *molesto*",
+      "voz": "El Barça goleó en Bakú, pero a Hansi Flick no le gustó nada el gol que recibieron. Según Cracks, las cámaras lo captaron pateando un balón y hasta quitándose la chaqueta.",
+      "short": "02"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Lo podemos *hacer mejor*",
+      "autor": "Hansi Flick",
+      "sub": "Tras la goleada en Bakú",
+      "voz": "Después el técnico alemán dijo: lo podemos hacer mejor, pero estoy contento. Y sobre el gol recibido, aseguró que esos errores no son como quieren jugar.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Champions",
+      "titulo": "Gordon, *el MVP*",
+      "voz": "Anthony Gordon fue el MVP con un doblete y ya suma seis goles en Bakú este año. Contó que el viaje no fue fácil: estar lejos de su familia durante tres días fue difícil.",
+      "pessoa": "Anthony Gordon",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Un lugar *muy especial*",
+      "autor": "Anthony Gordon",
+      "sub": "Sobre Bakú",
+      "voz": "Cuando le preguntaron si ya era el rey de Bakú, Gordon se rió. No diría eso, respondió, pero es un lugar muy especial para mí.",
+      "pessoa": "Anthony Gordon",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Champions",
+      "titulo": "Gabriel Jesús *pide más*",
+      "voz": "Gabriel Jesús también marcó, aunque terminó pidiéndose más. Dijo estar contento por el gol, pero no tanto por su actuación, y entiende por qué juega menos: Rafa está on fire, solo queda esperar mi oportunidad.",
+      "pessoa": "Gabriel Jesus",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça · Champions",
+      "titulo": "Frenkie, *pase perfecto*",
+      "voz": "Mención especial para Frenkie de Jong. Jugó de central y no falló un solo pase: sesenta y nueve intentos, sesenta y nueve buenos. En sus últimos tres partidos lleva doscientos treinta y dos pases correctos de doscientos treinta y seis.",
+      "pessoa": "Frenkie de Jong",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Cambiamos de país, y de tema, con un toque de atención desde Londres."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Chelsea",
+      "titulo": "Xabi *reprende* a Fofana",
+      "voz": "Xabi Alonso reprendió a Wesley Fofana en rueda de prensa por una entrevista que ha generado mucho revuelo en Inglaterra.",
+      "short": "03"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Chelsea",
+      "titulo": "El penalti *y la broma*",
+      "voz": "Según The Athletic, en una charla de más de dos horas con el creador de contenido Zack Nani, Fofana bromeó sobre el penalti que falló ante el Liverpool en los octavos de la Carabao Cup el veintiocho de octubre. Falló el lanzamiento definitivo en la tanda.",
+      "pessoa": "Wesley Fofana",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Le di *muy alto*",
+      "autor": "Wesley Fofana",
+      "sub": "Sobre su penalti ante el Liverpool",
+      "voz": "Fofana dijo entre risas: ¿viste mi disparo? ¡Le di muy alto! Un aficionado logró atrapar el balón allá arriba. Y añadió que si le critican, le da igual.",
+      "pessoa": "Wesley Fofana",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Chelsea",
+      "titulo": "Una *semana difícil*",
+      "voz": "La entrevista salió a la luz tras la dura derrota del sábado del Chelsea ante el Leeds, por uno a cuatro.",
+      "pessoa": "Xabi Alonso",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Y ahora, una noche amarga para la Real Sociedad en Londres."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Europa League · Real Sociedad",
+      "titulo": "Una noche *amarga*",
+      "voz": "La Real Sociedad perdió dos a uno ante el Crystal Palace en la Europa League. Se había adelantado con gol de Sarr, en el minuto sesenta y seis, y había dominado buena parte del partido.",
+      "short": "04"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Europa League · Real Sociedad",
+      "titulo": "El penalti *de la discordia*",
+      "voz": "Todo cambió con el penalti de Jon Martín sobre Mateta, que supuso su segunda amarilla y su expulsión. Mateta marcó el empate de penalti y McNeil completó la remontada en el minuto ochenta y dos.",
+      "short": "04"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Brazos *sobre él*",
+      "autor": "Jon Martín",
+      "sub": "Sobre el penalti",
+      "voz": "El central explicó su versión: tengo los brazos sobre él, pero en ningún momento le agarro, sino que él va cayendo hacia atrás. Le sorprendió que el árbitro confirmara la acción en cinco o diez segundos.",
+      "pessoa": "Jon Martín",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Europa League · Real Sociedad",
+      "titulo": "Aperribay *estalla*",
+      "voz": "Mundo Deportivo recoge que el presidente Jokin Aperribay protestó airadamente ante el delegado de la UEFA sobre el césped de Selhurst Park. Con esta derrota, la Real cae al puesto veintisiete, a uno del corte.",
+      "short": "04"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Seguimos con un ranking que seguro generará debate entre los madridistas y los culés."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League",
+      "titulo": "Opta *y la Champions*",
+      "voz": "El superordenador de Opta pone al Real Madrid como el quinto favorito para ganar la Champions League.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League",
+      "titulo": "Arsenal, Bayern *y PSG*",
+      "voz": "El top tres de Opta lo ocupan Arsenal, Bayern y PSG. Justo después aparece el Barcelona, por delante del equipo blanco.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Real Madrid",
+      "titulo": "Diez *victorias seguidas*",
+      "voz": "Según AS, el Madrid de Mourinho enlaza diez victorias consecutivas, y cuatro de ellas llegaron remontando el marcador ante Roma, AEK, Celta y PSV.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias",
+      "titulo": "Más *noticias* del día",
+      "voz": "Y ahora repasamos otras historias que nos dejó la jornada europea.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Bayern, *sin delanteros*",
+      "voz": "Seguimos con el Bayern, que está en crisis: según Cracks, solo ganó dos de sus últimos cinco partidos. Tiene fuera a Kane, Neuer y Olise, entre otros.",
+      "pessoa": "Harry Kane",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Bundesliga · Bayern",
+      "titulo": "Laimer, *de delantero*",
+      "voz": "La situación llegó al punto de que Laimer, que es lateral, acabó jugando de delantero. Él lo reconoció: intenté adaptarme, pero no es una posición habitual para mí.",
+      "pessoa": "Konrad Laimer",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Conference League · Getafe",
+      "titulo": "Getafe *sigue sin gol*",
+      "voz": "El Getafe perdió uno a cero ante el Iberia mil novecientos noventa y nueve, en Tiflis, y encadena cuatro derrotas sin marcar. Mangala, autor del último gol azulón, fue expulsado.",
+      "pessoa": "José Bordalás",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Ya son *muchas*",
+      "autor": "José Bordalás",
+      "sub": "Tras caer ante el Iberia",
+      "voz": "Bordalás fue muy crítico: no podemos seguir acumulando decepciones, porque ya son muchas. Mis equipos siempre han sido muy reconocibles y, en este momento, ocurre todo lo contrario.",
+      "pessoa": "José Bordalás",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Conference League · Getafe",
+      "titulo": "Última oportunidad",
+      "voz": "El Getafe tiene el lunes ante el Espanyol la última oportunidad de volver a marcar antes de que acabe noviembre. Los tres goles del uno de noviembre ante el Sevilla son sus únicos tantos del mes.",
+      "pessoa": "José Bordalás",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Europa League · Celta",
+      "titulo": "Celta, *sin cerebro*",
+      "voz": "El Celta perdió uno a dos ante el Bournemouth. Aspas adelantó a los vigueses con un gol de bandera, pero los ingleses remontaron con un jugador menos, y al Celta le anularon tres goles.",
+      "pessoa": "Iago Aspas",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Sin *el cerebro*",
+      "autor": "Claudio Giráldez",
+      "sub": "Tras caer ante el Bournemouth",
+      "voz": "El técnico del Celta lo resumió así: hemos dejado de jugar con el cerebro y así es difícil. Apuntó a un exceso de responsabilidad: estamos jugando con una tensión que no toca.",
+      "pessoa": "Claudio Giráldez",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Europa League · Juventus",
+      "titulo": "La Juve *se desmelena*",
+      "voz": "La Juventus remontó y goleó cuatro a uno al Omonia Nicosia. Cambiaso y Ekhator marcaron antes del descanso, y Conceição y Boga sentenciaron en la segunda parte. Es segunda en la fase liga con trece puntos.",
+      "pessoa": "Francisco Conceição",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Europa League · Juventus",
+      "titulo": "Reestreno *para olvidar*",
+      "voz": "Conceição volvió tras más de un mes lesionado, pero el reestreno del portero Neto, fichado libre tras su paso por Botafogo, estuvo lejos de ser ideal: el Omonia se adelantó tras una salida en falso suya.",
+      "pessoa": "Luciano Spalletti",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Europa League · Milan",
+      "titulo": "El Milan *remonta* en Atenas",
+      "voz": "El Milan ganó dos a cuatro en casa del Olympiacos, pese a tener nueve bajas. Hutchinson cambió el partido en la segunda parte con un gol y dos asistencias, para Cissé y Pulisic, y Moreira sentenció.",
+      "pessoa": "Christian Pulisic",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Conference League · Andorra",
+      "titulo": "Andorra *hace historia*",
+      "voz": "El Inter d'Escaldes derrotó dos a cero al Copenhague y se convirtió en el primer equipo de Andorra en ganar un partido en una fase liga europea. Marcaron David López y Faysal ante mil trescientos setenta y seis espectadores.",
+      "pessoa": "David López",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "LaLiga · Atlético",
+      "titulo": "Sorloth, *baja larga*",
+      "voz": "Mala noticia para el Atlético: Sorloth tiene una lesión muscular en la pierna derecha tras un golpe con el poste ante el Viking. Según AS, probablemente no vuelva hasta después del parón navideño.",
+      "pessoa": "Alexander Sørloth",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿vendrá Cristiano a la despedida de Tévez? Nos vemos mañana con más noticias de fútbol."
+    }
+  ]
+}
