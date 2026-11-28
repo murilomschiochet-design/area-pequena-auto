@@ -1,0 +1,27 @@
+
+== dia-17: 5 shorts
+ 01 Xabi Alonso: *"Nada nos está saliendo bien"*
+    foto: Xabi Alonso/Xabi Alonso - Real Sociedad de Fútbol - 1.jpg
+    ok
+ 02 Flick *supera* a Guardiola
+    foto: Hansi Flick/Hansi Flick - Geral - 1.jpg
+    ok
+ 03 Roque: *"Apenas me hablaban"* en el Barça
+[ WARN:0@23.889] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@24.023] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+    banco + Vitor Roque - Geral - 1.jpg
+    banco + Vitor Roque - Geral - 2.jpg
+    banco + Vitor Roque - Geral - 3.jpg
+    banco + Vitor Roque - Clube Atlético Paranaense - 1.jpg
+    foto: Vitor Roque/Vitor Roque - Clube Atlético Paranaense - 1.jpg
+    ok
+ 04 Fermín *no jugará* ante Deportivo ni Atlético
+    foto: escudo Fútbol Club Barcelona
+    ok
+ 05 Garnacho *sin sitio* en el Aston Villa
+    ! sem escudo para Aston Villa Football Club
+    ! sem escudo para Selección de Argentina
+    banco + Unai Emery - Geral - 1.jpg
+    foto: Unai Emery/Unai Emery - Geral - 1.jpg
+    ok
+ painel: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-17/painel.html

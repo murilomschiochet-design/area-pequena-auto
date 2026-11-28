@@ -1,0 +1,46 @@
+ cena 00 abertura  21.4s  Bienvenidos a Área Pequeña FC. Hoy hablamos de la crisis del
+ cena 01 card       4.5s  Empezamos en Londres, donde el Chelsea no encuentra la salid
+ cena 02 foto      11.2s  El Chelsea de Xabi Alonso perdió tres a dos en casa del Nott
+ cena 03 cita      12.9s  Xabi Alonso fue sincero ante Sky Sports: tenemos poca confia
+ cena 04 foto      14.0s  El Chelsea ya ha encajado veintitrés goles en doce jornadas,
+[ WARN:0@91.280] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+[ WARN:0@91.368] global net_impl_backend.cpp:388 setPreferableTarget Targets are not supported by the new graph engine for now
+ cena 05 fotoless  15.4s  Según MARCA, el Forest se adelantó a los cinco minutos y, tr
+ cena 06 foto      10.6s  AS señala que los blues podrían caer hasta la decimotercera 
+ cena 07 card       4.5s  Cambiamos de tema, porque en Barcelona hay motivos para pres
+ cena 08 foto      10.8s  Hansi Flick le quitó un récord de Champions a Pep Guardiola.
+ cena 09 foto       8.9s  Guardiola necesitó sesenta y cinco partidos para llegar a es
+ cena 10 foto       7.2s  Del total de goles de Flick, cincuenta y siete llegaron con 
+ cena 11 card       4.5s  Y seguimos con el Barça, pero con una confesión que sorprend
+ cena 12 foto      11.5s  Vitor Roque, hoy en el Palmeiras, repasó su etapa en Barcelo
+ cena 13 cita      10.3s  Roque lo explicó así: a veces es importante contar con el ap
+ cena 14 foto      10.9s  El brasileño contó que llegó con una lesión de sindesmosis q
+ cena 15 fotoless  12.8s  Roque defendió que los jóvenes sudamericanos necesitan un pe
+ cena 16 card       4.4s  Volvemos al Barça por una baja importante para esta semana.
+ cena 17 foto      12.2s  Cracks informa que el Barça cambió de opinión con Fermín Lóp
+ cena 18 foto       6.3s  Es una ausencia sensible, porque Fermín lleva nueve goles y 
+ cena 19 foto      10.6s  Según AS, la sanción de Fermín le abre la puerta de la titul
+ cena 20 cita      11.2s  Olmo dejó claro su compromiso: he luchado por muchos sueños 
+ cena 21 card       4.1s  Y ahora, un caso que se calienta en la Premier League.
+ cena 22 foto      10.9s  Alejandro Garnacho, cedido por el Manchester United al Aston
+ cena 23 fotoless   9.8s  Según Mundo Deportivo, el argentino apenas suma noventa y do
+ cena 24 cita      11.6s  Emery respondió: Alejandro está entrenando muy bien y su act
+ cena 25 foto      12.0s  Mientras tanto en Madrid, AS cuenta cómo Mourinho apostó por
+ cena 26 foto      14.3s  La decisión parecía no respetar la teoría moderna, que pide 
+ cena 27 foto      15.5s  Según AS, el Madrid llega con diez triunfos seguidos entre L
+ cena 28 foto      17.3s  Cracks añade que Vinicius está recuperando su mejor nivel y 
+ cena 29 foto      13.9s  Y hablando de Arsenal. Bukayo Saka ya ha vuelto a entrenar, 
+ cena 30 fotoless  11.2s  Mikel Arteta confirmó que Saka volvió a trabajar. El domingo
+ cena 31 foto      13.0s  En el Atlético hay un detalle curioso, según Mundo Deportivo
+ cena 32 foto       9.9s  MARCA recuerda que el equipo de Simeone llega a Elche con el
+ cena 33 foto      15.2s  En Alemania, Cracks cuenta que el Bayern finalmente no multa
+ cena 34 foto      13.3s  Hay otro roce: Canadá habló de un leve tirón muscular de Alp
+ cena 35 fotoless  12.8s  En Francia, Ethan Mbappé, hermano menor de Kylian, amplió su
+ cena 36 fotoless  13.5s  En la Bundesliga, Füllkrug salvó al Werder Bremen con un gol
+ cena 37 foto      10.4s  En Inglaterra, MARCA se pregunta si Haaland está a disgusto 
+ cena 38 foto      12.4s  El Barça cumple ciento veintisiete años este domingo y lo ce
+ cena 39 cita      11.2s  Y cerramos con una frase curiosa. Tras caer tres a uno ante 
+ cena 40 cierre    14.2s  Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Ár
+
+pronto: /home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-17/longo.mp4  (462s)
+/home/runner/work/area-pequena-auto/area-pequena-auto/saida/dia-17/_contato_longo.jpg
