@@ -1,0 +1,329 @@
+{
+  "dia": "dia-17",
+  "data": "28 de noviembre",
+  "voz": "es-ES-AlvaroNeural",
+  "cenas": [
+    {
+      "tipo": "abertura",
+      "fundo": "estadio",
+      "tag": "Resumen del día",
+      "titulo": "Las noticias *de hoy*",
+      "sub": "28 de noviembre",
+      "voz": "Bienvenidos a Área Pequeña FC. Hoy hablamos de la crisis del Chelsea de Xabi Alonso, del récord de Flick que supera a Guardiola y de las duras palabras de Vitor Roque sobre su etapa en el Barça. Además, repasamos el caso Garnacho, el momento de Bernardo Silva en el Madrid y lo más destacado del fútbol europeo. Estas son las noticias de fútbol de hoy."
+    },
+    {
+      "tipo": "card",
+      "card": "01",
+      "fundo": "estadio",
+      "voz": "Empezamos en Londres, donde el Chelsea no encuentra la salida."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Chelsea, *otra derrota*",
+      "voz": "El Chelsea de Xabi Alonso perdió tres a dos en casa del Nottingham Forest. Es su tercera derrota consecutiva en la Premier League y la cuarta en las últimas cinco jornadas, según MARCA.",
+      "short": "01"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Nada nos está *saliendo bien*",
+      "autor": "Xabi Alonso",
+      "sub": "Tras caer ante el Forest",
+      "voz": "Xabi Alonso fue sincero ante Sky Sports: tenemos poca confianza y al equipo le está costando mantener los resultados. Nada nos está saliendo bien, somos responsables de ello y también de encontrar soluciones.",
+      "pessoa": "Xabi Alonso",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Una *defensa* en crisis",
+      "voz": "El Chelsea ya ha encajado veintitrés goles en doce jornadas, casi dos por partido. Solo el Crystal Palace ha recibido más. Además, es la primera derrota del Chelsea en el City Ground desde mil novecientos noventa y siete.",
+      "pessoa": "Xabi Alonso",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "El *penalti* de Delap",
+      "voz": "Según MARCA, el Forest se adelantó a los cinco minutos y, tras el descanso, Liam Delap, traspasado del Chelsea este verano por cincuenta y dos millones y medio de euros, provocó un penalti de Wesley Fofana. Gibbs-White lo convirtió para el dos a cero.",
+      "pessoa": "Liam Delap",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League",
+      "titulo": "Xabi, *bajo presión*",
+      "voz": "AS señala que los blues podrían caer hasta la decimotercera posición y que Fofana vuelve a estar señalado. Ahora mismo, el Chelsea es octavo, a doce puntos del Arsenal.",
+      "pessoa": "Wesley Fofana",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "02",
+      "fundo": "estadio",
+      "voz": "Cambiamos de tema, porque en Barcelona hay motivos para presumir."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League",
+      "titulo": "Flick, *récord* de Champions",
+      "voz": "Hansi Flick le quitó un récord de Champions a Pep Guardiola. Según Cracks, alcanzó los ciento cincuenta goles como entrenador en la competición en solo cuarenta y nueve partidos.",
+      "short": "02"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League",
+      "titulo": "Pep, *dieciséis más*",
+      "voz": "Guardiola necesitó sesenta y cinco partidos para llegar a esa cifra, dieciséis más que el alemán. Nadie lo había conseguido tan rápido.",
+      "pessoa": "Pep Guardiola",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Champions League",
+      "titulo": "Bayern y *Barça*",
+      "voz": "Del total de goles de Flick, cincuenta y siete llegaron con el Bayern de Múnich y noventa y tres ya son con el Barcelona.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "03",
+      "fundo": "estadio",
+      "voz": "Y seguimos con el Barça, pero con una confesión que sorprende."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Libertadores · Barça",
+      "titulo": "Roque, *crítico* con el Barça",
+      "voz": "Vitor Roque, hoy en el Palmeiras, repasó su etapa en Barcelona en una entrevista con AS. Llegó con dieciocho años, en enero de dos mil veinticuatro, y todo fue difícil desde el principio.",
+      "short": "03"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "*Apenas* me hablaban",
+      "autor": "Vitor Roque",
+      "sub": "Sobre su etapa en el Barça",
+      "voz": "Roque lo explicó así: a veces es importante contar con el apoyo del entrenador y, cuando fui al Barcelona, no lo tuve. Apenas me hablaban, ¿sabes?",
+      "pessoa": "Vitor Roque",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Libertadores · Barça",
+      "titulo": "El *dolor* de la sindesmosis",
+      "voz": "El brasileño contó que llegó con una lesión de sindesmosis que arrastraba de su etapa en el Athletico Paranaense. Reconoce que llegó con mucho dolor y que no logró rendir al máximo nivel.",
+      "pessoa": "Vitor Roque",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Libertadores · Barça",
+      "titulo": "Paciencia con *los jóvenes*",
+      "voz": "Roque defendió que los jóvenes sudamericanos necesitan un periodo de adaptación en Europa y citó los casos de Mastantuono y Endrick. Y esta noche tiene una cita grande: la final de la Libertadores ante Estudiantes.",
+      "pessoa": "Franco Mastantuono",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "04",
+      "fundo": "estadio",
+      "voz": "Volvemos al Barça por una baja importante para esta semana."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça",
+      "titulo": "Fermín, *sin recurso*",
+      "voz": "Cracks informa que el Barça cambió de opinión con Fermín López. Tras intentar reducir su sanción, finalmente no presentará otro recurso, así que se perderá los partidos ante el Deportivo y el Atlético.",
+      "short": "04"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça",
+      "titulo": "Una baja *importante*",
+      "voz": "Es una ausencia sensible, porque Fermín lleva nueve goles y siete asistencias en lo que va de temporada.",
+      "pessoa": "Fermín López",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Barça",
+      "titulo": "Olmo, *el relevo*",
+      "voz": "Según AS, la sanción de Fermín le abre la puerta de la titularidad a Dani Olmo, que ofrece otras características en la mediapunta, con más capacidad para encontrar espacios entre líneas.",
+      "pessoa": "Dani Olmo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Estoy *donde quiero estar*",
+      "autor": "Dani Olmo",
+      "sub": "Sobre el interés del Bayern",
+      "voz": "Olmo dejó claro su compromiso: he luchado por muchos sueños y me quedan muchos por cumplir. Estoy donde quiero estar. Mi objetivo es ganar títulos en el Barcelona.",
+      "pessoa": "Dani Olmo",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "card",
+      "card": "05",
+      "fundo": "estadio",
+      "voz": "Y ahora, un caso que se calienta en la Premier League."
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Mercado",
+      "titulo": "Garnacho, *fuera de lista*",
+      "voz": "Alejandro Garnacho, cedido por el Manchester United al Aston Villa, se quedó fuera de la convocatoria ante el Galatasaray. Además, borró de sus redes sus fotos con el club.",
+      "short": "05"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Premier League · Mercado",
+      "titulo": "Solo *noventa y dos* minutos",
+      "voz": "Según Mundo Deportivo, el argentino apenas suma noventa y dos minutos en siete partidos con el Villa, y en los últimos ocho de Premier solo ha jugado tres minutos.",
+      "pessoa": "Alejandro Garnacho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "El fútbol *puede cambiar*",
+      "autor": "Unai Emery",
+      "sub": "Sobre Garnacho",
+      "voz": "Emery respondió: Alejandro está entrenando muy bien y su actitud es fantástica. Si no le incluyo es porque tengo que elegir a otros. Eso sí, el fútbol puede cambiar.",
+      "pessoa": "Unai Emery",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Mourinho y *Bernardo*",
+      "voz": "Mientras tanto en Madrid, AS cuenta cómo Mourinho apostó por Bernardo Silva en el centro del campo. Tras la negativa de Rodri en agosto, el técnico pensó que el portugués era el acompañante ideal de Tchouameni.",
+      "pessoa": "Bernardo Silva",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Contra *la teoría moderna*",
+      "voz": "La decisión parecía no respetar la teoría moderna, que pide perfiles más físicos en esa posición. Pero Mourinho valoraba su claridad para construir, su compromiso defensivo y su dinamismo, y hoy Bernardo ha tomado el timón del mediocampo.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Racha *de diez*",
+      "voz": "Según AS, el Madrid llega con diez triunfos seguidos entre Liga y Champions, desde la derrota ante el Atlético a finales de septiembre. Hoy recibe al Alavés, que aún no ha ganado fuera de casa, y después viajará a San Sebastián, a Bilbao y recibirá al Arsenal.",
+      "pessoa": "José Mourinho",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Vini, *dilema* para Mou",
+      "voz": "Cracks añade que Vinicius está recuperando su mejor nivel y Mourinho tiene un dilema en ataque. Según Mundo Deportivo, Mbappé, Bellingham y Güler son intocables. Vini, con cuatro goles y tres asistencias en seis partidos, agradeció el respaldo del grupo: somos una familia.",
+      "pessoa": "Vinícius Júnior",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Saka, *de vuelta*",
+      "voz": "Y hablando de Arsenal. Bukayo Saka ya ha vuelto a entrenar, después de lesionarse el veintiuno de octubre ante el Bayern. Se perdió siete partidos y apura para llegar al duelo de Champions contra el Real Madrid del nueve de diciembre.",
+      "pessoa": "Bukayo Saka",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Arteta *confirma*",
+      "voz": "Mikel Arteta confirmó que Saka volvió a trabajar. El domingo contra el Manchester City llega demasiado pronto, así que el extremo podría tener minutos antes de recibir a los blancos.",
+      "pessoa": "Mikel Arteta",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Atlético, *pendiente de tarjetas*",
+      "voz": "En el Atlético hay un detalle curioso, según Mundo Deportivo. Álex Baena y Marc Pubill están a una amarilla de la sanción y, si la ven hoy ante el Elche, se perderían el partido del Camp Nou del miércoles dos de diciembre.",
+      "pessoa": "Diego Simeone",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Mejor arranque *a domicilio*",
+      "voz": "MARCA recuerda que el equipo de Simeone llega a Elche con el mejor arranque de su historia fuera de casa: dieciocho puntos de veintiuno, con seis victorias en siete salidas.",
+      "pessoa": "Diego Simeone",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Bayern, *sin multa*",
+      "voz": "En Alemania, Cracks cuenta que el Bayern finalmente no multará a Kimmich tras sus duras críticas por el caso Musiala. La idea es no hacer más grande el problema. Y AS informa de que Musiala vuelve a lesionarse y estará fuera hasta dos mil veintisiete.",
+      "pessoa": "Joshua Kimmich",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Davies, *dos diagnósticos*",
+      "voz": "Hay otro roce: Canadá habló de un leve tirón muscular de Alphonso Davies, pero el Bayern detectó una rotura de fibras. Cracks recuerda que algo parecido pasó el año pasado, cuando sufrió una rotura de ligamento cruzado.",
+      "pessoa": "Alphonso Davies",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Ethan Mbappé, *renueva*",
+      "voz": "En Francia, Ethan Mbappé, hermano menor de Kylian, amplió su contrato con el Lille por dos temporadas, hasta dos mil veintinueve. Tiene diecinueve años, dos goles y dos asistencias esta temporada.",
+      "pessoa": "Ethan Mbappé",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Füllkrug, *en el 92*",
+      "voz": "En la Bundesliga, Füllkrug salvó al Werder Bremen con un gol en el minuto noventa y dos ante el Gladbach, tres a tres. Es el máximo goleador con once tantos, lleva siete jornadas seguidas marcando e iguala una marca de Klose.",
+      "pessoa": "Niclas Füllkrug",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "¿Haaland, *a disgusto*?",
+      "voz": "En Inglaterra, MARCA se pregunta si Haaland está a disgusto en el Manchester City. Los rumores sobre su deseo de salir no paran, pero Maresca le quita hierro al asunto.",
+      "pessoa": "Erling Haaland",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "foto",
+      "tag": "Más noticias del día",
+      "titulo": "Barça, *aniversario* en Riazor",
+      "voz": "El Barça cumple ciento veintisiete años este domingo y lo celebrará en Riazor ante el Deportivo, con diez victorias seguidas. Según Mundo Deportivo, no pierde en su aniversario desde mil novecientos setenta.",
+      "pessoa": "Hansi Flick",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cita",
+      "fundo": "estadio",
+      "titulo": "Guardiola *no podría* entrenar aquí",
+      "autor": "Luís Castro",
+      "sub": "Tras la derrota del Levante",
+      "voz": "Y cerramos con una frase curiosa. Tras caer tres a uno ante el Racing, el técnico del Levante dijo: Guardiola no podría entrenar aquí porque no hace cambios o los hace en el ochenta.",
+      "pessoa": "Luís Castro",
+      "contexto": "clube"
+    },
+    {
+      "tipo": "cierre",
+      "fundo": "estadio",
+      "tag": "Área Pequeña FC",
+      "titulo": "Noticias *cada día*",
+      "voz": "Y hasta aquí el resumen de hoy. Si te gustó, suscríbete a Área Pequeña FC, activa la campanita y cuéntanos en los comentarios: ¿es Flick el mejor entrenador del momento? Nos vemos mañana con más noticias de fútbol."
+    }
+  ]
+}
