@@ -45,12 +45,14 @@
   "container": "18043750046849487",
   "status": "FINISHED",
   "publicar": "2026-11-27T20:05:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-28T01:33+01:00",
+  "media_id": "17905328832608403"
  },
  "05": {
   "container": "18043750073849487",
   "status": "FINISHED",
   "publicar": "2026-11-27T20:00:00+01:00",
-  "publicado": null
+  "publicado": "2026-11-28T01:33+01:00",
+  "media_id": "18062745197798919"
  }
 }
